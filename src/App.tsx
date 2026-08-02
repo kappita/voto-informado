@@ -145,7 +145,7 @@ export default function App() {
           <>
             <div className="mb-4">
               <h2 className="text-lg font-bold text-gray-900">Parlamentarios</h2>
-              <p className="text-sm text-gray-500">Seleccioná un senador o diputado para ver su historial de votaciones</p>
+              <p className="text-sm text-gray-500">Selecciona un senador o diputado para ver su historial de votaciones</p>
             </div>
             {hasData ? (
               <ParlList parliamentarians={parliamentarians} onSelect={handleSelectParl} />
