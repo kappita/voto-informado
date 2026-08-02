@@ -1,0 +1,2713 @@
+[
+  {
+    "id": "senado-2701-22/04/2014",
+    "boletin": "2701",
+    "fecha": "22/04/2014",
+    "chamber": "senado",
+    "materia": "Proyecto de acuerdo presentado por los Honorables Senadores señores Navarro, Araya y Guillier, con el que piden a S. E. la señora Presidenta de la República que, en el ámbito de su competencia, suspenda, por el plazo de un año, en las zonas afectadas por el terremoto reciente, las subastas públicas, los juicios hipotecarios y los lanzamientos. (Boletín Nº S 1.649-12).",
+    "descripcion": "Proyecto de acuerdo presentado por los Honorables Senadores señores Navarro, Araya y Guillier, con el que piden a S. E. la señora Presidenta de la República que, en el ámbito de su competencia, suspenda, por el plazo de un año, en las zonas afectadas por el terremoto reciente, las subastas públicas, los juicios hipotecarios y los lanzamientos. (Boletín Nº S 1.649-12).",
+    "tags": [
+      "otro"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-2706-22/04/2014",
+    "boletin": "2706",
+    "fecha": "22/04/2014",
+    "chamber": "senado",
+    "materia": "Proyecto de acuerdo presentado por los Honorables Senadores señor De Urresti, señora Pérez San Martín y señores Araya, Bianchi, Horvath, Navarro, Quinteros, Rossi y Walker, don Patricio, con el que piden a S.E. la señora Presidenta de la República que impulse la tramitación de una legislación de protección eficaz a los glaciares en Chile. (Boletín Nº S 1.653-12).",
+    "descripcion": "Proyecto de acuerdo presentado por los Honorables Senadores señor De Urresti, señora Pérez San Martín y señores Araya, Bianchi, Horvath, Navarro, Quinteros, Rossi y Walker, don Patricio, con el que piden a S.E. la señora Presidenta de la República que impulse la tramitación de una legislación de protección eficaz a los glaciares en Chile. (Boletín Nº S 1.653-12).",
+    "tags": [
+      "medioambiente"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-2973-01/04/2014",
+    "boletin": "2973",
+    "fecha": "01/04/2014",
+    "chamber": "senado",
+    "materia": "Votación en general del proyecto de ley, en segundo trámite constitucional, que establece modificaciones a la legislación sobre expendio, comercialización y producción de bebidas alcohólicas, con informe y nuevo primer informe de la Comisión de Salud (Boletines N°s 2.973-11, 4.181-11, 4.192-11 y 4.379-11, refundidos)",
+    "descripcion": "Votación en general del proyecto de ley, en segundo trámite constitucional, que establece modificaciones a la legislación sobre expendio, comercialización y producción de bebidas alcohólicas, con informe y nuevo primer informe de la Comisión de Salud (Boletines N°s 2.973-11, 4.181-11, 4.192-11 y 4.379-11, refundidos)",
+    "tags": [
+      "salud",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-3823-23/07/2014",
+    "boletin": "3823",
+    "fecha": "23/07/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que modifica el artículo 36 de la ley Nº 18.290, de Tránsito, en la forma que indica, con informe de la Comisión de Transportes y Telecomunicaciones (Boletín Nº 3.823-15)",
+    "descripcion": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que modifica el artículo 36 de la ley Nº 18.290, de Tránsito, en la forma que indica, con informe de la Comisión de Transportes y Telecomunicaciones (Boletín Nº 3.823-15)",
+    "tags": [
+      "transporte",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "pareo",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-3823-24/09/2014",
+    "boletin": "3823",
+    "fecha": "24/09/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en particular del proyecto de ley, en segundo trámite constitucional, que modifica el artículo 36 (actual artículo 42) de la ley N° 18.290, de Tránsito, en la forma que indica, con segundo informe de la Comisión de Transportes y Telecomunicaciones (Boletín N° 3.823-15).",
+    "descripcion": "Aprobación en particular del proyecto de ley, en segundo trámite constitucional, que modifica el artículo 36 (actual artículo 42) de la ley N° 18.290, de Tránsito, en la forma que indica, con segundo informe de la Comisión de Transportes y Telecomunicaciones (Boletín N° 3.823-15).",
+    "tags": [
+      "transporte",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-3849-04/06/2014",
+    "boletin": "3849",
+    "fecha": "04/06/2014",
+    "chamber": "senado",
+    "materia": "Votación del informe de la Comisión de Educación, Cultura, Ciencia y Tecnología, recaído en el proyecto de ley, en tercer trámite constitucional, que confiere el carácter de título profesional universitario a las carreras de Kinesiología, Fonoaudiología, Enfermería, Obstetricia y Puericultura, Nutrición y Dietética, Tecnología Médica y Terapia Ocupacional (Boletín N° 3.849-04)",
+    "descripcion": "Votación del informe de la Comisión de Educación, Cultura, Ciencia y Tecnología, recaído en el proyecto de ley, en tercer trámite constitucional, que confiere el carácter de título profesional universitario a las carreras de Kinesiología, Fonoaudiología, Enfermería, Obstetricia y Puericultura, Nutrición y Dietética, Tecnología Médica y Terapia Ocupacional (Boletín N° 3.849-04)",
+    "tags": [
+      "educacion",
+      "cultura",
+      "tecnologia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-3849-15/07/2014",
+    "boletin": "3849",
+    "fecha": "15/07/2014",
+    "chamber": "senado",
+    "materia": "Votación del informe de la Comisión Mixta, recaído en el proyecto de ley que confiere el carácter de título profesional universitario a las carreras de Kinesiología, Fonoaudiología, Enfermería, Obstetricia y Puericultura, Nutrición y Dietética, Tecnología Médica y Terapia Ocupacional. (Boletín Nº 3.849-04). Con urgencia calificada de simple.",
+    "descripcion": "Votación del informe de la Comisión Mixta, recaído en el proyecto de ley que confiere el carácter de título profesional universitario a las carreras de Kinesiología, Fonoaudiología, Enfermería, Obstetricia y Puericultura, Nutrición y Dietética, Tecnología Médica y Terapia Ocupacional. (Boletín Nº 3.849-04). Con urgencia calificada de simple.",
+    "tags": [
+      "cultura",
+      "tecnologia"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-4426-02/04/2014",
+    "boletin": "4426",
+    "fecha": "02/04/2014",
+    "chamber": "senado",
+    "materia": "Votación enmiendas unánimes (con excepción del inc. final art 27) del proyecto de ley, en segundo trámite constitucional, que autoriza el levantamiento de secreto bancario en investigaciones de lavado de activos, con segundo y nuevo segundo informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (discusión en particular). (Boletín N° 4.426-07).",
+    "descripcion": "Votación enmiendas unánimes (con excepción del inc. final art 27) del proyecto de ley, en segundo trámite constitucional, que autoriza el levantamiento de secreto bancario en investigaciones de lavado de activos, con segundo y nuevo segundo informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (discusión en particular). (Boletín N° 4.426-07).",
+    "tags": [
+      "economia",
+      "justicia",
+      "constitucional"
+    ],
+    "votos": {
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-4426-10/12/2014",
+    "boletin": "4426",
+    "fecha": "10/12/2014",
+    "chamber": "senado",
+    "materia": "Informe de la Comisión Mixta, constituida conforme lo dispone el artículo 71 de la Constitución Política de la República, recaído en el proyecto de ley que autoriza el levantamiento de secreto bancario en investigaciones de lavado de activos. (Boletín N° 4.426-07).",
+    "descripcion": "Informe de la Comisión Mixta, constituida conforme lo dispone el artículo 71 de la Constitución Política de la República, recaído en el proyecto de ley que autoriza el levantamiento de secreto bancario en investigaciones de lavado de activos. (Boletín N° 4.426-07).",
+    "tags": [
+      "economia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-4456-03/06/2014",
+    "boletin": "4456",
+    "fecha": "03/06/2014",
+    "chamber": "senado",
+    "materia": "Enmienda para sustituir frase en la letra a) del artículo 1º -que pasa a ser único- del proyecto de ley que establece un nuevo concepto de empresa, con segundo informe de la Comisión de Trabajo y Previsión Social (Boletín N° 4.456-13).",
+    "descripcion": "Enmienda para sustituir frase en la letra a) del artículo 1º -que pasa a ser único- del proyecto de ley que establece un nuevo concepto de empresa, con segundo informe de la Comisión de Trabajo y Previsión Social (Boletín N° 4.456-13).",
+    "tags": [
+      "trabajo",
+      "social"
+    ],
+    "votos": {
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-4595-13/05/2014",
+    "boletin": "4595",
+    "fecha": "13/05/2014",
+    "chamber": "senado",
+    "materia": "Proyecto de ley, en tercer trámite constitucional, que modifica el Código Aeronáutico, en materia de transporte de pasajeros y sus derechos, con informe de la Comisión de Transportes y Telecomunicaciones (Boletines N°s 4.595-15 y 4.764-15, refundidos)",
+    "descripcion": "Proyecto de ley, en tercer trámite constitucional, que modifica el Código Aeronáutico, en materia de transporte de pasajeros y sus derechos, con informe de la Comisión de Transportes y Telecomunicaciones (Boletines N°s 4.595-15 y 4.764-15, refundidos)",
+    "tags": [
+      "transporte",
+      "constitucional"
+    ],
+    "votos": {
+      "1115": "contra",
+      "1117": "contra",
+      "1120": "contra"
+    }
+  },
+  {
+    "id": "senado-4844-04/11/2014",
+    "boletin": "4844",
+    "fecha": "04/11/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que deroga el artículo 7° de la ley N° 19.632, dejando sin efecto el plazo para erigir un monumento en memoria de don Juan Amador Barrientos Adriazola, con informe de la Comisión de Educación, Cultura, Ciencia y Tecnología. (proyecto de artículo único). (Boletín N° 4.844-24).",
+    "descripcion": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que deroga el artículo 7° de la ley N° 19.632, dejando sin efecto el plazo para erigir un monumento en memoria de don Juan Amador Barrientos Adriazola, con informe de la Comisión de Educación, Cultura, Ciencia y Tecnología. (proyecto de artículo único). (Boletín N° 4.844-24).",
+    "tags": [
+      "educacion",
+      "derechos",
+      "cultura",
+      "tecnologia",
+      "constitucional"
+    ],
+    "votos": {
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-4930-10/06/2014",
+    "boletin": "4930",
+    "fecha": "10/06/2014",
+    "chamber": "senado",
+    "materia": "Proyecto de ley, en segundo trámite constitucional, que extiende a los padres trabajadores el derecho de alimentar a sus hijos y perfecciona normas sobre protección de la maternidad, con informe de la Comisión de Trabajo y Previsión Social (Boletín Nº 4.930-18).",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que extiende a los padres trabajadores el derecho de alimentar a sus hijos y perfecciona normas sobre protección de la maternidad, con informe de la Comisión de Trabajo y Previsión Social (Boletín Nº 4.930-18).",
+    "tags": [
+      "trabajo",
+      "social",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1117": "afavor"
+    }
+  },
+  {
+    "id": "senado-5491-23/04/2014",
+    "boletin": "5491",
+    "fecha": "23/04/2014",
+    "chamber": "senado",
+    "materia": "Votación para volver a Comisión el proyecto de ley, en segundo trámite constitucional, que fija porcentajes mínimos de emisión de música nacional y música de raíz folklórica oral a la radiodifusión chilena, para un nuevo primer informe de la Comisión de Educación, Cultura, Ciencia y Tecnología. (Boletín N° 5.491-24).",
+    "descripcion": "Votación para volver a Comisión el proyecto de ley, en segundo trámite constitucional, que fija porcentajes mínimos de emisión de música nacional y música de raíz folklórica oral a la radiodifusión chilena, para un nuevo primer informe de la Comisión de Educación, Cultura, Ciencia y Tecnología. (Boletín N° 5.491-24).",
+    "tags": [
+      "educacion",
+      "cultura",
+      "tecnologia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "contra",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-5491-17/06/2014",
+    "boletin": "5491",
+    "fecha": "17/06/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que fija porcentajes mínimos de emisión de música nacional y música de raíz folklórica oral a la radiodifusión chilena, con nuevo primer informe de la Comisión de Educación, Cultura, Ciencia y Tecnología (Boletín N° 5.491-24)",
+    "descripcion": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que fija porcentajes mínimos de emisión de música nacional y música de raíz folklórica oral a la radiodifusión chilena, con nuevo primer informe de la Comisión de Educación, Cultura, Ciencia y Tecnología (Boletín N° 5.491-24)",
+    "tags": [
+      "educacion",
+      "cultura",
+      "tecnologia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "abstencion",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-5491-18/11/2014",
+    "boletin": "5491",
+    "fecha": "18/11/2014",
+    "chamber": "senado",
+    "materia": "Enmiendas unánimes propuestas por la Comisión al proyecto de ley, en segundo trámite constitucional, que fija porcentajes mínimos de emisión de música nacional y música de raíz folklórica oral a la radiodifusión chilena, con segundo informe de la Comisión de Educación, Cultura, Ciencia y Tecnología. (discusión en particular). (Boletín N° 5.491-24). Acuerdo de Comités.",
+    "descripcion": "Enmiendas unánimes propuestas por la Comisión al proyecto de ley, en segundo trámite constitucional, que fija porcentajes mínimos de emisión de música nacional y música de raíz folklórica oral a la radiodifusión chilena, con segundo informe de la Comisión de Educación, Cultura, Ciencia y Tecnología. (discusión en particular). (Boletín N° 5.491-24). Acuerdo de Comités.",
+    "tags": [
+      "educacion",
+      "cultura",
+      "tecnologia",
+      "constitucional"
+    ],
+    "votos": {
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-5491-19/11/2014",
+    "boletin": "5491",
+    "fecha": "19/11/2014",
+    "chamber": "senado",
+    "materia": "Modificación los dos primeros incisos, nuevos, que se propone agregar al Nº1) del artículo 1º del proyecto de ley, en segundo trámite constitucional, que fija porcentajes mínimos de emisión de música nacional y música de raíz folklórica oral a la radiodifusión chilena, con segundo informe de la Comisión de Educación, Cultura, Ciencia y Tecnología (Boletín N° 5.491-24).",
+    "descripcion": "Modificación los dos primeros incisos, nuevos, que se propone agregar al Nº1) del artículo 1º del proyecto de ley, en segundo trámite constitucional, que fija porcentajes mínimos de emisión de música nacional y música de raíz folklórica oral a la radiodifusión chilena, con segundo informe de la Comisión de Educación, Cultura, Ciencia y Tecnología (Boletín N° 5.491-24).",
+    "tags": [
+      "educacion",
+      "cultura",
+      "tecnologia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "pareo",
+      "1117": "pareo",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-5491-09/12/2014",
+    "boletin": "5491",
+    "fecha": "09/12/2014",
+    "chamber": "senado",
+    "materia": "Artículo 15 ter propuesto en el Nº2) del artículo 1º proyecto de ley, en segundo trámite constitucional, que fija porcentajes mínimos de emisión de música nacional y música de raíz folklórica oral a la radiodifusión chilena, con segundo informe de la Comisión de Educación, Cultura, Ciencia y Tecnología (Boletín N° 5.491-24).",
+    "descripcion": "Artículo 15 ter propuesto en el Nº2) del artículo 1º proyecto de ley, en segundo trámite constitucional, que fija porcentajes mínimos de emisión de música nacional y música de raíz folklórica oral a la radiodifusión chilena, con segundo informe de la Comisión de Educación, Cultura, Ciencia y Tecnología (Boletín N° 5.491-24).",
+    "tags": [
+      "educacion",
+      "cultura",
+      "tecnologia",
+      "constitucional"
+    ],
+    "votos": {
+      "1115": "contra",
+      "1117": "abstencion",
+      "1120": "contra"
+    }
+  },
+  {
+    "id": "senado-5579-09/04/2014",
+    "boletin": "5579",
+    "fecha": "09/04/2014",
+    "chamber": "senado",
+    "materia": "Informe de la Comisión Mixta, constituida conforme lo dispone el artículo 71 de la Constitución Política de la República, recaído en el proyecto de ley que regula la venta de videojuegos excesivamente violentos a menores de 18 años y exige control parental a consolas (Boletín N° 5.579-03).",
+    "descripcion": "Informe de la Comisión Mixta, constituida conforme lo dispone el artículo 71 de la Constitución Política de la República, recaído en el proyecto de ley que regula la venta de videojuegos excesivamente violentos a menores de 18 años y exige control parental a consolas (Boletín N° 5.579-03).",
+    "tags": [
+      "tributario",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-5823-07/05/2014",
+    "boletin": "5823",
+    "fecha": "07/05/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que establece el derecho real de conservación, con informe de la Comisión de Medio Ambiente y Bienes Nacionales. (Boletín Nº 5.823-07).",
+    "descripcion": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que establece el derecho real de conservación, con informe de la Comisión de Medio Ambiente y Bienes Nacionales. (Boletín Nº 5.823-07).",
+    "tags": [
+      "medioambiente",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-5907-11/06/2014",
+    "boletin": "5907",
+    "fecha": "11/06/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general y en particular del proyecto de ley, en segundo trámite constitucional, que modifica el Código del Trabajo en materia de protección a la maternidad, la paternidad y la vida familiar y establece un permiso por matrimonio del trabajador, con informe de la Comisión de Trabajo y Previsión Social. (proyecto de artículo único). (Boletín N° 5.907-13).",
+    "descripcion": "Aprobación en general y en particular del proyecto de ley, en segundo trámite constitucional, que modifica el Código del Trabajo en materia de protección a la maternidad, la paternidad y la vida familiar y establece un permiso por matrimonio del trabajador, con informe de la Comisión de Trabajo y Previsión Social. (proyecto de artículo único). (Boletín N° 5.907-13).",
+    "tags": [
+      "trabajo",
+      "social",
+      "constitucional"
+    ],
+    "votos": {
+      "1115": "afavor",
+      "1117": "afavor"
+    }
+  },
+  {
+    "id": "senado-6064-12/08/2014",
+    "boletin": "6064",
+    "fecha": "12/08/2014",
+    "chamber": "senado",
+    "materia": "Aprobación con modificaciones del proyecto de ley, en segundo trámite constitucional, que establece como feriado regional en la Región de Antofagasta el día 8 de septiembre, con motivo de la fiesta religiosa de Nuestra Señora de Guadalupe de Ayquina, con informe de la Comisión de Gobierno, Descentralización y Regionalización (Boletín N° 6.064-06)",
+    "descripcion": "Aprobación con modificaciones del proyecto de ley, en segundo trámite constitucional, que establece como feriado regional en la Región de Antofagasta el día 8 de septiembre, con motivo de la fiesta religiosa de Nuestra Señora de Guadalupe de Ayquina, con informe de la Comisión de Gobierno, Descentralización y Regionalización (Boletín N° 6.064-06)",
+    "tags": [
+      "energia",
+      "descentralizacion",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1117": "abstencion",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-6189-21/01/2014",
+    "boletin": "6189",
+    "fecha": "21/01/2014",
+    "chamber": "senado",
+    "materia": "Aprobación del Informe de la Comisión Mixta, constituida conforme lo dispone el artículo 71 de la Constitución Política de la República, recaído en el proyecto de ley que establece normas sobre la actividad de lobby (Boletín N° 6.189-06).",
+    "descripcion": "Aprobación del Informe de la Comisión Mixta, constituida conforme lo dispone el artículo 71 de la Constitución Política de la República, recaído en el proyecto de ley que establece normas sobre la actividad de lobby (Boletín N° 6.189-06).",
+    "tags": [
+      "constitucional",
+      "transparencia"
+    ],
+    "votos": {
+      "911": "afavor"
+    }
+  },
+  {
+    "id": "senado-6190-04/03/2014",
+    "boletin": "6190",
+    "fecha": "04/03/2014",
+    "chamber": "senado",
+    "materia": "Observación Nº2 de S.E. el Presidente de la República al proyecto de ley que permite la introducción de la televisión digital terrestre, con Informe de la Comisión de Transportes y Telecomunicaciones (Boletín 6.190-19)",
+    "descripcion": "Observación Nº2 de S.E. el Presidente de la República al proyecto de ley que permite la introducción de la televisión digital terrestre, con Informe de la Comisión de Transportes y Telecomunicaciones (Boletín 6.190-19)",
+    "tags": [
+      "transporte",
+      "tecnologia"
+    ],
+    "votos": {
+      "911": "afavor"
+    }
+  },
+  {
+    "id": "senado-6190-05/03/2014",
+    "boletin": "6190",
+    "fecha": "05/03/2014",
+    "chamber": "senado",
+    "materia": "Observación Nº 23 de S.E. el Presidente de la República, en segundo trámite constitucional, al proyecto de ley que permite la introducción de la televisión digital terrestre. (Boletín Nº 6.190-19). Con urgencia calificada de discusión inmediata.",
+    "descripcion": "Observación Nº 23 de S.E. el Presidente de la República, en segundo trámite constitucional, al proyecto de ley que permite la introducción de la televisión digital terrestre. (Boletín Nº 6.190-19). Con urgencia calificada de discusión inmediata.",
+    "tags": [
+      "tecnologia",
+      "constitucional"
+    ],
+    "votos": {
+      "911": "afavor"
+    }
+  },
+  {
+    "id": "senado-6201-02/04/2014",
+    "boletin": "6201",
+    "fecha": "02/04/2014",
+    "chamber": "senado",
+    "materia": "Votación indicación de solicitud de nuevo 2º informe (a la Comisión de Constitución) para el proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 17.798, de Control de Armas, y el Código Procesal Penal, con segundo informe de la Comisión de Defensa Nacional (Boletín N° 6.201-02). Con urgencia calificada de simple.",
+    "descripcion": "Votación indicación de solicitud de nuevo 2º informe (a la Comisión de Constitución) para el proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 17.798, de Control de Armas, y el Código Procesal Penal, con segundo informe de la Comisión de Defensa Nacional (Boletín N° 6.201-02). Con urgencia calificada de simple.",
+    "tags": [
+      "seguridad",
+      "justicia",
+      "defensa",
+      "constitucional"
+    ],
+    "votos": {
+      "1115": "afavor",
+      "1120": "contra"
+    }
+  },
+  {
+    "id": "senado-6201-09/12/2014",
+    "boletin": "6201",
+    "fecha": "09/12/2014",
+    "chamber": "senado",
+    "materia": "Enmiendas unánimes propuestas por las Comisiones al proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 17.798, de Control de Armas, y el Código Procesal Penal, con segundo informe de la Comisión de Defensa Nacional e informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (discusión en particular). (Boletín N° 6.201-02). Con urgencia calificada de discusión inmediata.",
+    "descripcion": "Enmiendas unánimes propuestas por las Comisiones al proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 17.798, de Control de Armas, y el Código Procesal Penal, con segundo informe de la Comisión de Defensa Nacional e informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (discusión en particular). (Boletín N° 6.201-02). Con urgencia calificada de discusión inmediata.",
+    "tags": [
+      "seguridad",
+      "justicia",
+      "defensa",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-7011-07/10/2014",
+    "boletin": "7011",
+    "fecha": "07/10/2014",
+    "chamber": "senado",
+    "materia": "Indicación Nº 4A , renovada, al proyecto de ley, en primer trámite constitucional, que crea el Acuerdo de Vida en Pareja, con segundo informe de la Comisión de Constitución, Legislación, Justicia y Reglamento e informe de la Comisión de Hacienda (discusión en particular) (Boletines N° 7.011-07 y 7.873-07, refundidos). Con urgencia calificada de suma.",
+    "descripcion": "Indicación Nº 4A , renovada, al proyecto de ley, en primer trámite constitucional, que crea el Acuerdo de Vida en Pareja, con segundo informe de la Comisión de Constitución, Legislación, Justicia y Reglamento e informe de la Comisión de Hacienda (discusión en particular) (Boletines N° 7.011-07 y 7.873-07, refundidos). Con urgencia calificada de suma.",
+    "tags": [
+      "justicia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "contra",
+      "1115": "contra",
+      "1117": "contra",
+      "1120": "contra"
+    }
+  },
+  {
+    "id": "senado-7563-22/10/2014",
+    "boletin": "7563",
+    "fecha": "22/10/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general y en particular del proyecto de reforma constitucional, iniciado en Mociones de los Honorables Senadores señores Espina, García, Tuma y Zaldívar, y del ex Senador señor Chadwick, y de los Honorables Senadores señora Allende y señores Araya, De Urresti, Larraín y Montes, en primer trámite constitucional, sobre protección de los derechos de los consumidores, con informe de la Comisión de Economía (Boletines N°s 7.563-07 y 9.463-03, refundidos).",
+    "descripcion": "Aprobación en general y en particular del proyecto de reforma constitucional, iniciado en Mociones de los Honorables Senadores señores Espina, García, Tuma y Zaldívar, y del ex Senador señor Chadwick, y de los Honorables Senadores señora Allende y señores Araya, De Urresti, Larraín y Montes, en primer trámite constitucional, sobre protección de los derechos de los consumidores, con informe de la Comisión de Economía (Boletines N°s 7.563-07 y 9.463-03, refundidos).",
+    "tags": [
+      "economia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-7709-15/10/2014",
+    "boletin": "7709",
+    "fecha": "15/10/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general del proyecto de ley, iniciado en Moción del Honorable Senador señor Navarro, en primer trámite constitucional, que prohíbe discriminación laboral frente a análisis genéticos, con informe de la Comisión de Trabajo y Previsión Social (Boletín N° 7.709-13).",
+    "descripcion": "Aprobación en general del proyecto de ley, iniciado en Moción del Honorable Senador señor Navarro, en primer trámite constitucional, que prohíbe discriminación laboral frente a análisis genéticos, con informe de la Comisión de Trabajo y Previsión Social (Boletín N° 7.709-13).",
+    "tags": [
+      "trabajo",
+      "derechos",
+      "social",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor"
+    }
+  },
+  {
+    "id": "senado-7873-07/01/2014",
+    "boletin": "7873",
+    "fecha": "07/01/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general del proyecto de ley, en primer trámite constitucional, que crea el acuerdo de vida en pareja, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (Boletines N°s 7.873-07 y 7.011-07, refundidos). Segunda discusión.",
+    "descripcion": "Aprobación en general del proyecto de ley, en primer trámite constitucional, que crea el acuerdo de vida en pareja, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (Boletines N°s 7.873-07 y 7.011-07, refundidos). Segunda discusión.",
+    "tags": [
+      "justicia",
+      "constitucional"
+    ],
+    "votos": {
+      "911": "contra"
+    }
+  },
+  {
+    "id": "senado-7908-02/04/2014",
+    "boletin": "7908",
+    "fecha": "02/04/2014",
+    "chamber": "senado",
+    "materia": "Votación en general del proyecto de ley, en primer trámite constitucional, que sanciona el transporte de desechos hacia vertederos clandestinos, con informe, nuevo primer informe e informe complementario del nuevo primer informe de la Comisión de Transportes y Telecomunicaciones. (proyecto de artículo único). (Boletín N° 7.908-15).",
+    "descripcion": "Votación en general del proyecto de ley, en primer trámite constitucional, que sanciona el transporte de desechos hacia vertederos clandestinos, con informe, nuevo primer informe e informe complementario del nuevo primer informe de la Comisión de Transportes y Telecomunicaciones. (proyecto de artículo único). (Boletín N° 7.908-15).",
+    "tags": [
+      "transporte",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-7908-22/07/2014",
+    "boletin": "7908",
+    "fecha": "22/07/2014",
+    "chamber": "senado",
+    "materia": "Enmiendas unánimes propuestas por la Comisión de Transportes y Telecomunicaciones al proyecto de ley, iniciado en Moción de los Honorables Senadores señores Girardi, Letelier y Pizarro, en primer trámite constitucional, que sanciona el transporte de desechos hacia vertederos clandestinos (discusión en particular). (Boletín N° 7.908-15).",
+    "descripcion": "Enmiendas unánimes propuestas por la Comisión de Transportes y Telecomunicaciones al proyecto de ley, iniciado en Moción de los Honorables Senadores señores Girardi, Letelier y Pizarro, en primer trámite constitucional, que sanciona el transporte de desechos hacia vertederos clandestinos (discusión en particular). (Boletín N° 7.908-15).",
+    "tags": [
+      "transporte",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-7963-08/01/2014",
+    "boletin": "7963",
+    "fecha": "08/01/2014",
+    "chamber": "senado",
+    "materia": "Discusión en particular del proyecto de ley, iniciado en Mensaje de S.E. el Presidente de la República, en primer trámite constitucional, relativo al fortalecimiento de la regionalización del país, con informe de la Comisión de Hacienda. (Boletín N° 7.963-06). Con urgencia calificada de discusión inmediata.",
+    "descripcion": "Discusión en particular del proyecto de ley, iniciado en Mensaje de S.E. el Presidente de la República, en primer trámite constitucional, relativo al fortalecimiento de la regionalización del país, con informe de la Comisión de Hacienda. (Boletín N° 7.963-06). Con urgencia calificada de discusión inmediata.",
+    "tags": [
+      "descentralizacion",
+      "constitucional"
+    ],
+    "votos": {
+      "911": "afavor"
+    }
+  },
+  {
+    "id": "senado-7968-18/06/2014",
+    "boletin": "7968",
+    "fecha": "18/06/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general y en particular, del proyecto de acuerdo, en segundo trámite constitucional, que aprueba el Convenio de Cooperación Técnico-Militar entre el Gobierno de la República de Chile y el Gobierno de la Federación de Rusia, suscrito en Santiago, el 19 de noviembre de 2004, con informe de la Comisión de Relaciones Exteriores. (Boletín Nº 7.968-10).",
+    "descripcion": "Aprobación en general y en particular, del proyecto de acuerdo, en segundo trámite constitucional, que aprueba el Convenio de Cooperación Técnico-Militar entre el Gobierno de la República de Chile y el Gobierno de la Federación de Rusia, suscrito en Santiago, el 19 de noviembre de 2004, con informe de la Comisión de Relaciones Exteriores. (Boletín Nº 7.968-10).",
+    "tags": [
+      "defensa",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1117": "afavor"
+    }
+  },
+  {
+    "id": "senado-7970-13/08/2014",
+    "boletin": "7970",
+    "fecha": "13/08/2014",
+    "chamber": "senado",
+    "materia": "Aprobación, en general y en particular, del proyecto de ley, en segundo trámite constitucional, que establece el Día Nacional del Adulto Mayor, con informe de la Comisión de Gobierno, Descentralización y Regionalización. (proyecto de artículo único). (Boletín N° 7.970-24). Con urgencia calificada de discusión inmediata.",
+    "descripcion": "Aprobación, en general y en particular, del proyecto de ley, en segundo trámite constitucional, que establece el Día Nacional del Adulto Mayor, con informe de la Comisión de Gobierno, Descentralización y Regionalización. (proyecto de artículo único). (Boletín N° 7.970-24). Con urgencia calificada de discusión inmediata.",
+    "tags": [
+      "descentralizacion",
+      "social",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor"
+    }
+  },
+  {
+    "id": "senado-7990-22/07/2014",
+    "boletin": "7990",
+    "fecha": "22/07/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que modifica el Código del Trabajo otorgando permiso a trabajadoras y trabajadores para efectuarse exámenes de mamografía y de próstata, con informe de la Comisión de Trabajo y Previsión Social (Boletín N°s 7.990-13 y 8.372-13).",
+    "descripcion": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que modifica el Código del Trabajo otorgando permiso a trabajadoras y trabajadores para efectuarse exámenes de mamografía y de próstata, con informe de la Comisión de Trabajo y Previsión Social (Boletín N°s 7.990-13 y 8.372-13).",
+    "tags": [
+      "trabajo",
+      "social",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1120": "pareo"
+    }
+  },
+  {
+    "id": "senado-8048-08/10/2014",
+    "boletin": "8048",
+    "fecha": "08/10/2014",
+    "chamber": "senado",
+    "materia": "Aprobación, en general y en particular, del proyecto de ley, en segundo trámite constitucional, que precisa normas vigentes para asegurar los derechos de los manipuladores de alimentos de establecimientos educacionales, con informe de la Comisión de Trabajo y Previsión Social. (Boletín Nº 8.048-13). Con urgencia calificada de suma.",
+    "descripcion": "Aprobación, en general y en particular, del proyecto de ley, en segundo trámite constitucional, que precisa normas vigentes para asegurar los derechos de los manipuladores de alimentos de establecimientos educacionales, con informe de la Comisión de Trabajo y Previsión Social. (Boletín Nº 8.048-13). Con urgencia calificada de suma.",
+    "tags": [
+      "trabajo",
+      "social",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-8097-20/08/2014",
+    "boletin": "8097",
+    "fecha": "20/08/2014",
+    "chamber": "senado",
+    "materia": "Informe conjunto de las Comisiones Mixtas formadas en virtud del artículo 70 de la Constitución Política de la República, recaído en los proyectos de ley que reconocen a la rayuela como deporte nacional. (Boletines Nºs 8.097-04 y 8.404-20).",
+    "descripcion": "Informe conjunto de las Comisiones Mixtas formadas en virtud del artículo 70 de la Constitución Política de la República, recaído en los proyectos de ley que reconocen a la rayuela como deporte nacional. (Boletines Nºs 8.097-04 y 8.404-20).",
+    "tags": [
+      "cultura",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1117": "afavor"
+    }
+  },
+  {
+    "id": "senado-8179-01/04/2014",
+    "boletin": "8179",
+    "fecha": "01/04/2014",
+    "chamber": "senado",
+    "materia": "Votación en particular del proyecto de ley, iniciado en Moción de los Honorables Senadores señores Prokurica, Coloma y Horvath y de los ex Senadores señores Larraín Peña y Novoa, en primer trámite constitucional, que modifica el Código Penal y tipifica como falta el ensuciar o provocar daños en playas, riberas de río, lagos y parques nacionales, con segundo informe de la Comisión de Constitución, Legislación, Justicia y Reglamento (Boletín N° 8.179-07).",
+    "descripcion": "Votación en particular del proyecto de ley, iniciado en Moción de los Honorables Senadores señores Prokurica, Coloma y Horvath y de los ex Senadores señores Larraín Peña y Novoa, en primer trámite constitucional, que modifica el Código Penal y tipifica como falta el ensuciar o provocar daños en playas, riberas de río, lagos y parques nacionales, con segundo informe de la Comisión de Constitución, Legislación, Justicia y Reglamento (Boletín N° 8.179-07).",
+    "tags": [
+      "seguridad",
+      "justicia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-8201-09/04/2014",
+    "boletin": "8201",
+    "fecha": "09/04/2014",
+    "chamber": "senado",
+    "materia": "Informe de la Comisión Mixta formada en virtud del artículo 70 de la Constitución Política de la República, recaído en el proyecto de ley sobre medidas de seguridad en pasarelas, pasos sobre nivel y puentes que cruzan carreteras. (Boletín N° 8.201-09).",
+    "descripcion": "Informe de la Comisión Mixta formada en virtud del artículo 70 de la Constitución Política de la República, recaído en el proyecto de ley sobre medidas de seguridad en pasarelas, pasos sobre nivel y puentes que cruzan carreteras. (Boletín N° 8.201-09).",
+    "tags": [
+      "seguridad",
+      "transporte",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-8207-08/01/2014",
+    "boletin": "8207",
+    "fecha": "08/01/2014",
+    "chamber": "senado",
+    "materia": "Modificación para incorporar un inciso segundo a la letra u), contenida en la letra g) -que pasaría a ser h)- del Nº1 -que pasaría a ser Nº3- del artículo 1º del proyecto de ley, iniciado en Mensaje de S.E. el Presidente de la República, en primer trámite constitucional, que crea la Subsecretaría de Derechos Humanos y establece adecuaciones en la ley orgánica del Ministerio de Justicia, con segundo informe de las Comisiones de Constitución, Legislación, Justicia y Reglamento y de Derechos Humanos, Nacionalidad y Ciudadanía, unidas, e informe de la Comisión de Hacienda(Boletín N° 8.207-07). Con urgencia calificada de discusión inmediata.",
+    "descripcion": "Modificación para incorporar un inciso segundo a la letra u), contenida en la letra g) -que pasaría a ser h)- del Nº1 -que pasaría a ser Nº3- del artículo 1º del proyecto de ley, iniciado en Mensaje de S.E. el Presidente de la República, en primer trámite constitucional, que crea la Subsecretaría de Derechos Humanos y establece adecuaciones en la ley orgánica del Ministerio de Justicia, con segundo informe de las Comisiones de Constitución, Legislación, Justicia y Reglamento y de Derechos Humanos, Nacionalidad y Ciudadanía, unidas, e informe de la Comisión de Hacienda(Boletín N° 8.207-07). Con urgencia calificada de discusión inmediata.",
+    "tags": [
+      "justicia",
+      "constitucional"
+    ],
+    "votos": {
+      "911": "afavor"
+    }
+  },
+  {
+    "id": "senado-8216-03/09/2014",
+    "boletin": "8216",
+    "fecha": "03/09/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general el proyecto de ley, en segundo trámite constitucional, que modifica el artículo 391 del Código Penal, con el objeto de aumentar la penalidad al delito de homicidio simple, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento (Boletines N°s 8.216-07 y 8.609-07, refundidos). Con urgencia calificada de suma",
+    "descripcion": "Aprobación en general el proyecto de ley, en segundo trámite constitucional, que modifica el artículo 391 del Código Penal, con el objeto de aumentar la penalidad al delito de homicidio simple, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento (Boletines N°s 8.216-07 y 8.609-07, refundidos). Con urgencia calificada de suma",
+    "tags": [
+      "seguridad",
+      "justicia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-8216-10/09/2014",
+    "boletin": "8216",
+    "fecha": "10/09/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en particular del proyecto de ley, en segundo trámite constitucional, que modifica el artículo 391 del Código Penal, con el objeto de aumentar la penalidad al delito de homicidio, con segundo informe de la Comisión de Constitución, Legislación, Justicia y Reglamento (discusión en particular). (Boletines Nos 8.216-07 y 8.609-07, refundidos). Con urgencia calificada de discusión inmediata",
+    "descripcion": "Aprobación en particular del proyecto de ley, en segundo trámite constitucional, que modifica el artículo 391 del Código Penal, con el objeto de aumentar la penalidad al delito de homicidio, con segundo informe de la Comisión de Constitución, Legislación, Justicia y Reglamento (discusión en particular). (Boletines Nos 8.216-07 y 8.609-07, refundidos). Con urgencia calificada de discusión inmediata",
+    "tags": [
+      "seguridad",
+      "justicia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-8292-23/09/2014",
+    "boletin": "8292",
+    "fecha": "23/09/2014",
+    "chamber": "senado",
+    "materia": "Aprobación, en general y en particular, del proyecto de ley, en segundo trámite constitucional, que modifica la jornada, descanso y composición de la remuneración de los trabajadores de casa particular, y prohíbe el uso de uniformes a trabajadoras de casa particular, con primer y nuevo primer informe de la Comisión de Trabajo y Previsión Social (Boletines N°s 8.292-13, 7.807-13 y 7.675-13, refundidos).",
+    "descripcion": "Aprobación, en general y en particular, del proyecto de ley, en segundo trámite constitucional, que modifica la jornada, descanso y composición de la remuneración de los trabajadores de casa particular, y prohíbe el uso de uniformes a trabajadoras de casa particular, con primer y nuevo primer informe de la Comisión de Trabajo y Previsión Social (Boletines N°s 8.292-13, 7.807-13 y 7.675-13, refundidos).",
+    "tags": [
+      "trabajo",
+      "vivienda",
+      "social",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-8329-09/04/2014",
+    "boletin": "8329",
+    "fecha": "09/04/2014",
+    "chamber": "senado",
+    "materia": "Votación en particular del proyecto de ley, en segundo trámite constitucional, que crea el Registro Nacional de Servicios de Transporte Remunerado de Escolares, con informe de la Comisión de Transportes y Telecomunicaciones (Boletín N° 8.329-15).",
+    "descripcion": "Votación en particular del proyecto de ley, en segundo trámite constitucional, que crea el Registro Nacional de Servicios de Transporte Remunerado de Escolares, con informe de la Comisión de Transportes y Telecomunicaciones (Boletín N° 8.329-15).",
+    "tags": [
+      "educacion",
+      "transporte",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-8335-13/05/2014",
+    "boletin": "8335",
+    "fecha": "13/05/2014",
+    "chamber": "senado",
+    "materia": "Proyecto de ley, en segundo trámite constitucional, que regula la exhibición y ejecución artística en los bienes nacionales de uso público, con informe de la Comisión de Educación, Cultura, Ciencia y Tecnología. (discusión en general). (Boletín N° 8.335-24).",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que regula la exhibición y ejecución artística en los bienes nacionales de uso público, con informe de la Comisión de Educación, Cultura, Ciencia y Tecnología. (discusión en general). (Boletín N° 8.335-24).",
+    "tags": [
+      "educacion",
+      "cultura",
+      "tecnologia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "contra"
+    }
+  },
+  {
+    "id": "senado-8381-02/07/2014",
+    "boletin": "8381",
+    "fecha": "02/07/2014",
+    "chamber": "senado",
+    "materia": "Votación en general del proyecto de ley, en segundo trámite constitucional, que agrega un nuevo artículo 25 ter al Código del Trabajo, estableciendo jornada de trabajo de personal de ferrocarriles, con informe de la Comisión de Trabajo y Previsión Social. (Boletín N° 8.381-13). Con urgencia calificada de ¿simple¿.",
+    "descripcion": "Votación en general del proyecto de ley, en segundo trámite constitucional, que agrega un nuevo artículo 25 ter al Código del Trabajo, estableciendo jornada de trabajo de personal de ferrocarriles, con informe de la Comisión de Trabajo y Previsión Social. (Boletín N° 8.381-13). Con urgencia calificada de ¿simple¿.",
+    "tags": [
+      "trabajo",
+      "transporte",
+      "social",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor"
+    }
+  },
+  {
+    "id": "senado-8501-24/09/2014",
+    "boletin": "8501",
+    "fecha": "24/09/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general y en particular del proyecto de ley, en segundo trámite constitucional, que modifica el Estatuto del Personal de Carabineros de Chile, a fin de crear una nueva instancia para la calificación y clasificación de su personal de nombramiento institucional, con informe de la Comisión de Gobierno, Descentralización y Regionalización (proyecto de artículo único). (Boletín N° 8.501-25).",
+    "descripcion": "Aprobación en general y en particular del proyecto de ley, en segundo trámite constitucional, que modifica el Estatuto del Personal de Carabineros de Chile, a fin de crear una nueva instancia para la calificación y clasificación de su personal de nombramiento institucional, con informe de la Comisión de Gobierno, Descentralización y Regionalización (proyecto de artículo único). (Boletín N° 8.501-25).",
+    "tags": [
+      "seguridad",
+      "descentralizacion",
+      "constitucional"
+    ],
+    "votos": {
+      "1115": "afavor"
+    }
+  },
+  {
+    "id": "senado-8584-06/05/2014",
+    "boletin": "8584",
+    "fecha": "06/05/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general del proyecto de ley, iniciado en Moción de los Honorables Senadores señores Girardi, Chahuán, Letelier, Quintana y del ex Senador señor Uriarte, en primer trámite constitucional, que modifica la Ley General de Telecomunicaciones, para establecer la obligación de una velocidad mínima garantizada de acceso a Internet, con informe de la Comisión de Transportes y Telecomunicaciones. (Boletín N° 8.584-15).",
+    "descripcion": "Aprobación en general del proyecto de ley, iniciado en Moción de los Honorables Senadores señores Girardi, Chahuán, Letelier, Quintana y del ex Senador señor Uriarte, en primer trámite constitucional, que modifica la Ley General de Telecomunicaciones, para establecer la obligación de una velocidad mínima garantizada de acceso a Internet, con informe de la Comisión de Transportes y Telecomunicaciones. (Boletín N° 8.584-15).",
+    "tags": [
+      "transporte",
+      "cultura",
+      "tecnologia",
+      "constitucional"
+    ],
+    "votos": {
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-8624-01/04/2014",
+    "boletin": "8624",
+    "fecha": "01/04/2014",
+    "chamber": "senado",
+    "materia": "Votación en general del proyecto de reforma constitucional, iniciado en Moción de los Honorables Senadores señores Larraín Fernández y Zaldívar y de los ex Senadores señores Escalona y Novoa, en primer trámite constitucional, que establece la obligación de las autoridades del Congreso Nacional de rendir una cuenta pública anual, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento (Boletín N° 8.624-07).",
+    "descripcion": "Votación en general del proyecto de reforma constitucional, iniciado en Moción de los Honorables Senadores señores Larraín Fernández y Zaldívar y de los ex Senadores señores Escalona y Novoa, en primer trámite constitucional, que establece la obligación de las autoridades del Congreso Nacional de rendir una cuenta pública anual, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento (Boletín N° 8.624-07).",
+    "tags": [
+      "justicia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-8624-22/07/2014",
+    "boletin": "8624",
+    "fecha": "22/07/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en particular del proyecto de reforma constitucional, iniciado en Moción de los Honorables Senadores señores Larraín y Zaldívar y de los ex Senadores señores Escalona y Novoa, en primer trámite constitucional, que establece la obligación de las autoridades del Congreso Nacional de rendir una cuenta pública anual, con segundo informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (discusión en particular). (Boletín N° 8.624-07). Con urgencia calificada de simple.",
+    "descripcion": "Aprobación en particular del proyecto de reforma constitucional, iniciado en Moción de los Honorables Senadores señores Larraín y Zaldívar y de los ex Senadores señores Escalona y Novoa, en primer trámite constitucional, que establece la obligación de las autoridades del Congreso Nacional de rendir una cuenta pública anual, con segundo informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (discusión en particular). (Boletín N° 8.624-07). Con urgencia calificada de simple.",
+    "tags": [
+      "justicia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-8668-11/06/2014",
+    "boletin": "8668",
+    "fecha": "11/06/2014",
+    "chamber": "senado",
+    "materia": "Proyecto de ley, iniciado en Moción de los Senadores señores Bianchi, Horvath y Prokurica, y ex Senadora señora Rincón, en primer trámite constitucional, que establece el día nacional del suplementero, con informe de la Comisión de Educación, Cultura, Ciencia y Tecnología. (proyecto de artículo único). (Boletín N° 8.668-04).",
+    "descripcion": "Proyecto de ley, iniciado en Moción de los Senadores señores Bianchi, Horvath y Prokurica, y ex Senadora señora Rincón, en primer trámite constitucional, que establece el día nacional del suplementero, con informe de la Comisión de Educación, Cultura, Ciencia y Tecnología. (proyecto de artículo único). (Boletín N° 8.668-04).",
+    "tags": [
+      "educacion",
+      "cultura",
+      "tecnologia",
+      "constitucional"
+    ],
+    "votos": {
+      "1115": "afavor",
+      "1117": "afavor"
+    }
+  },
+  {
+    "id": "senado-8784-16/12/2014",
+    "boletin": "8784",
+    "fecha": "16/12/2014",
+    "chamber": "senado",
+    "materia": "Proyecto de ley, en segundo trámite constitucional, que renueva la vigencia de la ley N° 19.648 de 1999, sobre acceso a la titularidad de los docentes a contrata en los establecimientos, con informe de la Comisión de Educación, Cultura, Ciencia y Tecnología. (proyecto de artículo único). (Boletín N° 8.784-04).",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que renueva la vigencia de la ley N° 19.648 de 1999, sobre acceso a la titularidad de los docentes a contrata en los establecimientos, con informe de la Comisión de Educación, Cultura, Ciencia y Tecnología. (proyecto de artículo único). (Boletín N° 8.784-04).",
+    "tags": [
+      "educacion",
+      "cultura",
+      "tecnologia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-8805-10/06/2014",
+    "boletin": "8805",
+    "fecha": "10/06/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general y en particular del proyecto de reforma constitucional, iniciado en Moción de los Honorables Senadores señor Larraín, señora Allende, de los señores García y Tuma, y ex Senadora señora Alvear, en primer trámite constitucional, que otorga reconocimiento al principio de transparencia y al derecho de acceso a la información pública, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (Boletín N° 8.805-07).",
+    "descripcion": "Aprobación en general y en particular del proyecto de reforma constitucional, iniciado en Moción de los Honorables Senadores señor Larraín, señora Allende, de los señores García y Tuma, y ex Senadora señora Alvear, en primer trámite constitucional, que otorga reconocimiento al principio de transparencia y al derecho de acceso a la información pública, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (Boletín N° 8.805-07).",
+    "tags": [
+      "justicia",
+      "constitucional",
+      "transparencia"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor"
+    }
+  },
+  {
+    "id": "senado-8813-09/04/2014",
+    "boletin": "8813",
+    "fecha": "09/04/2014",
+    "chamber": "senado",
+    "materia": "Informe de la Comisión Mixta, formada en virtud del artículo 71 de la Constitución Política de la República, recaído en el proyecto de ley que modifica el decreto con fuerza de ley N° 1, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito, N° 18.290, y sus modificaciones posteriores, en sus artículos 196 y 197, referidos al delito de manejo en estado de ebriedad, causando lesiones gravísimas o con resultado de muerte (Boletín N° 8.813-15).",
+    "descripcion": "Informe de la Comisión Mixta, formada en virtud del artículo 71 de la Constitución Política de la República, recaído en el proyecto de ley que modifica el decreto con fuerza de ley N° 1, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito, N° 18.290, y sus modificaciones posteriores, en sus artículos 196 y 197, referidos al delito de manejo en estado de ebriedad, causando lesiones gravísimas o con resultado de muerte (Boletín N° 8.813-15).",
+    "tags": [
+      "seguridad",
+      "transporte",
+      "constitucional"
+    ],
+    "votos": {
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-8828-18/06/2014",
+    "boletin": "8828",
+    "fecha": "18/06/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que modifica la Ley General de Urbanismo y Construcciones en materia de afectaciones de utilidad pública de los planes reguladores, con informe y nuevo informe de la Comisión de Vivienda y Urbanismo (Boletín N° 8.828-14). Con urgencia calificada de suma.",
+    "descripcion": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que modifica la Ley General de Urbanismo y Construcciones en materia de afectaciones de utilidad pública de los planes reguladores, con informe y nuevo informe de la Comisión de Vivienda y Urbanismo (Boletín N° 8.828-14). Con urgencia calificada de suma.",
+    "tags": [
+      "vivienda",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-8828-09/09/2014",
+    "boletin": "8828",
+    "fecha": "09/09/2014",
+    "chamber": "senado",
+    "materia": "Constancia de quórum artículos sin enmiendas del proyecto de ley, en segundo trámite constitucional, que modifica la Ley General de Urbanismo y Construcciones en materia de afectaciones de utilidad pública de los planes reguladores, con segundo informe de la Comisión de Vivienda y Urbanismo e informe de la Comisión de Hacienda. (discusión en particular). (Boletín Nº 8.828-14). Con urgencia calificada de suma.",
+    "descripcion": "Constancia de quórum artículos sin enmiendas del proyecto de ley, en segundo trámite constitucional, que modifica la Ley General de Urbanismo y Construcciones en materia de afectaciones de utilidad pública de los planes reguladores, con segundo informe de la Comisión de Vivienda y Urbanismo e informe de la Comisión de Hacienda. (discusión en particular). (Boletín Nº 8.828-14). Con urgencia calificada de suma.",
+    "tags": [
+      "vivienda",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1117": "afavor"
+    }
+  },
+  {
+    "id": "senado-8829-08/04/2014",
+    "boletin": "8829",
+    "fecha": "08/04/2014",
+    "chamber": "senado",
+    "materia": "Votación en particular del proyecto de ley, en segundo trámite constitucional, que crea un registro voluntario de contratos agrícolas, con segundo y nuevo segundo informe de la Comisión de Agricultura e informe de la Comisión de Hacienda. (Boletín Nº 8.829-01).",
+    "descripcion": "Votación en particular del proyecto de ley, en segundo trámite constitucional, que crea un registro voluntario de contratos agrícolas, con segundo y nuevo segundo informe de la Comisión de Agricultura e informe de la Comisión de Hacienda. (Boletín Nº 8.829-01).",
+    "tags": [
+      "agricultura",
+      "cultura",
+      "constitucional"
+    ],
+    "votos": {
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-8829-21/10/2014",
+    "boletin": "8829",
+    "fecha": "21/10/2014",
+    "chamber": "senado",
+    "materia": "Informe de la Comisión Mixta, constituida conforme lo dispone el artículo 71 de la Constitución Política de la República, recaído en el proyecto de ley que crea un registro voluntario de contratos agrícolas. (Boletín N° 8.829-01).",
+    "descripcion": "Informe de la Comisión Mixta, constituida conforme lo dispone el artículo 71 de la Constitución Política de la República, recaído en el proyecto de ley que crea un registro voluntario de contratos agrícolas. (Boletín N° 8.829-01).",
+    "tags": [
+      "agricultura",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-8853-22/01/2014",
+    "boletin": "8853",
+    "fecha": "22/01/2014",
+    "chamber": "senado",
+    "materia": "Aprobación, en general y en particular, del proyecto de ley, en segundo trámite constitucional, que modifica el decreto con fuerza de ley N° 161, de 1978, del Ministerio de Relaciones Exteriores, que fija su Estatuto Orgánico, que otorga al Subsecretario de Relaciones Exteriores, atribución para transigir en conflictos jurídicos laborales y/o previsionales surgidos en el extranjero, que afecten al Estado de Chile, con informes de las Comisiones de Relaciones Exteriores y de Hacienda, (proyecto de artículo único). (Boletín N° 8.853-10). Con urgencia calificada de suma.",
+    "descripcion": "Aprobación, en general y en particular, del proyecto de ley, en segundo trámite constitucional, que modifica el decreto con fuerza de ley N° 161, de 1978, del Ministerio de Relaciones Exteriores, que fija su Estatuto Orgánico, que otorga al Subsecretario de Relaciones Exteriores, atribución para transigir en conflictos jurídicos laborales y/o previsionales surgidos en el extranjero, que afecten al Estado de Chile, con informes de las Comisiones de Relaciones Exteriores y de Hacienda, (proyecto de artículo único). (Boletín N° 8.853-10). Con urgencia calificada de suma.",
+    "tags": [
+      "trabajo",
+      "inmigracion",
+      "constitucional"
+    ],
+    "votos": {
+      "911": "afavor"
+    }
+  },
+  {
+    "id": "senado-8874-08/01/2014",
+    "boletin": "8874",
+    "fecha": "08/01/2014",
+    "chamber": "senado",
+    "materia": "En votación artículo 3º del proyecto de ley, en segundo trámite constitucional, que introduce modificaciones a la legislación tributaria en materia de factura electrónica y dispone otras medidas que indica, con segundo informe de la Comisión de Hacienda (Boletín N° 8.874-05) Con urgencia calificada de discusión inmediata.",
+    "descripcion": "En votación artículo 3º del proyecto de ley, en segundo trámite constitucional, que introduce modificaciones a la legislación tributaria en materia de factura electrónica y dispone otras medidas que indica, con segundo informe de la Comisión de Hacienda (Boletín N° 8.874-05) Con urgencia calificada de discusión inmediata.",
+    "tags": [
+      "constitucional"
+    ],
+    "votos": {
+      "911": "afavor"
+    }
+  },
+  {
+    "id": "senado-8886-06/08/2014",
+    "boletin": "8886",
+    "fecha": "06/08/2014",
+    "chamber": "senado",
+    "materia": "Envío a Comisión de Agricultura del proyecto de ley, iniciado en Moción de los Honorables Senadores señores Girardi y Rossi y del ex Senador señor Ruiz-Esquide, en primer trámite constitucional, que adecua la legislación nacional al estándar del Convenio Marco de la Organización Mundial de Salud para el Control del Tabaco, con informe de la Comisión de Salud. (Boletín N° 8.886-11). Con urgencia calificada de simple.",
+    "descripcion": "Envío a Comisión de Agricultura del proyecto de ley, iniciado en Moción de los Honorables Senadores señores Girardi y Rossi y del ex Senador señor Ruiz-Esquide, en primer trámite constitucional, que adecua la legislación nacional al estándar del Convenio Marco de la Organización Mundial de Salud para el Control del Tabaco, con informe de la Comisión de Salud. (Boletín N° 8.886-11). Con urgencia calificada de simple.",
+    "tags": [
+      "salud",
+      "agricultura",
+      "cultura",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "contra",
+      "1117": "afavor",
+      "1120": "abstencion"
+    }
+  },
+  {
+    "id": "senado-8886-12/08/2014",
+    "boletin": "8886",
+    "fecha": "12/08/2014",
+    "chamber": "senado",
+    "materia": "Votación en general del proyecto de ley, iniciado en Moción de los Honorables Senadores señores Girardi y Rossi y del ex Senador señor Ruiz-Esquide, en primer trámite constitucional, que adecua la legislación nacional al estándar del Convenio Marco de la Organización Mundial de Salud para el Control del Tabaco, con informe de la Comisión de Salud. (Boletín N° 8.886-11). Con urgencia calificada de simple.",
+    "descripcion": "Votación en general del proyecto de ley, iniciado en Moción de los Honorables Senadores señores Girardi y Rossi y del ex Senador señor Ruiz-Esquide, en primer trámite constitucional, que adecua la legislación nacional al estándar del Convenio Marco de la Organización Mundial de Salud para el Control del Tabaco, con informe de la Comisión de Salud. (Boletín N° 8.886-11). Con urgencia calificada de simple.",
+    "tags": [
+      "salud",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-8889-06/08/2014",
+    "boletin": "8889",
+    "fecha": "06/08/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general y en particular del proyecto de ley, en segundo trámite constitucional, que declara como feriado el 20 de agosto de cada año para las comunas de Chillán y Chillán Viejo. (proyecto de artículo único). (Boletín N° 8.889-06). Con urgencia calificada de discusión inmediata.",
+    "descripcion": "Aprobación en general y en particular del proyecto de ley, en segundo trámite constitucional, que declara como feriado el 20 de agosto de cada año para las comunas de Chillán y Chillán Viejo. (proyecto de artículo único). (Boletín N° 8.889-06). Con urgencia calificada de discusión inmediata.",
+    "tags": [
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-8992-10/09/2014",
+    "boletin": "8992",
+    "fecha": "10/09/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general y en particular del proyecto de ley, en segundo trámite constitucional, que establece el día 20 de septiembre de cada año, feriado regional en la Cuarta Región de Coquimbo, con motivo de la celebración de la Fiesta de la Pampilla, con informe de la Comisión de Gobierno, Descentralización y Regionalización (Boletín Nº 8.992-06)",
+    "descripcion": "Aprobación en general y en particular del proyecto de ley, en segundo trámite constitucional, que establece el día 20 de septiembre de cada año, feriado regional en la Cuarta Región de Coquimbo, con motivo de la celebración de la Fiesta de la Pampilla, con informe de la Comisión de Gobierno, Descentralización y Regionalización (Boletín Nº 8.992-06)",
+    "tags": [
+      "descentralizacion",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9007-10/06/2014",
+    "boletin": "9007",
+    "fecha": "10/06/2014",
+    "chamber": "senado",
+    "materia": "Proyecto de ley, en segundo trámite constitucional, que protege la libre elección en los servicios de cable, internet o telefonía, con informe de la Comisión de Economía. (Boletín N° 9.007-03).",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que protege la libre elección en los servicios de cable, internet o telefonía, con informe de la Comisión de Economía. (Boletín N° 9.007-03).",
+    "tags": [
+      "economia",
+      "tecnologia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor"
+    }
+  },
+  {
+    "id": "senado-9007-14/10/2014",
+    "boletin": "9007",
+    "fecha": "14/10/2014",
+    "chamber": "senado",
+    "materia": "Enmiendas unánimes al proyecto de ley, en segundo trámite constitucional, que protege la libre elección en los servicios de cable, internet o telefonía, con segundo informe de las Comisiones de Economía y de Transportes y Telecomunicaciones, unidas. (discusión en particular). (Boletín N° 9.007-03). Con urgencia calificada de simple.",
+    "descripcion": "Enmiendas unánimes al proyecto de ley, en segundo trámite constitucional, que protege la libre elección en los servicios de cable, internet o telefonía, con segundo informe de las Comisiones de Economía y de Transportes y Telecomunicaciones, unidas. (discusión en particular). (Boletín N° 9.007-03). Con urgencia calificada de simple.",
+    "tags": [
+      "economia",
+      "transporte",
+      "tecnologia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9018-21/01/2014",
+    "boletin": "9018",
+    "fecha": "21/01/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 17.635 que establece normas sobre cobro ejecutivo de créditos para la vivienda que indica, con informe de la Comisión de Vivienda y Urbanismo. (Boletín Nº 9.018-14). Con urgencia calificada de suma.",
+    "descripcion": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 17.635 que establece normas sobre cobro ejecutivo de créditos para la vivienda que indica, con informe de la Comisión de Vivienda y Urbanismo. (Boletín Nº 9.018-14). Con urgencia calificada de suma.",
+    "tags": [
+      "vivienda",
+      "constitucional"
+    ],
+    "votos": {
+      "911": "afavor"
+    }
+  },
+  {
+    "id": "senado-9022-08/01/2014",
+    "boletin": "9022",
+    "fecha": "08/01/2014",
+    "chamber": "senado",
+    "materia": "Discusión de las enmiendas introducidas por la Cámara de Diputados al proyecto de ley, en tercer trámite constitucional, que modifica la Ley General de Servicios Eléctricos con el fin de promover la interconexión de sistemas eléctricos independientes, con informe de la Comisión de Minería y Energía. (Boletín Nº 9.022-08). Con urgencia calificada de suma.",
+    "descripcion": "Discusión de las enmiendas introducidas por la Cámara de Diputados al proyecto de ley, en tercer trámite constitucional, que modifica la Ley General de Servicios Eléctricos con el fin de promover la interconexión de sistemas eléctricos independientes, con informe de la Comisión de Minería y Energía. (Boletín Nº 9.022-08). Con urgencia calificada de suma.",
+    "tags": [
+      "energia",
+      "constitucional"
+    ],
+    "votos": {
+      "911": "afavor"
+    }
+  },
+  {
+    "id": "senado-9029-13/08/2014",
+    "boletin": "9029",
+    "fecha": "13/08/2014",
+    "chamber": "senado",
+    "materia": "Votación de las enmiendas introducidas por la Cámara de Diputados al proyecto de ley, en tercer trámite constitucional, que modifica la ley N° 20.671 con objeto de suprimir el límite máximo para regularizar ampliaciones en viviendas sociales, siempre que la superficie edificada total no exceda de noventa metros cuadrados. (Boletín N° 9.029-14). Con urgencia calificada de simple.",
+    "descripcion": "Votación de las enmiendas introducidas por la Cámara de Diputados al proyecto de ley, en tercer trámite constitucional, que modifica la ley N° 20.671 con objeto de suprimir el límite máximo para regularizar ampliaciones en viviendas sociales, siempre que la superficie edificada total no exceda de noventa metros cuadrados. (Boletín N° 9.029-14). Con urgencia calificada de simple.",
+    "tags": [
+      "vivienda",
+      "transporte",
+      "social",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9036-01/04/2014",
+    "boletin": "9036",
+    "fecha": "01/04/2014",
+    "chamber": "senado",
+    "materia": "Votación en general del proyecto de ley, en primer trámite constitucional, que modifica la ley N° 18.961, Orgánica Constitucional de Carabineros de Chile, para establecer la medida de control preventivo de identidad, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento (Boletín N° 9.036-07).",
+    "descripcion": "Votación en general del proyecto de ley, en primer trámite constitucional, que modifica la ley N° 18.961, Orgánica Constitucional de Carabineros de Chile, para establecer la medida de control preventivo de identidad, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento (Boletín N° 9.036-07).",
+    "tags": [
+      "seguridad",
+      "justicia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "contra",
+      "1115": "contra",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9041-21/01/2014",
+    "boletin": "9041",
+    "fecha": "21/01/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general y en particular del proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 19.253, sobre normas de protección, fomento y desarrollo de los indígenas, estableciendo dieta para los consejeros nacionales de la CONADI y para los comisionados de la CODEIPA que indica, con informes de las Comisiones de Gobierno, Descentralización y Regionalización, y de Hacienda. (proyecto de artículo único). (Boletín Nº 9.041-31). Con urgencia calificada de suma.",
+    "descripcion": "Aprobación en general y en particular del proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 19.253, sobre normas de protección, fomento y desarrollo de los indígenas, estableciendo dieta para los consejeros nacionales de la CONADI y para los comisionados de la CODEIPA que indica, con informes de las Comisiones de Gobierno, Descentralización y Regionalización, y de Hacienda. (proyecto de artículo único). (Boletín Nº 9.041-31). Con urgencia calificada de suma.",
+    "tags": [
+      "descentralizacion",
+      "pueblos",
+      "constitucional"
+    ],
+    "votos": {
+      "911": "afavor"
+    }
+  },
+  {
+    "id": "senado-9069-22/04/2014",
+    "boletin": "9069",
+    "fecha": "22/04/2014",
+    "chamber": "senado",
+    "materia": "Enmiendas introducidas por la Cámara de Diputados al proyecto de reforma constitucional, en tercer trámite constitucional, que regula el ejercicio del sufragio de los ciudadanos que se encuentran fuera del país (Boletín Nº 9.069-07)",
+    "descripcion": "Enmiendas introducidas por la Cámara de Diputados al proyecto de reforma constitucional, en tercer trámite constitucional, que regula el ejercicio del sufragio de los ciudadanos que se encuentran fuera del país (Boletín Nº 9.069-07)",
+    "tags": [
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9086-12/03/2014",
+    "boletin": "9086",
+    "fecha": "12/03/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general del proyecto de ley, iniciado en Moción del Honorable Senador señor Orpis, en primer trámite constitucional, que suprime las palabras amo y criado en el artículo 447 del Código penal, con informe de la Comisión de Derechos Humanos, Nacionalidad y Ciudadanía. (Boletín N° 9.086-17).",
+    "descripcion": "Aprobación en general del proyecto de ley, iniciado en Moción del Honorable Senador señor Orpis, en primer trámite constitucional, que suprime las palabras amo y criado en el artículo 447 del Código penal, con informe de la Comisión de Derechos Humanos, Nacionalidad y Ciudadanía. (Boletín N° 9.086-17).",
+    "tags": [
+      "seguridad",
+      "constitucional"
+    ],
+    "votos": {
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9097-11/11/2014",
+    "boletin": "9097",
+    "fecha": "11/11/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que establece excepción para la pesca artesanal con línea de mano de la especie jurel y que modifica regulación para establecimiento de ampliación de régimen de áreas de manejo y explotación de recursos bentónicos, con informe de la Comisión de Intereses Marítimos, Pesca y Acuicultura (Boletín Nº 9.097-21). Con urgencia calificada de suma.",
+    "descripcion": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que establece excepción para la pesca artesanal con línea de mano de la especie jurel y que modifica regulación para establecimiento de ampliación de régimen de áreas de manejo y explotación de recursos bentónicos, con informe de la Comisión de Intereses Marítimos, Pesca y Acuicultura (Boletín Nº 9.097-21). Con urgencia calificada de suma.",
+    "tags": [
+      "agricultura",
+      "cultura",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9113-20/05/2014",
+    "boletin": "9113",
+    "fecha": "20/05/2014",
+    "chamber": "senado",
+    "materia": "Informe de la Comisión Mixta constituida para resolver las divergencias suscitadas durante la tramitación del proyecto de ley que establece condiciones especiales transitorias para la aplicación del artículo 18 de la ley N° 19.479 y faculta para otorgar el bono compensatorio que indica (Boletín N° 9.113-05).",
+    "descripcion": "Informe de la Comisión Mixta constituida para resolver las divergencias suscitadas durante la tramitación del proyecto de ley que establece condiciones especiales transitorias para la aplicación del artículo 18 de la ley N° 19.479 y faculta para otorgar el bono compensatorio que indica (Boletín N° 9.113-05).",
+    "tags": [
+      "social"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor"
+    }
+  },
+  {
+    "id": "senado-9123-12/03/2014",
+    "boletin": "9123",
+    "fecha": "12/03/2014",
+    "chamber": "senado",
+    "materia": "Proyecto de ley, en segundo trámite constitucional, que concede, por especial gracia, la nacionalidad chilena al artista bailarín señor Luis Ortigoza Marchisio, con informe de la Comisión de Derechos Humanos, Nacionalidad y Ciudadanía. (proyecto de artículo único).",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que concede, por especial gracia, la nacionalidad chilena al artista bailarín señor Luis Ortigoza Marchisio, con informe de la Comisión de Derechos Humanos, Nacionalidad y Ciudadanía. (proyecto de artículo único).",
+    "tags": [
+      "cultura",
+      "constitucional"
+    ],
+    "votos": {
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9155-20/05/2014",
+    "boletin": "9155",
+    "fecha": "20/05/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que suprime el feriado judicial para los tribunales que indica, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento (Boletín N° 9.155-07).",
+    "descripcion": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que suprime el feriado judicial para los tribunales que indica, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento (Boletín N° 9.155-07).",
+    "tags": [
+      "justicia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9155-09/07/2014",
+    "boletin": "9155",
+    "fecha": "09/07/2014",
+    "chamber": "senado",
+    "materia": "Votación del artículo 1º del proyecto de ley, en segundo trámite constitucional, que suprime el feriado judicial para los tribunales que indica, con segundo informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (Boletín N° 9.155-07). Con urgencia calificada de simple.",
+    "descripcion": "Votación del artículo 1º del proyecto de ley, en segundo trámite constitucional, que suprime el feriado judicial para los tribunales que indica, con segundo informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (Boletín N° 9.155-07). Con urgencia calificada de simple.",
+    "tags": [
+      "justicia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9160-16/04/2014",
+    "boletin": "9160",
+    "fecha": "16/04/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general del proyecto de reforma constitucional, en primer trámite constitucional, que incorpora como territorios especiales, bajo el estatuto jurídico que determine una ley orgánica constitucional, a los territorios geopolíticamente estratégicos así definidos por el Presidente de la República, con informe de la Comisión de Gobierno, Descentralización y Regionalización. (proyecto de artículo único). (Boletín N° 9.160-06).",
+    "descripcion": "Aprobación en general del proyecto de reforma constitucional, en primer trámite constitucional, que incorpora como territorios especiales, bajo el estatuto jurídico que determine una ley orgánica constitucional, a los territorios geopolíticamente estratégicos así definidos por el Presidente de la República, con informe de la Comisión de Gobierno, Descentralización y Regionalización. (proyecto de artículo único). (Boletín N° 9.160-06).",
+    "tags": [
+      "descentralizacion",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9163-01/07/2014",
+    "boletin": "9163",
+    "fecha": "01/07/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general y en particular, del proyecto de acuerdo, en segundo trámite constitucional, que aprueba el Convenio sobre Transporte Aéreo, entre el Gobierno de la República de Chile y el Gobierno de la República de El Salvador, suscrito en Santiago de Chile, el 27 de enero de 2013, con informe de la Comisión de Relaciones Exteriores (Boletín Nº 9.163-10).",
+    "descripcion": "Aprobación en general y en particular, del proyecto de acuerdo, en segundo trámite constitucional, que aprueba el Convenio sobre Transporte Aéreo, entre el Gobierno de la República de Chile y el Gobierno de la República de El Salvador, suscrito en Santiago de Chile, el 27 de enero de 2013, con informe de la Comisión de Relaciones Exteriores (Boletín Nº 9.163-10).",
+    "tags": [
+      "transporte",
+      "constitucional"
+    ],
+    "votos": {
+      "1115": "afavor",
+      "1117": "afavor"
+    }
+  },
+  {
+    "id": "senado-9164-05/08/2014",
+    "boletin": "9164",
+    "fecha": "05/08/2014",
+    "chamber": "senado",
+    "materia": "Votación en general y en particular del proyecto de acuerdo, en segundo trámite constitucional, que aprueba el Acuerdo de Cooperación Técnica y Científica entre el Gobierno de la República de Chile y el Gobierno de San Vicente y las Granadinas, suscrito en Kingstown, el 30 de noviembre de 2012, con informe de la Comisión de Relaciones Exteriores. (proyecto de artículo único). (Boletín Nº 9.164-10).",
+    "descripcion": "Votación en general y en particular del proyecto de acuerdo, en segundo trámite constitucional, que aprueba el Acuerdo de Cooperación Técnica y Científica entre el Gobierno de la República de Chile y el Gobierno de San Vicente y las Granadinas, suscrito en Kingstown, el 30 de noviembre de 2012, con informe de la Comisión de Relaciones Exteriores. (proyecto de artículo único). (Boletín Nº 9.164-10).",
+    "tags": [
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9165-21/10/2014",
+    "boletin": "9165",
+    "fecha": "21/10/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general y en particular del proyecto de acuerdo, en segundo trámite constitucional, que aprueba las Enmiendas a las Cuantías de Limitación que figuran en el Protocolo de 1992, que enmienda el Convenio Internacional sobre Responsabilidad Civil Nacida de Daños Debidos a Contaminación por Hidrocarburos de 1969, aprobadas por Resolución Leg. 1 (82) del Comité Jurídico de la Organización Marítima Internacional, el 18 de octubre de 2000, con informe de la Comisión de Relaciones Exteriores (Boletín Nº 9.165-10).",
+    "descripcion": "Aprobación en general y en particular del proyecto de acuerdo, en segundo trámite constitucional, que aprueba las Enmiendas a las Cuantías de Limitación que figuran en el Protocolo de 1992, que enmienda el Convenio Internacional sobre Responsabilidad Civil Nacida de Daños Debidos a Contaminación por Hidrocarburos de 1969, aprobadas por Resolución Leg. 1 (82) del Comité Jurídico de la Organización Marítima Internacional, el 18 de octubre de 2000, con informe de la Comisión de Relaciones Exteriores (Boletín Nº 9.165-10).",
+    "tags": [
+      "medioambiente",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9173-05/03/2014",
+    "boletin": "9173",
+    "fecha": "05/03/2014",
+    "chamber": "senado",
+    "materia": "Proyecto de ley, en segundo trámite constitucional, sobre procedimiento de toma de razón y registro electrónico, con Certificado de la Comisión de Constitución, Legislación, Justicia y Reglamento. (discusión en general). (Boletín N° 9.173-07).",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, sobre procedimiento de toma de razón y registro electrónico, con Certificado de la Comisión de Constitución, Legislación, Justicia y Reglamento. (discusión en general). (Boletín N° 9.173-07).",
+    "tags": [
+      "justicia",
+      "constitucional"
+    ],
+    "votos": {
+      "911": "afavor"
+    }
+  },
+  {
+    "id": "senado-9173-08/04/2014",
+    "boletin": "9173",
+    "fecha": "08/04/2014",
+    "chamber": "senado",
+    "materia": "Votación en particular del proyecto de ley, en segundo trámite constitucional, sobre procedimiento de toma de razón y registro electrónicos, con segundo informe de la Comisión de Comisión de Constitución, Legislación, Justicia y Reglamento (Boletín 9173-07)",
+    "descripcion": "Votación en particular del proyecto de ley, en segundo trámite constitucional, sobre procedimiento de toma de razón y registro electrónicos, con segundo informe de la Comisión de Comisión de Constitución, Legislación, Justicia y Reglamento (Boletín 9173-07)",
+    "tags": [
+      "justicia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9174-23/07/2014",
+    "boletin": "9174",
+    "fecha": "23/07/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que modifica la planta de personal de la Junta Nacional de Jardines Infantiles y otorga las facultades que indica, con informe de la Comisión Educación, Cultura, Ciencia y Tecnología (Boletín Nº 9.174-04).",
+    "descripcion": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que modifica la planta de personal de la Junta Nacional de Jardines Infantiles y otorga las facultades que indica, con informe de la Comisión Educación, Cultura, Ciencia y Tecnología (Boletín Nº 9.174-04).",
+    "tags": [
+      "educacion",
+      "cultura",
+      "tecnologia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1117": "pareo",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9174-09/09/2014",
+    "boletin": "9174",
+    "fecha": "09/09/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en particular, sin enmiendas, del proyecto de ley que modifica la planta de personal de la Junta Nacional de Jardines Infantiles y otorga las facultades que indica (Boletín 9174-04)",
+    "descripcion": "Aprobación en particular, sin enmiendas, del proyecto de ley que modifica la planta de personal de la Junta Nacional de Jardines Infantiles y otorga las facultades que indica (Boletín 9174-04)",
+    "tags": [
+      "otro"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9178-10/09/2014",
+    "boletin": "9178",
+    "fecha": "10/09/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general y en particular del proyecto de ley, en segundo trámite constitucional, que crea el Consejo de Estabilidad Financiera, con certificado de la Comisión de Hacienda (Boletín N° 9.178-05). Con urgencia calificada de discusión inmediata.",
+    "descripcion": "Aprobación en general y en particular del proyecto de ley, en segundo trámite constitucional, que crea el Consejo de Estabilidad Financiera, con certificado de la Comisión de Hacienda (Boletín N° 9.178-05). Con urgencia calificada de discusión inmediata.",
+    "tags": [
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor"
+    }
+  },
+  {
+    "id": "senado-9179-16/04/2014",
+    "boletin": "9179",
+    "fecha": "16/04/2014",
+    "chamber": "senado",
+    "materia": "Votación en general del proyecto de ley, en primer trámite constitucional, que tipifica como delito los actos de maltrato o crueldad con niños y adolescentes fuera del ámbito de la violencia intrafamiliar, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (Boletín N° 9.179-07)",
+    "descripcion": "Votación en general del proyecto de ley, en primer trámite constitucional, que tipifica como delito los actos de maltrato o crueldad con niños y adolescentes fuera del ámbito de la violencia intrafamiliar, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (Boletín N° 9.179-07)",
+    "tags": [
+      "seguridad",
+      "justicia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9187-22/01/2014",
+    "boletin": "9187",
+    "fecha": "22/01/2014",
+    "chamber": "senado",
+    "materia": "Proyecto de ley, iniciado en Moción del Honorable Senador señor Ruiz-Esquide, en primer trámite constitucional, que concede la nacionalidad chilena, por especial gracia, al sacerdote señor Ramón Seco Pérez, con informe de la Comisión de Derechos Humanos, Nacionalidad y Ciudadanía. (proyecto de artículo único). (Boletín N° 9.187-17).",
+    "descripcion": "Proyecto de ley, iniciado en Moción del Honorable Senador señor Ruiz-Esquide, en primer trámite constitucional, que concede la nacionalidad chilena, por especial gracia, al sacerdote señor Ramón Seco Pérez, con informe de la Comisión de Derechos Humanos, Nacionalidad y Ciudadanía. (proyecto de artículo único). (Boletín N° 9.187-17).",
+    "tags": [
+      "constitucional"
+    ],
+    "votos": {
+      "911": "afavor"
+    }
+  },
+  {
+    "id": "senado-9188-22/01/2014",
+    "boletin": "9188",
+    "fecha": "22/01/2014",
+    "chamber": "senado",
+    "materia": "Proyecto de ley, iniciado en Moción del Honorable Senador señor Ruiz-Esquide, en primer trámite constitucional, que concede la nacionalidad chilena, por especial gracia, al sacerdote señor Andrés Lacalle Andrés, con informe de la Comisión de Derechos Humanos, Nacionalidad y Ciudadanía. (proyecto de artículo único). (Boletín N° 9.188-17).",
+    "descripcion": "Proyecto de ley, iniciado en Moción del Honorable Senador señor Ruiz-Esquide, en primer trámite constitucional, que concede la nacionalidad chilena, por especial gracia, al sacerdote señor Andrés Lacalle Andrés, con informe de la Comisión de Derechos Humanos, Nacionalidad y Ciudadanía. (proyecto de artículo único). (Boletín N° 9.188-17).",
+    "tags": [
+      "constitucional"
+    ],
+    "votos": {
+      "911": "afavor"
+    }
+  },
+  {
+    "id": "senado-9192-15/04/2014",
+    "boletin": "9192",
+    "fecha": "15/04/2014",
+    "chamber": "senado",
+    "materia": "Proyecto de ley que modifica el decreto con fuerza de ley N° 1.282, del año 1975, del Ministerio de Hacienda, que establece el monto de impuestos y exenciones, en las actuaciones del Servicio de Registro Civil e Identificación (Boletín Nº 9.192-07).",
+    "descripcion": "Proyecto de ley que modifica el decreto con fuerza de ley N° 1.282, del año 1975, del Ministerio de Hacienda, que establece el monto de impuestos y exenciones, en las actuaciones del Servicio de Registro Civil e Identificación (Boletín Nº 9.192-07).",
+    "tags": [
+      "economia",
+      "tributario"
+    ],
+    "votos": {
+      "1117": "afavor"
+    }
+  },
+  {
+    "id": "senado-9199-22/01/2014",
+    "boletin": "9199",
+    "fecha": "22/01/2014",
+    "chamber": "senado",
+    "materia": "Aprobación, en general y en particular, del proyecto de ley, en segundo trámite constitucional, que rebaja el impuesto territorial correspondiente a propiedades de adultos mayores vulnerables económicamente (Boletín 9.199-05)",
+    "descripcion": "Aprobación, en general y en particular, del proyecto de ley, en segundo trámite constitucional, que rebaja el impuesto territorial correspondiente a propiedades de adultos mayores vulnerables económicamente (Boletín 9.199-05)",
+    "tags": [
+      "economia",
+      "tributario",
+      "constitucional"
+    ],
+    "votos": {
+      "911": "afavor"
+    }
+  },
+  {
+    "id": "senado-9228-22/01/2014",
+    "boletin": "9228",
+    "fecha": "22/01/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que modifica Título II de ley N° 19.882, que fija condiciones especiales, para la bonificación por retiro voluntario por el período que indica y, otorga otros beneficios por retiro (Boletín 9.228-05)",
+    "descripcion": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que modifica Título II de ley N° 19.882, que fija condiciones especiales, para la bonificación por retiro voluntario por el período que indica y, otorga otros beneficios por retiro (Boletín 9.228-05)",
+    "tags": [
+      "constitucional"
+    ],
+    "votos": {
+      "911": "afavor"
+    }
+  },
+  {
+    "id": "senado-9231-05/03/2014",
+    "boletin": "9231",
+    "fecha": "05/03/2014",
+    "chamber": "senado",
+    "materia": "Proyecto de ley, en segundo trámite constitucional, que prorroga cotización extraordinaria para el seguro social contra riesgos de accidentes del trabajo y enfermedades profesionales y modifica ley N° 19.578, con informes de las Comisiones de Trabajo y Previsión Social y de Hacienda. (proyecto de artículo único). (Boletín N° 9.231-13).",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que prorroga cotización extraordinaria para el seguro social contra riesgos de accidentes del trabajo y enfermedades profesionales y modifica ley N° 19.578, con informes de las Comisiones de Trabajo y Previsión Social y de Hacienda. (proyecto de artículo único). (Boletín N° 9.231-13).",
+    "tags": [
+      "salud",
+      "trabajo",
+      "social",
+      "constitucional"
+    ],
+    "votos": {
+      "911": "afavor"
+    }
+  },
+  {
+    "id": "senado-9232-13/05/2014",
+    "boletin": "9232",
+    "fecha": "13/05/2014",
+    "chamber": "senado",
+    "materia": "Proyecto de ley, iniciado en Moción de los Honorables Senadores señora Pérez San Martín, señores Pérez Varela, Tuma y Walker, don Patricio, y del ex Senador señor Gómez, en primer trámite constitucional, que modifica el artículo 66 A de la Ley Orgánica Constitucional del Congreso Nacional, en materia de reelección de los integrantes del Comité de Auditoría Parlamentaria, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento (Boletín N° 9.232-07).",
+    "descripcion": "Proyecto de ley, iniciado en Moción de los Honorables Senadores señora Pérez San Martín, señores Pérez Varela, Tuma y Walker, don Patricio, y del ex Senador señor Gómez, en primer trámite constitucional, que modifica el artículo 66 A de la Ley Orgánica Constitucional del Congreso Nacional, en materia de reelección de los integrantes del Comité de Auditoría Parlamentaria, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento (Boletín N° 9.232-07).",
+    "tags": [
+      "justicia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9232-20/08/2014",
+    "boletin": "9232",
+    "fecha": "20/08/2014",
+    "chamber": "senado",
+    "materia": "Proyecto de ley, iniciado en Moción de los Honorables Senadores señora Pérez San Martín y señores Pérez Varela, Walker, don Patricio y del ex Senador señor Gómez, en primer trámite constitucional, que modifica el artículo 66 A de la Ley Orgánica Constitucional del Congreso Nacional, en materia de reelección de los integrantes del Comité de Auditoría Parlamentaria, con segundo informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (discusión en particular). (Boletín N° 9.232-07).",
+    "descripcion": "Proyecto de ley, iniciado en Moción de los Honorables Senadores señora Pérez San Martín y señores Pérez Varela, Walker, don Patricio y del ex Senador señor Gómez, en primer trámite constitucional, que modifica el artículo 66 A de la Ley Orgánica Constitucional del Congreso Nacional, en materia de reelección de los integrantes del Comité de Auditoría Parlamentaria, con segundo informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (discusión en particular). (Boletín N° 9.232-07).",
+    "tags": [
+      "justicia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9233-16/04/2014",
+    "boletin": "9233",
+    "fecha": "16/04/2014",
+    "chamber": "senado",
+    "materia": "Discusión en general del proyecto de ley, en primer trámite constitucional, que modifica la ley N° 19.220, que regula el establecimiento de bolsas de productos agropecuarios, con informe de la Comisión de Hacienda. (Boletín N° 9.233-01).",
+    "descripcion": "Discusión en general del proyecto de ley, en primer trámite constitucional, que modifica la ley N° 19.220, que regula el establecimiento de bolsas de productos agropecuarios, con informe de la Comisión de Hacienda. (Boletín N° 9.233-01).",
+    "tags": [
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor"
+    }
+  },
+  {
+    "id": "senado-9238-01/07/2014",
+    "boletin": "9238",
+    "fecha": "01/07/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que establece mejoras para el personal del Servicio Médico Legal, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento (Boletín Nº 9.238-07)",
+    "descripcion": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que establece mejoras para el personal del Servicio Médico Legal, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento (Boletín Nº 9.238-07)",
+    "tags": [
+      "salud",
+      "justicia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor"
+    }
+  },
+  {
+    "id": "senado-9238-08/07/2014",
+    "boletin": "9238",
+    "fecha": "08/07/2014",
+    "chamber": "senado",
+    "materia": "Proyecto de ley, en segundo trámite constitucional, que establece mejoras para el personal del Servicio Médico Legal, con informe de la Comisión de Hacienda. (Boletín 9238-07)",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que establece mejoras para el personal del Servicio Médico Legal, con informe de la Comisión de Hacienda. (Boletín 9238-07)",
+    "tags": [
+      "salud",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9243-09/09/2014",
+    "boletin": "9243",
+    "fecha": "09/09/2014",
+    "chamber": "senado",
+    "materia": "Aprobación del proyecto de acuerdo, en general y en particular, que aprueba el Acuerdo entre el Gobierno de Chile y el Gobierno de los Estados Unidos de América en Materia de Incremento de la Cooperación en la Prevención y Combate del Delito Grave, suscrito en Washington, D.C., el 30 de mayo de 2013, con informe de la Comisión de Relaciones Exteriores. (Boletín N° 9.243-10).",
+    "descripcion": "Aprobación del proyecto de acuerdo, en general y en particular, que aprueba el Acuerdo entre el Gobierno de Chile y el Gobierno de los Estados Unidos de América en Materia de Incremento de la Cooperación en la Prevención y Combate del Delito Grave, suscrito en Washington, D.C., el 30 de mayo de 2013, con informe de la Comisión de Relaciones Exteriores. (Boletín N° 9.243-10).",
+    "tags": [
+      "seguridad"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "abstencion",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9245-20/05/2014",
+    "boletin": "9245",
+    "fecha": "20/05/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general del proyecto de ley, iniciado en Mensaje del señor ex Presidente de la República, en primer trámite constitucional, que regula entrevistas grabadas en vídeo y otras medidas de resguardo a menores de edad víctimas de delitos sexuales, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento (Boletín N° 9.245-07)",
+    "descripcion": "Aprobación en general del proyecto de ley, iniciado en Mensaje del señor ex Presidente de la República, en primer trámite constitucional, que regula entrevistas grabadas en vídeo y otras medidas de resguardo a menores de edad víctimas de delitos sexuales, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento (Boletín N° 9.245-07)",
+    "tags": [
+      "seguridad",
+      "derechos",
+      "justicia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9246-19/11/2014",
+    "boletin": "9246",
+    "fecha": "19/11/2014",
+    "chamber": "senado",
+    "materia": "Proyecto de ley, en segundo trámite constitucional, que establece una asignación de función penitenciaria para el personal de Gendarmería de Chile, con informe de la Comisión de Hacienda (Boletín 9.246-05)",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que establece una asignación de función penitenciaria para el personal de Gendarmería de Chile, con informe de la Comisión de Hacienda (Boletín 9.246-05)",
+    "tags": [
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9273-19/03/2014",
+    "boletin": "9273",
+    "fecha": "19/03/2014",
+    "chamber": "senado",
+    "materia": "Aprobación, en general y en particular, del proyecto de ley, en segundo trámite constitucional, que concede aporte familiar permanente de marzo y ajusta norma que indica, con informe de la Comisión de Hacienda. (Boletín N° 9.273-05). Con urgencia calificada de discusión inmediata.",
+    "descripcion": "Aprobación, en general y en particular, del proyecto de ley, en segundo trámite constitucional, que concede aporte familiar permanente de marzo y ajusta norma que indica, con informe de la Comisión de Hacienda. (Boletín N° 9.273-05). Con urgencia calificada de discusión inmediata.",
+    "tags": [
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9278-19/03/2014",
+    "boletin": "9278",
+    "fecha": "19/03/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que mejora normas en materia de contratación pública para proteger los derechos de los trabajadores de las empresas de aseo y extracción de residuos sólidos, otorgando la autorización que indica (Boletín Nº 9.278-06) Con urgencia calificada de discusión inmediata.",
+    "descripcion": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que mejora normas en materia de contratación pública para proteger los derechos de los trabajadores de las empresas de aseo y extracción de residuos sólidos, otorgando la autorización que indica (Boletín Nº 9.278-06) Con urgencia calificada de discusión inmediata.",
+    "tags": [
+      "medioambiente",
+      "trabajo",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9287-10/12/2014",
+    "boletin": "9287",
+    "fecha": "10/12/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que crea el Ministerio de la Mujer y la Equidad de Género, y modifica normas legales que indica, con informe de la Comisión de Gobierno, Descentralización y Regionalización. (Boletín N° 9.287-06). Con urgencia calificada de suma.",
+    "descripcion": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que crea el Ministerio de la Mujer y la Equidad de Género, y modifica normas legales que indica, con informe de la Comisión de Gobierno, Descentralización y Regionalización. (Boletín N° 9.287-06). Con urgencia calificada de suma.",
+    "tags": [
+      "descentralizacion",
+      "genero",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9288-20/05/2014",
+    "boletin": "9288",
+    "fecha": "20/05/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general del proyecto de ley que aumenta bonificación por calidad de satisfacción al usuario, para los funcionarios del Servicio de Registro Civil e Identificación, establecida en la ley N° 20.342, con informe de la Comisión de Hacienda (Boletín N° 9.288-05).",
+    "descripcion": "Aprobación en general del proyecto de ley que aumenta bonificación por calidad de satisfacción al usuario, para los funcionarios del Servicio de Registro Civil e Identificación, establecida en la ley N° 20.342, con informe de la Comisión de Hacienda (Boletín N° 9.288-05).",
+    "tags": [
+      "otro"
+    ],
+    "votos": {
+      "1115": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9290-15/07/2014",
+    "boletin": "9290",
+    "fecha": "15/07/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general del proyecto de ley de reforma tributaria, en segundo trámite constitucional, que modifica el sistema de tributación de la renta e introduce diversos ajustes en el sistema tributario, con informe de la Comisión de Hacienda. (Boletín N° 9.290-05). Con urgencia calificada de simple.",
+    "descripcion": "Aprobación en general del proyecto de ley de reforma tributaria, en segundo trámite constitucional, que modifica el sistema de tributación de la renta e introduce diversos ajustes en el sistema tributario, con informe de la Comisión de Hacienda. (Boletín N° 9.290-05). Con urgencia calificada de simple.",
+    "tags": [
+      "economia",
+      "tributario",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "abstencion",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9290-19/08/2014",
+    "boletin": "9290",
+    "fecha": "19/08/2014",
+    "chamber": "senado",
+    "materia": "Enmiendas unánimes propuestas por la Comisión al proyecto de reforma tributaria, en segundo trámite constitucional, que modifica el sistema de tributación de la renta e introduce diversos ajustes en el sistema tributario (Boletín Nº 9.290-05). Con urgencia calificada de simple.",
+    "descripcion": "Enmiendas unánimes propuestas por la Comisión al proyecto de reforma tributaria, en segundo trámite constitucional, que modifica el sistema de tributación de la renta e introduce diversos ajustes en el sistema tributario (Boletín Nº 9.290-05). Con urgencia calificada de simple.",
+    "tags": [
+      "economia",
+      "tributario",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "abstencion",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9293-08/04/2014",
+    "boletin": "9293",
+    "fecha": "08/04/2014",
+    "chamber": "senado",
+    "materia": "Votación en general y en particular del proyecto de ley, en segundo trámite constitucional, que establece normas transitorias para enfrentar las consecuencias en el sector pesquero artesanal del terremoto y posterior maremoto de 1 de abril de 2014 en las regiones de Arica y Parinacota, y de Tarapacá. (Boletín 9293-21).",
+    "descripcion": "Votación en general y en particular del proyecto de ley, en segundo trámite constitucional, que establece normas transitorias para enfrentar las consecuencias en el sector pesquero artesanal del terremoto y posterior maremoto de 1 de abril de 2014 en las regiones de Arica y Parinacota, y de Tarapacá. (Boletín 9293-21).",
+    "tags": [
+      "cultura",
+      "tributario",
+      "constitucional"
+    ],
+    "votos": {
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9294-23/04/2014",
+    "boletin": "9294",
+    "fecha": "23/04/2014",
+    "chamber": "senado",
+    "materia": "Votación en general del proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 19.175, Orgánica Constitucional sobre Gobierno y Administración Regional, disponiendo funciones y atribuciones, para el Presidente del Consejo Regional, con informe de la Comisión de Gobierno, Descentralización y Regionalización. (Boletín N° 9.294-06). Con urgencia calificada de discusión inmediata.",
+    "descripcion": "Votación en general del proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 19.175, Orgánica Constitucional sobre Gobierno y Administración Regional, disponiendo funciones y atribuciones, para el Presidente del Consejo Regional, con informe de la Comisión de Gobierno, Descentralización y Regionalización. (Boletín N° 9.294-06). Con urgencia calificada de discusión inmediata.",
+    "tags": [
+      "descentralizacion",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9294-06/05/2014",
+    "boletin": "9294",
+    "fecha": "06/05/2014",
+    "chamber": "senado",
+    "materia": "Enmiendas unánimes propuestas por la Comisión al proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 19.175, Orgánica Constitucional sobre Gobierno y Administración Regional, disponiendo funciones y atribuciones para el Presidente del Consejo Regional, con segundo informe de la Comisión de Gobierno, Descentralización y Regionalización. (Boletín N° 9.294-06).",
+    "descripcion": "Enmiendas unánimes propuestas por la Comisión al proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 19.175, Orgánica Constitucional sobre Gobierno y Administración Regional, disponiendo funciones y atribuciones para el Presidente del Consejo Regional, con segundo informe de la Comisión de Gobierno, Descentralización y Regionalización. (Boletín N° 9.294-06).",
+    "tags": [
+      "descentralizacion",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "abstencion"
+    }
+  },
+  {
+    "id": "senado-9324-23/09/2014",
+    "boletin": "9324",
+    "fecha": "23/09/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general del proyecto de ley, iniciado en Moción de los Honorables Senadores señores Letelier, Chahuán, García-Huidobro, Lagos y Pizarro, en primer trámite constitucional, que establece la conmemoración anual el 20 de junio del Día Mundial del Refugiado y el 18 de diciembre del Día Mundial de los Inmigrantes, con informe de la Comisión de Relaciones Exteriores (Boletín N° 9.324-17).",
+    "descripcion": "Aprobación en general del proyecto de ley, iniciado en Moción de los Honorables Senadores señores Letelier, Chahuán, García-Huidobro, Lagos y Pizarro, en primer trámite constitucional, que establece la conmemoración anual el 20 de junio del Día Mundial del Refugiado y el 18 de diciembre del Día Mundial de los Inmigrantes, con informe de la Comisión de Relaciones Exteriores (Boletín N° 9.324-17).",
+    "tags": [
+      "inmigracion",
+      "constitucional"
+    ],
+    "votos": {
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9326-12/11/2014",
+    "boletin": "9326",
+    "fecha": "12/11/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que sustituye el sistema electoral binominal por uno de carácter proporcional inclusivo y fortalece la representatividad del Congreso Nacional, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento (Boletín N° 9.326-07). Con urgencia calificada de suma.",
+    "descripcion": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que sustituye el sistema electoral binominal por uno de carácter proporcional inclusivo y fortalece la representatividad del Congreso Nacional, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento (Boletín N° 9.326-07). Con urgencia calificada de suma.",
+    "tags": [
+      "justicia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "contra",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9330-14/10/2014",
+    "boletin": "9330",
+    "fecha": "14/10/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general y en particular del proyecto de ley, en segundo trámite constitucional, que instaura el Día Nacional del Medio Ambiente, con informe de la Comisión de Medio Ambiente y Bienes Nacionales. (proyecto de artículo único). (Boletín Nº 9.330-12).",
+    "descripcion": "Aprobación en general y en particular del proyecto de ley, en segundo trámite constitucional, que instaura el Día Nacional del Medio Ambiente, con informe de la Comisión de Medio Ambiente y Bienes Nacionales. (proyecto de artículo único). (Boletín Nº 9.330-12).",
+    "tags": [
+      "medioambiente",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9332-11/06/2014",
+    "boletin": "9332",
+    "fecha": "11/06/2014",
+    "chamber": "senado",
+    "materia": "Proyecto de acuerdo, en primer trámite constitucional, que aprueba el Tratado de Extradición entre el Gobierno de la República de Chile y el Gobierno de los Estados Unidos de América, suscrito en Washington, el 5 de junio de 2013, con informe de la Comisión de Relaciones Exteriores. (discusión en general y en particular). (Boletín Nº 9.332-10).",
+    "descripcion": "Proyecto de acuerdo, en primer trámite constitucional, que aprueba el Tratado de Extradición entre el Gobierno de la República de Chile y el Gobierno de los Estados Unidos de América, suscrito en Washington, el 5 de junio de 2013, con informe de la Comisión de Relaciones Exteriores. (discusión en general y en particular). (Boletín Nº 9.332-10).",
+    "tags": [
+      "constitucional"
+    ],
+    "votos": {
+      "1115": "contra",
+      "1117": "afavor"
+    }
+  },
+  {
+    "id": "senado-9333-09/07/2014",
+    "boletin": "9333",
+    "fecha": "09/07/2014",
+    "chamber": "senado",
+    "materia": "Votación en general del proyecto de ley, en segundo trámite constitucional, que crea el Administrador Provisional y Administrador de Cierre de Instituciones de Educación Superior y establece regulaciones en materia de administración provisional de sostenedores educacionales, con informe de la Comisión de Educación, Cultura, Ciencia y Tecnología. (Boletín Nº 9.333-04). Con urgencia calificada de discusión inmediata.",
+    "descripcion": "Votación en general del proyecto de ley, en segundo trámite constitucional, que crea el Administrador Provisional y Administrador de Cierre de Instituciones de Educación Superior y establece regulaciones en materia de administración provisional de sostenedores educacionales, con informe de la Comisión de Educación, Cultura, Ciencia y Tecnología. (Boletín Nº 9.333-04). Con urgencia calificada de discusión inmediata.",
+    "tags": [
+      "educacion",
+      "cultura",
+      "tecnologia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9333-01/10/2014",
+    "boletin": "9333",
+    "fecha": "01/10/2014",
+    "chamber": "senado",
+    "materia": "Modificaciones unánimes propuestas al proyecto de ley, en segundo trámite constitucional, que crea el Administrador Provisional y Administrador de Cierre de Instituciones de Educación Superior y establece regulaciones en materia de administración provisional de sostenedores educacionales, con segundo informe de la Comisión de Educación, Cultura, Ciencia y Tecnología e informe de la Comisión de Hacienda. (discusión en particular). (Boletín Nº 9.333-04). Con urgencia calificada de suma. .",
+    "descripcion": "Modificaciones unánimes propuestas al proyecto de ley, en segundo trámite constitucional, que crea el Administrador Provisional y Administrador de Cierre de Instituciones de Educación Superior y establece regulaciones en materia de administración provisional de sostenedores educacionales, con segundo informe de la Comisión de Educación, Cultura, Ciencia y Tecnología e informe de la Comisión de Hacienda. (discusión en particular). (Boletín Nº 9.333-04). Con urgencia calificada de suma. .",
+    "tags": [
+      "educacion",
+      "cultura",
+      "tecnologia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9333-21/10/2014",
+    "boletin": "9333",
+    "fecha": "21/10/2014",
+    "chamber": "senado",
+    "materia": "Informe de la Comisión Mixta, constituida conforme lo dispone el artículo 71 de la Constitución Política de la República, recaído en el proyecto de ley que crea el Administrador Provisional y Administrador de Cierre de Instituciones de Educación Superior y establece regulaciones en materia de administración provisional de sostenedores educacionales (Boletín N° 9.333-04).",
+    "descripcion": "Informe de la Comisión Mixta, constituida conforme lo dispone el artículo 71 de la Constitución Política de la República, recaído en el proyecto de ley que crea el Administrador Provisional y Administrador de Cierre de Instituciones de Educación Superior y establece regulaciones en materia de administración provisional de sostenedores educacionales (Boletín N° 9.333-04).",
+    "tags": [
+      "educacion",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9336-08/10/2014",
+    "boletin": "9336",
+    "fecha": "08/10/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que aumenta las plantas de personal de Carabineros de Chile; modifica la ley N° 20.502, que crea el Ministerio del Interior y Seguridad Pública, y la ley N° 18.961, orgánica constitucional de Carabineros, con informe de la Comisión de Gobierno, Descentralización y Regionalización (Boletín N° 9.336-25).",
+    "descripcion": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que aumenta las plantas de personal de Carabineros de Chile; modifica la ley N° 20.502, que crea el Ministerio del Interior y Seguridad Pública, y la ley N° 18.961, orgánica constitucional de Carabineros, con informe de la Comisión de Gobierno, Descentralización y Regionalización (Boletín N° 9.336-25).",
+    "tags": [
+      "seguridad",
+      "descentralizacion",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9353-22/07/2014",
+    "boletin": "9353",
+    "fecha": "22/07/2014",
+    "chamber": "senado",
+    "materia": "Votación en general y en particular recaída en el proyecto de ley, en primer trámite constitucional, que declara feriado el día 2 de octubre de 2014, para la comuna de Rancagua (Boletín Nª 9.353-06)",
+    "descripcion": "Votación en general y en particular recaída en el proyecto de ley, en primer trámite constitucional, que declara feriado el día 2 de octubre de 2014, para la comuna de Rancagua (Boletín Nª 9.353-06)",
+    "tags": [
+      "medioambiente",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "pareo"
+    }
+  },
+  {
+    "id": "senado-9365-05/08/2014",
+    "boletin": "9365",
+    "fecha": "05/08/2014",
+    "chamber": "senado",
+    "materia": "Votación en general del proyecto de ley, iniciado en Mensaje de S.E. la Presidenta de la República, en primer trámite constitucional, que crea la Subsecretaría de Educación Parvularia, la Intendencia de Educación Parvularia y modifica diversos cuerpos legales, con informe de la Comisión de Educación, Cultura, Ciencia y Tecnología. (Boletín N° 9.365-04). Con urgencia calificada de simple.",
+    "descripcion": "Votación en general del proyecto de ley, iniciado en Mensaje de S.E. la Presidenta de la República, en primer trámite constitucional, que crea la Subsecretaría de Educación Parvularia, la Intendencia de Educación Parvularia y modifica diversos cuerpos legales, con informe de la Comisión de Educación, Cultura, Ciencia y Tecnología. (Boletín N° 9.365-04). Con urgencia calificada de simple.",
+    "tags": [
+      "educacion",
+      "cultura",
+      "tecnologia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9365-16/12/2014",
+    "boletin": "9365",
+    "fecha": "16/12/2014",
+    "chamber": "senado",
+    "materia": "Modificaciones unánimes propuestas por la Comisión de Educación, Cultura, Ciencia y Tecnologían, no controvertidas por Hacienda, y artículo transitorio modificado por la Comisión de Hacienda al proyecto de ley, en primer trámite constitucional, que crea la Subsecretaría de Educación Parvularia, la Intendencia de Educación Parvularia y modifica diversos cuerpos legales, con segundo informe de la Comisión de Educación, Cultura, Ciencia y Tecnología e informe de la Comisión de Hacienda (Boletín N° 9.365-04).",
+    "descripcion": "Modificaciones unánimes propuestas por la Comisión de Educación, Cultura, Ciencia y Tecnologían, no controvertidas por Hacienda, y artículo transitorio modificado por la Comisión de Hacienda al proyecto de ley, en primer trámite constitucional, que crea la Subsecretaría de Educación Parvularia, la Intendencia de Educación Parvularia y modifica diversos cuerpos legales, con segundo informe de la Comisión de Educación, Cultura, Ciencia y Tecnología e informe de la Comisión de Hacienda (Boletín N° 9.365-04).",
+    "tags": [
+      "educacion",
+      "cultura",
+      "tecnologia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9366-17/12/2014",
+    "boletin": "9366",
+    "fecha": "17/12/2014",
+    "chamber": "senado",
+    "materia": "Votación en general del proyecto de ley, en segundo trámite constitucional, que regula la admisión de los y las estudiantes, elimina el financiamiento compartido y prohíbe el lucro en establecimientos educacionales que reciben aportes del Estado, con informe de la Comisión de Educación, Cultura, Ciencia y Tecnología. (Boletín Nº 9.366-04). Con urgencia calificada de discusión inmediata.",
+    "descripcion": "Votación en general del proyecto de ley, en segundo trámite constitucional, que regula la admisión de los y las estudiantes, elimina el financiamiento compartido y prohíbe el lucro en establecimientos educacionales que reciben aportes del Estado, con informe de la Comisión de Educación, Cultura, Ciencia y Tecnología. (Boletín Nº 9.366-04). Con urgencia calificada de discusión inmediata.",
+    "tags": [
+      "educacion",
+      "cultura",
+      "tecnologia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "contra",
+      "1120": "contra"
+    }
+  },
+  {
+    "id": "senado-9372-01/07/2014",
+    "boletin": "9372",
+    "fecha": "01/07/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general, del proyecto de ley que modifica Código Orgánico de Tribunales para permitir que personas con capacidades especiales, puedan ser nombradas en cargos de juez o notario, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento (Boletín Nº 9.372-07)",
+    "descripcion": "Aprobación en general, del proyecto de ley que modifica Código Orgánico de Tribunales para permitir que personas con capacidades especiales, puedan ser nombradas en cargos de juez o notario, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento (Boletín Nº 9.372-07)",
+    "tags": [
+      "justicia",
+      "constitucional"
+    ],
+    "votos": {
+      "1115": "afavor",
+      "1117": "afavor"
+    }
+  },
+  {
+    "id": "senado-9372-13/08/2014",
+    "boletin": "9372",
+    "fecha": "13/08/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en particular del proyecto de ley, iniciado en moción de los Honorables Senadores señoras Allende, Goic y Muñoz y señores Espina y Harboe, en primer trámite constitucional, que modifica el Código Orgánico de Tribunales para permitir que personas con capacidades especiales puedan ser nombrados en los cargos de juez o notario, con segundo informe de la Comisión de Constitución, Legislación, Justicia y Reglamento (Boletín N° 9.372-07). Con urgencia calificada de simple.",
+    "descripcion": "Aprobación en particular del proyecto de ley, iniciado en moción de los Honorables Senadores señoras Allende, Goic y Muñoz y señores Espina y Harboe, en primer trámite constitucional, que modifica el Código Orgánico de Tribunales para permitir que personas con capacidades especiales puedan ser nombrados en los cargos de juez o notario, con segundo informe de la Comisión de Constitución, Legislación, Justicia y Reglamento (Boletín N° 9.372-07). Con urgencia calificada de simple.",
+    "tags": [
+      "justicia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9373-20/08/2014",
+    "boletin": "9373",
+    "fecha": "20/08/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que aumenta la dotación del personal de la Policía de Investigaciones de Chile; modifica el estatuto de su personal y modifica el decreto ley N° 2.460, de 1979, Ley Orgánica de la Policía de Investigaciones, con informe de la Comisión de Gobierno, Descentralización y Regionalización (Boletín Nº 9.373-25)",
+    "descripcion": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que aumenta la dotación del personal de la Policía de Investigaciones de Chile; modifica el estatuto de su personal y modifica el decreto ley N° 2.460, de 1979, Ley Orgánica de la Policía de Investigaciones, con informe de la Comisión de Gobierno, Descentralización y Regionalización (Boletín Nº 9.373-25)",
+    "tags": [
+      "seguridad",
+      "descentralizacion",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9373-24/09/2014",
+    "boletin": "9373",
+    "fecha": "24/09/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en particular del proyecto de ley, en segundo trámite constitucional, que aumenta dotación de personal de Policía de Investigaciones de Chile; modifica estatuto de su personal y modifica el decreto ley N° 2.460, de 1979, Ley Orgánica de la Policía de Investigaciones, con segundo informe de la Comisión de Gobierno, Descentralización y Regionalización e informe de la Comisión de Hacienda (Boletín N° 9.373-25).",
+    "descripcion": "Aprobación en particular del proyecto de ley, en segundo trámite constitucional, que aumenta dotación de personal de Policía de Investigaciones de Chile; modifica estatuto de su personal y modifica el decreto ley N° 2.460, de 1979, Ley Orgánica de la Policía de Investigaciones, con segundo informe de la Comisión de Gobierno, Descentralización y Regionalización e informe de la Comisión de Hacienda (Boletín N° 9.373-25).",
+    "tags": [
+      "seguridad",
+      "descentralizacion",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9382-11/06/2014",
+    "boletin": "9382",
+    "fecha": "11/06/2014",
+    "chamber": "senado",
+    "materia": "Aprobación, en general y en particular, del proyecto de ley, en segundo trámite constitucional, que otorga financiamiento a la reconstrucción de las zonas afectadas por las catástrofes ocurridas en el mes de abril en la zona norte del país y en la ciudad de Valparaíso, con informe de la Comisión de Hacienda (Boletín N° 9.382-05). Con urgencia calificada de discusión inmediata.",
+    "descripcion": "Aprobación, en general y en particular, del proyecto de ley, en segundo trámite constitucional, que otorga financiamiento a la reconstrucción de las zonas afectadas por las catástrofes ocurridas en el mes de abril en la zona norte del país y en la ciudad de Valparaíso, con informe de la Comisión de Hacienda (Boletín N° 9.382-05). Con urgencia calificada de discusión inmediata.",
+    "tags": [
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor"
+    }
+  },
+  {
+    "id": "senado-9383-13/08/2014",
+    "boletin": "9383",
+    "fecha": "13/08/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general y en particular, con modificaciones, del proyecto de ley, en segundo trámite constitucional, que modifica el Código del Trabajo y la Ley de Accidentes del Trabajo y Enfermedades Profesionales, en materia de trabajo portuario, estableciendo las obligaciones y beneficios que indica, con informes de las Comisiones de Trabajo y Previsión Social y de Hacienda. (proyecto discutido en general y en particular por la Comisión de Trabajo y Previsión Social). (Boletín N° 9.383-05). Con urgencia calificada de suma.",
+    "descripcion": "Aprobación en general y en particular, con modificaciones, del proyecto de ley, en segundo trámite constitucional, que modifica el Código del Trabajo y la Ley de Accidentes del Trabajo y Enfermedades Profesionales, en materia de trabajo portuario, estableciendo las obligaciones y beneficios que indica, con informes de las Comisiones de Trabajo y Previsión Social y de Hacienda. (proyecto discutido en general y en particular por la Comisión de Trabajo y Previsión Social). (Boletín N° 9.383-05). Con urgencia calificada de suma.",
+    "tags": [
+      "salud",
+      "trabajo",
+      "social",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9384-09/09/2014",
+    "boletin": "9384",
+    "fecha": "09/09/2014",
+    "chamber": "senado",
+    "materia": "Votación en general del proyecto de reforma constitucional, iniciado en Moción de los Honorables Senadores señores Harboe, Araya, Lagos, Larraín y Tuma, en primer trámite constitucional, que consagra el derecho a la protección de los datos personales, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento (Boletín N° 9.384-07).",
+    "descripcion": "Votación en general del proyecto de reforma constitucional, iniciado en Moción de los Honorables Senadores señores Harboe, Araya, Lagos, Larraín y Tuma, en primer trámite constitucional, que consagra el derecho a la protección de los datos personales, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento (Boletín N° 9.384-07).",
+    "tags": [
+      "justicia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9389-02/07/2014",
+    "boletin": "9389",
+    "fecha": "02/07/2014",
+    "chamber": "senado",
+    "materia": "Aprobación, en general y en particular, del proyecto de ley, en segundo trámite constitucional, que crea mecanismo de estabilización de precios de los combustibles que indica, con informe de la Comisión de Hacienda. (Boletín N° 9.389-05). Con urgencia calificada de discusión inmediata.",
+    "descripcion": "Aprobación, en general y en particular, del proyecto de ley, en segundo trámite constitucional, que crea mecanismo de estabilización de precios de los combustibles que indica, con informe de la Comisión de Hacienda. (Boletín N° 9.389-05). Con urgencia calificada de discusión inmediata.",
+    "tags": [
+      "transporte",
+      "energia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor"
+    }
+  },
+  {
+    "id": "senado-9398-20/08/2014",
+    "boletin": "9398",
+    "fecha": "20/08/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general del proyecto de ley, iniciado en Mensaje de S.E. la Presidenta de la República, en primer trámite constitucional, que modifica el régimen de probidad aplicable al Consejo Nacional de Televisión, con informe de la Comisión de Educación, Cultura, Ciencia y Tecnología(Boletín N° 9.398-04). Con urgencia calificada de suma.",
+    "descripcion": "Aprobación en general del proyecto de ley, iniciado en Mensaje de S.E. la Presidenta de la República, en primer trámite constitucional, que modifica el régimen de probidad aplicable al Consejo Nacional de Televisión, con informe de la Comisión de Educación, Cultura, Ciencia y Tecnología(Boletín N° 9.398-04). Con urgencia calificada de suma.",
+    "tags": [
+      "educacion",
+      "cultura",
+      "tecnologia",
+      "constitucional",
+      "transparencia"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9407-05/08/2014",
+    "boletin": "9407",
+    "fecha": "05/08/2014",
+    "chamber": "senado",
+    "materia": "Votación en general del proyecto de ley, iniciado en Moción de los Honorables Senadores señores García y Tuma, en primer trámite constitucional, que modifica la ley N° 20.234, que establece un procedimiento de saneamiento y regularización de loteos, y amplía su plazo de vigencia, con informe de la Comisión de Vivienda y Urbanismo. (Boletín N° 9.407-14).",
+    "descripcion": "Votación en general del proyecto de ley, iniciado en Moción de los Honorables Senadores señores García y Tuma, en primer trámite constitucional, que modifica la ley N° 20.234, que establece un procedimiento de saneamiento y regularización de loteos, y amplía su plazo de vigencia, con informe de la Comisión de Vivienda y Urbanismo. (Boletín N° 9.407-14).",
+    "tags": [
+      "vivienda",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9407-18/11/2014",
+    "boletin": "9407",
+    "fecha": "18/11/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en particular del proyecto de ley, iniciado en Moción de los Honorables Senadores señores García y Tuma, en primer trámite constitucional, que modifica la ley N° 20.234, que establece un procedimiento de saneamiento y regularización de loteos, y amplía su plazo de vigencia, con segundo informe de la Comisión de Vivienda y Urbanismo. (Boletín N° 9.407-14). Con urgencia calificada de suma.",
+    "descripcion": "Aprobación en particular del proyecto de ley, iniciado en Moción de los Honorables Senadores señores García y Tuma, en primer trámite constitucional, que modifica la ley N° 20.234, que establece un procedimiento de saneamiento y regularización de loteos, y amplía su plazo de vigencia, con segundo informe de la Comisión de Vivienda y Urbanismo. (Boletín N° 9.407-14). Con urgencia calificada de suma.",
+    "tags": [
+      "vivienda",
+      "constitucional"
+    ],
+    "votos": {
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9409-14/10/2014",
+    "boletin": "9409",
+    "fecha": "14/10/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general del proyecto de ley, iniciado en Moción de los Honorables Senadores señoras Allende y Pérez San Martín y señores Espina, Harboe y Letelier, en primer trámite constitucional, que deroga los numerales 1.° y 2.° del artículo 497 del Código Civil, relativos a la incapacidad de ciegos y mudos para desempeñar toda clase de tutelas o curatelas, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (Boletín N° 9.409-07).",
+    "descripcion": "Aprobación en general del proyecto de ley, iniciado en Moción de los Honorables Senadores señoras Allende y Pérez San Martín y señores Espina, Harboe y Letelier, en primer trámite constitucional, que deroga los numerales 1.° y 2.° del artículo 497 del Código Civil, relativos a la incapacidad de ciegos y mudos para desempeñar toda clase de tutelas o curatelas, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (Boletín N° 9.409-07).",
+    "tags": [
+      "justicia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9411-13/08/2014",
+    "boletin": "9411",
+    "fecha": "13/08/2014",
+    "chamber": "senado",
+    "materia": "Votación en general del proyecto de ley, en segundo trámite constitucional, que modifica la Ley de Tránsito, en lo que se refiere al delito de manejo en estado de ebriedad causando lesiones graves gravísimas o con resultado de muerte, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (discusión en general). (Boletín N° 9.411-15). Con urgencia calificada de suma.",
+    "descripcion": "Votación en general del proyecto de ley, en segundo trámite constitucional, que modifica la Ley de Tránsito, en lo que se refiere al delito de manejo en estado de ebriedad causando lesiones graves gravísimas o con resultado de muerte, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (discusión en general). (Boletín N° 9.411-15). Con urgencia calificada de suma.",
+    "tags": [
+      "seguridad",
+      "transporte",
+      "justicia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor"
+    }
+  },
+  {
+    "id": "senado-9411-10/09/2014",
+    "boletin": "9411",
+    "fecha": "10/09/2014",
+    "chamber": "senado",
+    "materia": "Aprobación de enmiendas propuestas por la Comisión al proyecto de ley, en segundo trámite constitucional, que modifica la Ley de Tránsito, en lo que se refiere al delito de manejo en estado de ebriedad, causando lesiones graves gravísimas o con resultado de muerte, con segundo informe de la Comisión de Constitución, Legislación, Justicia y Reglamento (discusión en particular). (Boletín N° 9.411-15). Con urgencia calificada de discusión inmediata.",
+    "descripcion": "Aprobación de enmiendas propuestas por la Comisión al proyecto de ley, en segundo trámite constitucional, que modifica la Ley de Tránsito, en lo que se refiere al delito de manejo en estado de ebriedad, causando lesiones graves gravísimas o con resultado de muerte, con segundo informe de la Comisión de Constitución, Legislación, Justicia y Reglamento (discusión en particular). (Boletín N° 9.411-15). Con urgencia calificada de discusión inmediata.",
+    "tags": [
+      "seguridad",
+      "transporte",
+      "justicia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9420-21/10/2014",
+    "boletin": "9420",
+    "fecha": "21/10/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general y en particular del proyecto de acuerdo, en segundo trámite constitucional, que aprueba el Acuerdo entre el Gobierno de la República de Chile y el Gobierno de la República de Moldova sobre Exención de Requisito de Visa para Titulares de Pasaportes Diplomáticos, Oficiales y de Servicio, suscrito en Chisinau, República de Moldova, el 18 de julio de 2013, con informe de la Comisión de Relaciones Exteriores (Boletín Nº 9.420-10).",
+    "descripcion": "Aprobación en general y en particular del proyecto de acuerdo, en segundo trámite constitucional, que aprueba el Acuerdo entre el Gobierno de la República de Chile y el Gobierno de la República de Moldova sobre Exención de Requisito de Visa para Titulares de Pasaportes Diplomáticos, Oficiales y de Servicio, suscrito en Chisinau, República de Moldova, el 18 de julio de 2013, con informe de la Comisión de Relaciones Exteriores (Boletín Nº 9.420-10).",
+    "tags": [
+      "inmigracion",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9421-02/09/2014",
+    "boletin": "9421",
+    "fecha": "02/09/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general y en particular del proyecto de ley, en segundo trámite constitucional, que modifica y perfecciona la ley que rige al Ministerio de Energía, con informes de las Comisiones de Minería y Energía y de Hacienda (Boletín N° 9.421-08). Con urgencia calificada de suma.",
+    "descripcion": "Aprobación en general y en particular del proyecto de ley, en segundo trámite constitucional, que modifica y perfecciona la ley que rige al Ministerio de Energía, con informes de las Comisiones de Minería y Energía y de Hacienda (Boletín N° 9.421-08). Con urgencia calificada de suma.",
+    "tags": [
+      "energia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9423-08/07/2014",
+    "boletin": "9423",
+    "fecha": "08/07/2014",
+    "chamber": "senado",
+    "materia": "Proyecto de ley, en segundo trámite constitucional, que reajusta el monto del ingreso mínimo mensual, de la asignación familiar y maternal, y del subsidio familiar, para los períodos que indica, con informe de la Comisión de Hacienda (Boletín Nº 9.423-05) Con urgencia calificada de discusión inmediata.",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que reajusta el monto del ingreso mínimo mensual, de la asignación familiar y maternal, y del subsidio familiar, para los períodos que indica, con informe de la Comisión de Hacienda (Boletín Nº 9.423-05) Con urgencia calificada de discusión inmediata.",
+    "tags": [
+      "social",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9439-04/11/2014",
+    "boletin": "9439",
+    "fecha": "04/11/2014",
+    "chamber": "senado",
+    "materia": "Aprobación, en general y en particular, del proyecto de acuerdo, en segundo trámite constitucional, que aprueba el Memorándum de Entendimiento entre el Gobierno de la República de Chile y el Gobierno del Reino de Dinamarca, en materia de programa de vacaciones con permiso de trabajo (Working Holiday Programme), suscrito en Copenhague, Dinamarca, el 8 de diciembre de 2008, con informe de la Comisión de Relaciones Exteriores (Boletín N° 9.439-10).",
+    "descripcion": "Aprobación, en general y en particular, del proyecto de acuerdo, en segundo trámite constitucional, que aprueba el Memorándum de Entendimiento entre el Gobierno de la República de Chile y el Gobierno del Reino de Dinamarca, en materia de programa de vacaciones con permiso de trabajo (Working Holiday Programme), suscrito en Copenhague, Dinamarca, el 8 de diciembre de 2008, con informe de la Comisión de Relaciones Exteriores (Boletín N° 9.439-10).",
+    "tags": [
+      "trabajo",
+      "constitucional"
+    ],
+    "votos": {
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9515-19/11/2014",
+    "boletin": "9515",
+    "fecha": "19/11/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que introduce modificaciones a la Ley General de Servicios Eléctricos, perfeccionando el sistema de licitaciones de suministro eléctrico para clientes sometidos a regulaciones de precios, con informe de la Comisión de Minería y Energía (Boletín N° 9.515-08). Con urgencia calificada de suma.",
+    "descripcion": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que introduce modificaciones a la Ley General de Servicios Eléctricos, perfeccionando el sistema de licitaciones de suministro eléctrico para clientes sometidos a regulaciones de precios, con informe de la Comisión de Minería y Energía (Boletín N° 9.515-08). Con urgencia calificada de suma.",
+    "tags": [
+      "energia",
+      "constitucional"
+    ],
+    "votos": {
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9515-16/12/2014",
+    "boletin": "9515",
+    "fecha": "16/12/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en particular del proyecto de ley, en segundo trámite constitucional, que introduce modificaciones a la ley General de Servicios Eléctricos, perfeccionando el sistema de licitaciones de suministro eléctrico para clientes sometidos a regulaciones de precios, con segundo informe de la Comisión de Minería y Energía (Boletín 9.515-08)",
+    "descripcion": "Aprobación en particular del proyecto de ley, en segundo trámite constitucional, que introduce modificaciones a la ley General de Servicios Eléctricos, perfeccionando el sistema de licitaciones de suministro eléctrico para clientes sometidos a regulaciones de precios, con segundo informe de la Comisión de Minería y Energía (Boletín 9.515-08)",
+    "tags": [
+      "energia",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9520-08/10/2014",
+    "boletin": "9520",
+    "fecha": "08/10/2014",
+    "chamber": "senado",
+    "materia": "Aprobación, en general y en particular, del proyecto de ley, en primer trámite constitucional, que faculta al Ministro de Hacienda para realizar un aporte extraordinario de capital al Banco del Estado de Chile, y amplía el Fondo de Garantía para Pequeños Empresarios, con informe de la Comisión de Hacienda (Boletín Nº 9.520-05). Con urgencia calificada de suma.",
+    "descripcion": "Aprobación, en general y en particular, del proyecto de ley, en primer trámite constitucional, que faculta al Ministro de Hacienda para realizar un aporte extraordinario de capital al Banco del Estado de Chile, y amplía el Fondo de Garantía para Pequeños Empresarios, con informe de la Comisión de Hacienda (Boletín Nº 9.520-05). Con urgencia calificada de suma.",
+    "tags": [
+      "constitucional"
+    ],
+    "votos": {
+      "1115": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9529-16/12/2014",
+    "boletin": "9529",
+    "fecha": "16/12/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general y en particular del proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 19.718, que crea la Defensoría Penal Pública, con el objeto de crear cargos para la defensa penal especializada en adolescentes. Boletín 9529-07 con informes de las Comisiones de Constitución, Legislación, Justicia y Reglamento y de Hacienda.",
+    "descripcion": "Aprobación en general y en particular del proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 19.718, que crea la Defensoría Penal Pública, con el objeto de crear cargos para la defensa penal especializada en adolescentes. Boletín 9529-07 con informes de las Comisiones de Constitución, Legislación, Justicia y Reglamento y de Hacienda.",
+    "tags": [
+      "seguridad",
+      "justicia",
+      "defensa",
+      "constitucional"
+    ],
+    "votos": {
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9530-15/10/2014",
+    "boletin": "9530",
+    "fecha": "15/10/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que establece un aporte de capital extraordinario para la Corporación Nacional del Cobre de Chile y la autoriza para contraer endeudamiento, con informe de la Comisión de Hacienda (Boletín N° 9.530-08) Con urgencia calificada de suma.",
+    "descripcion": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que establece un aporte de capital extraordinario para la Corporación Nacional del Cobre de Chile y la autoriza para contraer endeudamiento, con informe de la Comisión de Hacienda (Boletín N° 9.530-08) Con urgencia calificada de suma.",
+    "tags": [
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9530-21/10/2014",
+    "boletin": "9530",
+    "fecha": "21/10/2014",
+    "chamber": "senado",
+    "materia": "Aprobación de enmiendas unánimes al proyecto de ley, en segundo trámite constitucional, que establece un aporte de capital extraordinario para la Corporación Nacional del Cobre de Chile y la autoriza para contraer endeudamiento, con segundo informe de la Comisión de Hacienda. (discusión en particular). (Boletín N° 9.530-08 [ver] ).",
+    "descripcion": "Aprobación de enmiendas unánimes al proyecto de ley, en segundo trámite constitucional, que establece un aporte de capital extraordinario para la Corporación Nacional del Cobre de Chile y la autoriza para contraer endeudamiento, con segundo informe de la Comisión de Hacienda. (discusión en particular). (Boletín N° 9.530-08 [ver] ).",
+    "tags": [
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9557-17/12/2014",
+    "boletin": "9557",
+    "fecha": "17/12/2014",
+    "chamber": "senado",
+    "materia": "Aprobación, en general y en particular, del proyecto de ley, en segundo trámite constitucional, que otorga una bonificación adicional por retiro al personal no académico que indica de las universidades del Estado y faculta a las mismas para conceder otros beneficios transitorios, con informe de la Comisión de Hacienda. (Boletín N° 9.557-04)",
+    "descripcion": "Aprobación, en general y en particular, del proyecto de ley, en segundo trámite constitucional, que otorga una bonificación adicional por retiro al personal no académico que indica de las universidades del Estado y faculta a las mismas para conceder otros beneficios transitorios, con informe de la Comisión de Hacienda. (Boletín N° 9.557-04)",
+    "tags": [
+      "educacion",
+      "constitucional"
+    ],
+    "votos": {
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9596-10/12/2014",
+    "boletin": "9596",
+    "fecha": "10/12/2014",
+    "chamber": "senado",
+    "materia": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que efectúa aporte extraordinario al Fondo Común Municipal, con informe de la Comisión de Hacienda. Boletín N° 9.596-06). Con urgencia calificada de suma.",
+    "descripcion": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que efectúa aporte extraordinario al Fondo Común Municipal, con informe de la Comisión de Hacienda. Boletín N° 9.596-06). Con urgencia calificada de suma.",
+    "tags": [
+      "descentralizacion",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9600-25/11/2014",
+    "boletin": "9600",
+    "fecha": "25/11/2014",
+    "chamber": "senado",
+    "materia": "Votación Indicación N° 123 , Partida 05 Ministerio del Interior (Boletín N°9.600-05) Proyecto de Ley de Presupuestos.",
+    "descripcion": "Votación Indicación N° 123 , Partida 05 Ministerio del Interior (Boletín N°9.600-05) Proyecto de Ley de Presupuestos.",
+    "tags": [
+      "economia"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "contra",
+      "1120": "contra"
+    }
+  },
+  {
+    "id": "senado-9600-26/11/2014",
+    "boletin": "9600",
+    "fecha": "26/11/2014",
+    "chamber": "senado",
+    "materia": "Votación Partida 23 Ministerio Público (Boletín N°9.600-05) Proyecto de Ley de Presupuestos.",
+    "descripcion": "Votación Partida 23 Ministerio Público (Boletín N°9.600-05) Proyecto de Ley de Presupuestos.",
+    "tags": [
+      "economia"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor"
+    }
+  },
+  {
+    "id": "senado-9668-04/11/2014",
+    "boletin": "9668",
+    "fecha": "04/11/2014",
+    "chamber": "senado",
+    "materia": "Aprobación, en general y en particular, del proyecto de ley, en segundo trámite constitucional, que extiende la cobertura del mecanismo de estabilización de precios de los combustibles creado por la ley Nº 20.765, con certificado de la Comisión de Hacienda (Boletín Nº 9.668-05) Con urgencia calificada de discusión inmediata.",
+    "descripcion": "Aprobación, en general y en particular, del proyecto de ley, en segundo trámite constitucional, que extiende la cobertura del mecanismo de estabilización de precios de los combustibles creado por la ley Nº 20.765, con certificado de la Comisión de Hacienda (Boletín Nº 9.668-05) Con urgencia calificada de discusión inmediata.",
+    "tags": [
+      "transporte",
+      "energia",
+      "constitucional"
+    ],
+    "votos": {
+      "1117": "abstencion",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9690-17/12/2014",
+    "boletin": "9690",
+    "fecha": "17/12/2014",
+    "chamber": "senado",
+    "materia": "Aprobación, en general y en particular, del proyecto de ley, en segundo trámite constitucional, sobre asignaciones y modificaciones a la planta del Servicio Agrícola y Ganadero, con informe de la Comisión de Agricultura e informe de la Comisión de Hacienda (Boletín N° 9.690-01). Con urgencia calificada de suma.",
+    "descripcion": "Aprobación, en general y en particular, del proyecto de ley, en segundo trámite constitucional, sobre asignaciones y modificaciones a la planta del Servicio Agrícola y Ganadero, con informe de la Comisión de Agricultura e informe de la Comisión de Hacienda (Boletín N° 9.690-01). Con urgencia calificada de suma.",
+    "tags": [
+      "agricultura",
+      "cultura",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9691-17/12/2014",
+    "boletin": "9691",
+    "fecha": "17/12/2014",
+    "chamber": "senado",
+    "materia": "Aprobación, en general y en particular, del proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 19.175, Orgánica Constitucional sobre Gobierno y Administración Regional, fortaleciendo los consejos regionales, con informes de las Comisiones de Gobierno, Descentralización y Regionalización y de Hacienda. (Boletín Nº 9.691-06). Con urgencia calificada de suma.",
+    "descripcion": "Aprobación, en general y en particular, del proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 19.175, Orgánica Constitucional sobre Gobierno y Administración Regional, fortaleciendo los consejos regionales, con informes de las Comisiones de Gobierno, Descentralización y Regionalización y de Hacienda. (Boletín Nº 9.691-06). Con urgencia calificada de suma.",
+    "tags": [
+      "descentralizacion",
+      "constitucional"
+    ],
+    "votos": {
+      "1115": "afavor",
+      "1117": "afavor",
+      "1120": "afavor"
+    }
+  },
+  {
+    "id": "senado-9738-26/11/2014",
+    "boletin": "9738",
+    "fecha": "26/11/2014",
+    "chamber": "senado",
+    "materia": "Votación del proyecto de ley, en segundo trámite constitucional que otorga reajuste de remuneraciones a los trabajadores del sector público, concede aguinaldos que señala, y concede otros beneficios que indica, con informe de la Comisión de Hacienda. (Boletín Nº 9.738-05), con urgencia calificada de discusión inmediata.",
+    "descripcion": "Votación del proyecto de ley, en segundo trámite constitucional que otorga reajuste de remuneraciones a los trabajadores del sector público, concede aguinaldos que señala, y concede otros beneficios que indica, con informe de la Comisión de Hacienda. (Boletín Nº 9.738-05), con urgencia calificada de discusión inmediata.",
+    "tags": [
+      "trabajo",
+      "constitucional"
+    ],
+    "votos": {
+      "1110": "afavor",
+      "1115": "afavor",
+      "1120": "contra"
+    }
+  }
+]
