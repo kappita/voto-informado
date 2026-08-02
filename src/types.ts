@@ -19,21 +19,7 @@ export type TagId =
   | 'descentralizacion' | 'pueblos' | 'genero' | 'social'
   | 'tributario' | 'constitucional' | 'transparencia' | 'otro';
 
-export interface Tag {
-  id: TagId;
-  label: string;
-  color: string;
-  keywords: string[];
-}
-
 export type VoteOption = 'afavor' | 'contra' | 'abstencion' | 'pareo' | 'ausente';
-
-export interface ParlVote {
-  parlId: string;
-  nombre: string;
-  voto: VoteOption;
-  partido?: string;
-}
 
 export interface VotingRecord {
   id: string;
@@ -43,11 +29,12 @@ export interface VotingRecord {
   materia: string;
   descripcion: string;
   tags: TagId[];
-  votos: Record<string, ParlVote>;
+  votos: Record<string, VoteOption>;
 }
 
 export interface VotesData {
   generatedAt: string;
+  parliamentarians: { senado: Parliamentarian[]; camara: Parliamentarian[] };
   votes: VotingRecord[];
 }
 

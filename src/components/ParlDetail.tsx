@@ -1,5 +1,5 @@
 import { useState, useMemo } from 'react';
-import type { Parliamentarian, VotingRecord, TagId, ParlStats } from '../types';
+import type { Parliamentarian, VotingRecord, TagId, ParlStats, VoteOption } from '../types';
 import VoteSummary from './VoteSummary';
 import TagFilter from './TagFilter';
 import VoteCard from './VoteCard';
@@ -15,10 +15,10 @@ export default function ParlDetail({ parliamentarian, allVotes, onBack }: Props)
 
   const parlVotes = useMemo(() => {
     return allVotes
-      .filter((v) => v.votos[parliamentarian.id])
+      .filter((v) => parliamentarian.id in v.votos)
       .map((v) => ({
         vote: v,
-        myVote: v.votos[parliamentarian.id],
+        myVote: v.votos[parliamentarian.id] as VoteOption,
       }));
   }, [allVotes, parliamentarian.id]);
 
@@ -30,10 +30,10 @@ export default function ParlDetail({ parliamentarian, allVotes, onBack }: Props)
   }, [parlVotes, filterTags]);
 
   const stats = useMemo<ParlStats>(() => {
-    const base = { total: 0, afavor: 0, contra: 0, abstencion: 0, pareo: 0, ausente: 0 };
+    const base: ParlStats = { total: 0, afavor: 0, contra: 0, abstencion: 0, pareo: 0, ausente: 0 };
     for (const { myVote } of parlVotes) {
       base.total++;
-      if (myVote.voto in base) (base as any)[myVote.voto]++;
+      if (myVote in base) base[myVote]++;
     }
     return base;
   }, [parlVotes]);
@@ -47,10 +47,10 @@ export default function ParlDetail({ parliamentarian, allVotes, onBack }: Props)
   }, [parlVotes]);
 
   const filteredStats = useMemo<ParlStats>(() => {
-    const base = { total: 0, afavor: 0, contra: 0, abstencion: 0, pareo: 0, ausente: 0 };
+    const base: ParlStats = { total: 0, afavor: 0, contra: 0, abstencion: 0, pareo: 0, ausente: 0 };
     for (const { myVote } of filteredVotes) {
       base.total++;
-      if (myVote.voto in base) (base as any)[myVote.voto]++;
+      if (myVote in base) base[myVote]++;
     }
     return base;
   }, [filteredVotes]);

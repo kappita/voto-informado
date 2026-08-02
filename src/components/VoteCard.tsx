@@ -1,12 +1,12 @@
-import type { VotingRecord } from '../types';
+import type { VotingRecord, VoteOption } from '../types';
 import { getTagColor, getTagLabel } from '../utils/tags';
 
 interface Props {
   vote: VotingRecord;
-  parlVote: { voto: string; partido?: string } | undefined;
+  parlVote: VoteOption | undefined;
 }
 
-const VOTE_LABELS: Record<string, string> = {
+const VOTE_LABELS: Record<VoteOption, string> = {
   afavor: 'A favor',
   contra: 'En contra',
   abstencion: 'Abstención',
@@ -14,7 +14,7 @@ const VOTE_LABELS: Record<string, string> = {
   ausente: 'No votó',
 };
 
-const VOTE_COLORS: Record<string, string> = {
+const VOTE_COLORS: Record<VoteOption, string> = {
   afavor: 'bg-green-100 text-green-800',
   contra: 'bg-red-100 text-red-800',
   abstencion: 'bg-amber-100 text-amber-800',
@@ -23,8 +23,8 @@ const VOTE_COLORS: Record<string, string> = {
 };
 
 export default function VoteCard({ vote, parlVote }: Props) {
-  const votoLabel = parlVote ? VOTE_LABELS[parlVote.voto] || parlVote.voto : '—';
-  const votoColor = parlVote ? VOTE_COLORS[parlVote.voto] || 'bg-gray-200 text-gray-700' : 'bg-gray-200 text-gray-700';
+  const votoLabel = parlVote ? VOTE_LABELS[parlVote] : '—';
+  const votoColor = parlVote ? VOTE_COLORS[parlVote] : 'bg-gray-200 text-gray-700';
 
   return (
     <div className="bg-white rounded-lg border border-gray-200 p-3 hover:shadow-sm transition-shadow">

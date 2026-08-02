@@ -33,17 +33,6 @@ export function getTag(id: Tag['id']): Tag {
   return tagMap.get(id) ?? TAGS[TAGS.length - 1];
 }
 
-export function classifyTags(text: string): Tag['id'][] {
-  const lower = text.toLowerCase();
-  const tags: Tag['id'][] = [];
-  for (const tag of TAGS) {
-    if (tag.keywords.some((kw) => lower.includes(kw))) {
-      tags.push(tag.id);
-    }
-  }
-  return tags.length ? tags : ['otro' as Tag['id']];
-}
-
 export function getTagColor(id: Tag['id']): string {
   return getTag(id).color;
 }
