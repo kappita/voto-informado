@@ -6,6 +6,7 @@ export interface Parliamentarian {
   fullName: string;
   party?: string;
   region?: string;
+  district?: string;
   chamber: 'senado' | 'camara';
 }
 
@@ -26,9 +27,10 @@ export interface VotingRecord {
   boletin: string;
   fecha: string;
   chamber: Chamber;
-  materia: string;
+  title: string;
   descripcion: string;
   tags: TagId[];
+  relevante: boolean;
   votos: Record<string, VoteOption>;
 }
 
