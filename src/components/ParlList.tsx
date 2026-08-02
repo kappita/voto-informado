@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useMemo } from 'react';
 import type { Parliamentarian } from '../types';
 
 interface Props {
@@ -9,9 +9,19 @@ interface Props {
 export default function ParlList({ parliamentarians, onSelect }: Props) {
   const [query, setQuery] = useState('');
   const [chamberFilter, setChamberFilter] = useState<'all' | 'senado' | 'camara'>('all');
+  const [districtFilter, setDistrictFilter] = useState('');
+
+  const availableDistricts = useMemo(() => {
+    const set = new Set<string>();
+    for (const p of parliamentarians) {
+      if (p.district) set.add(p.district);
+    }
+    return [...set].sort();
+  }, [parliamentarians]);
 
   const filtered = parliamentarians.filter((p) => {
     if (chamberFilter !== 'all' && p.chamber !== chamberFilter) return false;
+    if (districtFilter && p.district !== districtFilter) return false;
     if (query) {
       const q = query.toLowerCase();
       return p.fullName.toLowerCase().includes(q) || p.party?.toLowerCase().includes(q) || p.region?.toLowerCase().includes(q);
@@ -44,6 +54,30 @@ export default function ParlList({ parliamentarians, onSelect }: Props) {
         </div>
       </div>
 
+      {availableDistricts.length > 0 && (
+        <div className="flex flex-wrap gap-2 items-center mb-4">
+          <span className="text-xs text-gray-500">Distrito:</span>
+          <select
+            value={districtFilter}
+            onChange={(e) => setDistrictFilter(e.target.value)}
+            className="py-2 px-3 border border-gray-300 rounded-lg text-sm outline-none focus:border-[#0039a6] focus:ring-[3px] focus:ring-[#0039a6]/10 bg-white"
+          >
+            <option value="">Todos</option>
+            {availableDistricts.map((d) => (
+              <option key={d} value={d}>{d}</option>
+            ))}
+          </select>
+          {districtFilter && (
+            <button
+              onClick={() => setDistrictFilter('')}
+              className="text-xs text-red-600 hover:underline"
+            >
+              Limpiar
+            </button>
+          )}
+        </div>
+      )}
+
       <p className="text-xs text-gray-500 mb-3">{filtered.length} parlamentario{filtered.length !== 1 ? 's' : ''}</p>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2">
@@ -56,7 +90,8 @@ export default function ParlList({ parliamentarians, onSelect }: Props) {
             <div className="font-semibold text-sm">{p.fullName}</div>
             <div className="flex flex-wrap gap-1.5 mt-1">
               {p.party && <span className="text-xs bg-gray-100 text-gray-600 px-1.5 py-0.5 rounded">{p.party}</span>}
-              {p.region && <span className="text-xs bg-gray-100 text-gray-500 px-1.5 py-0.5 rounded truncate max-w-[200px]">{p.region}</span>}
+              {p.district && <span className="text-xs bg-gray-100 text-gray-500 px-1.5 py-0.5 rounded truncate max-w-[200px]">{p.district}</span>}
+              {p.region && !p.district && <span className="text-xs bg-gray-100 text-gray-500 px-1.5 py-0.5 rounded truncate max-w-[200px]">{p.region}</span>}
               <span className="text-xs bg-[#0039a6]/10 text-[#0039a6] px-1.5 py-0.5 rounded font-medium">
                 {p.chamber === 'senado' ? 'Senador' : 'Diputado'}
               </span>
