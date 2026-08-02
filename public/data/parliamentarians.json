@@ -8,7 +8,8 @@
       "fullName": "Pedro Araya Guerrero",
       "party": "P.P.D.",
       "region": "Región de Antofagasta",
-      "chamber": "senado"
+      "chamber": "senado",
+      "district": "Región de Antofagasta"
     },
     {
       "id": "1324",
@@ -18,7 +19,8 @@
       "fullName": "Karim Bianchi Retamales",
       "party": "Independiente",
       "region": "Región de Magallanes y la Antártica Chilena",
-      "chamber": "senado"
+      "chamber": "senado",
+      "district": "Región de Magallanes y la Antártica Chilena"
     },
     {
       "id": "1325",
@@ -28,7 +30,8 @@
       "fullName": "Fabiola Campillai Rojas",
       "party": "Independiente",
       "region": "Región Metropolitana de Santiago",
-      "chamber": "senado"
+      "chamber": "senado",
+      "district": "Región Metropolitana de Santiago"
     },
     {
       "id": "1320",
@@ -38,7 +41,8 @@
       "fullName": "Loreto Carvajal Ambiado",
       "party": "P.P.D.",
       "region": "Región de Ñuble",
-      "chamber": "senado"
+      "chamber": "senado",
+      "district": "Región de Ñuble"
     },
     {
       "id": "1326",
@@ -48,7 +52,8 @@
       "fullName": "Juan Luis Castro González",
       "party": "P.S.",
       "region": "Región del Libertador General Bernardo O'Higgins",
-      "chamber": "senado"
+      "chamber": "senado",
+      "district": "Región del Libertador General Bernardo O'Higgins"
     },
     {
       "id": "1327",
@@ -58,7 +63,8 @@
       "fullName": "Luciano Cruz-Coke Carvallo",
       "party": "Evópoli",
       "region": "Región Metropolitana de Santiago",
-      "chamber": "senado"
+      "chamber": "senado",
+      "district": "Región Metropolitana de Santiago"
     },
     {
       "id": "1115",
@@ -68,7 +74,8 @@
       "fullName": "Alfonso De Urresti Longton",
       "party": "P.S.",
       "region": "Región de Los Ríos",
-      "chamber": "senado"
+      "chamber": "senado",
+      "district": "Región de Los Ríos"
     },
     {
       "id": "1328",
@@ -78,7 +85,8 @@
       "fullName": "Rojo Edwards Silva",
       "party": "Independiente",
       "region": "Región Metropolitana de Santiago",
-      "chamber": "senado"
+      "chamber": "senado",
+      "district": "Región Metropolitana de Santiago"
     },
     {
       "id": "1329",
@@ -88,7 +96,8 @@
       "fullName": "Fidel Espinoza Sandoval",
       "party": "P.S.",
       "region": "Región de Los Lagos",
-      "chamber": "senado"
+      "chamber": "senado",
+      "district": "Región de Los Lagos"
     },
     {
       "id": "1330",
@@ -98,7 +107,8 @@
       "fullName": "Iván Flores García",
       "party": "P.D.C.",
       "region": "Región de Los Ríos",
-      "chamber": "senado"
+      "chamber": "senado",
+      "district": "Región de Los Ríos"
     },
     {
       "id": "1331",
@@ -108,7 +118,8 @@
       "fullName": "Sergio Gahona Salazar",
       "party": "U.D.I.",
       "region": "Región de Coquimbo",
-      "chamber": "senado"
+      "chamber": "senado",
+      "district": "Región de Coquimbo"
     },
     {
       "id": "1332",
@@ -118,7 +129,8 @@
       "fullName": "María José Gatica Bertin",
       "party": "R.N.",
       "region": "Región de Los Ríos",
-      "chamber": "senado"
+      "chamber": "senado",
+      "district": "Región de Los Ríos"
     },
     {
       "id": "1222",
@@ -128,7 +140,8 @@
       "fullName": "Francisco Huenchumilla Jaramillo",
       "party": "P.D.C.",
       "region": "Región de La Araucanía",
-      "chamber": "senado"
+      "chamber": "senado",
+      "district": "Región de La Araucanía"
     },
     {
       "id": "1333",
@@ -138,7 +151,8 @@
       "fullName": "Sebastián Keitel Bianchi",
       "party": "Evópoli",
       "region": "Región del Biobío",
-      "chamber": "senado"
+      "chamber": "senado",
+      "district": "Región del Biobío"
     },
     {
       "id": "1334",
@@ -148,7 +162,8 @@
       "fullName": "Alejandro Kusanovic Glusevic",
       "party": "Independiente",
       "region": "Región de Magallanes y la Antártica Chilena",
-      "chamber": "senado"
+      "chamber": "senado",
+      "district": "Región de Magallanes y la Antártica Chilena"
     },
     {
       "id": "911",
@@ -158,7 +173,8 @@
       "fullName": "Carlos Ignacio Kuschel Silva",
       "party": "R.N.",
       "region": "Región de Los Lagos",
-      "chamber": "senado"
+      "chamber": "senado",
+      "district": "Región de Los Lagos"
     },
     {
       "id": "1335",
@@ -168,7 +184,8 @@
       "fullName": "Javier Macaya Danús",
       "party": "U.D.I.",
       "region": "Región del Libertador General Bernardo O'Higgins",
-      "chamber": "senado"
+      "chamber": "senado",
+      "district": "Región del Libertador General Bernardo O'Higgins"
     },
     {
       "id": "1117",
@@ -178,7 +195,8 @@
       "fullName": "Iván Moreira Barros",
       "party": "U.D.I.",
       "region": "Región de Los Lagos",
-      "chamber": "senado"
+      "chamber": "senado",
+      "district": "Región de Los Lagos"
     },
     {
       "id": "1336",
@@ -188,7 +206,8 @@
       "fullName": "Daniel Núñez Arancibia",
       "party": "P.C",
       "region": "Región de Coquimbo",
-      "chamber": "senado"
+      "chamber": "senado",
+      "district": "Región de Coquimbo"
     },
     {
       "id": "1337",
@@ -198,7 +217,8 @@
       "fullName": "Paulina Núñez Urrutia",
       "party": "R.N.",
       "region": "Región de Antofagasta",
-      "chamber": "senado"
+      "chamber": "senado",
+      "district": "Región de Antofagasta"
     },
     {
       "id": "1224",
@@ -208,7 +228,8 @@
       "fullName": "Ximena Ordenes Neira",
       "party": "Independiente",
       "region": "Región de Aysén del General Carlos Ibáñez del Campo",
-      "chamber": "senado"
+      "chamber": "senado",
+      "district": "Región de Aysén del General Carlos Ibáñez del Campo"
     },
     {
       "id": "1120",
@@ -218,7 +239,8 @@
       "fullName": "Manuel José Ossandón Irarrázabal",
       "party": "R.N.",
       "region": "Región Metropolitana de Santiago",
-      "chamber": "senado"
+      "chamber": "senado",
+      "district": "Región Metropolitana de Santiago"
     },
     {
       "id": "1338",
@@ -228,7 +250,8 @@
       "fullName": "Claudia Pascual Grau",
       "party": "P.C",
       "region": "Región Metropolitana de Santiago",
-      "chamber": "senado"
+      "chamber": "senado",
+      "district": "Región Metropolitana de Santiago"
     },
     {
       "id": "1215",
@@ -238,7 +261,8 @@
       "fullName": "Yasna Provoste Campillay",
       "party": "P.D.C.",
       "region": "Región de Atacama",
-      "chamber": "senado"
+      "chamber": "senado",
+      "district": "Región de Atacama"
     },
     {
       "id": "1339",
@@ -248,7 +272,8 @@
       "fullName": "Gastón Saavedra Chandía",
       "party": "P.S.",
       "region": "Región del Biobío",
-      "chamber": "senado"
+      "chamber": "senado",
+      "district": "Región del Biobío"
     },
     {
       "id": "1340",
@@ -258,7 +283,8 @@
       "fullName": "Gustavo Sanhueza Dueñas",
       "party": "U.D.I.",
       "region": "Región de Ñuble",
-      "chamber": "senado"
+      "chamber": "senado",
+      "district": "Región de Ñuble"
     },
     {
       "id": "1341",
@@ -268,7 +294,8 @@
       "fullName": "Alejandra Sepúlveda Orbenes",
       "party": "Independiente",
       "region": "Región del Libertador General Bernardo O'Higgins",
-      "chamber": "senado"
+      "chamber": "senado",
+      "district": "Región del Libertador General Bernardo O'Higgins"
     },
     {
       "id": "1342",
@@ -278,7 +305,8 @@
       "fullName": "Enrique Van Rysselberghe Herrera",
       "party": "U.D.I.",
       "region": "Región del Biobío",
-      "chamber": "senado"
+      "chamber": "senado",
+      "district": "Región del Biobío"
     },
     {
       "id": "1343",
@@ -288,7 +316,8 @@
       "fullName": "Esteban Velásquez Núñez",
       "party": "F.R.E.V.S.",
       "region": "Región de Antofagasta",
-      "chamber": "senado"
+      "chamber": "senado",
+      "district": "Región de Antofagasta"
     },
     {
       "id": "1450",
@@ -298,7 +327,8 @@
       "fullName": "Paulina Vodanovic Rojas",
       "party": "P.S.",
       "region": "Región del Maule",
-      "chamber": "senado"
+      "chamber": "senado",
+      "district": "Región del Maule"
     },
     {
       "id": "1344",
@@ -308,7 +338,8 @@
       "fullName": "Matías Walker Prieto",
       "party": "Demócratas",
       "region": "Región de Coquimbo",
-      "chamber": "senado"
+      "chamber": "senado",
+      "district": "Región de Coquimbo"
     }
   ],
   "camara": [
@@ -334,7 +365,8 @@
       "lastName": "Alessandri",
       "secondLastName": "Vergara",
       "fullName": "Jorge Alessandri Vergara",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 10"
     },
     {
       "id": "1012",
@@ -342,7 +374,8 @@
       "lastName": "Barrera",
       "secondLastName": "Moreno",
       "fullName": "Boris Barrera Moreno",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 9"
     },
     {
       "id": "1017",
@@ -350,7 +383,8 @@
       "lastName": "Carter",
       "secondLastName": "Fernández",
       "fullName": "Álvaro Carter Fernández",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 12"
     },
     {
       "id": "1025",
@@ -358,7 +392,8 @@
       "lastName": "Del Real",
       "secondLastName": "Mihovilovic",
       "fullName": "Catalina Del Real Mihovilovic",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 11"
     },
     {
       "id": "1038",
@@ -366,7 +401,8 @@
       "lastName": "Ilabaca",
       "secondLastName": "Cerda",
       "fullName": "Marcos Ilabaca Cerda",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 24"
     },
     {
       "id": "1044",
@@ -374,7 +410,8 @@
       "lastName": "Leiva",
       "secondLastName": "Carvajal",
       "fullName": "Raúl Leiva Carvajal",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 14"
     },
     {
       "id": "1056",
@@ -382,7 +419,8 @@
       "lastName": "Nuyado",
       "secondLastName": "Ancapichun",
       "fullName": "Emilia Nuyado Ancapichun",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 24"
     },
     {
       "id": "1065",
@@ -390,7 +428,8 @@
       "lastName": "Ramírez",
       "secondLastName": "Diez",
       "fullName": "Guillermo Ramírez Diez",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 11"
     },
     {
       "id": "1073",
@@ -398,7 +437,8 @@
       "lastName": "Santana",
       "secondLastName": "Castillo",
       "fullName": "Juan Santana Castillo",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 4"
     },
     {
       "id": "1075",
@@ -406,7 +446,8 @@
       "lastName": "Schalper",
       "secondLastName": "Sepúlveda",
       "fullName": "Diego Schalper Sepúlveda",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 15"
     },
     {
       "id": "1086",
@@ -414,7 +455,8 @@
       "lastName": "Winter",
       "secondLastName": "Etcheberry",
       "fullName": "Gonzalo Winter Etcheberry",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 8"
     },
     {
       "id": "1099",
@@ -422,7 +464,8 @@
       "lastName": "Araya",
       "secondLastName": "Guerrero",
       "fullName": "Jaime Araya Guerrero",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 3"
     },
     {
       "id": "1102",
@@ -430,7 +473,8 @@
       "lastName": "Arroyo",
       "secondLastName": "Muñoz",
       "fullName": "Roberto Arroyo Muñoz",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 20"
     },
     {
       "id": "1104",
@@ -438,7 +482,8 @@
       "lastName": "Barchiesi",
       "secondLastName": "Chávez",
       "fullName": "Chiara Barchiesi Chávez",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 6"
     },
     {
       "id": "1105",
@@ -446,7 +491,8 @@
       "lastName": "Barría",
       "secondLastName": "Angulo",
       "fullName": "Héctor Barría Angulo",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 25"
     },
     {
       "id": "1110",
@@ -454,7 +500,8 @@
       "lastName": "Bianchi",
       "secondLastName": "Chelech",
       "fullName": "Carlos Bianchi Chelech",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 27"
     },
     {
       "id": "1119",
@@ -462,7 +509,8 @@
       "lastName": "Concha",
       "secondLastName": "Smith",
       "fullName": "Sara Concha Smith",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 19"
     },
     {
       "id": "1131",
@@ -470,7 +518,8 @@
       "lastName": "González",
       "secondLastName": "Villarroel",
       "fullName": "Mauro González Villarroel",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 25"
     },
     {
       "id": "1132",
@@ -478,7 +527,8 @@
       "lastName": "Guzmán",
       "secondLastName": "Zepeda",
       "fullName": "Jorge Guzmán Zepeda",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 17"
     },
     {
       "id": "1140",
@@ -486,7 +536,8 @@
       "lastName": "Lilayu",
       "secondLastName": "Vivanco",
       "fullName": "Daniel Lilayu Vivanco",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 24"
     },
     {
       "id": "1141",
@@ -494,7 +545,8 @@
       "lastName": "Malla",
       "secondLastName": "Valenzuela",
       "fullName": "Luis Malla Valenzuela",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 1"
     },
     {
       "id": "1148",
@@ -502,7 +554,8 @@
       "lastName": "Morales",
       "secondLastName": "Alvarado",
       "fullName": "Javiera Morales Alvarado",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 27"
     },
     {
       "id": "1152",
@@ -510,7 +563,8 @@
       "lastName": "Naveillan",
       "secondLastName": "Arriagada",
       "fullName": "Gloria Naveillan Arriagada",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 22"
     },
     {
       "id": "1165",
@@ -518,7 +572,8 @@
       "lastName": "Romero",
       "secondLastName": "Leiva",
       "fullName": "Agustín Romero Leiva",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 8"
     },
     {
       "id": "1180",
@@ -526,7 +581,8 @@
       "lastName": "Veloso",
       "secondLastName": "Ávila",
       "fullName": "Consuelo Veloso Ávila",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 17"
     },
     {
       "id": "1171",
@@ -534,7 +590,8 @@
       "lastName": "Schneider",
       "secondLastName": "Videla",
       "fullName": "Emilia Schneider Videla",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 10"
     },
     {
       "id": "1172",
@@ -542,7 +599,8 @@
       "lastName": "Schubert",
       "secondLastName": "Rubio",
       "fullName": "Stephan Schubert Rubio",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 22"
     },
     {
       "id": "1174",
@@ -550,7 +608,8 @@
       "lastName": "Sulantay",
       "secondLastName": "Olivares",
       "fullName": "Marco Antonio Sulantay Olivares",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 4"
     },
     {
       "id": "1175",
@@ -558,7 +617,8 @@
       "lastName": "Tapia",
       "secondLastName": "Ramos",
       "fullName": "Cristián Tapia Ramos",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 4"
     },
     {
       "id": "1183",
@@ -566,7 +626,8 @@
       "lastName": "Weisse",
       "secondLastName": "Novoa",
       "fullName": "Flor Weisse Novoa",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 20"
     },
     {
       "id": "1184",
@@ -582,7 +643,8 @@
       "lastName": "Achurra",
       "secondLastName": "Díaz",
       "fullName": "Ignacio Achurra Díaz",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 13"
     },
     {
       "id": "1195",
@@ -590,7 +652,8 @@
       "lastName": "Carvajal",
       "secondLastName": "Gallardo",
       "fullName": "Carlos Carvajal Gallardo",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 5"
     },
     {
       "id": "1199",
@@ -598,7 +661,8 @@
       "lastName": "Coloma",
       "secondLastName": "Álamos",
       "fullName": "Jaime Coloma Álamos",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 14"
     },
     {
       "id": "1204",
@@ -614,7 +678,8 @@
       "lastName": "Cristoffanini",
       "secondLastName": "Jaraquemada",
       "fullName": "Sebastián Cristoffanini Jaraquemada",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 28"
     },
     {
       "id": "1208",
@@ -622,7 +687,8 @@
       "lastName": "Díaz",
       "secondLastName": "Ibarra",
       "fullName": "Jorge Díaz Ibarra",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 16"
     },
     {
       "id": "1212",
@@ -630,7 +696,8 @@
       "lastName": "Grohs",
       "secondLastName": "Marín",
       "fullName": "Erich Grohs Marín",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 5"
     },
     {
       "id": "1217",
@@ -646,7 +713,8 @@
       "lastName": "Kunstmann",
       "secondLastName": "Collado",
       "fullName": "Leandro Kunstmann Collado",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 16"
     },
     {
       "id": "1222",
@@ -654,7 +722,8 @@
       "lastName": "Macías",
       "secondLastName": "Palma",
       "fullName": "Andrea Macías Palma",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 27"
     },
     {
       "id": "1223",
@@ -662,7 +731,8 @@
       "lastName": "Marowski",
       "secondLastName": "Cuevas",
       "fullName": "Hans Marowski Cuevas",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 19"
     },
     {
       "id": "1230",
@@ -670,7 +740,8 @@
       "lastName": "Nahuelquin",
       "secondLastName": "Nahuelquin",
       "fullName": "Alex Nahuelquin Nahuelquin",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 22"
     },
     {
       "id": "1236",
@@ -678,7 +749,8 @@
       "lastName": "Olmos",
       "secondLastName": "Contreras",
       "fullName": "Paula Olmos Contreras",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 22"
     },
     {
       "id": "1241",
@@ -686,7 +758,8 @@
       "lastName": "Pinilla",
       "secondLastName": "Valencia",
       "fullName": "Patricio Pinilla Valencia",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 14"
     },
     {
       "id": "1242",
@@ -694,7 +767,8 @@
       "lastName": "Ramírez",
       "secondLastName": "Parra",
       "fullName": "Rodrigo Ramírez Parra",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 9"
     },
     {
       "id": "1232",
@@ -702,7 +776,8 @@
       "lastName": "Neira",
       "secondLastName": "Martínez",
       "fullName": "Cristian Neira Martínez",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 14"
     },
     {
       "id": "1243",
@@ -710,7 +785,8 @@
       "lastName": "Ramírez",
       "secondLastName": "Ramírez",
       "fullName": "Tamara Ramírez Ramírez",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 28"
     },
     {
       "id": "1061",
@@ -718,7 +794,8 @@
       "lastName": "Parra",
       "secondLastName": "Sauterel",
       "fullName": "Andrea Parra Sauterel",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 22"
     },
     {
       "id": "1213",
@@ -726,7 +803,8 @@
       "lastName": "Hassler",
       "secondLastName": "Jacob",
       "fullName": "Irací Hassler Jacob",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 10"
     },
     {
       "id": "1193",
@@ -750,7 +828,8 @@
       "lastName": "Alinco",
       "secondLastName": "Bustos",
       "fullName": "René Alinco Bustos",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 27"
     },
     {
       "id": "1021",
@@ -758,7 +837,8 @@
       "lastName": "Celis",
       "secondLastName": "Montt",
       "fullName": "Andrés Celis Montt",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 7"
     },
     {
       "id": "1059",
@@ -766,7 +846,8 @@
       "lastName": "Ossandón",
       "secondLastName": "Irarrázabal",
       "fullName": "Ximena Ossandón Irarrázabal",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 11"
     },
     {
       "id": "1087",
@@ -774,7 +855,8 @@
       "lastName": "Yeomans",
       "secondLastName": "Araya",
       "fullName": "Gael Yeomans Araya",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 13"
     },
     {
       "id": "1114",
@@ -782,7 +864,8 @@
       "lastName": "Bugueño",
       "secondLastName": "Sotelo",
       "fullName": "Félix Bugueño Sotelo",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 12"
     },
     {
       "id": "1133",
@@ -806,7 +889,8 @@
       "lastName": "Tello",
       "secondLastName": "Rojas",
       "fullName": "Carolina Tello Rojas",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 5"
     },
     {
       "id": "1194",
@@ -830,7 +914,8 @@
       "lastName": "Bello",
       "secondLastName": "Campos",
       "fullName": "María Francisca Bello Campos",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 7"
     },
     {
       "id": "1205",
@@ -862,7 +947,8 @@
       "lastName": "Moreno",
       "secondLastName": "Bascur",
       "fullName": "Benjamín Moreno Bascur",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 16"
     },
     {
       "id": "1256",
@@ -878,7 +964,8 @@
       "lastName": "Hernando",
       "secondLastName": "Pérez",
       "fullName": "Marcela Hernando Pérez",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 3"
     },
     {
       "id": "1077",
@@ -886,7 +973,8 @@
       "lastName": "Soto",
       "secondLastName": "Mardones",
       "fullName": "Raúl Soto Mardones",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 15"
     },
     {
       "id": "1170",
@@ -894,7 +982,8 @@
       "lastName": "Sánchez",
       "secondLastName": "Ossa",
       "fullName": "Luis Sánchez Ossa",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 6"
     },
     {
       "id": "1028",
@@ -902,7 +991,8 @@
       "lastName": "Durán",
       "secondLastName": "Salinas",
       "fullName": "Eduardo Durán Salinas",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 13"
     },
     {
       "id": "1117",
@@ -910,7 +1000,8 @@
       "lastName": "Castillo",
       "secondLastName": "Rojas",
       "fullName": "Nathalie Castillo Rojas",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 5"
     },
     {
       "id": "1181",
@@ -918,7 +1009,8 @@
       "lastName": "Venegas",
       "secondLastName": "Salazar",
       "fullName": "Nelson Venegas Salazar",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 6"
     },
     {
       "id": "1229",
@@ -1022,7 +1114,8 @@
       "lastName": "Brito",
       "secondLastName": "Hasbún",
       "fullName": "Jorge Brito Hasbún",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 7"
     },
     {
       "id": "1074",
@@ -1030,7 +1123,8 @@
       "lastName": "Santibáñez",
       "secondLastName": "Novoa",
       "fullName": "Marisela Santibáñez Novoa",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 14"
     },
     {
       "id": "1116",
@@ -1038,7 +1132,8 @@
       "lastName": "Camaño",
       "secondLastName": "Cárdenas",
       "fullName": "Felipe Camaño Cárdenas",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 18"
     },
     {
       "id": "1159",
@@ -1046,7 +1141,8 @@
       "lastName": "Pizarro",
       "secondLastName": "Sierra",
       "fullName": "Lorena Pizarro Sierra",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 13"
     },
     {
       "id": "1190",
@@ -1102,7 +1198,8 @@
       "lastName": "Muñoz",
       "secondLastName": "González",
       "fullName": "Francesca Muñoz González",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 20"
     },
     {
       "id": "1100",
@@ -1118,7 +1215,8 @@
       "lastName": "Manouchehri",
       "secondLastName": "Lobos",
       "fullName": "Daniel Manouchehri Lobos",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 5"
     },
     {
       "id": "1178",
@@ -1126,7 +1224,8 @@
       "lastName": "Ulloa",
       "secondLastName": "Aguilera",
       "fullName": "Héctor Ulloa Aguilera",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 24"
     },
     {
       "id": "1202",
@@ -1150,7 +1249,8 @@
       "lastName": "Bobadilla",
       "secondLastName": "Muñoz",
       "fullName": "Sergio Bobadilla Muñoz",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 20"
     },
     {
       "id": "1013",
@@ -1158,7 +1258,8 @@
       "lastName": "Bernales",
       "secondLastName": "Maldonado",
       "fullName": "Alejandro Bernales Maldonado",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 25"
     },
     {
       "id": "1039",
@@ -1166,7 +1267,8 @@
       "lastName": "Jiles",
       "secondLastName": "Moreno",
       "fullName": "Pamela Jiles Moreno",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 12"
     },
     {
       "id": "1062",
@@ -1174,7 +1276,8 @@
       "lastName": "Pérez",
       "secondLastName": "Olea",
       "fullName": "Joanna Pérez Olea",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 20"
     },
     {
       "id": "1082",
@@ -1214,7 +1317,8 @@
       "lastName": "Romero",
       "secondLastName": "Talguia",
       "fullName": "Natalia Romero Talguia",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 15"
     },
     {
       "id": "1176",
@@ -1222,7 +1326,8 @@
       "lastName": "Teao",
       "secondLastName": "Drago",
       "fullName": "Hotuiti Teao Drago",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 6"
     },
     {
       "id": "1188",
@@ -1294,7 +1399,8 @@
       "lastName": "Fries",
       "secondLastName": "Monleón",
       "fullName": "Lorena Fries Monleón",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 10"
     },
     {
       "id": "1143",
@@ -1310,7 +1416,8 @@
       "lastName": "Pérez",
       "secondLastName": "Cartes",
       "fullName": "Marlene Pérez Cartes",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 19"
     },
     {
       "id": "1173",
@@ -1318,7 +1425,8 @@
       "lastName": "Serrano",
       "secondLastName": "Salazar",
       "fullName": "Daniela Serrano Salazar",
-      "chamber": "camara"
+      "chamber": "camara",
+      "district": "Distrito 12"
     },
     {
       "id": "1187",
@@ -1550,3822 +1658,6 @@
       "lastName": "Jofré",
       "secondLastName": "Cáceres",
       "fullName": "Álvaro Jofré Cáceres",
-      "chamber": "camara"
-    },
-    {
-      "id": "800",
-      "name": "Enrique",
-      "lastName": "Accorsi",
-      "secondLastName": "Opazo",
-      "fullName": "Enrique Accorsi Opazo",
-      "chamber": "camara"
-    },
-    {
-      "id": "802",
-      "name": "Sergio",
-      "lastName": "Aguiló",
-      "secondLastName": "Melo",
-      "fullName": "Sergio Aguiló Melo",
-      "chamber": "camara"
-    },
-    {
-      "id": "808",
-      "name": "Pedro",
-      "lastName": "Araya",
-      "secondLastName": "Guerrero",
-      "fullName": "Pedro Araya Guerrero",
-      "chamber": "camara"
-    },
-    {
-      "id": "809",
-      "name": "Gonzalo",
-      "lastName": "Arenas",
-      "secondLastName": "Hödar",
-      "fullName": "Gonzalo Arenas Hödar",
-      "chamber": "camara"
-    },
-    {
-      "id": "810",
-      "name": "Gabriel",
-      "lastName": "Ascencio",
-      "secondLastName": "Mansilla",
-      "fullName": "Gabriel Ascencio Mansilla",
-      "chamber": "camara"
-    },
-    {
-      "id": "811",
-      "name": "Ramón",
-      "lastName": "Barros",
-      "secondLastName": "Montero",
-      "fullName": "Ramón Barros Montero",
-      "chamber": "camara"
-    },
-    {
-      "id": "812",
-      "name": "Eugenio",
-      "lastName": "Bauer",
-      "secondLastName": "Jouanne",
-      "fullName": "Eugenio Bauer Jouanne",
-      "chamber": "camara"
-    },
-    {
-      "id": "813",
-      "name": "Germán",
-      "lastName": "Becker",
-      "secondLastName": "Alvear",
-      "fullName": "Germán Becker Alvear",
-      "chamber": "camara"
-    },
-    {
-      "id": "814",
-      "name": "Mario",
-      "lastName": "Bertolino",
-      "secondLastName": "Rendic",
-      "fullName": "Mario Bertolino Rendic",
-      "chamber": "camara"
-    },
-    {
-      "id": "816",
-      "name": "Jorge",
-      "lastName": "Burgos",
-      "secondLastName": "Varela",
-      "fullName": "Jorge Burgos Varela",
-      "chamber": "camara"
-    },
-    {
-      "id": "818",
-      "name": "Alberto",
-      "lastName": "Cardemil",
-      "secondLastName": "Herrera",
-      "fullName": "Alberto Cardemil Herrera",
-      "chamber": "camara"
-    },
-    {
-      "id": "819",
-      "name": "Guillermo",
-      "lastName": "Ceroni",
-      "secondLastName": "Fuentes",
-      "fullName": "Guillermo Ceroni Fuentes",
-      "chamber": "camara"
-    },
-    {
-      "id": "822",
-      "name": "María Angélica",
-      "lastName": "Cristi",
-      "secondLastName": "Marfil",
-      "fullName": "María Angélica Cristi Marfil",
-      "chamber": "camara"
-    },
-    {
-      "id": "824",
-      "name": "Alfonso",
-      "lastName": "De Urresti",
-      "secondLastName": "Longton",
-      "fullName": "Alfonso De Urresti Longton",
-      "chamber": "camara"
-    },
-    {
-      "id": "825",
-      "name": "Roberto",
-      "lastName": "Delmastro",
-      "secondLastName": "Naso",
-      "fullName": "Roberto Delmastro Naso",
-      "chamber": "camara"
-    },
-    {
-      "id": "827",
-      "name": "Marcelo",
-      "lastName": "Díaz",
-      "secondLastName": "Díaz",
-      "fullName": "Marcelo Díaz Díaz",
-      "chamber": "camara"
-    },
-    {
-      "id": "831",
-      "name": "Edmundo",
-      "lastName": "Eluchans",
-      "secondLastName": "Urenda",
-      "fullName": "Edmundo Eluchans Urenda",
-      "chamber": "camara"
-    },
-    {
-      "id": "836",
-      "name": "Marcos",
-      "lastName": "Espinosa",
-      "secondLastName": "Monardes",
-      "fullName": "Marcos Espinosa Monardes",
-      "chamber": "camara"
-    },
-    {
-      "id": "837",
-      "name": "Fidel",
-      "lastName": "Espinoza",
-      "secondLastName": "Sandoval",
-      "fullName": "Fidel Espinoza Sandoval",
-      "chamber": "camara"
-    },
-    {
-      "id": "838",
-      "name": "Enrique",
-      "lastName": "Estay",
-      "secondLastName": "Peñaloza",
-      "fullName": "Enrique Estay Peñaloza",
-      "chamber": "camara"
-    },
-    {
-      "id": "839",
-      "name": "Ramón",
-      "lastName": "Farías",
-      "secondLastName": "Ponce",
-      "fullName": "Ramón Farías Ponce",
-      "chamber": "camara"
-    },
-    {
-      "id": "844",
-      "name": "Alejandro",
-      "lastName": "García-Huidobro",
-      "secondLastName": "Sanfuentes",
-      "fullName": "Alejandro García-Huidobro Sanfuentes",
-      "chamber": "camara"
-    },
-    {
-      "id": "846",
-      "name": "Joaquín",
-      "lastName": "Godoy",
-      "secondLastName": "Ibáñez",
-      "fullName": "Joaquín Godoy Ibáñez",
-      "chamber": "camara"
-    },
-    {
-      "id": "847",
-      "name": "Carolina",
-      "lastName": "Goic",
-      "secondLastName": "Boroevic",
-      "fullName": "Carolina Goic Boroevic",
-      "chamber": "camara"
-    },
-    {
-      "id": "848",
-      "name": "Rodrigo",
-      "lastName": "González",
-      "secondLastName": "Torres",
-      "fullName": "Rodrigo González Torres",
-      "chamber": "camara"
-    },
-    {
-      "id": "849",
-      "name": "Patricio",
-      "lastName": "Hales",
-      "secondLastName": "Dib",
-      "fullName": "Patricio Hales Dib",
-      "chamber": "camara"
-    },
-    {
-      "id": "850",
-      "name": "Javier",
-      "lastName": "Hernández",
-      "secondLastName": "Hernández",
-      "fullName": "Javier Hernández Hernández",
-      "chamber": "camara"
-    },
-    {
-      "id": "853",
-      "name": "Marta",
-      "lastName": "Isasi",
-      "secondLastName": "Barbieri",
-      "fullName": "Marta Isasi Barbieri",
-      "chamber": "camara"
-    },
-    {
-      "id": "854",
-      "name": "Enrique",
-      "lastName": "Jaramillo",
-      "secondLastName": "Becker",
-      "fullName": "Enrique Jaramillo Becker",
-      "chamber": "camara"
-    },
-    {
-      "id": "855",
-      "name": "Carlos Abel",
-      "lastName": "Jarpa",
-      "secondLastName": "Wevar",
-      "fullName": "Carlos Abel Jarpa Wevar",
-      "chamber": "camara"
-    },
-    {
-      "id": "856",
-      "name": "Tucapel",
-      "lastName": "Jiménez",
-      "secondLastName": "Fuentes",
-      "fullName": "Tucapel Jiménez Fuentes",
-      "chamber": "camara"
-    },
-    {
-      "id": "857",
-      "name": "José Antonio",
-      "lastName": "Kast",
-      "secondLastName": "Rist",
-      "fullName": "José Antonio Kast Rist",
-      "chamber": "camara"
-    },
-    {
-      "id": "858",
-      "name": "Juan Carlos",
-      "lastName": "Latorre",
-      "secondLastName": "Carmona",
-      "fullName": "Juan Carlos Latorre Carmona",
-      "chamber": "camara"
-    },
-    {
-      "id": "860",
-      "name": "Roberto",
-      "lastName": "León",
-      "secondLastName": "Ramírez",
-      "fullName": "Roberto León Ramírez",
-      "chamber": "camara"
-    },
-    {
-      "id": "861",
-      "name": "Juan",
-      "lastName": "Lobos",
-      "secondLastName": "Krause",
-      "fullName": "Juan Lobos Krause",
-      "chamber": "camara"
-    },
-    {
-      "id": "862",
-      "name": "Pablo",
-      "lastName": "Lorenzini",
-      "secondLastName": "Basso",
-      "fullName": "Pablo Lorenzini Basso",
-      "chamber": "camara"
-    },
-    {
-      "id": "863",
-      "name": "Rosauro",
-      "lastName": "Martínez",
-      "secondLastName": "Labbé",
-      "fullName": "Rosauro Martínez Labbé",
-      "chamber": "camara"
-    },
-    {
-      "id": "865",
-      "name": "Patricio",
-      "lastName": "Melero",
-      "secondLastName": "Abaroa",
-      "fullName": "Patricio Melero Abaroa",
-      "chamber": "camara"
-    },
-    {
-      "id": "866",
-      "name": "Fernando",
-      "lastName": "Meza",
-      "secondLastName": "Moncada",
-      "fullName": "Fernando Meza Moncada",
-      "chamber": "camara"
-    },
-    {
-      "id": "867",
-      "name": "Cristián",
-      "lastName": "Monckeberg",
-      "secondLastName": "Bruner",
-      "fullName": "Cristián Monckeberg Bruner",
-      "chamber": "camara"
-    },
-    {
-      "id": "868",
-      "name": "Nicolás",
-      "lastName": "Monckeberg",
-      "secondLastName": "Díaz",
-      "fullName": "Nicolás Monckeberg Díaz",
-      "chamber": "camara"
-    },
-    {
-      "id": "869",
-      "name": "Manuel",
-      "lastName": "Monsalve",
-      "secondLastName": "Benavides",
-      "fullName": "Manuel Monsalve Benavides",
-      "chamber": "camara"
-    },
-    {
-      "id": "870",
-      "name": "Carlos",
-      "lastName": "Montes",
-      "secondLastName": "Cisternas",
-      "fullName": "Carlos Montes Cisternas",
-      "chamber": "camara"
-    },
-    {
-      "id": "871",
-      "name": "Iván",
-      "lastName": "Moreira",
-      "secondLastName": "Barros",
-      "fullName": "Iván Moreira Barros",
-      "chamber": "camara"
-    },
-    {
-      "id": "873",
-      "name": "Adriana",
-      "lastName": "Muñoz",
-      "secondLastName": "D'Albora",
-      "fullName": "Adriana Muñoz D'Albora",
-      "chamber": "camara"
-    },
-    {
-      "id": "874",
-      "name": "Claudia",
-      "lastName": "Nogueira",
-      "secondLastName": "Fernández",
-      "fullName": "Claudia Nogueira Fernández",
-      "chamber": "camara"
-    },
-    {
-      "id": "875",
-      "name": "Iván",
-      "lastName": "Norambuena",
-      "secondLastName": "Farías",
-      "fullName": "Iván Norambuena Farías",
-      "chamber": "camara"
-    },
-    {
-      "id": "876",
-      "name": "Marco Antonio",
-      "lastName": "Núñez",
-      "secondLastName": "Lozano",
-      "fullName": "Marco Antonio Núñez Lozano",
-      "chamber": "camara"
-    },
-    {
-      "id": "877",
-      "name": "Sergio",
-      "lastName": "Ojeda",
-      "secondLastName": "Uribe",
-      "fullName": "Sergio Ojeda Uribe",
-      "chamber": "camara"
-    },
-    {
-      "id": "879",
-      "name": "José Miguel",
-      "lastName": "Ortiz",
-      "secondLastName": "Novoa",
-      "fullName": "José Miguel Ortiz Novoa",
-      "chamber": "camara"
-    },
-    {
-      "id": "880",
-      "name": "Clemira",
-      "lastName": "Pacheco",
-      "secondLastName": "Rivas",
-      "fullName": "Clemira Pacheco Rivas",
-      "chamber": "camara"
-    },
-    {
-      "id": "883",
-      "name": "Denise",
-      "lastName": "Pascal",
-      "secondLastName": "Allende",
-      "fullName": "Denise Pascal Allende",
-      "chamber": "camara"
-    },
-    {
-      "id": "885",
-      "name": "José",
-      "lastName": "Pérez",
-      "secondLastName": "Arriagada",
-      "fullName": "José Pérez Arriagada",
-      "chamber": "camara"
-    },
-    {
-      "id": "887",
-      "name": "Carlos",
-      "lastName": "Recondo",
-      "secondLastName": "Lavanderos",
-      "fullName": "Carlos Recondo Lavanderos",
-      "chamber": "camara"
-    },
-    {
-      "id": "888",
-      "name": "Alberto",
-      "lastName": "Robles",
-      "secondLastName": "Pantoja",
-      "fullName": "Alberto Robles Pantoja",
-      "chamber": "camara"
-    },
-    {
-      "id": "889",
-      "name": "Manuel",
-      "lastName": "Rojas",
-      "secondLastName": "Molina",
-      "fullName": "Manuel Rojas Molina",
-      "chamber": "camara"
-    },
-    {
-      "id": "891",
-      "name": "Karla",
-      "lastName": "Rubilar",
-      "secondLastName": "Barahona",
-      "fullName": "Karla Rubilar Barahona",
-      "chamber": "camara"
-    },
-    {
-      "id": "892",
-      "name": "María Antonieta",
-      "lastName": "Saa",
-      "secondLastName": "Díaz",
-      "fullName": "María Antonieta Saa Díaz",
-      "chamber": "camara"
-    },
-    {
-      "id": "893",
-      "name": "Jorge",
-      "lastName": "Sabag",
-      "secondLastName": "Villalobos",
-      "fullName": "Jorge Sabag Villalobos",
-      "chamber": "camara"
-    },
-    {
-      "id": "895",
-      "name": "Felipe",
-      "lastName": "Salaberry",
-      "secondLastName": "Soto",
-      "fullName": "Felipe Salaberry Soto",
-      "chamber": "camara"
-    },
-    {
-      "id": "897",
-      "name": "Alejandra",
-      "lastName": "Sepúlveda",
-      "secondLastName": "Orbenes",
-      "fullName": "Alejandra Sepúlveda Orbenes",
-      "chamber": "camara"
-    },
-    {
-      "id": "898",
-      "name": "Gabriel",
-      "lastName": "Silber",
-      "secondLastName": "Romo",
-      "fullName": "Gabriel Silber Romo",
-      "chamber": "camara"
-    },
-    {
-      "id": "902",
-      "name": "Jorge",
-      "lastName": "Tarud",
-      "secondLastName": "Daccarett",
-      "fullName": "Jorge Tarud Daccarett",
-      "chamber": "camara"
-    },
-    {
-      "id": "905",
-      "name": "Marisol",
-      "lastName": "Turres",
-      "secondLastName": "Figueroa",
-      "fullName": "Marisol Turres Figueroa",
-      "chamber": "camara"
-    },
-    {
-      "id": "906",
-      "name": "Jorge",
-      "lastName": "Ulloa",
-      "secondLastName": "Aguillón",
-      "fullName": "Jorge Ulloa Aguillón",
-      "chamber": "camara"
-    },
-    {
-      "id": "907",
-      "name": "Gonzalo",
-      "lastName": "Uriarte",
-      "secondLastName": "Herrera",
-      "fullName": "Gonzalo Uriarte Herrera",
-      "chamber": "camara"
-    },
-    {
-      "id": "908",
-      "name": "Ignacio",
-      "lastName": "Urrutia",
-      "secondLastName": "Bonilla",
-      "fullName": "Ignacio Urrutia Bonilla",
-      "chamber": "camara"
-    },
-    {
-      "id": "911",
-      "name": "Patricio",
-      "lastName": "Vallespín",
-      "secondLastName": "López",
-      "fullName": "Patricio Vallespín López",
-      "chamber": "camara"
-    },
-    {
-      "id": "913",
-      "name": "Mario",
-      "lastName": "Venegas",
-      "secondLastName": "Cárdenas",
-      "fullName": "Mario Venegas Cárdenas",
-      "chamber": "camara"
-    },
-    {
-      "id": "916",
-      "name": "Ximena",
-      "lastName": "Vidal",
-      "secondLastName": "Lázaro",
-      "fullName": "Ximena Vidal Lázaro",
-      "chamber": "camara"
-    },
-    {
-      "id": "917",
-      "name": "Gastón",
-      "lastName": "Von Mühlenbrock",
-      "secondLastName": "Zamora",
-      "fullName": "Gastón Von Mühlenbrock Zamora",
-      "chamber": "camara"
-    },
-    {
-      "id": "919",
-      "name": "Felipe",
-      "lastName": "Ward",
-      "secondLastName": "Edwards",
-      "fullName": "Felipe Ward Edwards",
-      "chamber": "camara"
-    },
-    {
-      "id": "920",
-      "name": "Marcelo",
-      "lastName": "Schilling",
-      "secondLastName": "Rodríguez",
-      "fullName": "Marcelo Schilling Rodríguez",
-      "chamber": "camara"
-    },
-    {
-      "id": "922",
-      "name": "Felipe",
-      "lastName": "Harboe",
-      "secondLastName": "Bascuñán",
-      "fullName": "Felipe Harboe Bascuñán",
-      "chamber": "camara"
-    },
-    {
-      "id": "923",
-      "name": "Pedro Pablo",
-      "lastName": "Álvarez-Salamanca",
-      "secondLastName": "Ramírez",
-      "fullName": "Pedro Pablo Álvarez-Salamanca Ramírez",
-      "chamber": "camara"
-    },
-    {
-      "id": "924",
-      "name": "Osvaldo",
-      "lastName": "Andrade",
-      "secondLastName": "Lara",
-      "fullName": "Osvaldo Andrade Lara",
-      "chamber": "camara"
-    },
-    {
-      "id": "925",
-      "name": "Pepe",
-      "lastName": "Auth",
-      "secondLastName": "Stewart",
-      "fullName": "Pepe Auth Stewart",
-      "chamber": "camara"
-    },
-    {
-      "id": "926",
-      "name": "Nino",
-      "lastName": "Baltolu",
-      "secondLastName": "Rasera",
-      "fullName": "Nino Baltolu Rasera",
-      "chamber": "camara"
-    },
-    {
-      "id": "927",
-      "name": "Pedro",
-      "lastName": "Browne",
-      "secondLastName": "Urrejola",
-      "fullName": "Pedro Browne Urrejola",
-      "chamber": "camara"
-    },
-    {
-      "id": "928",
-      "name": "Giovanni",
-      "lastName": "Calderón",
-      "secondLastName": "Bassi",
-      "fullName": "Giovanni Calderón Bassi",
-      "chamber": "camara"
-    },
-    {
-      "id": "929",
-      "name": "Cristián",
-      "lastName": "Campos",
-      "secondLastName": "Jara",
-      "fullName": "Cristián Campos Jara",
-      "chamber": "camara"
-    },
-    {
-      "id": "930",
-      "name": "Lautaro",
-      "lastName": "Carmona",
-      "secondLastName": "Soto",
-      "fullName": "Lautaro Carmona Soto",
-      "chamber": "camara"
-    },
-    {
-      "id": "931",
-      "name": "Juan Luis",
-      "lastName": "Castro",
-      "secondLastName": "González",
-      "fullName": "Juan Luis Castro González",
-      "chamber": "camara"
-    },
-    {
-      "id": "932",
-      "name": "Eduardo",
-      "lastName": "Cerda",
-      "secondLastName": "García",
-      "fullName": "Eduardo Cerda García",
-      "chamber": "camara"
-    },
-    {
-      "id": "933",
-      "name": "Aldo",
-      "lastName": "Cornejo",
-      "secondLastName": "González",
-      "fullName": "Aldo Cornejo González",
-      "chamber": "camara"
-    },
-    {
-      "id": "934",
-      "name": "Fuad",
-      "lastName": "Chahin",
-      "secondLastName": "Valenzuela",
-      "fullName": "Fuad Chahin Valenzuela",
-      "chamber": "camara"
-    },
-    {
-      "id": "935",
-      "name": "Rojo",
-      "lastName": "Edwards",
-      "secondLastName": "Silva",
-      "fullName": "Rojo Edwards Silva",
-      "chamber": "camara"
-    },
-    {
-      "id": "936",
-      "name": "Cristina",
-      "lastName": "Girardi",
-      "secondLastName": "Lavín",
-      "fullName": "Cristina Girardi Lavín",
-      "chamber": "camara"
-    },
-    {
-      "id": "937",
-      "name": "Hugo",
-      "lastName": "Gutiérrez",
-      "secondLastName": "Gálvez",
-      "fullName": "Hugo Gutiérrez Gálvez",
-      "chamber": "camara"
-    },
-    {
-      "id": "938",
-      "name": "Romilio",
-      "lastName": "Gutiérrez",
-      "secondLastName": "Pino",
-      "fullName": "Romilio Gutiérrez Pino",
-      "chamber": "camara"
-    },
-    {
-      "id": "939",
-      "name": "Gustavo",
-      "lastName": "Hasbún",
-      "secondLastName": "Selume",
-      "fullName": "Gustavo Hasbún Selume",
-      "chamber": "camara"
-    },
-    {
-      "id": "940",
-      "name": "María José",
-      "lastName": "Hoffmann",
-      "secondLastName": "Opazo",
-      "fullName": "María José Hoffmann Opazo",
-      "chamber": "camara"
-    },
-    {
-      "id": "941",
-      "name": "Luis",
-      "lastName": "Lemus",
-      "secondLastName": "Aracena",
-      "fullName": "Luis Lemus Aracena",
-      "chamber": "camara"
-    },
-    {
-      "id": "942",
-      "name": "Javier",
-      "lastName": "Macaya",
-      "secondLastName": "Danús",
-      "fullName": "Javier Macaya Danús",
-      "chamber": "camara"
-    },
-    {
-      "id": "943",
-      "name": "Miodrag",
-      "lastName": "Marinovic",
-      "secondLastName": "Solo de Zaldívar",
-      "fullName": "Miodrag Marinovic Solo de Zaldívar",
-      "chamber": "camara"
-    },
-    {
-      "id": "944",
-      "name": "Andrea",
-      "lastName": "Molina",
-      "secondLastName": "Oliva",
-      "fullName": "Andrea Molina Oliva",
-      "chamber": "camara"
-    },
-    {
-      "id": "945",
-      "name": "Celso",
-      "lastName": "Morales",
-      "secondLastName": "Muñoz",
-      "fullName": "Celso Morales Muñoz",
-      "chamber": "camara"
-    },
-    {
-      "id": "946",
-      "name": "Leopoldo",
-      "lastName": "Pérez",
-      "secondLastName": "Lahsen",
-      "fullName": "Leopoldo Pérez Lahsen",
-      "chamber": "camara"
-    },
-    {
-      "id": "947",
-      "name": "Ricardo",
-      "lastName": "Rincón",
-      "secondLastName": "González",
-      "fullName": "Ricardo Rincón González",
-      "chamber": "camara"
-    },
-    {
-      "id": "948",
-      "name": "Gaspar",
-      "lastName": "Rivas",
-      "secondLastName": "Sánchez",
-      "fullName": "Gaspar Rivas Sánchez",
-      "chamber": "camara"
-    },
-    {
-      "id": "949",
-      "name": "Marcela",
-      "lastName": "Sabat",
-      "secondLastName": "Fernández",
-      "fullName": "Marcela Sabat Fernández",
-      "chamber": "camara"
-    },
-    {
-      "id": "950",
-      "name": "René",
-      "lastName": "Saffirio",
-      "secondLastName": "Espinoza",
-      "fullName": "René Saffirio Espinoza",
-      "chamber": "camara"
-    },
-    {
-      "id": "951",
-      "name": "David",
-      "lastName": "Sandoval",
-      "secondLastName": "Plaza",
-      "fullName": "David Sandoval Plaza",
-      "chamber": "camara"
-    },
-    {
-      "id": "952",
-      "name": "Alejandro",
-      "lastName": "Santana",
-      "secondLastName": "Tirachini",
-      "fullName": "Alejandro Santana Tirachini",
-      "chamber": "camara"
-    },
-    {
-      "id": "953",
-      "name": "Frank",
-      "lastName": "Sauerbaum",
-      "secondLastName": "Muñoz",
-      "fullName": "Frank Sauerbaum Muñoz",
-      "chamber": "camara"
-    },
-    {
-      "id": "954",
-      "name": "Ernesto",
-      "lastName": "Silva",
-      "secondLastName": "Méndez",
-      "fullName": "Ernesto Silva Méndez",
-      "chamber": "camara"
-    },
-    {
-      "id": "955",
-      "name": "Arturo",
-      "lastName": "Squella",
-      "secondLastName": "Ovalle",
-      "fullName": "Arturo Squella Ovalle",
-      "chamber": "camara"
-    },
-    {
-      "id": "956",
-      "name": "Guillermo",
-      "lastName": "Teillier",
-      "secondLastName": "Del Valle",
-      "fullName": "Guillermo Teillier Del Valle",
-      "chamber": "camara"
-    },
-    {
-      "id": "957",
-      "name": "Víctor",
-      "lastName": "Torres",
-      "secondLastName": "Jeldes",
-      "fullName": "Víctor Torres Jeldes",
-      "chamber": "camara"
-    },
-    {
-      "id": "958",
-      "name": "Joaquín",
-      "lastName": "Tuma",
-      "secondLastName": "Zedan",
-      "fullName": "Joaquín Tuma Zedan",
-      "chamber": "camara"
-    },
-    {
-      "id": "959",
-      "name": "Enrique",
-      "lastName": "Van Rysselberghe",
-      "secondLastName": "Herrera",
-      "fullName": "Enrique Van Rysselberghe Herrera",
-      "chamber": "camara"
-    },
-    {
-      "id": "960",
-      "name": "Orlando",
-      "lastName": "Vargas",
-      "secondLastName": "Pizarro",
-      "fullName": "Orlando Vargas Pizarro",
-      "chamber": "camara"
-    },
-    {
-      "id": "961",
-      "name": "Pedro",
-      "lastName": "Velásquez",
-      "secondLastName": "Seguel",
-      "fullName": "Pedro Velásquez Seguel",
-      "chamber": "camara"
-    },
-    {
-      "id": "962",
-      "name": "Carlos",
-      "lastName": "Vilches",
-      "secondLastName": "Guzmán",
-      "fullName": "Carlos Vilches Guzmán",
-      "chamber": "camara"
-    },
-    {
-      "id": "963",
-      "name": "Matías",
-      "lastName": "Walker",
-      "secondLastName": "Prieto",
-      "fullName": "Matías Walker Prieto",
-      "chamber": "camara"
-    },
-    {
-      "id": "964",
-      "name": "Mónica",
-      "lastName": "Zalaquett",
-      "secondLastName": "Said",
-      "fullName": "Mónica Zalaquett Said",
-      "chamber": "camara"
-    },
-    {
-      "id": "965",
-      "name": "Cristian",
-      "lastName": "Letelier",
-      "secondLastName": "Aguilar",
-      "fullName": "Cristian Letelier Aguilar",
-      "chamber": "camara"
-    },
-    {
-      "id": "966",
-      "name": "Joel",
-      "lastName": "Rosales",
-      "secondLastName": "Guzmán",
-      "fullName": "Joel Rosales Guzmán",
-      "chamber": "camara"
-    },
-    {
-      "id": "967",
-      "name": "Issa",
-      "lastName": "Kort",
-      "secondLastName": "Garriga",
-      "fullName": "Issa Kort Garriga",
-      "chamber": "camara"
-    },
-    {
-      "id": "1",
-      "name": "Mario",
-      "lastName": "Acuña",
-      "secondLastName": "Cisternas",
-      "fullName": "Mario Acuña Cisternas",
-      "chamber": "camara"
-    },
-    {
-      "id": "11",
-      "name": "Francisco",
-      "lastName": "Bartolucci",
-      "secondLastName": "Johnston",
-      "fullName": "Francisco Bartolucci Johnston",
-      "chamber": "camara"
-    },
-    {
-      "id": "15",
-      "name": "Carlos",
-      "lastName": "Caminondo",
-      "secondLastName": "Sáez",
-      "fullName": "Carlos Caminondo Sáez",
-      "chamber": "camara"
-    },
-    {
-      "id": "19",
-      "name": "Juan Antonio",
-      "lastName": "Coloma",
-      "secondLastName": "Correa",
-      "fullName": "Juan Antonio Coloma Correa",
-      "chamber": "camara"
-    },
-    {
-      "id": "27",
-      "name": "Sergio",
-      "lastName": "Elgueta",
-      "secondLastName": "Barrientos",
-      "fullName": "Sergio Elgueta Barrientos",
-      "chamber": "camara"
-    },
-    {
-      "id": "30",
-      "name": "Alberto",
-      "lastName": "Espina",
-      "secondLastName": "Otero",
-      "fullName": "Alberto Espina Otero",
-      "chamber": "camara"
-    },
-    {
-      "id": "35",
-      "name": "José",
-      "lastName": "García",
-      "secondLastName": "Ruminot",
-      "fullName": "José García Ruminot",
-      "chamber": "camara"
-    },
-    {
-      "id": "43",
-      "name": "Francisco",
-      "lastName": "Huenchumilla",
-      "secondLastName": "Jaramillo",
-      "fullName": "Francisco Huenchumilla Jaramillo",
-      "chamber": "camara"
-    },
-    {
-      "id": "62",
-      "name": "Gutenberg",
-      "lastName": "Martínez",
-      "secondLastName": "Ocamica",
-      "fullName": "Gutenberg Martínez Ocamica",
-      "chamber": "camara"
-    },
-    {
-      "id": "74",
-      "name": "Jaime",
-      "lastName": "Naranjo",
-      "secondLastName": "Ortiz",
-      "fullName": "Jaime Naranjo Ortiz",
-      "chamber": "camara"
-    },
-    {
-      "id": "79",
-      "name": "Jaime",
-      "lastName": "Orpis",
-      "secondLastName": "Bouchon",
-      "fullName": "Jaime Orpis Bouchon",
-      "chamber": "camara"
-    },
-    {
-      "id": "83",
-      "name": "Andrés",
-      "lastName": "Palma",
-      "secondLastName": "Irarrázaval",
-      "fullName": "Andrés Palma Irarrázaval",
-      "chamber": "camara"
-    },
-    {
-      "id": "84",
-      "name": "Joaquín",
-      "lastName": "Palma",
-      "secondLastName": "Irarrázaval",
-      "fullName": "Joaquín Palma Irarrázaval",
-      "chamber": "camara"
-    },
-    {
-      "id": "92",
-      "name": "Marina",
-      "lastName": "Prochelle",
-      "secondLastName": "Aguilar",
-      "fullName": "Marina Prochelle Aguilar",
-      "chamber": "camara"
-    },
-    {
-      "id": "93",
-      "name": "Baldo",
-      "lastName": "Prokuriça",
-      "secondLastName": "Prokuriça",
-      "fullName": "Baldo Prokuriça Prokuriça",
-      "chamber": "camara"
-    },
-    {
-      "id": "95",
-      "name": "Víctor",
-      "lastName": "Reyes",
-      "secondLastName": "Alvarado",
-      "fullName": "Víctor Reyes Alvarado",
-      "chamber": "camara"
-    },
-    {
-      "id": "98",
-      "name": "Jaime",
-      "lastName": "Rocha",
-      "secondLastName": "Manrique",
-      "fullName": "Jaime Rocha Manrique",
-      "chamber": "camara"
-    },
-    {
-      "id": "111",
-      "name": "Felipe",
-      "lastName": "Valenzuela",
-      "secondLastName": "Herrera",
-      "fullName": "Felipe Valenzuela Herrera",
-      "chamber": "camara"
-    },
-    {
-      "id": "115",
-      "name": "Sergio",
-      "lastName": "Velasco",
-      "secondLastName": "De la Cerda",
-      "fullName": "Sergio Velasco De la Cerda",
-      "chamber": "camara"
-    },
-    {
-      "id": "132",
-      "name": "Francisco",
-      "lastName": "Bayo",
-      "secondLastName": "Veloso",
-      "fullName": "Francisco Bayo Veloso",
-      "chamber": "camara"
-    },
-    {
-      "id": "137",
-      "name": "Eliana",
-      "lastName": "Caraball",
-      "secondLastName": "Martínez",
-      "fullName": "Eliana Caraball Martínez",
-      "chamber": "camara"
-    },
-    {
-      "id": "150",
-      "name": "Camilo",
-      "lastName": "Escalona",
-      "secondLastName": "Medina",
-      "fullName": "Camilo Escalona Medina",
-      "chamber": "camara"
-    },
-    {
-      "id": "155",
-      "name": "José Antonio",
-      "lastName": "Galilea",
-      "secondLastName": "Vidaurre",
-      "fullName": "José Antonio Galilea Vidaurre",
-      "chamber": "camara"
-    },
-    {
-      "id": "169",
-      "name": "Víctor",
-      "lastName": "Jeame",
-      "secondLastName": "Barrueto",
-      "fullName": "Víctor Jeame Barrueto",
-      "chamber": "camara"
-    },
-    {
-      "id": "172",
-      "name": "Carlos",
-      "lastName": "Kuschel",
-      "secondLastName": "Silva",
-      "fullName": "Carlos Kuschel Silva",
-      "chamber": "camara"
-    },
-    {
-      "id": "175",
-      "name": "Cristián",
-      "lastName": "Leay",
-      "secondLastName": "Morán",
-      "fullName": "Cristián Leay Morán",
-      "chamber": "camara"
-    },
-    {
-      "id": "176",
-      "name": "Juan Pablo",
-      "lastName": "Letelier",
-      "secondLastName": "Morel",
-      "fullName": "Juan Pablo Letelier Morel",
-      "chamber": "camara"
-    },
-    {
-      "id": "178",
-      "name": "Arturo",
-      "lastName": "Longton",
-      "secondLastName": "Guerrero",
-      "fullName": "Arturo Longton Guerrero",
-      "chamber": "camara"
-    },
-    {
-      "id": "179",
-      "name": "Pablo",
-      "lastName": "Longueira",
-      "secondLastName": "Montes",
-      "fullName": "Pablo Longueira Montes",
-      "chamber": "camara"
-    },
-    {
-      "id": "206",
-      "name": "Ramón",
-      "lastName": "Pérez",
-      "secondLastName": "Opazo",
-      "fullName": "Ramón Pérez Opazo",
-      "chamber": "camara"
-    },
-    {
-      "id": "208",
-      "name": "Víctor",
-      "lastName": "Pérez",
-      "secondLastName": "Varela",
-      "fullName": "Víctor Pérez Varela",
-      "chamber": "camara"
-    },
-    {
-      "id": "211",
-      "name": "Víctor Manuel",
-      "lastName": "Rebolledo",
-      "secondLastName": "González",
-      "fullName": "Víctor Manuel Rebolledo González",
-      "chamber": "camara"
-    },
-    {
-      "id": "220",
-      "name": "Edmundo",
-      "lastName": "Salas",
-      "secondLastName": "De La Fuente",
-      "fullName": "Edmundo Salas De La Fuente",
-      "chamber": "camara"
-    },
-    {
-      "id": "222",
-      "name": "Rodolfo",
-      "lastName": "Seguel",
-      "secondLastName": "Molina",
-      "fullName": "Rodolfo Seguel Molina",
-      "chamber": "camara"
-    },
-    {
-      "id": "239",
-      "name": "Edmundo",
-      "lastName": "Villouta",
-      "secondLastName": "Concha",
-      "fullName": "Edmundo Villouta Concha",
-      "chamber": "camara"
-    },
-    {
-      "id": "407",
-      "name": "Armando",
-      "lastName": "Arancibia",
-      "secondLastName": "Calderón",
-      "fullName": "Armando Arancibia Calderón",
-      "chamber": "camara"
-    },
-    {
-      "id": "410",
-      "name": "Andrés",
-      "lastName": "Aylwin",
-      "secondLastName": "Azocar",
-      "fullName": "Andrés Aylwin Azocar",
-      "chamber": "camara"
-    },
-    {
-      "id": "415",
-      "name": "Carlos",
-      "lastName": "Bombal",
-      "secondLastName": "Otaegui",
-      "fullName": "Carlos Bombal Otaegui",
-      "chamber": "camara"
-    },
-    {
-      "id": "417",
-      "name": "Carlos",
-      "lastName": "Cantero",
-      "secondLastName": "Ojeda",
-      "fullName": "Carlos Cantero Ojeda",
-      "chamber": "camara"
-    },
-    {
-      "id": "424",
-      "name": "Andrés",
-      "lastName": "Chadwick",
-      "secondLastName": "Piñera",
-      "fullName": "Andrés Chadwick Piñera",
-      "chamber": "camara"
-    },
-    {
-      "id": "426",
-      "name": "Carlos",
-      "lastName": "Dupré",
-      "secondLastName": "Silva",
-      "fullName": "Carlos Dupré Silva",
-      "chamber": "camara"
-    },
-    {
-      "id": "428",
-      "name": "Ramón",
-      "lastName": "Elizalde",
-      "secondLastName": "Hevia",
-      "fullName": "Ramón Elizalde Hevia",
-      "chamber": "camara"
-    },
-    {
-      "id": "433",
-      "name": "Jaime",
-      "lastName": "Estévez",
-      "secondLastName": "Valencia",
-      "fullName": "Jaime Estévez Valencia",
-      "chamber": "camara"
-    },
-    {
-      "id": "434",
-      "name": "Miguel Angel",
-      "lastName": "Fantuzzi",
-      "secondLastName": "Hernández",
-      "fullName": "Miguel Angel Fantuzzi Hernández",
-      "chamber": "camara"
-    },
-    {
-      "id": "437",
-      "name": "Rubén",
-      "lastName": "Gajardo",
-      "secondLastName": "Chacón",
-      "fullName": "Rubén Gajardo Chacón",
-      "chamber": "camara"
-    },
-    {
-      "id": "445",
-      "name": "Mario",
-      "lastName": "Hamuy",
-      "secondLastName": "Berr",
-      "fullName": "Mario Hamuy Berr",
-      "chamber": "camara"
-    },
-    {
-      "id": "448",
-      "name": "José María",
-      "lastName": "Hurtado",
-      "secondLastName": "Ruiz-Tagle",
-      "fullName": "José María Hurtado Ruiz-Tagle",
-      "chamber": "camara"
-    },
-    {
-      "id": "449",
-      "name": "Octavio",
-      "lastName": "Jara",
-      "secondLastName": "Wolff",
-      "fullName": "Octavio Jara Wolff",
-      "chamber": "camara"
-    },
-    {
-      "id": "467",
-      "name": "Evelyn",
-      "lastName": "Matthei",
-      "secondLastName": "Fornet",
-      "fullName": "Evelyn Matthei Fornet",
-      "chamber": "camara"
-    },
-    {
-      "id": "472",
-      "name": "Eugenio",
-      "lastName": "Munizaga",
-      "secondLastName": "Rodríguez",
-      "fullName": "Eugenio Munizaga Rodríguez",
-      "chamber": "camara"
-    },
-    {
-      "id": "485",
-      "name": "Jorge",
-      "lastName": "Pizarro",
-      "secondLastName": "Soto",
-      "fullName": "Jorge Pizarro Soto",
-      "chamber": "camara"
-    },
-    {
-      "id": "491",
-      "name": "Teodoro",
-      "lastName": "Ribera",
-      "secondLastName": "Neumann",
-      "fullName": "Teodoro Ribera Neumann",
-      "chamber": "camara"
-    },
-    {
-      "id": "493",
-      "name": "Claudio",
-      "lastName": "Rodríguez",
-      "secondLastName": "Cataldo",
-      "fullName": "Claudio Rodríguez Cataldo",
-      "chamber": "camara"
-    },
-    {
-      "id": "495",
-      "name": "Hosain",
-      "lastName": "Sabag",
-      "secondLastName": "Castillo",
-      "fullName": "Hosain Sabag Castillo",
-      "chamber": "camara"
-    },
-    {
-      "id": "497",
-      "name": "Jorge",
-      "lastName": "Schaulsohn",
-      "secondLastName": "Brodsky",
-      "fullName": "Jorge Schaulsohn Brodsky",
-      "chamber": "camara"
-    },
-    {
-      "id": "502",
-      "name": "Vicente",
-      "lastName": "Sota",
-      "secondLastName": "Barros",
-      "fullName": "Vicente Sota Barros",
-      "chamber": "camara"
-    },
-    {
-      "id": "503",
-      "name": "Juan Enrique",
-      "lastName": "Taladriz",
-      "secondLastName": "García",
-      "fullName": "Juan Enrique Taladriz García",
-      "chamber": "camara"
-    },
-    {
-      "id": "504",
-      "name": "Isidoro",
-      "lastName": "Tohá",
-      "secondLastName": "González",
-      "fullName": "Isidoro Tohá González",
-      "chamber": "camara"
-    },
-    {
-      "id": "507",
-      "name": "Raúl",
-      "lastName": "Urrutia",
-      "secondLastName": "Avila",
-      "fullName": "Raúl Urrutia Avila",
-      "chamber": "camara"
-    },
-    {
-      "id": "509",
-      "name": "Carlos",
-      "lastName": "Valcarce",
-      "secondLastName": "Medina",
-      "fullName": "Carlos Valcarce Medina",
-      "chamber": "camara"
-    },
-    {
-      "id": "514",
-      "name": "José Antonio",
-      "lastName": "Viera-Gallo",
-      "secondLastName": "Quesney",
-      "fullName": "José Antonio Viera-Gallo Quesney",
-      "chamber": "camara"
-    },
-    {
-      "id": "603",
-      "name": "Hugo",
-      "lastName": "Alamos",
-      "secondLastName": "Vásquez",
-      "fullName": "Hugo Alamos Vásquez",
-      "chamber": "camara"
-    },
-    {
-      "id": "604",
-      "name": "Gustavo",
-      "lastName": "Alessandri",
-      "secondLastName": "Balmaceda",
-      "fullName": "Gustavo Alessandri Balmaceda",
-      "chamber": "camara"
-    },
-    {
-      "id": "607",
-      "name": "Nicanor",
-      "lastName": "Araya",
-      "secondLastName": "de la Cruz",
-      "fullName": "Nicanor Araya de la Cruz",
-      "chamber": "camara"
-    },
-    {
-      "id": "612",
-      "name": "Hernán",
-      "lastName": "Bosselin",
-      "secondLastName": "Correa",
-      "fullName": "Hernán Bosselin Correa",
-      "chamber": "camara"
-    },
-    {
-      "id": "614",
-      "name": "Jaime Alfonso",
-      "lastName": "Campos",
-      "secondLastName": "Quiroga",
-      "fullName": "Jaime Alfonso Campos Quiroga",
-      "chamber": "camara"
-    },
-    {
-      "id": "617",
-      "name": "Gustavo",
-      "lastName": "Cardemil",
-      "secondLastName": "Alfaro",
-      "fullName": "Gustavo Cardemil Alfaro",
-      "chamber": "camara"
-    },
-    {
-      "id": "618",
-      "name": "Baldemar",
-      "lastName": "Carrasco",
-      "secondLastName": "Muñoz",
-      "fullName": "Baldemar Carrasco Muñoz",
-      "chamber": "camara"
-    },
-    {
-      "id": "621",
-      "name": "Juan",
-      "lastName": "Concha",
-      "secondLastName": "Urbina",
-      "fullName": "Juan Concha Urbina",
-      "chamber": "camara"
-    },
-    {
-      "id": "626",
-      "name": "Mario",
-      "lastName": "Devaud",
-      "secondLastName": "Ojeda",
-      "fullName": "Mario Devaud Ojeda",
-      "chamber": "camara"
-    },
-    {
-      "id": "634",
-      "name": "Dionisio",
-      "lastName": "Faulbaum",
-      "secondLastName": "Mayorga",
-      "fullName": "Dionisio Faulbaum Mayorga",
-      "chamber": "camara"
-    },
-    {
-      "id": "639",
-      "name": "Pedro",
-      "lastName": "Guzmán",
-      "secondLastName": "Alvarez",
-      "fullName": "Pedro Guzmán Alvarez",
-      "chamber": "camara"
-    },
-    {
-      "id": "641",
-      "name": "Antonio",
-      "lastName": "Horvath",
-      "secondLastName": "Kiss",
-      "fullName": "Antonio Horvath Kiss",
-      "chamber": "camara"
-    },
-    {
-      "id": "643",
-      "name": "Claudio",
-      "lastName": "Huepe",
-      "secondLastName": "García",
-      "fullName": "Claudio Huepe García",
-      "chamber": "camara"
-    },
-    {
-      "id": "645",
-      "name": "Sergio",
-      "lastName": "Jara",
-      "secondLastName": "Catalán",
-      "fullName": "Sergio Jara Catalán",
-      "chamber": "camara"
-    },
-    {
-      "id": "649",
-      "name": "Vladislav",
-      "lastName": "Kuzmicic",
-      "secondLastName": "Calderón",
-      "fullName": "Vladislav Kuzmicic Calderón",
-      "chamber": "camara"
-    },
-    {
-      "id": "652",
-      "name": "Luis",
-      "lastName": "Leblanc",
-      "secondLastName": "Valenzuela",
-      "fullName": "Luis Leblanc Valenzuela",
-      "chamber": "camara"
-    },
-    {
-      "id": "656",
-      "name": "María",
-      "lastName": "Maluenda",
-      "secondLastName": "Campos",
-      "fullName": "María Maluenda Campos",
-      "chamber": "camara"
-    },
-    {
-      "id": "658",
-      "name": "Juan",
-      "lastName": "Martínez",
-      "secondLastName": "Sepúlveda",
-      "fullName": "Juan Martínez Sepúlveda",
-      "chamber": "camara"
-    },
-    {
-      "id": "660",
-      "name": "Manuel",
-      "lastName": "Matta",
-      "secondLastName": "Aragay",
-      "fullName": "Manuel Matta Aragay",
-      "chamber": "camara"
-    },
-    {
-      "id": "662",
-      "name": "Federico",
-      "lastName": "Mekis",
-      "secondLastName": "Martínez",
-      "fullName": "Federico Mekis Martínez",
-      "chamber": "camara"
-    },
-    {
-      "id": "664",
-      "name": "Jorge",
-      "lastName": "Molina",
-      "secondLastName": "Valdivieso",
-      "fullName": "Jorge Molina Valdivieso",
-      "chamber": "camara"
-    },
-    {
-      "id": "666",
-      "name": "Jorge",
-      "lastName": "Morales",
-      "secondLastName": "Adriasola",
-      "fullName": "Jorge Morales Adriasola",
-      "chamber": "camara"
-    },
-    {
-      "id": "668",
-      "name": "Roberto",
-      "lastName": "Muñoz",
-      "secondLastName": "Barra",
-      "fullName": "Roberto Muñoz Barra",
-      "chamber": "camara"
-    },
-    {
-      "id": "671",
-      "name": "Luis",
-      "lastName": "Navarrete",
-      "secondLastName": "Carvacho",
-      "fullName": "Luis Navarrete Carvacho",
-      "chamber": "camara"
-    },
-    {
-      "id": "673",
-      "name": "Héctor",
-      "lastName": "Olivares",
-      "secondLastName": "Solis",
-      "fullName": "Héctor Olivares Solis",
-      "chamber": "camara"
-    },
-    {
-      "id": "675",
-      "name": "Eugenio",
-      "lastName": "Ortega",
-      "secondLastName": "Riquelme",
-      "fullName": "Eugenio Ortega Riquelme",
-      "chamber": "camara"
-    },
-    {
-      "id": "677",
-      "name": "Mario",
-      "lastName": "Palestro",
-      "secondLastName": "Rojas",
-      "fullName": "Mario Palestro Rojas",
-      "chamber": "camara"
-    },
-    {
-      "id": "680",
-      "name": "José Apolonio",
-      "lastName": "Peña",
-      "secondLastName": "Meza",
-      "fullName": "José Apolonio Peña Meza",
-      "chamber": "camara"
-    },
-    {
-      "id": "681",
-      "name": "Juan Alberto",
-      "lastName": "Pérez",
-      "secondLastName": "Muñoz",
-      "fullName": "Juan Alberto Pérez Muñoz",
-      "chamber": "camara"
-    },
-    {
-      "id": "684",
-      "name": "Sergio",
-      "lastName": "Pizarro",
-      "secondLastName": "Mackay",
-      "fullName": "Sergio Pizarro Mackay",
-      "chamber": "camara"
-    },
-    {
-      "id": "688",
-      "name": "Gustavo",
-      "lastName": "Ramírez",
-      "secondLastName": "Vergara",
-      "fullName": "Gustavo Ramírez Vergara",
-      "chamber": "camara"
-    },
-    {
-      "id": "693",
-      "name": "Federico",
-      "lastName": "Ringeling",
-      "secondLastName": "Hunger",
-      "fullName": "Federico Ringeling Hunger",
-      "chamber": "camara"
-    },
-    {
-      "id": "696",
-      "name": "José Alfonso",
-      "lastName": "Rodríguez",
-      "secondLastName": "Del Río",
-      "fullName": "José Alfonso Rodríguez Del Río",
-      "chamber": "camara"
-    },
-    {
-      "id": "697",
-      "name": "Hugo",
-      "lastName": "Rodríguez",
-      "secondLastName": "Guerrero",
-      "fullName": "Hugo Rodríguez Guerrero",
-      "chamber": "camara"
-    },
-    {
-      "id": "698",
-      "name": "Laura",
-      "lastName": "Rodríguez",
-      "secondLastName": "Riccomini",
-      "fullName": "Laura Rodríguez Riccomini",
-      "chamber": "camara"
-    },
-    {
-      "id": "699",
-      "name": "Hernán",
-      "lastName": "Rojo",
-      "secondLastName": "Avendaño",
-      "fullName": "Hernán Rojo Avendaño",
-      "chamber": "camara"
-    },
-    {
-      "id": "700",
-      "name": "Julio",
-      "lastName": "Rojos",
-      "secondLastName": "Astorga",
-      "fullName": "Julio Rojos Astorga",
-      "chamber": "camara"
-    },
-    {
-      "id": "705",
-      "name": "Carlos",
-      "lastName": "Smok",
-      "secondLastName": "Ubeda",
-      "fullName": "Carlos Smok Ubeda",
-      "chamber": "camara"
-    },
-    {
-      "id": "707",
-      "name": "Juan Akin",
-      "lastName": "Soto",
-      "secondLastName": "Morales",
-      "fullName": "Juan Akin Soto Morales",
-      "chamber": "camara"
-    },
-    {
-      "id": "708",
-      "name": "Andrés",
-      "lastName": "Sotomayor",
-      "secondLastName": "Mardones",
-      "fullName": "Andrés Sotomayor Mardones",
-      "chamber": "camara"
-    },
-    {
-      "id": "718",
-      "name": "Milenko",
-      "lastName": "Vilicic",
-      "secondLastName": "Karnincic",
-      "fullName": "Milenko Vilicic Karnincic",
-      "chamber": "camara"
-    },
-    {
-      "id": "720",
-      "name": "Guillermo",
-      "lastName": "Yunge",
-      "secondLastName": "Bustamante",
-      "fullName": "Guillermo Yunge Bustamante",
-      "chamber": "camara"
-    },
-    {
-      "id": "721",
-      "name": "Martín",
-      "lastName": "Manterola",
-      "secondLastName": "",
-      "fullName": "Martín Manterola",
-      "chamber": "camara"
-    },
-    {
-      "id": "806",
-      "name": "Pedro Pablo",
-      "lastName": "Alvarez-Salamanca",
-      "secondLastName": "Büchi",
-      "fullName": "Pedro Pablo Alvarez-Salamanca Büchi",
-      "chamber": "camara"
-    },
-    {
-      "id": "821",
-      "name": "Sergio",
-      "lastName": "Correa",
-      "secondLastName": "De la Cerda",
-      "fullName": "Sergio Correa De la Cerda",
-      "chamber": "camara"
-    },
-    {
-      "id": "864",
-      "name": "Juan",
-      "lastName": "Masferrer",
-      "secondLastName": "Pellizzari",
-      "fullName": "Juan Masferrer Pellizzari",
-      "chamber": "camara"
-    },
-    {
-      "id": "10",
-      "name": "Nelson",
-      "lastName": "Avila",
-      "secondLastName": "Contreras",
-      "fullName": "Nelson Avila Contreras",
-      "chamber": "camara"
-    },
-    {
-      "id": "39",
-      "name": "Homero",
-      "lastName": "Gutiérrez",
-      "secondLastName": "Román",
-      "fullName": "Homero Gutiérrez Román",
-      "chamber": "camara"
-    },
-    {
-      "id": "42",
-      "name": "Miguel",
-      "lastName": "Hernández",
-      "secondLastName": "Saffirio",
-      "fullName": "Miguel Hernández Saffirio",
-      "chamber": "camara"
-    },
-    {
-      "id": "49",
-      "name": "Tomás",
-      "lastName": "Jocelyn-Holt",
-      "secondLastName": "Letelier",
-      "fullName": "Tomás Jocelyn-Holt Letelier",
-      "chamber": "camara"
-    },
-    {
-      "id": "91",
-      "name": "Fanny",
-      "lastName": "Pollarolo",
-      "secondLastName": "Villa",
-      "fullName": "Fanny Pollarolo Villa",
-      "chamber": "camara"
-    },
-    {
-      "id": "106",
-      "name": "Jorge",
-      "lastName": "Soria",
-      "secondLastName": "Macchiavello",
-      "fullName": "Jorge Soria Macchiavello",
-      "chamber": "camara"
-    },
-    {
-      "id": "110",
-      "name": "Salvador",
-      "lastName": "Urrutia",
-      "secondLastName": "Cárdenas",
-      "fullName": "Salvador Urrutia Cárdenas",
-      "chamber": "camara"
-    },
-    {
-      "id": "114",
-      "name": "Osvaldo",
-      "lastName": "Vega",
-      "secondLastName": "Vera",
-      "fullName": "Osvaldo Vega Vera",
-      "chamber": "camara"
-    },
-    {
-      "id": "119",
-      "name": "Ignacio",
-      "lastName": "Walker",
-      "secondLastName": "Prieto",
-      "fullName": "Ignacio Walker Prieto",
-      "chamber": "camara"
-    },
-    {
-      "id": "158",
-      "name": "Guido",
-      "lastName": "Girardi",
-      "secondLastName": "Lavín",
-      "fullName": "Guido Girardi Lavín",
-      "chamber": "camara"
-    },
-    {
-      "id": "177",
-      "name": "Felipe",
-      "lastName": "Letelier",
-      "secondLastName": "Norambuena",
-      "fullName": "Felipe Letelier Norambuena",
-      "chamber": "camara"
-    },
-    {
-      "id": "181",
-      "name": "Zarko",
-      "lastName": "Luksic",
-      "secondLastName": "Sandoval",
-      "fullName": "Zarko Luksic Sandoval",
-      "chamber": "camara"
-    },
-    {
-      "id": "193",
-      "name": "Pedro",
-      "lastName": "Muñoz",
-      "secondLastName": "Aburto",
-      "fullName": "Pedro Muñoz Aburto",
-      "chamber": "camara"
-    },
-    {
-      "id": "195",
-      "name": "Alejandro",
-      "lastName": "Navarro",
-      "secondLastName": "Brain",
-      "fullName": "Alejandro Navarro Brain",
-      "chamber": "camara"
-    },
-    {
-      "id": "205",
-      "name": "Aníbal",
-      "lastName": "Pérez",
-      "secondLastName": "Lobos",
-      "fullName": "Aníbal Pérez Lobos",
-      "chamber": "camara"
-    },
-    {
-      "id": "224",
-      "name": "Exequiel",
-      "lastName": "Silva",
-      "secondLastName": "Ortiz",
-      "fullName": "Exequiel Silva Ortiz",
-      "chamber": "camara"
-    },
-    {
-      "id": "405",
-      "name": "Andrés",
-      "lastName": "Allamand",
-      "secondLastName": "Zavala",
-      "fullName": "Andrés Allamand Zavala",
-      "chamber": "camara"
-    },
-    {
-      "id": "411",
-      "name": "Mariana",
-      "lastName": "Aylwin",
-      "secondLastName": "Oyarzún",
-      "fullName": "Mariana Aylwin Oyarzún",
-      "chamber": "camara"
-    },
-    {
-      "id": "412",
-      "name": "Ignacio",
-      "lastName": "Balbontín",
-      "secondLastName": "Arteaga",
-      "fullName": "Ignacio Balbontín Arteaga",
-      "chamber": "camara"
-    },
-    {
-      "id": "425",
-      "name": "Iván",
-      "lastName": "De la Maza",
-      "secondLastName": "Maillet",
-      "fullName": "Iván De la Maza Maillet",
-      "chamber": "camara"
-    },
-    {
-      "id": "435",
-      "name": "Luis Valentín",
-      "lastName": "Ferrada",
-      "secondLastName": "Valenzuela",
-      "fullName": "Luis Valentín Ferrada Valenzuela",
-      "chamber": "camara"
-    },
-    {
-      "id": "443",
-      "name": "José Luis",
-      "lastName": "González",
-      "secondLastName": "Rodríguez",
-      "fullName": "José Luis González Rodríguez",
-      "chamber": "camara"
-    },
-    {
-      "id": "452",
-      "name": "Harry",
-      "lastName": "Jürgensen",
-      "secondLastName": "Caesar",
-      "fullName": "Harry Jürgensen Caesar",
-      "chamber": "camara"
-    },
-    {
-      "id": "453",
-      "name": "Vicente",
-      "lastName": "Karelovic",
-      "secondLastName": "Vrandecic",
-      "fullName": "Vicente Karelovic Vrandecic",
-      "chamber": "camara"
-    },
-    {
-      "id": "463",
-      "name": "José",
-      "lastName": "Makluf",
-      "secondLastName": "Campos",
-      "fullName": "José Makluf Campos",
-      "chamber": "camara"
-    },
-    {
-      "id": "470",
-      "name": "Sergio",
-      "lastName": "Morales",
-      "secondLastName": "Morales",
-      "fullName": "Sergio Morales Morales",
-      "chamber": "camara"
-    },
-    {
-      "id": "489",
-      "name": "Romy",
-      "lastName": "Rebolledo",
-      "secondLastName": "Leyton",
-      "fullName": "Romy Rebolledo Leyton",
-      "chamber": "camara"
-    },
-    {
-      "id": "500",
-      "name": "Valentín",
-      "lastName": "Solís",
-      "secondLastName": "Cabezas",
-      "fullName": "Valentín Solís Cabezas",
-      "chamber": "camara"
-    },
-    {
-      "id": "516",
-      "name": "Erick",
-      "lastName": "Villegas",
-      "secondLastName": "González",
-      "fullName": "Erick Villegas González",
-      "chamber": "camara"
-    },
-    {
-      "id": "519",
-      "name": "Martita",
-      "lastName": "Wörner",
-      "secondLastName": "Tapia",
-      "fullName": "Martita Wörner Tapia",
-      "chamber": "camara"
-    },
-    {
-      "id": "520",
-      "name": "Héctor",
-      "lastName": "Zambrano",
-      "secondLastName": "Opazo",
-      "fullName": "Héctor Zambrano Opazo",
-      "chamber": "camara"
-    },
-    {
-      "id": "804",
-      "name": "Isabel",
-      "lastName": "Allende",
-      "secondLastName": "Bussi",
-      "fullName": "Isabel Allende Bussi",
-      "chamber": "camara"
-    },
-    {
-      "id": "805",
-      "name": "Claudio",
-      "lastName": "Alvarado",
-      "secondLastName": "Andrade",
-      "fullName": "Claudio Alvarado Andrade",
-      "chamber": "camara"
-    },
-    {
-      "id": "832",
-      "name": "Francisco",
-      "lastName": "Encina",
-      "secondLastName": "Moriamez",
-      "fullName": "Francisco Encina Moriamez",
-      "chamber": "camara"
-    },
-    {
-      "id": "834",
-      "name": "Maximiano",
-      "lastName": "Errázuriz",
-      "secondLastName": "Eguiguren",
-      "fullName": "Maximiano Errázuriz Eguiguren",
-      "chamber": "camara"
-    },
-    {
-      "id": "841",
-      "name": "Renán",
-      "lastName": "Fuentealba",
-      "secondLastName": "Vildósola",
-      "fullName": "Renán Fuentealba Vildósola",
-      "chamber": "camara"
-    },
-    {
-      "id": "884",
-      "name": "Darío",
-      "lastName": "Paya",
-      "secondLastName": "Mira",
-      "fullName": "Darío Paya Mira",
-      "chamber": "camara"
-    },
-    {
-      "id": "904",
-      "name": "Eugenio",
-      "lastName": "Tuma",
-      "secondLastName": "Zedan",
-      "fullName": "Eugenio Tuma Zedan",
-      "chamber": "camara"
-    },
-    {
-      "id": "912",
-      "name": "Alfonso",
-      "lastName": "Vargas",
-      "secondLastName": "Lyng",
-      "fullName": "Alfonso Vargas Lyng",
-      "chamber": "camara"
-    },
-    {
-      "id": "914",
-      "name": "Samuel",
-      "lastName": "Venegas",
-      "secondLastName": "Rubio",
-      "fullName": "Samuel Venegas Rubio",
-      "chamber": "camara"
-    },
-    {
-      "id": "3",
-      "name": "Gustavo",
-      "lastName": "Alessandri",
-      "secondLastName": "Valdés",
-      "fullName": "Gustavo Alessandri Valdés",
-      "chamber": "camara"
-    },
-    {
-      "id": "8",
-      "name": "Rafael",
-      "lastName": "Arratia",
-      "secondLastName": "Valdebenito",
-      "fullName": "Rafael Arratia Valdebenito",
-      "chamber": "camara"
-    },
-    {
-      "id": "13",
-      "name": "Manuel",
-      "lastName": "Bustos",
-      "secondLastName": "Huerta",
-      "fullName": "Manuel Bustos Huerta",
-      "chamber": "camara"
-    },
-    {
-      "id": "31",
-      "name": "Haroldo",
-      "lastName": "Fossa",
-      "secondLastName": "Rojas",
-      "fullName": "Haroldo Fossa Rojas",
-      "chamber": "camara"
-    },
-    {
-      "id": "50",
-      "name": "Enrique",
-      "lastName": "Krauss",
-      "secondLastName": "Rusque",
-      "fullName": "Enrique Krauss Rusque",
-      "chamber": "camara"
-    },
-    {
-      "id": "65",
-      "name": "Iván",
-      "lastName": "Mesías",
-      "secondLastName": "Lehú",
-      "fullName": "Iván Mesías Lehú",
-      "chamber": "camara"
-    },
-    {
-      "id": "67",
-      "name": "Luis",
-      "lastName": "Monge",
-      "secondLastName": "Sánchez",
-      "fullName": "Luis Monge Sánchez",
-      "chamber": "camara"
-    },
-    {
-      "id": "76",
-      "name": "Juan",
-      "lastName": "Núñez",
-      "secondLastName": "Valenzuela",
-      "fullName": "Juan Núñez Valenzuela",
-      "chamber": "camara"
-    },
-    {
-      "id": "81",
-      "name": "María Victoria",
-      "lastName": "Ovalle",
-      "secondLastName": "Ovalle",
-      "fullName": "María Victoria Ovalle Ovalle",
-      "chamber": "camara"
-    },
-    {
-      "id": "85",
-      "name": "Luis",
-      "lastName": "Pareto",
-      "secondLastName": "González",
-      "fullName": "Luis Pareto González",
-      "chamber": "camara"
-    },
-    {
-      "id": "103",
-      "name": "Antonella",
-      "lastName": "Sciaraffia",
-      "secondLastName": "Estrada",
-      "fullName": "Antonella Sciaraffia Estrada",
-      "chamber": "camara"
-    },
-    {
-      "id": "112",
-      "name": "Enrique",
-      "lastName": "Van Rysselberghe",
-      "secondLastName": "Varela",
-      "fullName": "Enrique Van Rysselberghe Varela",
-      "chamber": "camara"
-    },
-    {
-      "id": "121",
-      "name": "María",
-      "lastName": "Rozas",
-      "secondLastName": "Velásquez",
-      "fullName": "María Rozas Velásquez",
-      "chamber": "camara"
-    },
-    {
-      "id": "140",
-      "name": "Patricio",
-      "lastName": "Cornejo",
-      "secondLastName": "Vidaurrázaga",
-      "fullName": "Patricio Cornejo Vidaurrázaga",
-      "chamber": "camara"
-    },
-    {
-      "id": "159",
-      "name": "Rosa",
-      "lastName": "González",
-      "secondLastName": "Román",
-      "fullName": "Rosa González Román",
-      "chamber": "camara"
-    },
-    {
-      "id": "161",
-      "name": "María Pía",
-      "lastName": "Guzmán",
-      "secondLastName": "Mena",
-      "fullName": "María Pía Guzmán Mena",
-      "chamber": "camara"
-    },
-    {
-      "id": "165",
-      "name": "Gonzalo",
-      "lastName": "Ibáñez",
-      "secondLastName": "Santa María",
-      "fullName": "Gonzalo Ibáñez Santa María",
-      "chamber": "camara"
-    },
-    {
-      "id": "170",
-      "name": "Jaime",
-      "lastName": "Jiménez",
-      "secondLastName": "Villavicencio",
-      "fullName": "Jaime Jiménez Villavicencio",
-      "chamber": "camara"
-    },
-    {
-      "id": "187",
-      "name": "Darío",
-      "lastName": "Molina",
-      "secondLastName": "Sanhueza",
-      "fullName": "Darío Molina Sanhueza",
-      "chamber": "camara"
-    },
-    {
-      "id": "190",
-      "name": "Waldo",
-      "lastName": "Mora",
-      "secondLastName": "Longa",
-      "fullName": "Waldo Mora Longa",
-      "chamber": "camara"
-    },
-    {
-      "id": "213",
-      "name": "Edgardo",
-      "lastName": "Riveros",
-      "secondLastName": "Marín",
-      "fullName": "Edgardo Riveros Marín",
-      "chamber": "camara"
-    },
-    {
-      "id": "221",
-      "name": "Leopoldo",
-      "lastName": "Sánchez",
-      "secondLastName": "Grunert",
-      "fullName": "Leopoldo Sánchez Grunert",
-      "chamber": "camara"
-    },
-    {
-      "id": "807",
-      "name": "Rodrigo",
-      "lastName": "Alvarez",
-      "secondLastName": "Zenteno",
-      "fullName": "Rodrigo Alvarez Zenteno",
-      "chamber": "camara"
-    },
-    {
-      "id": "817",
-      "name": "Juan",
-      "lastName": "Bustos",
-      "secondLastName": "Ramírez",
-      "fullName": "Juan Bustos Ramírez",
-      "chamber": "camara"
-    },
-    {
-      "id": "826",
-      "name": "Eduardo",
-      "lastName": "Díaz",
-      "secondLastName": "Del Río",
-      "fullName": "Eduardo Díaz Del Río",
-      "chamber": "camara"
-    },
-    {
-      "id": "828",
-      "name": "Julio",
-      "lastName": "Dittborn",
-      "secondLastName": "Cordua",
-      "fullName": "Julio Dittborn Cordua",
-      "chamber": "camara"
-    },
-    {
-      "id": "842",
-      "name": "Pablo",
-      "lastName": "Galilea",
-      "secondLastName": "Carrillo",
-      "fullName": "Pablo Galilea Carrillo",
-      "chamber": "camara"
-    },
-    {
-      "id": "859",
-      "name": "Antonio",
-      "lastName": "Leal",
-      "secondLastName": "Labrín",
-      "fullName": "Antonio Leal Labrín",
-      "chamber": "camara"
-    },
-    {
-      "id": "878",
-      "name": "Carlos",
-      "lastName": "Olivares",
-      "secondLastName": "Zepeda",
-      "fullName": "Carlos Olivares Zepeda",
-      "chamber": "camara"
-    },
-    {
-      "id": "881",
-      "name": "Osvaldo",
-      "lastName": "Palma",
-      "secondLastName": "Flores",
-      "fullName": "Osvaldo Palma Flores",
-      "chamber": "camara"
-    },
-    {
-      "id": "899",
-      "name": "Laura",
-      "lastName": "Soto",
-      "secondLastName": "González",
-      "fullName": "Laura Soto González",
-      "chamber": "camara"
-    },
-    {
-      "id": "918",
-      "name": "Patricio",
-      "lastName": "Walker",
-      "secondLastName": "Prieto",
-      "fullName": "Patricio Walker Prieto",
-      "chamber": "camara"
-    },
-    {
-      "id": "921",
-      "name": "Lily",
-      "lastName": "Pérez",
-      "secondLastName": "San Martín",
-      "fullName": "Lily Pérez San Martín",
-      "chamber": "camara"
-    },
-    {
-      "id": "151",
-      "name": "Mario",
-      "lastName": "Escobar",
-      "secondLastName": "Urbina",
-      "fullName": "Mario Escobar Urbina",
-      "chamber": "camara"
-    },
-    {
-      "id": "164",
-      "name": "Carlos",
-      "lastName": "Hidalgo",
-      "secondLastName": "González",
-      "fullName": "Carlos Hidalgo González",
-      "chamber": "camara"
-    },
-    {
-      "id": "166",
-      "name": "Carmen",
-      "lastName": "Ibáñez",
-      "secondLastName": "Soto",
-      "fullName": "Carmen Ibáñez Soto",
-      "chamber": "camara"
-    },
-    {
-      "id": "173",
-      "name": "Eduardo",
-      "lastName": "Lagos",
-      "secondLastName": "Herrera",
-      "fullName": "Eduardo Lagos Herrera",
-      "chamber": "camara"
-    },
-    {
-      "id": "185",
-      "name": "María Eugenia",
-      "lastName": "Mella",
-      "secondLastName": "Gajardo",
-      "fullName": "María Eugenia Mella Gajardo",
-      "chamber": "camara"
-    },
-    {
-      "id": "202",
-      "name": "Cristián",
-      "lastName": "Pareto",
-      "secondLastName": "Vergara",
-      "fullName": "Cristián Pareto Vergara",
-      "chamber": "camara"
-    },
-    {
-      "id": "209",
-      "name": "Pablo",
-      "lastName": "Prieto",
-      "secondLastName": "Lorca",
-      "fullName": "Pablo Prieto Lorca",
-      "chamber": "camara"
-    },
-    {
-      "id": "226",
-      "name": "Boris",
-      "lastName": "Tapia",
-      "secondLastName": "Martínez",
-      "fullName": "Boris Tapia Martínez",
-      "chamber": "camara"
-    },
-    {
-      "id": "234",
-      "name": "Mario",
-      "lastName": "Varela",
-      "secondLastName": "Herrera",
-      "fullName": "Mario Varela Herrera",
-      "chamber": "camara"
-    },
-    {
-      "id": "242",
-      "name": "Néstor",
-      "lastName": "Jofré",
-      "secondLastName": "Núñez",
-      "fullName": "Néstor Jofré Núñez",
-      "chamber": "camara"
-    },
-    {
-      "id": "823",
-      "name": "Marcela",
-      "lastName": "Cubillos",
-      "secondLastName": "Sigall",
-      "fullName": "Marcela Cubillos Sigall",
-      "chamber": "camara"
-    },
-    {
-      "id": "830",
-      "name": "Andrés",
-      "lastName": "Egaña",
-      "secondLastName": "Respaldiza",
-      "fullName": "Andrés Egaña Respaldiza",
-      "chamber": "camara"
-    },
-    {
-      "id": "840",
-      "name": "Marcelo",
-      "lastName": "Forni",
-      "secondLastName": "Lobos",
-      "fullName": "Marcelo Forni Lobos",
-      "chamber": "camara"
-    },
-    {
-      "id": "882",
-      "name": "Iván",
-      "lastName": "Paredes",
-      "secondLastName": "Fierro",
-      "fullName": "Iván Paredes Fierro",
-      "chamber": "camara"
-    },
-    {
-      "id": "886",
-      "name": "Jaime",
-      "lastName": "Quintana",
-      "secondLastName": "Leal",
-      "fullName": "Jaime Quintana Leal",
-      "chamber": "camara"
-    },
-    {
-      "id": "890",
-      "name": "Fulvio",
-      "lastName": "Rossi",
-      "secondLastName": "Ciocca",
-      "fullName": "Fulvio Rossi Ciocca",
-      "chamber": "camara"
-    },
-    {
-      "id": "894",
-      "name": "Eduardo",
-      "lastName": "Saffirio",
-      "secondLastName": "Suárez",
-      "fullName": "Eduardo Saffirio Suárez",
-      "chamber": "camara"
-    },
-    {
-      "id": "903",
-      "name": "Carolina",
-      "lastName": "Tohá",
-      "secondLastName": "Morales",
-      "fullName": "Carolina Tohá Morales",
-      "chamber": "camara"
-    },
-    {
-      "id": "910",
-      "name": "Esteban",
-      "lastName": "Valenzuela",
-      "secondLastName": "Van Treek",
-      "fullName": "Esteban Valenzuela Van Treek",
-      "chamber": "camara"
-    },
-    {
-      "id": "801",
-      "name": "René",
-      "lastName": "Aedo",
-      "secondLastName": "Ormeño",
-      "fullName": "René Aedo Ormeño",
-      "chamber": "camara"
-    },
-    {
-      "id": "820",
-      "name": "Francisco",
-      "lastName": "Chahuán",
-      "secondLastName": "Chahuán",
-      "fullName": "Francisco Chahuán Chahuán",
-      "chamber": "camara"
-    },
-    {
-      "id": "829",
-      "name": "Gonzalo",
-      "lastName": "Duarte",
-      "secondLastName": "Leiva",
-      "fullName": "Gonzalo Duarte Leiva",
-      "chamber": "camara"
-    },
-    {
-      "id": "833",
-      "name": "Marco",
-      "lastName": "Enríquez-Ominami",
-      "secondLastName": "Gumucio",
-      "fullName": "Marco Enríquez-Ominami Gumucio",
-      "chamber": "camara"
-    },
-    {
-      "id": "835",
-      "name": "Alvaro",
-      "lastName": "Escobar",
-      "secondLastName": "Rufatt",
-      "fullName": "Alvaro Escobar Rufatt",
-      "chamber": "camara"
-    },
-    {
-      "id": "845",
-      "name": "Guido",
-      "lastName": "Girardi",
-      "secondLastName": "Briere",
-      "fullName": "Guido Girardi Briere",
-      "chamber": "camara"
-    },
-    {
-      "id": "851",
-      "name": "Amelia",
-      "lastName": "Herrera",
-      "secondLastName": "Silva",
-      "fullName": "Amelia Herrera Silva",
-      "chamber": "camara"
-    },
-    {
-      "id": "852",
-      "name": "Jorge",
-      "lastName": "Insunza",
-      "secondLastName": "Gregorio de las Heras",
-      "fullName": "Jorge Insunza Gregorio de las Heras",
-      "chamber": "camara"
-    },
-    {
-      "id": "896",
-      "name": "Roberto",
-      "lastName": "Sepúlveda",
-      "secondLastName": "Hermosilla",
-      "fullName": "Roberto Sepúlveda Hermosilla",
-      "chamber": "camara"
-    },
-    {
-      "id": "900",
-      "name": "Alejandro",
-      "lastName": "Sule",
-      "secondLastName": "Fernández",
-      "fullName": "Alejandro Sule Fernández",
-      "chamber": "camara"
-    },
-    {
-      "id": "901",
-      "name": "Raúl",
-      "lastName": "Sunico",
-      "secondLastName": "Galdames",
-      "fullName": "Raúl Sunico Galdames",
-      "chamber": "camara"
-    },
-    {
-      "id": "909",
-      "name": "Ximena",
-      "lastName": "Valcarce",
-      "secondLastName": "Becerra",
-      "fullName": "Ximena Valcarce Becerra",
-      "chamber": "camara"
-    },
-    {
-      "id": "968",
-      "name": "Jenny",
-      "lastName": "Álvarez",
-      "secondLastName": "Vera",
-      "fullName": "Jenny Álvarez Vera",
-      "chamber": "camara"
-    },
-    {
-      "id": "969",
-      "name": "Claudio",
-      "lastName": "Arriagada",
-      "secondLastName": "Macaya",
-      "fullName": "Claudio Arriagada Macaya",
-      "chamber": "camara"
-    },
-    {
-      "id": "970",
-      "name": "Jaime",
-      "lastName": "Bellolio",
-      "secondLastName": "Avaria",
-      "fullName": "Jaime Bellolio Avaria",
-      "chamber": "camara"
-    },
-    {
-      "id": "971",
-      "name": "Bernardo",
-      "lastName": "Berger",
-      "secondLastName": "Fett",
-      "fullName": "Bernardo Berger Fett",
-      "chamber": "camara"
-    },
-    {
-      "id": "972",
-      "name": "Gabriel",
-      "lastName": "Boric",
-      "secondLastName": "Font",
-      "fullName": "Gabriel Boric Font",
-      "chamber": "camara"
-    },
-    {
-      "id": "973",
-      "name": "Karol",
-      "lastName": "Cariola",
-      "secondLastName": "Oliva",
-      "fullName": "Karol Cariola Oliva",
-      "chamber": "camara"
-    },
-    {
-      "id": "974",
-      "name": "Loreto",
-      "lastName": "Carvajal",
-      "secondLastName": "Ambiado",
-      "fullName": "Loreto Carvajal Ambiado",
-      "chamber": "camara"
-    },
-    {
-      "id": "975",
-      "name": "Daniella",
-      "lastName": "Cicardini",
-      "secondLastName": "Milla",
-      "fullName": "Daniella Cicardini Milla",
-      "chamber": "camara"
-    },
-    {
-      "id": "976",
-      "name": "Juan Antonio",
-      "lastName": "Coloma",
-      "secondLastName": "Álamos",
-      "fullName": "Juan Antonio Coloma Álamos",
-      "chamber": "camara"
-    },
-    {
-      "id": "977",
-      "name": "Marcelo",
-      "lastName": "Chávez",
-      "secondLastName": "Velásquez",
-      "fullName": "Marcelo Chávez Velásquez",
-      "chamber": "camara"
-    },
-    {
-      "id": "978",
-      "name": "Felipe",
-      "lastName": "De Mussy",
-      "secondLastName": "Hiriart",
-      "fullName": "Felipe De Mussy Hiriart",
-      "chamber": "camara"
-    },
-    {
-      "id": "979",
-      "name": "Sergio",
-      "lastName": "Espejo",
-      "secondLastName": "Yaksic",
-      "fullName": "Sergio Espejo Yaksic",
-      "chamber": "camara"
-    },
-    {
-      "id": "980",
-      "name": "Daniel",
-      "lastName": "Farcas",
-      "secondLastName": "Guendelman",
-      "fullName": "Daniel Farcas Guendelman",
-      "chamber": "camara"
-    },
-    {
-      "id": "981",
-      "name": "Maya",
-      "lastName": "Fernández",
-      "secondLastName": "Allende",
-      "fullName": "Maya Fernández Allende",
-      "chamber": "camara"
-    },
-    {
-      "id": "982",
-      "name": "Iván",
-      "lastName": "Flores",
-      "secondLastName": "García",
-      "fullName": "Iván Flores García",
-      "chamber": "camara"
-    },
-    {
-      "id": "983",
-      "name": "Iván",
-      "lastName": "Fuentes",
-      "secondLastName": "Castillo",
-      "fullName": "Iván Fuentes Castillo",
-      "chamber": "camara"
-    },
-    {
-      "id": "984",
-      "name": "Gonzalo",
-      "lastName": "Fuenzalida",
-      "secondLastName": "Figueroa",
-      "fullName": "Gonzalo Fuenzalida Figueroa",
-      "chamber": "camara"
-    },
-    {
-      "id": "985",
-      "name": "Sergio",
-      "lastName": "Gahona",
-      "secondLastName": "Salazar",
-      "fullName": "Sergio Gahona Salazar",
-      "chamber": "camara"
-    },
-    {
-      "id": "987",
-      "name": "Giorgio",
-      "lastName": "Jackson",
-      "secondLastName": "Drago",
-      "fullName": "Giorgio Jackson Drago",
-      "chamber": "camara"
-    },
-    {
-      "id": "988",
-      "name": "Felipe",
-      "lastName": "Kast",
-      "secondLastName": "Sommerhoff",
-      "fullName": "Felipe Kast Sommerhoff",
-      "chamber": "camara"
-    },
-    {
-      "id": "989",
-      "name": "Joaquín",
-      "lastName": "Lavín",
-      "secondLastName": "León",
-      "fullName": "Joaquín Lavín León",
-      "chamber": "camara"
-    },
-    {
-      "id": "990",
-      "name": "Daniel",
-      "lastName": "Melo",
-      "secondLastName": "Contreras",
-      "fullName": "Daniel Melo Contreras",
-      "chamber": "camara"
-    },
-    {
-      "id": "991",
-      "name": "Vlado",
-      "lastName": "Mirosevic",
-      "secondLastName": "Verdugo",
-      "fullName": "Vlado Mirosevic Verdugo",
-      "chamber": "camara"
-    },
-    {
-      "id": "992",
-      "name": "Juan Enrique",
-      "lastName": "Morano",
-      "secondLastName": "Cornejo",
-      "fullName": "Juan Enrique Morano Cornejo",
-      "chamber": "camara"
-    },
-    {
-      "id": "993",
-      "name": "Daniel",
-      "lastName": "Núñez",
-      "secondLastName": "Arancibia",
-      "fullName": "Daniel Núñez Arancibia",
-      "chamber": "camara"
-    },
-    {
-      "id": "994",
-      "name": "Paulina",
-      "lastName": "Núñez",
-      "secondLastName": "Urrutia",
-      "fullName": "Paulina Núñez Urrutia",
-      "chamber": "camara"
-    },
-    {
-      "id": "995",
-      "name": "Diego",
-      "lastName": "Paulsen",
-      "secondLastName": "Kehr",
-      "fullName": "Diego Paulsen Kehr",
-      "chamber": "camara"
-    },
-    {
-      "id": "996",
-      "name": "Jaime",
-      "lastName": "Pilowsky",
-      "secondLastName": "Greene",
-      "fullName": "Jaime Pilowsky Greene",
-      "chamber": "camara"
-    },
-    {
-      "id": "997",
-      "name": "Roberto",
-      "lastName": "Poblete",
-      "secondLastName": "Zapata",
-      "fullName": "Roberto Poblete Zapata",
-      "chamber": "camara"
-    },
-    {
-      "id": "998",
-      "name": "Yasna",
-      "lastName": "Provoste",
-      "secondLastName": "Campillay",
-      "fullName": "Yasna Provoste Campillay",
-      "chamber": "camara"
-    },
-    {
-      "id": "999",
-      "name": "Jorge",
-      "lastName": "Rathgeb",
-      "secondLastName": "Schifferli",
-      "fullName": "Jorge Rathgeb Schifferli",
-      "chamber": "camara"
-    },
-    {
-      "id": "1000",
-      "name": "Luis",
-      "lastName": "Rocafull",
-      "secondLastName": "López",
-      "fullName": "Luis Rocafull López",
-      "chamber": "camara"
-    },
-    {
-      "id": "1001",
-      "name": "Raúl",
-      "lastName": "Saldívar",
-      "secondLastName": "Auger",
-      "fullName": "Raúl Saldívar Auger",
-      "chamber": "camara"
-    },
-    {
-      "id": "1002",
-      "name": "Leonardo",
-      "lastName": "Soto",
-      "secondLastName": "Ferrada",
-      "fullName": "Leonardo Soto Ferrada",
-      "chamber": "camara"
-    },
-    {
-      "id": "1003",
-      "name": "Renzo",
-      "lastName": "Trisotti",
-      "secondLastName": "Martínez",
-      "fullName": "Renzo Trisotti Martínez",
-      "chamber": "camara"
-    },
-    {
-      "id": "1004",
-      "name": "Christian",
-      "lastName": "Urízar",
-      "secondLastName": "Muñoz",
-      "fullName": "Christian Urízar Muñoz",
-      "chamber": "camara"
-    },
-    {
-      "id": "1005",
-      "name": "Osvaldo",
-      "lastName": "Urrutia",
-      "secondLastName": "Soto",
-      "fullName": "Osvaldo Urrutia Soto",
-      "chamber": "camara"
-    },
-    {
-      "id": "1006",
-      "name": "Camila",
-      "lastName": "Vallejo",
-      "secondLastName": "Dowling",
-      "fullName": "Camila Vallejo Dowling",
-      "chamber": "camara"
-    },
-    {
-      "id": "1007",
-      "name": "Miguel Ángel",
-      "lastName": "Alvarado",
-      "secondLastName": "Ramírez",
-      "fullName": "Miguel Ángel Alvarado Ramírez",
-      "chamber": "camara"
-    },
-    {
-      "id": "1008",
-      "name": "Florcita",
-      "lastName": "Alarcón",
-      "secondLastName": "Rojas",
-      "fullName": "Florcita Alarcón Rojas",
-      "chamber": "camara"
-    },
-    {
-      "id": "1010",
-      "name": "Sebastián",
-      "lastName": "Álvarez",
-      "secondLastName": "Ramírez",
-      "fullName": "Sebastián Álvarez Ramírez",
-      "chamber": "camara"
-    },
-    {
-      "id": "1011",
-      "name": "Sandra",
-      "lastName": "Amar",
-      "secondLastName": "Mancilla",
-      "fullName": "Sandra Amar Mancilla",
-      "chamber": "camara"
-    },
-    {
-      "id": "1014",
-      "name": "Karim",
-      "lastName": "Bianchi",
-      "secondLastName": "Retamales",
-      "fullName": "Karim Bianchi Retamales",
-      "chamber": "camara"
-    },
-    {
-      "id": "1016",
-      "name": "Miguel Ángel",
-      "lastName": "Calisto",
-      "secondLastName": "Águila",
-      "fullName": "Miguel Ángel Calisto Águila",
-      "chamber": "camara"
-    },
-    {
-      "id": "1018",
-      "name": "Natalia",
-      "lastName": "Castillo",
-      "secondLastName": "Muñoz",
-      "fullName": "Natalia Castillo Muñoz",
-      "chamber": "camara"
-    },
-    {
-      "id": "1019",
-      "name": "José Miguel",
-      "lastName": "Castro",
-      "secondLastName": "Bascuñán",
-      "fullName": "José Miguel Castro Bascuñán",
-      "chamber": "camara"
-    },
-    {
-      "id": "1020",
-      "name": "Ricardo",
-      "lastName": "Celis",
-      "secondLastName": "Araya",
-      "fullName": "Ricardo Celis Araya",
-      "chamber": "camara"
-    },
-    {
-      "id": "1022",
-      "name": "Sofía",
-      "lastName": "Cid",
-      "secondLastName": "Versalovic",
-      "fullName": "Sofía Cid Versalovic",
-      "chamber": "camara"
-    },
-    {
-      "id": "1023",
-      "name": "Miguel",
-      "lastName": "Crispi",
-      "secondLastName": "Serrano",
-      "fullName": "Miguel Crispi Serrano",
-      "chamber": "camara"
-    },
-    {
-      "id": "1024",
-      "name": "Luciano",
-      "lastName": "Cruz-Coke",
-      "secondLastName": "Carvallo",
-      "fullName": "Luciano Cruz-Coke Carvallo",
-      "chamber": "camara"
-    },
-    {
-      "id": "1026",
-      "name": "Mario",
-      "lastName": "Desbordes",
-      "secondLastName": "Jiménez",
-      "fullName": "Mario Desbordes Jiménez",
-      "chamber": "camara"
-    },
-    {
-      "id": "1027",
-      "name": "Jorge",
-      "lastName": "Durán",
-      "secondLastName": "Espinoza",
-      "fullName": "Jorge Durán Espinoza",
-      "chamber": "camara"
-    },
-    {
-      "id": "1029",
-      "name": "Francisco",
-      "lastName": "Eguiguren",
-      "secondLastName": "Correa",
-      "fullName": "Francisco Eguiguren Correa",
-      "chamber": "camara"
-    },
-    {
-      "id": "1030",
-      "name": "Camila",
-      "lastName": "Flores",
-      "secondLastName": "Oporto",
-      "fullName": "Camila Flores Oporto",
-      "chamber": "camara"
-    },
-    {
-      "id": "1031",
-      "name": "Juan",
-      "lastName": "Fuenzalida",
-      "secondLastName": "Cobo",
-      "fullName": "Juan Fuenzalida Cobo",
-      "chamber": "camara"
-    },
-    {
-      "id": "1032",
-      "name": "Ramón",
-      "lastName": "Galleguillos",
-      "secondLastName": "Castillo",
-      "fullName": "Ramón Galleguillos Castillo",
-      "chamber": "camara"
-    },
-    {
-      "id": "1033",
-      "name": "Renato",
-      "lastName": "Garín",
-      "secondLastName": "González",
-      "fullName": "Renato Garín González",
-      "chamber": "camara"
-    },
-    {
-      "id": "1034",
-      "name": "Félix",
-      "lastName": "González",
-      "secondLastName": "Gatica",
-      "fullName": "Félix González Gatica",
-      "chamber": "camara"
-    },
-    {
-      "id": "1035",
-      "name": "Carmen",
-      "lastName": "Hertz",
-      "secondLastName": "Cádiz",
-      "fullName": "Carmen Hertz Cádiz",
-      "chamber": "camara"
-    },
-    {
-      "id": "1036",
-      "name": "Tomás",
-      "lastName": "Hirsch",
-      "secondLastName": "Goldschmidt",
-      "fullName": "Tomás Hirsch Goldschmidt",
-      "chamber": "camara"
-    },
-    {
-      "id": "1037",
-      "name": "Diego",
-      "lastName": "Ibáñez",
-      "secondLastName": "Cotroneo",
-      "fullName": "Diego Ibáñez Cotroneo",
-      "chamber": "camara"
-    },
-    {
-      "id": "1040",
-      "name": "Harry",
-      "lastName": "Jürgensen",
-      "secondLastName": "Rundshagen",
-      "fullName": "Harry Jürgensen Rundshagen",
-      "chamber": "camara"
-    },
-    {
-      "id": "1041",
-      "name": "Pablo",
-      "lastName": "Kast",
-      "secondLastName": "Sommerhoff",
-      "fullName": "Pablo Kast Sommerhoff",
-      "chamber": "camara"
-    },
-    {
-      "id": "1042",
-      "name": "Sebastián",
-      "lastName": "Keitel",
-      "secondLastName": "Bianchi",
-      "fullName": "Sebastián Keitel Bianchi",
-      "chamber": "camara"
-    },
-    {
-      "id": "1043",
-      "name": "Amaro",
-      "lastName": "Labra",
-      "secondLastName": "Sepúlveda",
-      "fullName": "Amaro Labra Sepúlveda",
-      "chamber": "camara"
-    },
-    {
-      "id": "1045",
-      "name": "Aracely",
-      "lastName": "Leuquén",
-      "secondLastName": "Uribe",
-      "fullName": "Aracely Leuquén Uribe",
-      "chamber": "camara"
-    },
-    {
-      "id": "1046",
-      "name": "Andrés",
-      "lastName": "Longton",
-      "secondLastName": "Herrera",
-      "fullName": "Andrés Longton Herrera",
-      "chamber": "camara"
-    },
-    {
-      "id": "1047",
-      "name": "Karin",
-      "lastName": "Luck",
-      "secondLastName": "Urban",
-      "fullName": "Karin Luck Urban",
-      "chamber": "camara"
-    },
-    {
-      "id": "1048",
-      "name": "Carolina",
-      "lastName": "Marzán",
-      "secondLastName": "Pinto",
-      "fullName": "Carolina Marzán Pinto",
-      "chamber": "camara"
-    },
-    {
-      "id": "1049",
-      "name": "Cosme",
-      "lastName": "Mellado",
-      "secondLastName": "Pino",
-      "fullName": "Cosme Mellado Pino",
-      "chamber": "camara"
-    },
-    {
-      "id": "1050",
-      "name": "Miguel",
-      "lastName": "Mellado",
-      "secondLastName": "Suazo",
-      "fullName": "Miguel Mellado Suazo",
-      "chamber": "camara"
-    },
-    {
-      "id": "1051",
-      "name": "Claudia",
-      "lastName": "Mix",
-      "secondLastName": "Jiménez",
-      "fullName": "Claudia Mix Jiménez",
-      "chamber": "camara"
-    },
-    {
-      "id": "1052",
-      "name": "Andrés",
-      "lastName": "Molina",
-      "secondLastName": "Magofke",
-      "fullName": "Andrés Molina Magofke",
-      "chamber": "camara"
-    },
-    {
-      "id": "1053",
-      "name": "Cristhian",
-      "lastName": "Moreira",
-      "secondLastName": "Barros",
-      "fullName": "Cristhian Moreira Barros",
-      "chamber": "camara"
-    },
-    {
-      "id": "1055",
-      "name": "Nicolás",
-      "lastName": "Noman",
-      "secondLastName": "Garrido",
-      "fullName": "Nicolás Noman Garrido",
-      "chamber": "camara"
-    },
-    {
-      "id": "1057",
-      "name": "Erika",
-      "lastName": "Olivera",
-      "secondLastName": "De La Fuente",
-      "fullName": "Erika Olivera De La Fuente",
-      "chamber": "camara"
-    },
-    {
-      "id": "1058",
-      "name": "Maite",
-      "lastName": "Orsini",
-      "secondLastName": "Pascal",
-      "fullName": "Maite Orsini Pascal",
-      "chamber": "camara"
-    },
-    {
-      "id": "1063",
-      "name": "Catalina",
-      "lastName": "Pérez",
-      "secondLastName": "Salinas",
-      "fullName": "Catalina Pérez Salinas",
-      "chamber": "camara"
-    },
-    {
-      "id": "1064",
-      "name": "Pablo",
-      "lastName": "Prieto",
-      "secondLastName": "Lorca",
-      "fullName": "Pablo Prieto Lorca",
-      "chamber": "camara"
-    },
-    {
-      "id": "1066",
-      "name": "Rolando",
-      "lastName": "Rentería",
-      "secondLastName": "Moller",
-      "fullName": "Rolando Rentería Moller",
-      "chamber": "camara"
-    },
-    {
-      "id": "1067",
-      "name": "Hugo",
-      "lastName": "Rey",
-      "secondLastName": "Martínez",
-      "fullName": "Hugo Rey Martínez",
-      "chamber": "camara"
-    },
-    {
-      "id": "1068",
-      "name": "Camila",
-      "lastName": "Rojas",
-      "secondLastName": "Valderrama",
-      "fullName": "Camila Rojas Valderrama",
-      "chamber": "camara"
-    },
-    {
-      "id": "1069",
-      "name": "Leonidas",
-      "lastName": "Romero",
-      "secondLastName": "Sáez",
-      "fullName": "Leonidas Romero Sáez",
-      "chamber": "camara"
-    },
-    {
-      "id": "1070",
-      "name": "Patricio",
-      "lastName": "Rosas",
-      "secondLastName": "Barrientos",
-      "fullName": "Patricio Rosas Barrientos",
-      "chamber": "camara"
-    },
-    {
-      "id": "1071",
-      "name": "Gastón",
-      "lastName": "Saavedra",
-      "secondLastName": "Chandía",
-      "fullName": "Gastón Saavedra Chandía",
-      "chamber": "camara"
-    },
-    {
-      "id": "1072",
-      "name": "Gustavo",
-      "lastName": "Sanhueza",
-      "secondLastName": "Dueñas",
-      "fullName": "Gustavo Sanhueza Dueñas",
-      "chamber": "camara"
-    },
-    {
-      "id": "1076",
-      "name": "Alexis",
-      "lastName": "Sepúlveda",
-      "secondLastName": "Soto",
-      "fullName": "Alexis Sepúlveda Soto",
-      "chamber": "camara"
-    },
-    {
-      "id": "1078",
-      "name": "Jaime",
-      "lastName": "Tohá",
-      "secondLastName": "González",
-      "fullName": "Jaime Tohá González",
-      "chamber": "camara"
-    },
-    {
-      "id": "1079",
-      "name": "Sebastián",
-      "lastName": "Torrealba",
-      "secondLastName": "Alvarado",
-      "fullName": "Sebastián Torrealba Alvarado",
-      "chamber": "camara"
-    },
-    {
-      "id": "1080",
-      "name": "Virginia",
-      "lastName": "Troncoso",
-      "secondLastName": "Hellman",
-      "fullName": "Virginia Troncoso Hellman",
-      "chamber": "camara"
-    },
-    {
-      "id": "1081",
-      "name": "Francisco",
-      "lastName": "Undurraga",
-      "secondLastName": "Gazitúa",
-      "fullName": "Francisco Undurraga Gazitúa",
-      "chamber": "camara"
-    },
-    {
-      "id": "1083",
-      "name": "Esteban",
-      "lastName": "Velásquez",
-      "secondLastName": "Núñez",
-      "fullName": "Esteban Velásquez Núñez",
-      "chamber": "camara"
-    },
-    {
-      "id": "1084",
-      "name": "Daniel",
-      "lastName": "Verdessi",
-      "secondLastName": "Belemmi",
-      "fullName": "Daniel Verdessi Belemmi",
-      "chamber": "camara"
-    },
-    {
-      "id": "1085",
-      "name": "Pablo",
-      "lastName": "Vidal",
-      "secondLastName": "Rojas",
-      "fullName": "Pablo Vidal Rojas",
-      "chamber": "camara"
-    },
-    {
-      "id": "1088",
-      "name": "Camilo",
-      "lastName": "Morán",
-      "secondLastName": "Bahamondes",
-      "fullName": "Camilo Morán Bahamondes",
-      "chamber": "camara"
-    },
-    {
-      "id": "1089",
-      "name": "Nora",
-      "lastName": "Cuevas",
-      "secondLastName": "Contreras",
-      "fullName": "Nora Cuevas Contreras",
-      "chamber": "camara"
-    },
-    {
-      "id": "1090",
-      "name": "Tomás Andrés",
-      "lastName": "Fuentes",
-      "secondLastName": "Barros",
-      "fullName": "Tomás Andrés Fuentes Barros",
-      "chamber": "camara"
-    },
-    {
-      "id": "1091",
-      "name": "Rubén",
-      "lastName": "Moraga",
-      "secondLastName": "Mamani",
-      "fullName": "Rubén Moraga Mamani",
-      "chamber": "camara"
-    },
-    {
-      "id": "1092",
-      "name": "Marcela",
-      "lastName": "Sandoval",
-      "secondLastName": "Osorio",
-      "fullName": "Marcela Sandoval Osorio",
-      "chamber": "camara"
-    },
-    {
-      "id": "1093",
-      "name": "Patricia",
-      "lastName": "Rubio",
-      "secondLastName": "Escobar",
-      "fullName": "Patricia Rubio Escobar",
-      "chamber": "camara"
-    },
-    {
-      "id": "1094",
-      "name": "Cristian",
-      "lastName": "Labbé",
-      "secondLastName": "Martínez",
-      "fullName": "Cristian Labbé Martínez",
-      "chamber": "camara"
-    },
-    {
-      "id": "1095",
-      "name": "Juan Manuel",
-      "lastName": "Masferrer",
-      "secondLastName": "Vidal",
-      "fullName": "Juan Manuel Masferrer Vidal",
-      "chamber": "camara"
-    },
-    {
-      "id": "1096",
-      "name": "María Candelaria",
-      "lastName": "Acevedo",
-      "secondLastName": "Sáez",
-      "fullName": "María Candelaria Acevedo Sáez",
-      "chamber": "camara"
-    },
-    {
-      "id": "1097",
-      "name": "Eric",
-      "lastName": "Aedo",
-      "secondLastName": "Jeldres",
-      "fullName": "Eric Aedo Jeldres",
-      "chamber": "camara"
-    },
-    {
-      "id": "1098",
-      "name": "Yovana",
-      "lastName": "Ahumada",
-      "secondLastName": "Palma",
-      "fullName": "Yovana Ahumada Palma",
-      "chamber": "camara"
-    },
-    {
-      "id": "1101",
-      "name": "Mónica",
-      "lastName": "Arce",
-      "secondLastName": "Castro",
-      "fullName": "Mónica Arce Castro",
-      "chamber": "camara"
-    },
-    {
-      "id": "1103",
-      "name": "Danisa",
-      "lastName": "Astudillo",
-      "secondLastName": "Peiretti",
-      "fullName": "Danisa Astudillo Peiretti",
-      "chamber": "camara"
-    },
-    {
-      "id": "1106",
-      "name": "Miguel Ángel",
-      "lastName": "Becker",
-      "secondLastName": "Alvear",
-      "fullName": "Miguel Ángel Becker Alvear",
-      "chamber": "camara"
-    },
-    {
-      "id": "1109",
-      "name": "Gustavo",
-      "lastName": "Benavente",
-      "secondLastName": "Vergara",
-      "fullName": "Gustavo Benavente Vergara",
-      "chamber": "camara"
-    },
-    {
-      "id": "1111",
-      "name": "Fernando",
-      "lastName": "Bórquez",
-      "secondLastName": "Montecinos",
-      "fullName": "Fernando Bórquez Montecinos",
-      "chamber": "camara"
-    },
-    {
-      "id": "1112",
-      "name": "Ana María",
-      "lastName": "Bravo",
-      "secondLastName": "Castro",
-      "fullName": "Ana María Bravo Castro",
-      "chamber": "camara"
-    },
-    {
-      "id": "1113",
-      "name": "Marta",
-      "lastName": "Bravo",
-      "secondLastName": "Salinas",
-      "fullName": "Marta Bravo Salinas",
-      "chamber": "camara"
-    },
-    {
-      "id": "1115",
-      "name": "Mercedes",
-      "lastName": "Bulnes",
-      "secondLastName": "Núñez",
-      "fullName": "Mercedes Bulnes Núñez",
-      "chamber": "camara"
-    },
-    {
-      "id": "1118",
-      "name": "Ricardo",
-      "lastName": "Cifuentes",
-      "secondLastName": "Lillo",
-      "fullName": "Ricardo Cifuentes Lillo",
-      "chamber": "camara"
-    },
-    {
-      "id": "1120",
-      "name": "María Luisa",
-      "lastName": "Cordero",
-      "secondLastName": "Velásquez",
-      "fullName": "María Luisa Cordero Velásquez",
-      "chamber": "camara"
-    },
-    {
-      "id": "1121",
-      "name": "Eduardo",
-      "lastName": "Cornejo",
-      "secondLastName": "Lagos",
-      "fullName": "Eduardo Cornejo Lagos",
-      "chamber": "camara"
-    },
-    {
-      "id": "1123",
-      "name": "Gonzalo",
-      "lastName": "De la Carrera",
-      "secondLastName": "Correa",
-      "fullName": "Gonzalo De la Carrera Correa",
-      "chamber": "camara"
-    },
-    {
-      "id": "1124",
-      "name": "Tomás",
-      "lastName": "De Rementería",
-      "secondLastName": "Venegas",
-      "fullName": "Tomás De Rementería Venegas",
-      "chamber": "camara"
-    },
-    {
-      "id": "1125",
-      "name": "Viviana",
-      "lastName": "Delgado",
-      "secondLastName": "Riquelme",
-      "fullName": "Viviana Delgado Riquelme",
-      "chamber": "camara"
-    },
-    {
-      "id": "1126",
-      "name": "Felipe",
-      "lastName": "Donoso",
-      "secondLastName": "Castro",
-      "fullName": "Felipe Donoso Castro",
-      "chamber": "camara"
-    },
-    {
-      "id": "1129",
-      "name": "Andrés",
-      "lastName": "Giordano",
-      "secondLastName": "Salazar",
-      "fullName": "Andrés Giordano Salazar",
-      "chamber": "camara"
-    },
-    {
-      "id": "1130",
-      "name": "Marta",
-      "lastName": "González",
-      "secondLastName": "Olea",
-      "fullName": "Marta González Olea",
-      "chamber": "camara"
-    },
-    {
-      "id": "1134",
-      "name": "Andrés",
-      "lastName": "Jouannet",
-      "secondLastName": "Valderrama",
-      "fullName": "Andrés Jouannet Valderrama",
-      "chamber": "camara"
-    },
-    {
-      "id": "1135",
-      "name": "Johannes",
-      "lastName": "Kaiser",
-      "secondLastName": "Barents-Von Hohenhagen",
-      "fullName": "Johannes Kaiser Barents-Von Hohenhagen",
-      "chamber": "camara"
-    },
-    {
-      "id": "1136",
-      "name": "Paula",
-      "lastName": "Labra",
-      "secondLastName": "Besserer",
-      "fullName": "Paula Labra Besserer",
-      "chamber": "camara"
-    },
-    {
-      "id": "1137",
-      "name": "Tomás",
-      "lastName": "Lagomarsino",
-      "secondLastName": "Guzmán",
-      "fullName": "Tomás Lagomarsino Guzmán",
-      "chamber": "camara"
-    },
-    {
-      "id": "1138",
-      "name": "Henry",
-      "lastName": "Leal",
-      "secondLastName": "Bizama",
-      "fullName": "Henry Leal Bizama",
-      "chamber": "camara"
-    },
-    {
-      "id": "1139",
-      "name": "Enrique",
-      "lastName": "Lee",
-      "secondLastName": "Flores",
-      "fullName": "Enrique Lee Flores",
-      "chamber": "camara"
-    },
-    {
-      "id": "1144",
-      "name": "Christian",
-      "lastName": "Matheson",
-      "secondLastName": "Villán",
-      "fullName": "Christian Matheson Villán",
-      "chamber": "camara"
-    },
-    {
-      "id": "1145",
-      "name": "Karen",
-      "lastName": "Medina",
-      "secondLastName": "Vásquez",
-      "fullName": "Karen Medina Vásquez",
-      "chamber": "camara"
-    },
-    {
-      "id": "1147",
-      "name": "Helia",
-      "lastName": "Molina",
-      "secondLastName": "Milman",
-      "fullName": "Helia Molina Milman",
-      "chamber": "camara"
-    },
-    {
-      "id": "1149",
-      "name": "Carla",
-      "lastName": "Morales",
-      "secondLastName": "Maldonado",
-      "fullName": "Carla Morales Maldonado",
-      "chamber": "camara"
-    },
-    {
-      "id": "1151",
-      "name": "Camila",
-      "lastName": "Musante",
-      "secondLastName": "Müller",
-      "fullName": "Camila Musante Müller",
-      "chamber": "camara"
-    },
-    {
-      "id": "1154",
-      "name": "Mauricio",
-      "lastName": "Ojeda",
-      "secondLastName": "Rebolledo",
-      "fullName": "Mauricio Ojeda Rebolledo",
-      "chamber": "camara"
-    },
-    {
-      "id": "1155",
-      "name": "Rubén Darío",
-      "lastName": "Oyarzo",
-      "secondLastName": "Figueroa",
-      "fullName": "Rubén Darío Oyarzo Figueroa",
-      "chamber": "camara"
-    },
-    {
-      "id": "1156",
-      "name": "Hernán",
-      "lastName": "Palma",
-      "secondLastName": "Pérez",
-      "fullName": "Hernán Palma Pérez",
-      "chamber": "camara"
-    },
-    {
-      "id": "1158",
-      "name": "Víctor Alejandro",
-      "lastName": "Pino",
-      "secondLastName": "Fuentes",
-      "fullName": "Víctor Alejandro Pino Fuentes",
-      "chamber": "camara"
-    },
-    {
-      "id": "1160",
-      "name": "Alejandra",
-      "lastName": "Placencia",
-      "secondLastName": "Cabello",
-      "fullName": "Alejandra Placencia Cabello",
-      "chamber": "camara"
-    },
-    {
-      "id": "1161",
-      "name": "Francisco",
-      "lastName": "Pulgar",
-      "secondLastName": "Castillo",
-      "fullName": "Francisco Pulgar Castillo",
-      "chamber": "camara"
-    },
-    {
-      "id": "1162",
-      "name": "Matías",
-      "lastName": "Ramírez",
-      "secondLastName": "Pascal",
-      "fullName": "Matías Ramírez Pascal",
-      "chamber": "camara"
-    },
-    {
-      "id": "1163",
-      "name": "Marcia",
-      "lastName": "Raphael",
-      "secondLastName": "Mora",
-      "fullName": "Marcia Raphael Mora",
-      "chamber": "camara"
-    },
-    {
-      "id": "1164",
-      "name": "Marcela",
-      "lastName": "Riquelme",
-      "secondLastName": "Aliaga",
-      "fullName": "Marcela Riquelme Aliaga",
-      "chamber": "camara"
-    },
-    {
-      "id": "1167",
-      "name": "Jaime",
-      "lastName": "Sáez",
-      "secondLastName": "Quiroz",
-      "fullName": "Jaime Sáez Quiroz",
-      "chamber": "camara"
-    },
-    {
-      "id": "1168",
-      "name": "Jorge",
-      "lastName": "Saffirio",
-      "secondLastName": "Espinoza",
-      "fullName": "Jorge Saffirio Espinoza",
-      "chamber": "camara"
-    },
-    {
-      "id": "1169",
-      "name": "Clara",
-      "lastName": "Sagardía",
-      "secondLastName": "Cabezas",
-      "fullName": "Clara Sagardía Cabezas",
-      "chamber": "camara"
-    },
-    {
-      "id": "1179",
-      "name": "Alberto",
-      "lastName": "Undurraga",
-      "secondLastName": "Vicuña",
-      "fullName": "Alberto Undurraga Vicuña",
-      "chamber": "camara"
-    },
-    {
-      "id": "1185",
-      "name": "Arturo",
-      "lastName": "Barrios",
-      "secondLastName": "Oteíza",
-      "fullName": "Arturo Barrios Oteíza",
       "chamber": "camara"
     }
   ]

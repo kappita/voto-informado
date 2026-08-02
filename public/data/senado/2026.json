@@ -4,8 +4,8 @@
     "boletin": "15261",
     "fecha": "05/05/2026",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 21.325, de migración y extranjería, para tipificar el delito de ingreso clandestino al territorio",
-    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 21.325, de migración y extranjería, para tipificar el delito de ingreso clandestino al territorio nacional, con informe de la Comisión de Gobierno, Descentralización y Regionalización..",
+    "title": "Modifica la ley N° 21.325, de migración y extranjería, para tipificar el delito de ingreso clandestino al territorio",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 21.325, de migración y extranjería, para tipificar el delito de ingreso clandestino al territorio nacional, con informe de la Comisión de Gobierno, Descentralización y Regionalización (discusión en general). (Boletín N° 15.261-25).",
     "tags": [
       "seguridad",
       "inmigracion",
@@ -41,15 +41,16 @@
       "1343": "contra",
       "1344": "afavor",
       "1450": "contra"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-15347-07/04/2026",
     "boletin": "15347",
     "fecha": "07/04/2026",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 20.000, que sustituye la ley Nº 19.366, que sanciona el tráfico ilícito de estupefacientes y",
-    "descripcion": "Proyecto de ley, en tercer trámite constitucional, que modifica la ley N° 20.000, que sustituye la ley Nº 19.366, que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicas, con el objeto de incorporar las circunstancias agravantes que se indican. (Boletines Nos 15.347-07 y 16.4...",
+    "title": "Modifica la ley N° 20.000, que sustituye la ley Nº 19.366, que sanciona el tráfico ilícito de estupefacientes y",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que modifica la ley N° 20.000, que sustituye la ley N° 19.366, que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicas, con el objeto de incorporar las circunstancias agravantes que se indican, (Boletines Nos 15.347-07 y 16.430-07, refundidos). APROBADO.",
     "tags": [
       "constitucional"
     ],
@@ -81,15 +82,16 @@
       "1342": "contra",
       "1343": "afavor",
       "1450": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-15351-03/03/2026",
     "boletin": "15351",
     "fecha": "03/03/2026",
     "chamber": "senado",
-    "materia": "Armoniza la ley N° 21.302, que crea el Servicio Nacional de Protección Especializada a la Niñez y Adolescencia y",
-    "descripcion": "Enmienda introducida por la Cámara de Diputados, número 23 del artículo 1 del proyecto de ley, en tercer trámite constitucional, que armoniza la ley N° 21.302, que crea el Servicio Nacional de Protección Especializada a la Niñez y Adolescencia y Modifica normas legales que indica, y la ley N° 20....",
+    "title": "Armoniza la ley N° 21.302, que crea el Servicio Nacional de Protección Especializada a la Niñez y Adolescencia y",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, sobre armonización de la ley N° 21.302, que crea el Servicio Nacional de Protección Especializada a la Niñez y Adolescencia y modifica normas legales que indica, y la ley N° 20.032, que regula el régimen de aportes financieros del Estado a los colaboradores acreditados, con la ley N° 21.430, sobre garantías y protección integral de los derechos de la niñez y adolescencia, (Boletín N° 15.351-07). APROBADO EN GENERAL.",
     "tags": [
       "economia",
       "social",
@@ -115,15 +117,16 @@
       "1339": "afavor",
       "1341": "afavor",
       "1343": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-15589-07/07/2026",
     "boletin": "15589",
     "fecha": "07/07/2026",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 20.084, que establece un sistema de responsabilidad de los adolescentes por infracciones a la ley",
-    "descripcion": "En votación, en general, el proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 20.084, que establece un sistema de responsabilidad de los adolescentes por infracciones a la ley penal, para fortalecer la respuesta sancionatoria frente a conductas consideradas de especial gr...",
+    "title": "Modifica la ley N° 20.084, que establece un sistema de responsabilidad de los adolescentes por infracciones a la ley",
+    "descripcion": "En votación, en general, el proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 20.084, que establece un sistema de responsabilidad de los adolescentes por infracciones a la ley penal, para fortalecer la respuesta sancionatoria frente a conductas consideradas de especial gravedad (Boletín Nº 15.589-07)",
     "tags": [
       "seguridad",
       "constitucional"
@@ -153,15 +156,16 @@
       "1342": "afavor",
       "1344": "afavor",
       "1450": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-15666-07/01/2026",
     "boletin": "15666",
     "fecha": "07/01/2026",
     "chamber": "senado",
-    "materia": "Prohíbe el ingreso y tránsito de vehículos motorizados en las arenas de playa, terrenos de playa y dunas costeras de",
-    "descripcion": "Disposiciones que no fueron objeto de indicaciones ni modificaciones y las enmiendas aprobadas unánimemente del proyecto de ley, en segundo trámite constitucional, que prohíbe el ingreso y tránsito de vehículos motorizados en las arenas de playa, terrenos de playa y dunas costeras de todo el terr...",
+    "title": "Prohíbe el ingreso y tránsito de vehículos motorizados en las arenas de playa, terrenos de playa y dunas costeras de",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que prohíbe el ingreso y tránsito de vehículos motorizados en las arenas de playa, terrenos de playa y dunas costeras de todo el territorio nacional, (Boletín N° 15.666-12). APROBADO.",
     "tags": [
       "transporte",
       "constitucional"
@@ -189,15 +193,16 @@
       "1343": "afavor",
       "1344": "afavor",
       "1450": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-15694-09/06/2026",
     "boletin": "15694",
     "fecha": "09/06/2026",
     "chamber": "senado",
-    "materia": "Promueve la transparencia y la adopción de medidas para la inclusión laboral de las mujeres en las empresas que indica",
-    "descripcion": "Proyecto de ley, en tercer trámite constitucional, que promueve la transparencia y la adopción de medidas para la inclusión laboral de las mujeres en las empresas que indica..",
+    "title": "Promueve la transparencia y la adopción de medidas para la inclusión laboral de las mujeres en las empresas que indica",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que promueve la transparencia y la adopción de medidas para la inclusión laboral de las mujeres en las empresas que indica (Boletín N° 15.694-34). Acuerdo de Sala. Aprobado.",
     "tags": [
       "trabajo",
       "genero",
@@ -221,15 +226,16 @@
       "1342": "contra",
       "1343": "afavor",
       "1450": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-15767-03/06/2026",
     "boletin": "15767",
     "fecha": "03/06/2026",
     "chamber": "senado",
-    "materia": "Deroga la ley N° 18.356, que establece normas sobre el control de las artes marciales y deroga la ley N° 18.039, e",
-    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que deroga la ley N° 18.356, que establece normas sobre el control de las artes marciales y deroga la ley N° 18.039, e incorpora el concepto de artes marciales en la ley N° 19.712. (Boletines Nos 15.767-29 y 16.248-29, refundidos)",
+    "title": "Deroga la ley N° 18.356, que establece normas sobre el control de las artes marciales y deroga la ley N° 18.039, e",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que deroga la ley N° 18.356, que establece normas sobre el control de las artes marciales y deroga la ley N° 18.039, e incorpora el concepto de artes marciales en la ley N° 19.712 (discusión en general). (Boletines Nos 15.767-29 y 16.248-29, refundidos)",
     "tags": [
       "cultura",
       "constitucional"
@@ -259,14 +265,15 @@
       "1343": "afavor",
       "1344": "afavor",
       "1450": "pareo"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-15850-21/07/2026",
     "boletin": "15850",
     "fecha": "21/07/2026",
     "chamber": "senado",
-    "materia": "Modifica diversos cuerpos legales para regular la comercialización de productos farmacéuticos y sancionar su venta",
+    "title": "Modifica diversos cuerpos legales para regular la comercialización de productos farmacéuticos y sancionar su venta",
     "descripcion": "En votación, en general, el proyecto de ley que modifica diversos cuerpos legales para regular la comercialización de productos farmacéuticos y sancionar su venta ilegal.",
     "tags": [
       "otro"
@@ -294,15 +301,16 @@
       "1343": "afavor",
       "1344": "pareo",
       "1450": "pareo"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-15975-12/05/2026",
     "boletin": "15975",
     "fecha": "12/05/2026",
     "chamber": "senado",
-    "materia": "Crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que",
-    "descripcion": "Enmiendas de la Cámara de Diputados que la Comisión informante propone aprobar y que no han sido objeto de solicitudes de votación separada. Proyecto de ley, en tercer trámite constitucional, que crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de...",
+    "title": "Crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que",
+    "descripcion": "Proyecto de ley, iniciado en Mensaje de S.E. el Presidente de la República, en primer trámite constitucional, que crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que digan relación con el crimen organizado (Boletín N° 15.975-25). APROBADO.",
     "tags": [
       "seguridad",
       "constitucional"
@@ -334,15 +342,16 @@
       "1342": "afavor",
       "1343": "afavor",
       "1344": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-15975-03/06/2026",
     "boletin": "15975",
     "fecha": "03/06/2026",
     "chamber": "senado",
-    "materia": "Crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que",
-    "descripcion": "Enmiendas de la Cámara de Diputados que la Comisión informante propone aprobar y que no han sido objeto de solicitudes de votación separada. Proyecto de ley, en tercer trámite constitucional, que crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de...",
+    "title": "Crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que",
+    "descripcion": "Proyecto de ley, iniciado en Mensaje de S.E. el Presidente de la República, en primer trámite constitucional, que crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que digan relación con el crimen organizado (Boletín N° 15.975-25). APROBADO.",
     "tags": [
       "otro"
     ],
@@ -375,15 +384,16 @@
       "1343": "contra",
       "1344": "afavor",
       "1450": "contra"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-15975-09/06/2026",
     "boletin": "15975",
     "fecha": "09/06/2026",
     "chamber": "senado",
-    "materia": "Crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que",
-    "descripcion": "Enmiendas de la Cámara de Diputados que la Comisión informante propone aprobar y que no han sido objeto de solicitudes de votación separada. Proyecto de ley, en tercer trámite constitucional, que crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de...",
+    "title": "Crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que",
+    "descripcion": "Proyecto de ley, iniciado en Mensaje de S.E. el Presidente de la República, en primer trámite constitucional, que crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que digan relación con el crimen organizado (Boletín N° 15.975-25). APROBADO.",
     "tags": [
       "seguridad",
       "constitucional"
@@ -418,15 +428,16 @@
       "1342": "contra",
       "1343": "afavor",
       "1450": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-16335-21/01/2026",
     "boletin": "16335",
     "fecha": "21/01/2026",
     "chamber": "senado",
-    "materia": "Regula la prevención de incendios forestales y rurales, y otras materias que indica(discusión en particular)",
-    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que regula la prevención de incendios forestales y rurales, y otras materias que indica.. . Modificaciones unánimes.",
+    "title": "Regula la prevención de incendios forestales y rurales, y otras materias que indica(discusión en particular)",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que regula la prevención de incendios forestales y rurales, y otras materias que indica, Boletín N° 16.335-14). APROBADO.",
     "tags": [
       "otro"
     ],
@@ -458,15 +469,16 @@
       "1343": "afavor",
       "1344": "afavor",
       "1450": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-16335-27/01/2026",
     "boletin": "16335",
     "fecha": "27/01/2026",
     "chamber": "senado",
-    "materia": "Regula la prevención de incendios forestales y rurales, y otras materias que indica(discusión en particular)",
-    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que regula la prevención de incendios forestales y rurales, y otras materias que indica.. . Modificaciones unánimes.",
+    "title": "Regula la prevención de incendios forestales y rurales, y otras materias que indica(discusión en particular)",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que regula la prevención de incendios forestales y rurales, y otras materias que indica, Boletín N° 16.335-14). APROBADO.",
     "tags": [
       "medioambiente",
       "agricultura",
@@ -489,15 +501,16 @@
       "1342": "afavor",
       "1344": "afavor",
       "1450": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-16374-14/01/2026",
     "boletin": "16374",
     "fecha": "14/01/2026",
     "chamber": "senado",
-    "materia": "Modifica diversos cuerpos legales, en materia de fortalecimiento del Ministerio Público, con segundo informe de la",
-    "descripcion": "Proyecto de ley, iniciado en Mensaje de S.E. la Vicepresidenta de la República, en primer trámite constitucional, que modifica diversos cuerpos legales, en materia de fortalecimiento del Ministerio Público, con segundo informe de la Comisión de Constitución, Legislación, Justicia y Reglamento y s...",
+    "title": "Modifica diversos cuerpos legales, en materia de fortalecimiento del Ministerio Público, con segundo informe de la",
+    "descripcion": "Proyecto de ley, , en primer trámite constitucional, que modifica diversos cuerpos legales, en materia de fortalecimiento del Ministerio Público, (Boletín N° 16.374-07). APROBADO EN GENERAL.",
     "tags": [
       "justicia",
       "constitucional"
@@ -523,15 +536,16 @@
       "1342": "afavor",
       "1344": "afavor",
       "1450": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-16374-26/01/2026",
     "boletin": "16374",
     "fecha": "26/01/2026",
     "chamber": "senado",
-    "materia": "Modifica diversos cuerpos legales, en materia de fortalecimiento del Ministerio Público, con segundo informe de la",
-    "descripcion": "Proyecto de ley, iniciado en Mensaje de S.E. la Vicepresidenta de la República, en primer trámite constitucional, que modifica diversos cuerpos legales, en materia de fortalecimiento del Ministerio Público, con segundo informe de la Comisión de Constitución, Legislación, Justicia y Reglamento y s...",
+    "title": "Modifica diversos cuerpos legales, en materia de fortalecimiento del Ministerio Público, con segundo informe de la",
+    "descripcion": "Proyecto de ley, , en primer trámite constitucional, que modifica diversos cuerpos legales, en materia de fortalecimiento del Ministerio Público, (Boletín N° 16.374-07). APROBADO EN GENERAL.",
     "tags": [
       "otro"
     ],
@@ -558,14 +572,15 @@
       "1342": "afavor",
       "1343": "afavor",
       "1450": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-16433-06/05/2026",
     "boletin": "16433",
     "fecha": "06/05/2026",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 19.831, en materia de responsabilidad del transportista escolar durante el traslado de niños, niñas",
+    "title": "Modifica la ley N° 19.831, en materia de responsabilidad del transportista escolar durante el traslado de niños, niñas",
     "descripcion": "Discusión en general del proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 19.831, en materia de responsabilidad del transportista escolar durante el traslado de niños, niñas y adolescentes Boletín N° 16.433-18",
     "tags": [
       "educacion",
@@ -594,15 +609,16 @@
       "1342": "pareo",
       "1343": "afavor",
       "1450": "pareo"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-16552-08/04/2026",
     "boletin": "16552",
     "fecha": "08/04/2026",
     "chamber": "senado",
-    "materia": "Modifica diversos cuerpos legales, con el objeto de fortalecer la institucionalidad ambiental y mejorar su eficiencia",
-    "descripcion": "En el artículo primero permanente, en el número 5, letra d), el inciso tercero del artículo 8° propuesto, aprobado por la Comisión de Medio Ambiente del proyecto de ley, que modifica diversos cuerpos legales, con el objeto de fortalecer la institucionalidad ambiental y mejorar su eficiencia..",
+    "title": "Modifica diversos cuerpos legales, con el objeto de fortalecer la institucionalidad ambiental y mejorar su eficiencia",
+    "descripcion": "Proyecto de ley, iniciado en Mensaje de S.E. el Presidente de la República, en primer trámite constitucional, que modifica diversos cuerpos legales, con el objeto de fortalecer la institucionalidad ambiental y mejorar su eficiencia,((Boletín N° 16.552-12). APROBADO.",
     "tags": [
       "medioambiente",
       "constitucional"
@@ -635,15 +651,16 @@
       "1343": "contra",
       "1344": "afavor",
       "1450": "contra"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-16552-14/04/2026",
     "boletin": "16552",
     "fecha": "14/04/2026",
     "chamber": "senado",
-    "materia": "Modifica diversos cuerpos legales, con el objeto de fortalecer la institucionalidad ambiental y mejorar su eficiencia",
-    "descripcion": "En el artículo primero permanente, en el número 5, letra d), el inciso tercero del artículo 8° propuesto, aprobado por la Comisión de Medio Ambiente del proyecto de ley, que modifica diversos cuerpos legales, con el objeto de fortalecer la institucionalidad ambiental y mejorar su eficiencia..",
+    "title": "Modifica diversos cuerpos legales, con el objeto de fortalecer la institucionalidad ambiental y mejorar su eficiencia",
+    "descripcion": "Proyecto de ley, iniciado en Mensaje de S.E. el Presidente de la República, en primer trámite constitucional, que modifica diversos cuerpos legales, con el objeto de fortalecer la institucionalidad ambiental y mejorar su eficiencia,((Boletín N° 16.552-12). APROBADO.",
     "tags": [
       "medioambiente"
     ],
@@ -673,15 +690,16 @@
       "1342": "contra",
       "1343": "afavor",
       "1450": "pareo"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-16569-18/03/2026",
     "boletin": "16569",
     "fecha": "18/03/2026",
     "chamber": "senado",
-    "materia": "Amplía la penalización dispuesta en el artículo 304 bis del Código Penal, para fortalecer la seguridad perimetral de",
-    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que amplía la penalización dispuesta en el artículo 304 bis del Código Penal, para fortalecer la seguridad perimetral de los recintos penales, con segundo informe de la Comisión de Constitución, Legislación, Justicia y Reglamento.. (Boletines No...",
+    "title": "Amplía la penalización dispuesta en el artículo 304 bis del Código Penal, para fortalecer la seguridad perimetral de",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que amplía la penalización dispuesta en el artículo 304 bis del Código Penal, para fortalecer la seguridad perimetral de los recintos penales. (proyecto de artículo único). (Boletines Nos 16.569-25 y 16.984-25, refundidos). Aprobado en general.",
     "tags": [
       "seguridad",
       "justicia",
@@ -714,15 +732,16 @@
       "1343": "afavor",
       "1344": "afavor",
       "1450": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-16577-05/05/2026",
     "boletin": "16577",
     "fecha": "05/05/2026",
     "chamber": "senado",
-    "materia": "Declara el 7 de enero de cada año como el Día de la Amistad y Solidaridad Chileno-Palestina",
-    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que declara el 7 de enero de cada año como el Día de la Amistad y Solidaridad Chileno-Palestina, con informe de la Comisión de Relaciones Exteriores...",
+    "title": "Declara el 7 de enero de cada año como el Día de la Amistad y Solidaridad Chileno-Palestina",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que declara el 7 de enero de cada año como el Día de la Amistad y Solidaridad Chileno-Palestina, con informe de la Comisión de Relaciones Exteriores. (discusión en general). (Boletín Nº 16.577-24).",
     "tags": [
       "constitucional"
     ],
@@ -750,15 +769,16 @@
       "1342": "afavor",
       "1344": "afavor",
       "1450": "pareo"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-16577-20/05/2026",
     "boletin": "16577",
     "fecha": "20/05/2026",
     "chamber": "senado",
-    "materia": "Declara el 7 de enero de cada año como el Día de la Amistad y Solidaridad Chileno-Palestina",
-    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que declara el 7 de enero de cada año como el Día de la Amistad y Solidaridad Chileno-Palestina, con informe de la Comisión de Relaciones Exteriores...",
+    "title": "Declara el 7 de enero de cada año como el Día de la Amistad y Solidaridad Chileno-Palestina",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que declara el 7 de enero de cada año como el Día de la Amistad y Solidaridad Chileno-Palestina, con informe de la Comisión de Relaciones Exteriores. (discusión en general). (Boletín Nº 16.577-24).",
     "tags": [
       "constitucional"
     ],
@@ -782,15 +802,16 @@
       "1342": "pareo",
       "1344": "afavor",
       "1450": "pareo"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-16627-13/01/2026",
     "boletin": "16627",
     "fecha": "13/01/2026",
     "chamber": "senado",
-    "materia": "Perfecciona los sistemas medianos en la Ley General de Servicios Eléctricos",
-    "descripcion": "Aprobación en general y en particular del proyecto de ley, en segundo trámite constitucional, que perfecciona los sistemas medianos en la Ley General de Servicios Eléctricos.",
+    "title": "Perfecciona los sistemas medianos en la Ley General de Servicios Eléctricos",
+    "descripcion": "Aprobación en general y en particular del proyecto de ley, en segundo trámite constitucional, que perfecciona los sistemas medianos en la Ley General de Servicios Eléctricos (Boletín N° 16.627-08)",
     "tags": [
       "energia",
       "constitucional"
@@ -813,15 +834,16 @@
       "1342": "afavor",
       "1344": "afavor",
       "1450": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-16686-13/05/2026",
     "boletin": "16686",
     "fecha": "13/05/2026",
     "chamber": "senado",
-    "materia": "Dicta normas sobre transferencia de tecnología y conocimiento, con segundo informe y nuevo segundo informe de la",
-    "descripcion": "Sustitución del inciso tercero del artículo 9° del proyecto de ley, en segundo trámite constitucional, que dicta normas sobre transferencia de tecnología y conocimiento, con segundo informe y nuevo segundo informe de la Comisión de Desafíos del Futuro, Ciencia, Tecnología e Innovación..",
+    "title": "Dicta normas sobre transferencia de tecnología y conocimiento, con segundo informe y nuevo segundo informe de la",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que dicta normas sobre transferencia de tecnología y conocimiento, (Boletín N° 16.686-19). APROBADO EN GENERAL.",
     "tags": [
       "tecnologia",
       "constitucional"
@@ -846,15 +868,16 @@
       "1342": "afavor",
       "1343": "afavor",
       "1344": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-16705-21/01/2026",
     "boletin": "16705",
     "fecha": "21/01/2026",
     "chamber": "senado",
-    "materia": "Modifica la ley Nº 21.040 y otros cuerpos legales, fortaleciendo la gestión educativa y mejorando las normas sobre",
-    "descripcion": "Proyecto de ley, iniciado en Mensaje de S.E. el Presidente de la República, en primer trámite constitucional, que modifica la ley Nº 21.040 y otros cuerpos legales, fortaleciendo la gestión educativa y mejorando las normas sobre administración e instalación del Sistema de Educación Pública, con s...",
+    "title": "Modifica la ley Nº 21.040 y otros cuerpos legales, fortaleciendo la gestión educativa y mejorando las normas sobre",
+    "descripcion": "Proyecto de ley, iniciado en Mensaje de S.E. el Presidente de la República, en primer trámite constitucional, que modifica la ley Nº 21.040 y otros cuerpos legales, fortaleciendo la gestión educativa y mejorando las normas sobre administración e instalación del Sistema de Educación Pública, (Boletín N° 16.705-04). APROBADO.",
     "tags": [
       "educacion",
       "tributario"
@@ -879,15 +902,16 @@
       "1343": "afavor",
       "1344": "afavor",
       "1450": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-16705-27/01/2026",
     "boletin": "16705",
     "fecha": "27/01/2026",
     "chamber": "senado",
-    "materia": "Modifica la ley Nº 21.040 y otros cuerpos legales, fortaleciendo la gestión educativa y mejorando las normas sobre",
-    "descripcion": "Proyecto de ley, iniciado en Mensaje de S.E. el Presidente de la República, en primer trámite constitucional, que modifica la ley Nº 21.040 y otros cuerpos legales, fortaleciendo la gestión educativa y mejorando las normas sobre administración e instalación del Sistema de Educación Pública, con s...",
+    "title": "Modifica la ley Nº 21.040 y otros cuerpos legales, fortaleciendo la gestión educativa y mejorando las normas sobre",
+    "descripcion": "Proyecto de ley, iniciado en Mensaje de S.E. el Presidente de la República, en primer trámite constitucional, que modifica la ley Nº 21.040 y otros cuerpos legales, fortaleciendo la gestión educativa y mejorando las normas sobre administración e instalación del Sistema de Educación Pública, (Boletín N° 16.705-04). APROBADO.",
     "tags": [
       "educacion",
       "tributario"
@@ -912,15 +936,16 @@
       "1342": "afavor",
       "1344": "afavor",
       "1450": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-16741-16/06/2026",
     "boletin": "16741",
     "fecha": "16/06/2026",
     "chamber": "senado",
-    "materia": "Modifica la Ley del Tránsito, para establecer la reserva de los datos registrales de los vehículos pertenecientes a las",
-    "descripcion": "Aprobación en general y en particular del proyecto de ley, en primer trámite constitucional, que modifica la Ley del Tránsito, para establecer la reserva de los datos registrales de los vehículos pertenecientes a las Fuerzas de Orden y Seguridad Pública.",
+    "title": "Modifica la Ley del Tránsito, para establecer la reserva de los datos registrales de los vehículos pertenecientes a las",
+    "descripcion": "Aprobación en general y en particular del proyecto de ley, en primer trámite constitucional, que modifica la Ley del Tránsito, para establecer la reserva de los datos registrales de los vehículos pertenecientes a las Fuerzas de Orden y Seguridad Pública (Boletín N° 16.741-15).",
     "tags": [
       "seguridad",
       "transporte",
@@ -948,14 +973,15 @@
       "1343": "afavor",
       "1344": "afavor",
       "1450": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-16742-14/07/2026",
     "boletin": "16742",
     "fecha": "14/07/2026",
     "chamber": "senado",
-    "materia": "Modifica diversos cuerpos legales, para fortalecer la accesibilidad universal a la información de productos",
+    "title": "Modifica diversos cuerpos legales, para fortalecer la accesibilidad universal a la información de productos",
     "descripcion": "En votación, en general, el proyecto de ley que modifica diversos cuerpos legales, para fortalecer la accesibilidad universal a la información de productos farmacéuticos y otros que indica.",
     "tags": [
       "otro"
@@ -981,15 +1007,16 @@
       "1343": "afavor",
       "1344": "afavor",
       "1450": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-16743-21/01/2026",
     "boletin": "16743",
     "fecha": "21/01/2026",
     "chamber": "senado",
-    "materia": "Modifica diversos cuerpos legales, con el objeto de facilitar la creación de nuevos establecimientos educacionales",
-    "descripcion": "Proyecto de ley, en primer trámite constitucional, que modifica diversos cuerpos legales, con el objeto de facilitar la creación de nuevos establecimientos educacionales,..",
+    "title": "Modifica diversos cuerpos legales, con el objeto de facilitar la creación de nuevos establecimientos educacionales",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que modifica diversos cuerpos legales, con el objeto de facilitar la creación de nuevos establecimientos educacionales, (discusión en general). (Boletín N° 16.743-04).APROBADO.",
     "tags": [
       "constitucional"
     ],
@@ -1013,15 +1040,16 @@
       "1343": "afavor",
       "1344": "afavor",
       "1450": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-16763-22/04/2026",
     "boletin": "16763",
     "fecha": "22/04/2026",
     "chamber": "senado",
-    "materia": "Modifica la Ley sobre Subvención del Estado a Establecimientos Educacionales, en cuanto al proceso de admisión escolar",
-    "descripcion": "Proyecto de ley, en primer trámite constitucional, que modifica la Ley sobre Subvención del Estado a Establecimientos Educacionales, en cuanto al proceso de admisión escolar, con informe de la Comisión de Educación e informe de la Comisión de Hacienda.. (Boletines Nos 16.763-04 y 16.766-04, refun...",
+    "title": "Modifica la Ley sobre Subvención del Estado a Establecimientos Educacionales, en cuanto al proceso de admisión escolar",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que modifica la Ley sobre Subvención del Estado a Establecimientos Educacionales, en cuanto al proceso de admisión escolar, con informe de la Comisión de Educación e informe de la Comisión de Hacienda. (discusión en general). (Boletines Nos 16.763-04 y 16.766-04, refundidos). APROBADO.",
     "tags": [
       "educacion",
       "constitucional"
@@ -1052,14 +1080,15 @@
       "1342": "afavor",
       "1343": "afavor",
       "1344": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-16777-24/03/2026",
     "boletin": "16777",
     "fecha": "24/03/2026",
     "chamber": "senado",
-    "materia": "Aprobado.",
+    "title": "Aprobado.",
     "descripcion": "Aprobado.",
     "tags": [
       "otro"
@@ -1084,15 +1113,16 @@
       "1342": "afavor",
       "1344": "afavor",
       "1450": "pareo"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-16836-07/04/2026",
     "boletin": "16836",
     "fecha": "07/04/2026",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 21.325 para perfeccionar el procedimiento de expulsión administrativa",
-    "descripcion": "En votación, las normas que no fueron objeto de indicaciones ni de modificaciones, así como las enmiendas aprobadas en forma unánime por la Comisión del proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 21.325 para perfeccionar el procedimiento de expulsión administrativa.",
+    "title": "Modifica la ley N° 21.325 para perfeccionar el procedimiento de expulsión administrativa",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 21.325 para perfeccionar el procedimiento de expulsión administrativa, con informe de la Comisión de Gobierno, Descentralización y Regionalización (discusión en general). (Boletín Nº 16.836-06).",
     "tags": [
       "descentralizacion",
       "tributario",
@@ -1119,15 +1149,16 @@
       "1342": "afavor",
       "1343": "afavor",
       "1450": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-16836-08/07/2026",
     "boletin": "16836",
     "fecha": "08/07/2026",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 21.325 para perfeccionar el procedimiento de expulsión administrativa",
-    "descripcion": "En votación, las normas que no fueron objeto de indicaciones ni de modificaciones, así como las enmiendas aprobadas en forma unánime por la Comisión del proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 21.325 para perfeccionar el procedimiento de expulsión administrativa.",
+    "title": "Modifica la ley N° 21.325 para perfeccionar el procedimiento de expulsión administrativa",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 21.325 para perfeccionar el procedimiento de expulsión administrativa, con informe de la Comisión de Gobierno, Descentralización y Regionalización (discusión en general). (Boletín Nº 16.836-06).",
     "tags": [
       "tributario",
       "constitucional"
@@ -1157,15 +1188,16 @@
       "1342": "afavor",
       "1344": "afavor",
       "1450": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-16901-07/01/2026",
     "boletin": "16901",
     "fecha": "07/01/2026",
     "chamber": "senado",
-    "materia": "Votación particular boletín N° 16901-04 y refundidos. Votación de todas las disposiciones que no fueron objeto de indicaciones ni modificaciones y todas aquellas aprobadas por unanimidad por la Comisión. Proyecto de ley, en segundo trámite constitucional, sobre convivencia, buen trato y bienestar de las comunidades educativas, con el objetivo de prevenir y erradicar el acoso escolar, la discriminación y todo tipo de violencia en los establecimientos educacionales.",
-    "descripcion": "Votación particular boletín N° 16901-04 y refundidos. Votación de todas las disposiciones que no fueron objeto de indicaciones ni modificaciones y todas aquellas aprobadas por unanimidad por la Comisión. Proyecto de ley, en segundo trámite constitucional, sobre convivencia, buen trato y bienestar de las comunidades educativas, con el objetivo de prevenir y erradicar el acoso escolar, la discriminación y todo tipo de violencia en los establecimientos educacionales.",
+    "title": "Votación particular boletín N° 16901-04 y refundidos. Votación de todas las disposiciones que no fueron objeto de indicaciones ni modificaciones y todas aquellas aprobadas por unanimidad por la Comisión. Proyecto de ley, en segundo trámite constitucional, sobre convivencia, buen trato y bienestar de las comunidades educativas, con el objetivo de prevenir y erradicar el acoso escolar, la discriminación y todo tipo de violencia en los establecimientos educacionales.",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, sobre convivencia, buen trato y bienestar de las comunidades educativas, con el objetivo de prevenir y erradicar el acoso escolar, la discriminación y todo tipo de violencia en los establecimientos educacionales, (Boletines Nos 16.901-04, 16.781-04 y 16.881-04, refundidos). APROBADO.",
     "tags": [
       "seguridad",
       "educacion",
@@ -1198,15 +1230,16 @@
       "1343": "afavor",
       "1344": "afavor",
       "1450": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-16901-27/01/2026",
     "boletin": "16901",
     "fecha": "27/01/2026",
     "chamber": "senado",
-    "materia": "Informe de la Comisión Mixta para el proyecto de ley sobre convivencia, buen trato y bienestar de las comunidades educativas, con el objetivo de prevenir y erradicar el acoso escolar, la discriminación y todo tipo de violencia en los establecimientos educacionales. (Boletines Nos 16.901-04, 16.781-04 y 16.881-04, refundidos)",
-    "descripcion": "Informe de la Comisión Mixta para el proyecto de ley sobre convivencia, buen trato y bienestar de las comunidades educativas, con el objetivo de prevenir y erradicar el acoso escolar, la discriminación y todo tipo de violencia en los establecimientos educacionales. (Boletines Nos 16.901-04, 16.781-04 y 16.881-04, refundidos)",
+    "title": "Informe de la Comisión Mixta para el proyecto de ley sobre convivencia, buen trato y bienestar de las comunidades educativas, con el objetivo de prevenir y erradicar el acoso escolar, la discriminación y todo tipo de violencia en los establecimientos educacionales. (Boletines Nos 16.901-04, 16.781-04 y 16.881-04, refundidos)",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, sobre convivencia, buen trato y bienestar de las comunidades educativas, con el objetivo de prevenir y erradicar el acoso escolar, la discriminación y todo tipo de violencia en los establecimientos educacionales, (Boletines Nos 16.901-04, 16.781-04 y 16.881-04, refundidos). APROBADO.",
     "tags": [
       "seguridad",
       "educacion",
@@ -1235,15 +1268,16 @@
       "1342": "afavor",
       "1344": "afavor",
       "1450": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-16905-14/01/2026",
     "boletin": "16905",
     "fecha": "14/01/2026",
     "chamber": "senado",
-    "materia": "Reconoce el derecho al cuidado y crea el Sistema Nacional de Apoyos y Cuidados. (discusión en particular).. Solicitudes",
-    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que reconoce el derecho al cuidado y crea el Sistema Nacional de Apoyos y Cuidados... . Solicitudes de votación 1 (frase final del inciso tercero del artículo 1°), 2 (frase del inciso cuarto del artículo 1°), 4 (letra e del artículo 5°), 5 (letr...",
+    "title": "Reconoce el derecho al cuidado y crea el Sistema Nacional de Apoyos y Cuidados. (discusión en particular).. Solicitudes",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que reconoce el derecho al cuidado y crea el Sistema Nacional de Apoyos y Cuidados (Boletín Nº 16.905-31). APROBADO.",
     "tags": [
       "otro"
     ],
@@ -1275,15 +1309,16 @@
       "1342": "afavor",
       "1344": "afavor",
       "1450": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-16985-17/03/2026",
     "boletin": "16985",
     "fecha": "17/03/2026",
     "chamber": "senado",
-    "materia": "Establece para el personal de Gendarmería de Chile, la obligación de efectuar declaraciones de intereses y patrimonio",
-    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que establece para el personal de Gendarmería de Chile, la obligación de efectuar declaraciones de intereses y patrimonio, en conformidad con lo dispuesto en la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos d...",
+    "title": "Establece para el personal de Gendarmería de Chile, la obligación de efectuar declaraciones de intereses y patrimonio",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que establece para el personal de Gendarmería de Chile, la obligación de efectuar declaraciones de intereses y patrimonio, en conformidad con lo dispuesto en la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, (Boletín Nº 16.985-06). APROBADO.",
     "tags": [
       "cultura",
       "constitucional",
@@ -1309,15 +1344,16 @@
       "1339": "afavor",
       "1340": "afavor",
       "1341": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-17003-03/03/2026",
     "boletin": "17003",
     "fecha": "03/03/2026",
     "chamber": "senado",
-    "materia": "Establece la ley integral de salud mental y modifica los cuerpos legales que indica. Discusión en general",
-    "descripcion": "Proyecto de ley, en primer trámite constitucional, que establece la ley integral de salud mental y modifica los cuerpos legales que indica. Discusión en general..",
+    "title": "Establece la ley integral de salud mental y modifica los cuerpos legales que indica. Discusión en general",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que establece la ley integral de salud mental y modifica los cuerpos legales que indica. Discusión en general. (Boletín Nº 17.003-11).",
     "tags": [
       "salud",
       "constitucional"
@@ -1340,15 +1376,16 @@
       "1341": "afavor",
       "1342": "afavor",
       "1343": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-17012-05/05/2026",
     "boletin": "17012",
     "fecha": "05/05/2026",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 21.442, que aprueba Nueva Ley de Copropiedad Inmobiliaria, para establecer la obligatoriedad de",
-    "descripcion": "Discusión en General del proyecto de ley, en primer trámite constitucional, que modifica la ley N° 21.442, que aprueba Nueva Ley de Copropiedad Inmobiliaria, para establecer la obligatoriedad de implementar un plan de prevención de los accidentes que indica, con informe de la Comisión de Vivienda...",
+    "title": "Modifica la ley N° 21.442, que aprueba Nueva Ley de Copropiedad Inmobiliaria, para establecer la obligatoriedad de",
+    "descripcion": "Discusión en General del proyecto de ley, en primer trámite constitucional, que modifica la ley N° 21.442, que aprueba Nueva Ley de Copropiedad Inmobiliaria, para establecer la obligatoriedad de implementar un plan de prevención de los accidentes que indica, con informe de la Comisión de Vivienda y Urbanismo. (proyecto de artículo único). (Boletines Nos 17.012-14, 9.301-14, 17.591-14, 17.594-14 y 18.037-14, refundidos).",
     "tags": [
       "vivienda",
       "constitucional"
@@ -1384,15 +1421,16 @@
       "1342": "afavor",
       "1344": "afavor",
       "1450": "pareo"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-17012-20/05/2026",
     "boletin": "17012",
     "fecha": "20/05/2026",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 21.442, que aprueba Nueva Ley de Copropiedad Inmobiliaria, para establecer la obligatoriedad de",
-    "descripcion": "Discusión en General del proyecto de ley, en primer trámite constitucional, que modifica la ley N° 21.442, que aprueba Nueva Ley de Copropiedad Inmobiliaria, para establecer la obligatoriedad de implementar un plan de prevención de los accidentes que indica, con informe de la Comisión de Vivienda...",
+    "title": "Modifica la ley N° 21.442, que aprueba Nueva Ley de Copropiedad Inmobiliaria, para establecer la obligatoriedad de",
+    "descripcion": "Discusión en General del proyecto de ley, en primer trámite constitucional, que modifica la ley N° 21.442, que aprueba Nueva Ley de Copropiedad Inmobiliaria, para establecer la obligatoriedad de implementar un plan de prevención de los accidentes que indica, con informe de la Comisión de Vivienda y Urbanismo. (proyecto de artículo único). (Boletines Nos 17.012-14, 9.301-14, 17.591-14, 17.594-14 y 18.037-14, refundidos).",
     "tags": [
       "seguridad",
       "constitucional"
@@ -1419,15 +1457,16 @@
       "1342": "afavor",
       "1344": "afavor",
       "1450": "pareo"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-17012-22/07/2026",
     "boletin": "17012",
     "fecha": "22/07/2026",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 21.442, que aprueba Nueva Ley de Copropiedad Inmobiliaria, para establecer la obligatoriedad de",
-    "descripcion": "Discusión en General del proyecto de ley, en primer trámite constitucional, que modifica la ley N° 21.442, que aprueba Nueva Ley de Copropiedad Inmobiliaria, para establecer la obligatoriedad de implementar un plan de prevención de los accidentes que indica, con informe de la Comisión de Vivienda...",
+    "title": "Modifica la ley N° 21.442, que aprueba Nueva Ley de Copropiedad Inmobiliaria, para establecer la obligatoriedad de",
+    "descripcion": "Discusión en General del proyecto de ley, en primer trámite constitucional, que modifica la ley N° 21.442, que aprueba Nueva Ley de Copropiedad Inmobiliaria, para establecer la obligatoriedad de implementar un plan de prevención de los accidentes que indica, con informe de la Comisión de Vivienda y Urbanismo. (proyecto de artículo único). (Boletines Nos 17.012-14, 9.301-14, 17.591-14, 17.594-14 y 18.037-14, refundidos).",
     "tags": [
       "vivienda"
     ],
@@ -1456,15 +1495,16 @@
       "1343": "contra",
       "1344": "afavor",
       "1450": "contra"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-17117-14/01/2026",
     "boletin": "17117",
     "fecha": "14/01/2026",
     "chamber": "senado",
-    "materia": "Reconoce y fortalece a las ferias libres como pilar de la alimentación y el desarrollo local, otorgando un marco",
-    "descripcion": "Aprobación de las normas que no fueron objeto de indicaciones ni de modificaciones, y las enmiendas aprobadas en forma unánime en el proyecto de ley, en segundo trámite constitucional, que reconoce y fortalece a las ferias libres como pilar de la alimentación y el desarrollo local, otorgando un m...",
+    "title": "Reconoce y fortalece a las ferias libres como pilar de la alimentación y el desarrollo local, otorgando un marco",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que reconoce y fortalece a las ferias libres como pilar de la alimentación y el desarrollo local, otorgando un marco jurídico integral para ellas (discusión en general).",
     "tags": [
       "constitucional"
     ],
@@ -1484,14 +1524,15 @@
       "1340": "afavor",
       "1341": "afavor",
       "1344": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-17163-14/07/2026",
     "boletin": "17163",
     "fecha": "14/07/2026",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 20.423, para establecer medidas que garanticen el cumplimiento de estándares de seguridad en",
+    "title": "Modifica la ley N° 20.423, para establecer medidas que garanticen el cumplimiento de estándares de seguridad en",
     "descripcion": "En votación, en general, el proyecto de ley que modifica la ley N° 20.423, para establecer medidas que garanticen el cumplimiento de estándares de seguridad en servicios de turismo aventura.",
     "tags": [
       "seguridad"
@@ -1526,15 +1567,16 @@
       "1343": "afavor",
       "1344": "afavor",
       "1450": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-17246-18/03/2026",
     "boletin": "17246",
     "fecha": "18/03/2026",
     "chamber": "senado",
-    "materia": "Modifica las leyes que indica para mejorar la fiscalización y aumentar las sanciones por evasión del pago de tarifas en",
-    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica las leyes que indica para mejorar la fiscalización y aumentar las sanciones por evasión del pago de tarifas en el transporte público remunerado de pasajeros, con segundo informe de la Comisión de Transportes y Telecomunicaciones e i...",
+    "title": "Modifica las leyes que indica para mejorar la fiscalización y aumentar las sanciones por evasión del pago de tarifas en",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica las leyes que indica para mejorar la fiscalización y aumentar las sanciones por evasión del pago de tarifas en el transporte público remunerado de pasajeros, con informe de la Comisión de Transportes y Telecomunicaciones. (discusión en general). (Boletines Nos 17.246-15 y 17.441-15, refundidos)",
     "tags": [
       "economia",
       "transporte",
@@ -1566,15 +1608,16 @@
       "1342": "pareo",
       "1344": "afavor",
       "1450": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-17287-05/05/2026",
     "boletin": "17287",
     "fecha": "05/05/2026",
     "chamber": "senado",
-    "materia": "Modifica textos legales que indica para agilizar la obtención de permisos de urbanización y edificación",
-    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica textos legales que indica para agilizar la obtención de permisos de urbanización y edificación..",
+    "title": "Modifica textos legales que indica para agilizar la obtención de permisos de urbanización y edificación",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica textos legales que indica para agilizar la obtención de permisos de urbanización y edificación (discusión en general). (Boletín N° 17.287-14).",
     "tags": [
       "otro"
     ],
@@ -1597,15 +1640,16 @@
       "1342": "contra",
       "1344": "contra",
       "1450": "pareo"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-17348-12/05/2026",
     "boletin": "17348",
     "fecha": "12/05/2026",
     "chamber": "senado",
-    "materia": "Declara el 8 de diciembre de cada año como el Día Nacional para la Conmemoración de las Víctimas del Incendio de La",
-    "descripcion": "Proyecto de ley, iniciado en Moción de las Honorables Senadoras señoras Núñez, Pascual, Provoste y Sepúlveda, y de la exsenadora señora Allende, en primer trámite constitucional, que declara el 8 de diciembre de cada año como el Día Nacional para la Conmemoración de las Víctimas del Incendio de L...",
+    "title": "Declara el 8 de diciembre de cada año como el Día Nacional para la Conmemoración de las Víctimas del Incendio de La",
+    "descripcion": "Proyecto de ley, iniciado en Moción de las Honorables Senadoras señoras Núñez, Pascual, Provoste y Sepúlveda, y de la exsenadora señora Allende, en primer trámite constitucional, que declara el 8 de diciembre de cada año como el Día Nacional para la Conmemoración de las Víctimas del Incendio de La Compañía, con informe de la Comisión de Cultura, Patrimonio, Artes, Deportes y Recreación. (proyecto de artículo único) (Boletín N° 17.348-37)",
     "tags": [
       "derechos",
       "cultura",
@@ -1636,15 +1680,16 @@
       "1343": "afavor",
       "1344": "afavor",
       "1450": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-17354-20/01/2026",
     "boletin": "17354",
     "fecha": "20/01/2026",
     "chamber": "senado",
-    "materia": "Autoriza erigir un monumento en memoria del ex Presidente de la República, señor Sebastián Piñera Echenique",
-    "descripcion": "Aprobación en particular del proyecto de ley, en primer trámite constitucional, que autoriza erigir un monumento en memoria del ex Presidente de la República, señor Sebastián Piñera Echenique..",
+    "title": "Autoriza erigir un monumento en memoria del ex Presidente de la República, señor Sebastián Piñera Echenique",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que autoriza erigir un monumento en memoria del ex Presidente de la República, señor Sebastián Piñera Echenique, (Boletín N° 17.354-37). APROBADO.",
     "tags": [
       "derechos",
       "cultura",
@@ -1673,15 +1718,16 @@
       "1342": "afavor",
       "1343": "afavor",
       "1344": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-17355-22/04/2026",
     "boletin": "17355",
     "fecha": "22/04/2026",
     "chamber": "senado",
-    "materia": "Modifica diversos cuerpos legales, con el objeto de establecer la prescripción médica por medio de receta electrónica y",
-    "descripcion": "Proyecto de ley, iniciado en Moción de los Honorables Senadores señor Castro González, señora Núñez, y señores De Urresti y Flores, y de la exsenadora señora Ebensperger, en primer trámite constitucional, que modifica diversos cuerpos legales, con el objeto de establecer la prescripción médica po...",
+    "title": "Modifica diversos cuerpos legales, con el objeto de establecer la prescripción médica por medio de receta electrónica y",
+    "descripcion": "Proyecto de ley, iniciado en Moción de los Honorables Senadores señor Castro González, señora Núñez, y señores De Urresti y Flores, y de la exsenadora señora Ebensperger, en primer trámite constitucional, que modifica diversos cuerpos legales, con el objeto de establecer la prescripción médica por medio de receta electrónica y sancionar su falsificación (discusión en general). (Boletín Nº 17.355-11).",
     "tags": [
       "constitucional"
     ],
@@ -1707,15 +1753,16 @@
       "1343": "afavor",
       "1344": "afavor",
       "1450": "pareo"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-17370-21/01/2026",
     "boletin": "17370",
     "fecha": "21/01/2026",
     "chamber": "senado",
-    "materia": "Regula la suspensión y el cumplimiento alternativo de penas privativas de libertad, para condenados que indica",
-    "descripcion": "Proyecto de ley, iniciado en Moción de los Honorables Senadores señor Chahuán, señora Ebensperger, y señores Cruz-Coke, Kusanovic y Kuschel, en primer trámite constitucional, que regula la suspensión y el cumplimiento alternativo de penas privativas de libertad, para condenados que indica. Votaci...",
+    "title": "Regula la suspensión y el cumplimiento alternativo de penas privativas de libertad, para condenados que indica",
+    "descripcion": "Solicitud para pasar el proyecto de ley a la Comisión de Constitución, Legislación, Justicia y Reglamento para su estudio",
     "tags": [
       "justicia",
       "constitucional"
@@ -1748,15 +1795,16 @@
       "1343": "afavor",
       "1344": "afavor",
       "1450": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-17370-04/03/2026",
     "boletin": "17370",
     "fecha": "04/03/2026",
     "chamber": "senado",
-    "materia": "Regula la suspensión y el cumplimiento alternativo de penas privativas de libertad, para condenados que indica",
-    "descripcion": "Proyecto de ley, iniciado en Moción de los Honorables Senadores señor Chahuán, señora Ebensperger, y señores Cruz-Coke, Kusanovic y Kuschel, en primer trámite constitucional, que regula la suspensión y el cumplimiento alternativo de penas privativas de libertad, para condenados que indica. Votaci...",
+    "title": "Regula la suspensión y el cumplimiento alternativo de penas privativas de libertad, para condenados que indica",
+    "descripcion": "Solicitud para pasar el proyecto de ley a la Comisión de Constitución, Legislación, Justicia y Reglamento para su estudio",
     "tags": [
       "trabajo",
       "tributario",
@@ -1792,15 +1840,16 @@
       "1343": "contra",
       "1344": "contra",
       "1450": "contra"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-17397-03/03/2026",
     "boletin": "17397",
     "fecha": "03/03/2026",
     "chamber": "senado",
-    "materia": "Fortalece la Superintendencia de Salud y modifica normas que indica. Discusión en general",
-    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que fortalece la Superintendencia de Salud y modifica normas que indica. Discusión en general..",
+    "title": "Fortalece la Superintendencia de Salud y modifica normas que indica. Discusión en general",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que fortalece la Superintendencia de Salud y modifica normas que indica. Discusión en general. (Boletín N° 17.397-11)",
     "tags": [
       "salud",
       "constitucional"
@@ -1824,15 +1873,16 @@
       "1339": "afavor",
       "1341": "afavor",
       "1343": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-17489-13/01/2026",
     "boletin": "17489",
     "fecha": "13/01/2026",
     "chamber": "senado",
-    "materia": "Otorga titularidad en el cargo a profesionales de la educación que se hayan desempeñado a contrata por el lapso que",
-    "descripcion": "Indicación del Ejecutivo. Proyecto de ley, en segundo trámite constitucional, que otorga titularidad en el cargo a profesionales de la educación que se hayan desempeñado a contrata por el lapso que indica. (Boletines Nos 17.489-04, 17.749-04 y 17.755-04, refundidos)",
+    "title": "Otorga titularidad en el cargo a profesionales de la educación que se hayan desempeñado a contrata por el lapso que",
+    "descripcion": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que otorga titularidad en el cargo a profesionales de la educación que se hayan desempeñado a contrata por el lapso que indica (Boletines Nos 17.489-04, 17.749-04 y 17.755-04, refundidos)",
     "tags": [
       "educacion",
       "constitucional"
@@ -1864,15 +1914,16 @@
       "1342": "afavor",
       "1344": "afavor",
       "1450": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-17489-21/01/2026",
     "boletin": "17489",
     "fecha": "21/01/2026",
     "chamber": "senado",
-    "materia": "Otorga titularidad en el cargo a profesionales de la educación que se hayan desempeñado a contrata por el lapso que",
-    "descripcion": "Indicación del Ejecutivo. Proyecto de ley, en segundo trámite constitucional, que otorga titularidad en el cargo a profesionales de la educación que se hayan desempeñado a contrata por el lapso que indica. (Boletines Nos 17.489-04, 17.749-04 y 17.755-04, refundidos)",
+    "title": "Otorga titularidad en el cargo a profesionales de la educación que se hayan desempeñado a contrata por el lapso que",
+    "descripcion": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que otorga titularidad en el cargo a profesionales de la educación que se hayan desempeñado a contrata por el lapso que indica (Boletines Nos 17.489-04, 17.749-04 y 17.755-04, refundidos)",
     "tags": [
       "educacion"
     ],
@@ -1903,15 +1954,16 @@
       "1343": "afavor",
       "1344": "afavor",
       "1450": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-17489-27/01/2026",
     "boletin": "17489",
     "fecha": "27/01/2026",
     "chamber": "senado",
-    "materia": "Otorga titularidad en el cargo a profesionales de la educación que se hayan desempeñado a contrata por el lapso que",
-    "descripcion": "Indicación del Ejecutivo. Proyecto de ley, en segundo trámite constitucional, que otorga titularidad en el cargo a profesionales de la educación que se hayan desempeñado a contrata por el lapso que indica. (Boletines Nos 17.489-04, 17.749-04 y 17.755-04, refundidos)",
+    "title": "Otorga titularidad en el cargo a profesionales de la educación que se hayan desempeñado a contrata por el lapso que",
+    "descripcion": "Aprobación en general del proyecto de ley, en segundo trámite constitucional, que otorga titularidad en el cargo a profesionales de la educación que se hayan desempeñado a contrata por el lapso que indica (Boletines Nos 17.489-04, 17.749-04 y 17.755-04, refundidos)",
     "tags": [
       "educacion",
       "constitucional"
@@ -1936,15 +1988,16 @@
       "1342": "afavor",
       "1344": "afavor",
       "1450": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-17630-19/05/2026",
     "boletin": "17630",
     "fecha": "19/05/2026",
     "chamber": "senado",
-    "materia": "Acuerdo con la República Federativa de Brasil para el reconocimiento recíproco de licencias de conductor, hecho",
-    "descripcion": "Acuerdo bilateral entre Chile y la República Federativa de Brasil para el reconocimiento recíproco de licencias de conductor, hecho: Acuerdo.",
+    "title": "Acuerdo con la República Federativa de Brasil para el reconocimiento recíproco de licencias de conductor, hecho",
+    "descripcion": "Proyecto de acuerdo, en primer trámite constitucional, que aprueba el Acuerdo entre la República de Chile y la República Federativa de Brasil para el reconocimiento recíproco de licencias de conductor, hecho en Santiago, República de Chile, el 5 de agosto de 2024 (Boletín N° 17.630-10). Aprobado en general y en particular",
     "tags": [
       "tributario",
       "constitucional"
@@ -1970,15 +2023,16 @@
       "1340": "afavor",
       "1342": "afavor",
       "1344": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-17640-06/01/2026",
     "boletin": "17640",
     "fecha": "06/01/2026",
     "chamber": "senado",
-    "materia": "Modifica diversos cuerpos legales, para promover la gobernabilidad y la representatividad del sistema político",
-    "descripcion": "Proyecto de ley, iniciado en Mensaje de S.E. el Presidente de la República, en primer trámite constitucional, que modifica diversos cuerpos legales, para promover la gobernabilidad y la representatividad del sistema político, con informe de la Comisión de Gobierno, Descentralización y Regionaliza...",
+    "title": "Modifica diversos cuerpos legales, para promover la gobernabilidad y la representatividad del sistema político",
+    "descripcion": "Proyecto de ley, iniciado en Mensaje de S.E. el Presidente de la República, en primer trámite constitucional, que modifica diversos cuerpos legales, para promover la gobernabilidad y la representatividad del sistema político, con informe de la Comisión de Gobierno, Descentralización y Regionalización. (discusión en general). (Boletín N° 17.640-06). APROBADO EN GENERAL.",
     "tags": [
       "otro"
     ],
@@ -2013,15 +2067,16 @@
       "1343": "contra",
       "1344": "abstencion",
       "1450": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-17640-09/06/2026",
     "boletin": "17640",
     "fecha": "09/06/2026",
     "chamber": "senado",
-    "materia": "Modifica diversos cuerpos legales, para promover la gobernabilidad y la representatividad del sistema político",
-    "descripcion": "Proyecto de ley, iniciado en Mensaje de S.E. el Presidente de la República, en primer trámite constitucional, que modifica diversos cuerpos legales, para promover la gobernabilidad y la representatividad del sistema político, con informe de la Comisión de Gobierno, Descentralización y Regionaliza...",
+    "title": "Modifica diversos cuerpos legales, para promover la gobernabilidad y la representatividad del sistema político",
+    "descripcion": "Proyecto de ley, iniciado en Mensaje de S.E. el Presidente de la República, en primer trámite constitucional, que modifica diversos cuerpos legales, para promover la gobernabilidad y la representatividad del sistema político, con informe de la Comisión de Gobierno, Descentralización y Regionalización. (discusión en general). (Boletín N° 17.640-06). APROBADO EN GENERAL.",
     "tags": [
       "constitucional"
     ],
@@ -2047,15 +2102,16 @@
       "1342": "contra",
       "1343": "contra",
       "1450": "contra"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-17641-21/01/2026",
     "boletin": "17641",
     "fecha": "21/01/2026",
     "chamber": "senado",
-    "materia": "Crea un nuevo sistema de subsidio unificado al empleo",
-    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que crea un nuevo sistema de subsidio unificado al empleo (proyecto discutido en general y en particular por la Comisión)..",
+    "title": "Crea un nuevo sistema de subsidio unificado al empleo",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que crea un nuevo sistema de subsidio unificado al empleo (proyecto discutido en general y en particular por la Comisión). (Boletín N° 17.641-13)",
     "tags": [
       "social",
       "constitucional"
@@ -2075,15 +2131,16 @@
       "1340": "afavor",
       "1341": "afavor",
       "1344": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-17722-02/06/2026",
     "boletin": "17722",
     "fecha": "02/06/2026",
     "chamber": "senado",
-    "materia": "Tratado Constitutivo de la Comunidad de Policías de América",
-    "descripcion": "Acuerdo internacional: Tratado Constitutivo de la Comunidad de Policías de América.",
+    "title": "Tratado Constitutivo de la Comunidad de Policías de América",
+    "descripcion": "Proyecto de acuerdo, en segundo trámite constitucional, que aprueba el Tratado Constitutivo de la Comunidad de Policías de América, suscrito en Brasilia el 9 de noviembre de 2023 (discusión en general y en particular). (Boletín Nº 17.722-10).",
     "tags": [
       "seguridad",
       "constitucional"
@@ -2109,15 +2166,16 @@
       "1343": "afavor",
       "1344": "afavor",
       "1450": "pareo"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-17724-21/04/2026",
     "boletin": "17724",
     "fecha": "21/04/2026",
     "chamber": "senado",
-    "materia": "Reemplaza el artículo 5 bis del decreto ley N° 3.500, de 1980",
-    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que reemplaza el artículo 5 bis del decreto ley N° 3.500, de 1980 (proyecto de artículo único)..",
+    "title": "Reemplaza el artículo 5 bis del decreto ley N° 3.500, de 1980",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que reemplaza el artículo 5 bis del decreto ley N° 3.500, de 1980 (proyecto de artículo único). (Boletín N° 17.724-34).",
     "tags": [
       "constitucional"
     ],
@@ -2141,15 +2199,16 @@
       "1342": "afavor",
       "1343": "afavor",
       "1344": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-17752-07/04/2026",
     "boletin": "17752",
     "fecha": "07/04/2026",
     "chamber": "senado",
-    "materia": "Acuerdo con Costa Rica sobre Coproducción Audiovisual",
-    "descripcion": "Acuerdo bilateral entre Chile y Costa Rica sobre Coproducción Audiovisual: Acuerdo.",
+    "title": "Acuerdo con Costa Rica sobre Coproducción Audiovisual",
+    "descripcion": "Proyecto de acuerdo, en segundo trámite constitucional, que aprueba el Acuerdo entre el Gobierno de la República de Chile y el Gobierno de la República de Costa Rica sobre Coproducción Audiovisual, suscrito en Santiago, República de Chile, el 12 de octubre de 2023, y en San José, República de Costa Rica, el 13 de octubre de 2023 (discusión en general y en particular). (Boletín N° 17.752-10).",
     "tags": [
       "constitucional"
     ],
@@ -2176,15 +2235,16 @@
       "1339": "afavor",
       "1341": "afavor",
       "1343": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-17877-13/05/2026",
     "boletin": "17877",
     "fecha": "13/05/2026",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 20.998, con el propósito de modernizar y fortalecer el régimen jurídico aplicable a los servicios",
-    "descripcion": "Proyecto de ley, iniciado en Mensaje del ex Presidente de la República, señor Gabriel Boric Font, en primer trámite constitucional, que modifica la ley N° 20.998, con el propósito de modernizar y fortalecer el régimen jurídico aplicable a los servicios sanitarios rurales, con informe de la Comisi...",
+    "title": "Modifica la ley N° 20.998, con el propósito de modernizar y fortalecer el régimen jurídico aplicable a los servicios",
+    "descripcion": "Proyecto de ley, iniciado en Mensaje del ex Presidente de la República, señor Gabriel Boric Font, en primer trámite constitucional, que modifica la ley N° 20.998, con el propósito de modernizar y fortalecer el régimen jurídico aplicable a los servicios sanitarios rurales, con informe de la Comisión de Recursos Hídricos, Desertificación y Sequía. (discusión en general). (Boletín N° 17.877-33)",
     "tags": [
       "salud",
       "agricultura",
@@ -2218,15 +2278,16 @@
       "1343": "afavor",
       "1344": "afavor",
       "1450": "contra"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-17880-12/05/2026",
     "boletin": "17880",
     "fecha": "12/05/2026",
     "chamber": "senado",
-    "materia": "Crea un nuevo Juzgado de Letras del Trabajo en Santiago y fortalece los juzgados de letras del trabajo que indica",
-    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que crea un nuevo Juzgado de Letras del Trabajo en Santiago y fortalece los juzgados de letras del trabajo que indica, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento..",
+    "title": "Crea un nuevo Juzgado de Letras del Trabajo en Santiago y fortalece los juzgados de letras del trabajo que indica",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que crea un nuevo Juzgado de Letras del Trabajo en Santiago y fortalece los juzgados de letras del trabajo que indica, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (discusión en general) (Boletín N° 17.880-13)",
     "tags": [
       "trabajo",
       "justicia",
@@ -2261,15 +2322,16 @@
       "1343": "afavor",
       "1344": "afavor",
       "1450": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-17880-14/07/2026",
     "boletin": "17880",
     "fecha": "14/07/2026",
     "chamber": "senado",
-    "materia": "Crea un nuevo Juzgado de Letras del Trabajo en Santiago y fortalece los juzgados de letras del trabajo que indica",
-    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que crea un nuevo Juzgado de Letras del Trabajo en Santiago y fortalece los juzgados de letras del trabajo que indica, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento..",
+    "title": "Crea un nuevo Juzgado de Letras del Trabajo en Santiago y fortalece los juzgados de letras del trabajo que indica",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que crea un nuevo Juzgado de Letras del Trabajo en Santiago y fortalece los juzgados de letras del trabajo que indica, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (discusión en general) (Boletín N° 17.880-13)",
     "tags": [
       "otro"
     ],
@@ -2297,15 +2359,16 @@
       "1343": "afavor",
       "1344": "afavor",
       "1450": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-17956-07/04/2026",
     "boletin": "17956",
     "fecha": "07/04/2026",
     "chamber": "senado",
-    "materia": "Acuerdo sobre transporte aéreo entre la República de Chile y el Reino de España",
-    "descripcion": "Acuerdo internacional: Acuerdo sobre transporte aéreo entre la República de Chile y el Reino de España.",
+    "title": "Acuerdo sobre transporte aéreo entre la República de Chile y el Reino de España",
+    "descripcion": "Proyecto de acuerdo, en primer trámite constitucional, que aprueba el ´Acuerdo sobre transporte aéreo entre la República de Chile y el Reino de España´, suscrito en Montreal, Canadá, el 1 de octubre de 2022 (discusión en general y en particular). (Boletín N° 17.956-10).",
     "tags": [
       "transporte",
       "constitucional"
@@ -2338,15 +2401,16 @@
       "1342": "afavor",
       "1343": "afavor",
       "1450": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-17959-10/06/2026",
     "boletin": "17959",
     "fecha": "10/06/2026",
     "chamber": "senado",
-    "materia": "Acuerdo sobre Servicios Aéreos con Gobierno del Reino de Arabia Saudita",
-    "descripcion": "Acuerdo bilateral entre Chile y Gobierno del Reino de Arabia Saudita: Acuerdo sobre Servicios Aéreos.",
+    "title": "Acuerdo sobre Servicios Aéreos con Gobierno del Reino de Arabia Saudita",
+    "descripcion": "Proyecto de acuerdo, en segundo trámite constitucional, que aprueba el Acuerdo sobre Servicios Aéreos entre el Gobierno de la República de Chile y el Gobierno del Reino de Arabia Saudita, suscrito en Leipzig, Alemania, el 24 de mayo de 2023. (discusión en general y en particular). (Boletín N° 17.959-10).",
     "tags": [
       "constitucional"
     ],
@@ -2375,15 +2439,16 @@
       "1342": "afavor",
       "1343": "afavor",
       "1450": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-17960-10/06/2026",
     "boletin": "17960",
     "fecha": "10/06/2026",
     "chamber": "senado",
-    "materia": "Convenio de Transporte Aéreo con Cabo Verde",
-    "descripcion": "Acuerdo bilateral entre Chile y Cabo Verde: Convenio de Transporte Aéreo.",
+    "title": "Convenio de Transporte Aéreo con Cabo Verde",
+    "descripcion": "Proyecto de acuerdo, en segundo trámite constitucional, que aprueba el Convenio de Transporte Aéreo entre el Gobierno de la República de Chile y el Gobierno de la República de Cabo Verde, suscrito en Bogotá, Colombia, el 8 de diciembre de 2021. (discusión en general y en particular). (Boletín N° 17.960-10).",
     "tags": [
       "transporte",
       "constitucional"
@@ -2409,15 +2474,16 @@
       "1341": "afavor",
       "1342": "afavor",
       "1343": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-17961-21/04/2026",
     "boletin": "17961",
     "fecha": "21/04/2026",
     "chamber": "senado",
-    "materia": "Acuerdo sobre Servicios Aéreos con Letonia",
-    "descripcion": "Acuerdo bilateral entre Chile y Letonia: Acuerdo sobre Servicios Aéreos.",
+    "title": "Acuerdo sobre Servicios Aéreos con Letonia",
+    "descripcion": "Proyecto de acuerdo, en segundo trámite constitucional, que aprueba el Acuerdo sobre Servicios Aéreos entre el Gobierno de la República de Chile y el Gobierno de la República de Letonia, suscrito en Bogotá, Colombia, el 6 de diciembre de 2021, con informe de la Comisión de Relaciones Exteriores. (discusión en general y en particular). (Boletín N° 17.961-10).",
     "tags": [
       "constitucional"
     ],
@@ -2447,15 +2513,16 @@
       "1343": "afavor",
       "1344": "afavor",
       "1450": "pareo"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-17981-09/06/2026",
     "boletin": "17981",
     "fecha": "09/06/2026",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 19.712, del Deporte, con el objeto de precisar el alcance del concepto de discapacidad en el ámbito",
-    "descripcion": "Proyecto de ley, en primer trámite constitucional, que modifica la ley N° 19.712, del Deporte, con el objeto de precisar el alcance del concepto de discapacidad en el ámbito deportivo, con informe de la Comisión del Adulto Mayor y Discapacidad. (proyecto de artículo único). (Boletines Nos 17.981-...",
+    "title": "Modifica la ley N° 19.712, del Deporte, con el objeto de precisar el alcance del concepto de discapacidad en el ámbito",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que modifica la ley N° 19.712, del Deporte, con el objeto de precisar el alcance del concepto de discapacidad en el ámbito deportivo, con informe de la Comisión del Adulto Mayor y Discapacidad. (proyecto de artículo único). (Boletines Nos 17.981-35 y 18.176-35, refundidos).",
     "tags": [
       "cultura",
       "social",
@@ -2479,15 +2546,16 @@
       "1342": "afavor",
       "1343": "afavor",
       "1450": "pareo"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-2696-06/01/2026",
     "boletin": "2696",
     "fecha": "06/01/2026",
     "chamber": "senado",
-    "materia": "A Su Excelencia el Presidente de la República que, si lo tiene a bien, instruya la elaboración de una Política Nacion...",
-    "descripcion": "Propuesta legislativa para a su excelencia el presidente de la república que, si lo tiene a bien, instruya la elaboración de una política nacion....",
+    "title": "A Su Excelencia el Presidente de la República que, si lo tiene a bien, instruya la elaboración de una Política Nacion...",
+    "descripcion": "Proyecto de acuerdo de los Honorables Senadores señoras Campillai, Aravena, Carvajal, Ebensperger, Órdenes, Pascual, Provoste, Rincón y Sepúlveda, y señores Araya, Bianchi, Castro González, Chahuán, Coloma, Cruz-Coke, De Rementería, De Urresti, Durana, Edwards, Espinoza, Gahona, Huenchumilla, Insulza, Keitel, Kusanovic, Kuschel, Latorre, Moreira, Núñez, Ossandón, Prohens, Pugh, Saavedra, Sandoval, Van Rysselberghe, Velásquez y Walker, con el que solicitan a Su Excelencia el Presidente de la República que, si lo tiene a bien, instruya la elaboración de una Política Nacional y Plan de Acción para Personas con Discapacidad, en la que se incluya un capítulo especial sobre personas con Síndrome de Down. (Boletín N° S 2.696-12).",
     "tags": [
       "social"
     ],
@@ -2504,15 +2572,16 @@
       "1341": "afavor",
       "1342": "afavor",
       "1344": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-2700-06/01/2026",
     "boletin": "2700",
     "fecha": "06/01/2026",
     "chamber": "senado",
-    "materia": "A Su Excelencia el Presidente de la República que, si lo tiene a bien, instruya la adopción de las medidas que indica...",
-    "descripcion": "Propuesta legislativa para a su excelencia el presidente de la república que, si lo tiene a bien, instruya la adopción de las medidas que indica....",
+    "title": "A Su Excelencia el Presidente de la República que, si lo tiene a bien, instruya la adopción de las medidas que indica...",
+    "descripcion": "Proyecto de acuerdo de los Honorables Senadores señoras Aravena, Ebensperger, Gatica, Núñez y Rincón, y señores Castro Prieto, Chahuán, Coloma, Cruz-Coke, Durana, Edwards, Gahona, Galilea, García, Kast, Keitel, Kusanovic, Kuschel, Macaya, Moreira, Ossandón, Prohens, Pugh, Sandoval, Sanhueza, Van Rysselberghe y Walker, con el que solicitan a Su Excelencia el Presidente de la República que, si lo tiene a bien, instruya la adopción de las medidas que indican, relacionadas con la situación de la República Bolivariana de Venezuela (Boletín N° S 2.700-12).",
     "tags": [
       "tributario"
     ],
@@ -2533,15 +2602,16 @@
       "1342": "afavor",
       "1343": "abstencion",
       "1344": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-2703-21/04/2026",
     "boletin": "2703",
     "fecha": "21/04/2026",
     "chamber": "senado",
-    "materia": "A Su Excelencia el Presidente de la República que, si lo tiene a bien, presente una iniciativa legal que otorgue asig...",
-    "descripcion": "Propuesta legislativa para a su excelencia el presidente de la república que, si lo tiene a bien, presente una iniciativa legal que otorgue asig....",
+    "title": "A Su Excelencia el Presidente de la República que, si lo tiene a bien, presente una iniciativa legal que otorgue asig...",
+    "descripcion": "Respecto del proyecto de ley para hacer obligatoria la evaluación de impacto ambiental de actividades o proyectos en que se liberen organismos genéticamente modificados o transgénicos, se vota la indicación efectuada por el Senador señor Coloma, en cuanto a enviar este proyecto, nuevamente, a la Comisión de Medio Ambiente y Bienes Nacionales, y luego a la Comisión de Agricultura y a la Comisión sobre Sociedad de la Información, para un nuevo informe. Se aprueba la referida indicación.",
     "tags": [
       "energia",
       "tributario"
@@ -2565,15 +2635,16 @@
       "1343": "afavor",
       "1344": "afavor",
       "1450": "pareo"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-2722-20/05/2026",
     "boletin": "2722",
     "fecha": "20/05/2026",
     "chamber": "senado",
-    "materia": "Oficio de Su Excelencia el Presidente de la República, mediante el cual solicita el acuerdo del Senado para nombrar c...",
-    "descripcion": "Propuesta legislativa para oficio de su excelencia el presidente de la república, mediante el cual solicita el acuerdo del senado para nombrar c....",
+    "title": "Oficio de Su Excelencia el Presidente de la República, mediante el cual solicita el acuerdo del Senado para nombrar c...",
+    "descripcion": "Oficio de Su Excelencia el Presidente de la República, mediante el cual solicita el acuerdo del Senado para nombrar como integrantes de la Comisión para la Fijación de Remuneraciones que indica el artículo 38 bis de la Constitución Política de la República a los señores Alejandro Weber Pérez y José Manuel Marfán Lewis, por los períodos que señala. (Boletín N° S 2.722-05)",
     "tags": [
       "constitucional"
     ],
@@ -2597,15 +2668,16 @@
       "1342": "afavor",
       "1344": "afavor",
       "1450": "pareo"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-10634-04/03/2026",
     "boletin": "10634",
     "fecha": "04/03/2026",
     "chamber": "senado",
-    "materia": "Normas que no fueron objeto de modificaciones y enmiendas aprobadas por unanimidad del Proyecto de ley, en segundo",
-    "descripcion": "Normas que no fueron objeto de modificaciones y enmiendas aprobadas por unanimidad del Proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 20.019, que Regula las Sociedades Anónimas Deportivas Profesionales, en materia de fiscalización, de conflictos de interés, y de fomento",
+    "title": "Normas que no fueron objeto de modificaciones y enmiendas aprobadas por unanimidad del Proyecto de ley, en segundo",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 20.019, que Regula las Sociedades Anónimas Deportivas Profesionales, en materia de fiscalización, de conflictos de interés, y de fomento de la participación de los hinchas en la propiedad de las mismas, (Boletín N° 10.634-29). APROBADO.",
     "tags": [
       "economia",
       "tributario",
@@ -2636,15 +2708,16 @@
       "1341": "afavor",
       "1343": "afavor",
       "1344": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-10795-13/01/2026",
     "boletin": "10795",
     "fecha": "13/01/2026",
     "chamber": "senado",
-    "materia": "Modifica la legislación aplicable a los servicios públicos sanitarios, en materia de servicios no regulados, de",
-    "descripcion": "Modifica la legislación aplicable a los servicios públicos sanitarios, en materia de servicios no regulados, de fijación tarifaria y de cumplimiento de planes de desarrollo por parte de los prestadores.",
+    "title": "Modifica la legislación aplicable a los servicios públicos sanitarios, en materia de servicios no regulados, de",
+    "descripcion": "Aprobación en general y en particular del proyecto de ley, en segundo trámite constitucional, que modifica la legislación aplicable a los servicios públicos sanitarios, en materia de servicios no regulados, de fijación tarifaria y de cumplimiento de planes de desarrollo por parte de los prestadores.(Boletín N° 10.795-33)",
     "tags": [
       "salud",
       "cultura",
@@ -2672,14 +2745,15 @@
       "1342": "afavor",
       "1344": "afavor",
       "1450": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-10986-22/07/2026",
     "boletin": "10986",
     "fecha": "22/07/2026",
     "chamber": "senado",
-    "materia": "En votación, en general, el proyecto de ley que autoriza erigir un monumento, en la comuna de Lota, en memoria del",
+    "title": "En votación, en general, el proyecto de ley que autoriza erigir un monumento, en la comuna de Lota, en memoria del",
     "descripcion": "En votación, en general, el proyecto de ley que autoriza erigir un monumento, en la comuna de Lota, en memoria del escritor chileno Baldomero Lillo Figueroa.",
     "tags": [
       "derechos",
@@ -2706,15 +2780,16 @@
       "1342": "pareo",
       "1343": "afavor",
       "1344": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11608-25/03/2026",
     "boletin": "11608",
     "fecha": "25/03/2026",
     "chamber": "senado",
-    "materia": "Solicitud de votación separada de la Honorable Senadora señora Provoste, para la modificación propuesta por la Cámara",
-    "descripcion": "Solicitud de votación separada de la Honorable Senadora señora Provoste, para la modificación propuesta por la Cámara de Diputados al inciso tercero del artículo 9°, Aprobada.",
+    "title": "Solicitud de votación separada de la Honorable Senadora señora Provoste, para la modificación propuesta por la Cámara",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, sobre el uso de agua de mar para desalinización.",
     "tags": [
       "otro"
     ],
@@ -2741,6 +2816,7 @@
       "1343": "contra",
       "1344": "afavor",
       "1450": "contra"
-    }
+    },
+    "relevante": false
   }
 ]

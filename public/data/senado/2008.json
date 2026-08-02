@@ -4,8 +4,8 @@
     "boletin": "233",
     "fecha": "04/03/2008",
     "chamber": "senado",
-    "materia": "de la Honorable Cámara de Diputados, que aprueba el Convenio Nº 169 sobre Pueblos Indígenas y Tribales en Países Inde...",
-    "descripcion": "Votación para la aprobación de este instrumento internacional por el Congreso chileno.",
+    "title": "Proyecto de acuerdo de la Honorable Cámara de Diputados, que aprueba el Convenio Nº 169 sobre Pueblos Indígenas y Tribales en Países Independientes, adoptado por la Conferencia Internacional del Trabajo, el 27 de junio de 1989, con informe de la Comisión de Relaciones Exteriores. (Boletín Nº 233-10).",
+    "descripcion": "Proyecto de acuerdo de la Honorable Cámara de Diputados, que aprueba el Convenio Nº 169 sobre Pueblos Indígenas y Tribales en Países Independientes, adoptado por la Conferencia Internacional del Trabajo, el 27 de junio de 1989, con informe de la Comisión de Relaciones Exteriores. (Boletín Nº 233-10).",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -45,15 +45,17 @@
       "Núñez M., Ricardo": "afavor",
       "Flores L., Fernando": "afavor",
       "Matthei F., Evelyn": "afavor"
-    }
+    },
+    "relevante": true,
+    "materia": "Proyecto de acuerdo de la Honorable Cámara de Diputados, que aprueba el Convenio Nº 169 sobre Pueblos Indígenas y Tribales en Países Independientes, adoptado por la Conferencia Internacional del Trabajo, el 27 de junio de 1989, con informe de la Comisión de Relaciones Exteriores. (Boletín Nº 233-10)."
   },
   {
     "id": "senado-2949-08/04/2008",
     "boletin": "2949",
     "fecha": "08/04/2008",
     "chamber": "senado",
-    "materia": "aprobada por la Cámara de Diputados, recaído en el proyecto de ley que transforma la Casa de Moneda de Chile en Socie...",
-    "descripcion": "Propuesta legislativa para formada en virtud de lo dispuesto en el artículo 70 de la constitución política, aprobada por la cámara de diputados,....",
+    "title": "Mantención del trámite dado al proyecto de ley que transforma la Casa de Moneda en sociedad anónima (Boletín Nº 2.949-05), en cuanto a que fuera discutido por la Comisión de Hacienda.",
+    "descripcion": "Mantención del trámite dado al proyecto de ley que transforma la Casa de Moneda en sociedad anónima (Boletín Nº 2.949-05), en cuanto a que fuera discutido por la Comisión de Hacienda.",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -84,15 +86,17 @@
       "Frei R., Eduardo": "contra",
       "Ávila C., Nelson": "contra",
       "Gazmuri M., Jaime": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Mantención del trámite dado al proyecto de ley que transforma la Casa de Moneda en sociedad anónima (Boletín Nº 2.949-05), en cuanto a que fuera discutido por la Comisión de Hacienda."
   },
   {
     "id": "senado-2949-01/07/2008",
     "boletin": "2949",
     "fecha": "01/07/2008",
     "chamber": "senado",
-    "materia": "aprobada por la Cámara de Diputados, recaído en el proyecto de ley que transforma la Casa de Moneda de Chile en Socie...",
-    "descripcion": "Propuesta legislativa para formada en virtud de lo dispuesto en el artículo 70 de la constitución política, aprobada por la cámara de diputados,....",
+    "title": "Mantención del trámite dado al proyecto de ley que transforma la Casa de Moneda en sociedad anónima (Boletín Nº 2.949-05), en cuanto a que fuera discutido por la Comisión de Hacienda.",
+    "descripcion": "Mantención del trámite dado al proyecto de ley que transforma la Casa de Moneda en sociedad anónima (Boletín Nº 2.949-05), en cuanto a que fuera discutido por la Comisión de Hacienda.",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -124,15 +128,17 @@
       "Bianchi C., Carlos": "afavor",
       "Longueira M., Pablo": "afavor",
       "Vásquez Ú., Guillermo": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Mantención del trámite dado al proyecto de ley que transforma la Casa de Moneda en sociedad anónima (Boletín Nº 2.949-05), en cuanto a que fuera discutido por la Comisión de Hacienda."
   },
   {
     "id": "senado-2949-14/10/2008",
     "boletin": "2949",
     "fecha": "14/10/2008",
     "chamber": "senado",
-    "materia": "aprobada por la Cámara de Diputados, recaído en el proyecto de ley que transforma la Casa de Moneda de Chile en Socie...",
-    "descripcion": "Propuesta legislativa para formada en virtud de lo dispuesto en el artículo 70 de la constitución política, aprobada por la cámara de diputados,....",
+    "title": "Mantención del trámite dado al proyecto de ley que transforma la Casa de Moneda en sociedad anónima (Boletín Nº 2.949-05), en cuanto a que fuera discutido por la Comisión de Hacienda.",
+    "descripcion": "Mantención del trámite dado al proyecto de ley que transforma la Casa de Moneda en sociedad anónima (Boletín Nº 2.949-05), en cuanto a que fuera discutido por la Comisión de Hacienda.",
     "tags": [],
     "votos": {
       "911": "abstencion",
@@ -164,15 +170,17 @@
       "Horvath K., Antonio": "abstencion",
       "Prokurica P., Baldo": "abstencion",
       "Arancibia R., Jorge": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Mantención del trámite dado al proyecto de ley que transforma la Casa de Moneda en sociedad anónima (Boletín Nº 2.949-05), en cuanto a que fuera discutido por la Comisión de Hacienda."
   },
   {
     "id": "senado-2949-11/11/2008",
     "boletin": "2949",
     "fecha": "11/11/2008",
     "chamber": "senado",
-    "materia": "aprobada por la Cámara de Diputados, recaído en el proyecto de ley que transforma la Casa de Moneda de Chile en Socie...",
-    "descripcion": "Propuesta legislativa para formada en virtud de lo dispuesto en el artículo 70 de la constitución política, aprobada por la cámara de diputados,....",
+    "title": "Mantención del trámite dado al proyecto de ley que transforma la Casa de Moneda en sociedad anónima (Boletín Nº 2.949-05), en cuanto a que fuera discutido por la Comisión de Hacienda.",
+    "descripcion": "Mantención del trámite dado al proyecto de ley que transforma la Casa de Moneda en sociedad anónima (Boletín Nº 2.949-05), en cuanto a que fuera discutido por la Comisión de Hacienda.",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -202,15 +210,17 @@
       "Ruiz-Esquide J., Mariano": "afavor",
       "Ominami P., Carlos": "afavor",
       "Vásquez Ú., Guillermo": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Mantención del trámite dado al proyecto de ley que transforma la Casa de Moneda en sociedad anónima (Boletín Nº 2.949-05), en cuanto a que fuera discutido por la Comisión de Hacienda."
   },
   {
     "id": "senado-3139-29/07/2008",
     "boletin": "3139",
     "fecha": "29/07/2008",
     "chamber": "senado",
-    "materia": "Las modificaciones aprobadas por unanimidad en la Comisiónb del proyecto de ley que fortalece y perfecciona la jurisd...",
-    "descripcion": "Propuesta legislativa para las modificaciones aprobadas por unanimidad en la comisiónb del proyecto de ley que fortalece y perfecciona la jurisd....",
+    "title": "Votación de las modificaciones aprobadas por unanimidad en la Comisiònb del proyecto de ley que fortalece y perfecciona la jurisdicción tributaria (Boletín N° 3.139-05).",
+    "descripcion": "Votación de las modificaciones aprobadas por unanimidad en la Comisiònb del proyecto de ley que fortalece y perfecciona la jurisdicción tributaria (Boletín N° 3.139-05).",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -237,15 +247,17 @@
       "Longueira M., Pablo": "afavor",
       "Navarro B., Alejandro": "afavor",
       "Pérez V., Víctor": "afavor"
-    }
+    },
+    "relevante": true,
+    "materia": "Votación de las modificaciones aprobadas por unanimidad en la Comisiònb del proyecto de ley que fortalece y perfecciona la jurisdicción tributaria (Boletín N° 3.139-05)."
   },
   {
     "id": "senado-3336-06/05/2008",
     "boletin": "3336",
     "fecha": "06/05/2008",
     "chamber": "senado",
-    "materia": "Modifica la ley Nº 18.450, de Fomento de Inversión Privada en Obras de Riego y Drenaje, permitiendo que los agriculto...",
-    "descripcion": "Proyecto que modifica la ley nº 18.450, de fomento de inversión privada en obras de riego y drenaje, permitiendo que los agriculto....",
+    "title": "Proyecto de ley, de la Honorable Cámara de Diputados, que modifica la ley Nº 18.450, de Fomento de Inversión Privada en Obras de Riego y Drenaje, permitiendo que los agricultores arrendatarios puedan postular a los proyectos de riego, con informe de la Comisión de Agricultura. (Boletín Nº 3.336-01).",
+    "descripcion": "Proyecto de ley, de la Honorable Cámara de Diputados, que modifica la ley Nº 18.450, de Fomento de Inversión Privada en Obras de Riego y Drenaje, permitiendo que los agricultores arrendatarios puedan postular a los proyectos de riego, con informe de la Comisión de Agricultura. (Boletín Nº 3.336-01).",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -275,15 +287,17 @@
       "Pizarro S., Jorge": "afavor",
       "Muñoz B., Roberto": "afavor",
       "Girardi L., Guido": "afavor"
-    }
+    },
+    "relevante": true,
+    "materia": "Proyecto de ley, de la Honorable Cámara de Diputados, que modifica la ley Nº 18.450, de Fomento de Inversión Privada en Obras de Riego y Drenaje, permitiendo que los agricultores arrendatarios puedan postular a los proyectos de riego, con informe de la Comisión de Agricultura. (Boletín Nº 3.336-01)."
   },
   {
     "id": "senado-3436-10/12/2008",
     "boletin": "3436",
     "fecha": "10/12/2008",
     "chamber": "senado",
-    "materia": "Dado al proyecto de reforma constitucional, de la Honorable Cámara de Diputados, en materia de gobierno y administrac...",
-    "descripcion": "Propuesta de reforma a la Constitución Política de Chile.",
+    "title": "Votación respecto del trámite dado al proyecto de reforma constitucional, de la Honorable Cámara de Diputados, en materia de gobierno y administración regional (Boletín N° 3.436-07). El voto si, es para aprobar en general el proyecto; el voto No, para que vuelva a Comisiòn de Gobierno, Descentralizaciòn y Regionalización.",
+    "descripcion": "Votación respecto del trámite dado al proyecto de reforma constitucional, de la Honorable Cámara de Diputados, en materia de gobierno y administración regional (Boletín N° 3.436-07). El voto si, es para aprobar en general el proyecto; el voto No, para que vuelva a Comisiòn de Gobierno, Descentralizaciòn y Regionalización.",
     "tags": [],
     "votos": {
       "911": "contra",
@@ -315,15 +329,17 @@
       "Horvath K., Antonio": "contra",
       "Frei R., Eduardo": "contra",
       "Letelier M., Juan Pablo": "afavor"
-    }
+    },
+    "relevante": true,
+    "materia": "Votación respecto del trámite dado al proyecto de reforma constitucional, de la Honorable Cámara de Diputados, en materia de gobierno y administración regional (Boletín N° 3.436-07). El voto si, es para aprobar en general el proyecto; el voto No, para que vuelva a Comisiòn de Gobierno, Descentralizaciòn y Regionalización."
   },
   {
     "id": "senado-3544-18/03/2008",
     "boletin": "3544",
     "fecha": "18/03/2008",
     "chamber": "senado",
-    "materia": "Reforma constitucional que iniciado en Moción de los Honorables Senadores señores Espina, Horvath y Romero y del ex S...",
-    "descripcion": "Propuesta de reforma a la Constitución Política de Chile.",
+    "title": "Votación en general del proyecto de reforma constitucional que modifica los artículos 15 y 18 de la Carta Fundamental, con el objeto de consagrar el sufragio como un derecho de los ciudadanos y de su inscripción automática en los Registros Electorales, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (Boletín Nº 3544-07).",
+    "descripcion": "Votación en general del proyecto de reforma constitucional que modifica los artículos 15 y 18 de la Carta Fundamental, con el objeto de consagrar el sufragio como un derecho de los ciudadanos y de su inscripción automática en los Registros Electorales, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (Boletín Nº 3544-07).",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -360,15 +376,17 @@
       "Arancibia R., Jorge": "contra",
       "Muñoz A., Pedro": "afavor",
       "Navarro B., Alejandro": "afavor"
-    }
+    },
+    "relevante": true,
+    "materia": "Votación en general del proyecto de reforma constitucional que modifica los artículos 15 y 18 de la Carta Fundamental, con el objeto de consagrar el sufragio como un derecho de los ciudadanos y de su inscripción automática en los Registros Electorales, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (Boletín Nº 3544-07)."
   },
   {
     "id": "senado-3562-15/10/2008",
     "boletin": "3562",
     "fecha": "15/10/2008",
     "chamber": "senado",
-    "materia": "En segundo trámite constitucional, sobre asociaciones y participación ciudadana en la gestión pública. (art. 131 Nº 1...",
-    "descripcion": "Propuesta legislativa para en segundo trámite constitucional, sobre asociaciones y participación ciudadana en la gestión pública. (art. 131 nº 1....",
+    "title": "Votación del aplazamiento de la discusión del proyecto de ley, en segundo trámite constitucional, sobre asociaciones y participación ciudadana en la gestión pública.(Boletín Nº 3.562-06) (art. 131 Nº 1 Reglamento del Senado)",
+    "descripcion": "Votación del aplazamiento de la discusión del proyecto de ley, en segundo trámite constitucional, sobre asociaciones y participación ciudadana en la gestión pública.(Boletín Nº 3.562-06) (art. 131 Nº 1 Reglamento del Senado)",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -391,15 +409,17 @@
       "Ominami P., Carlos": "contra",
       "Navarro B., Alejandro": "contra",
       "Muñoz A., Pedro": "contra"
-    }
+    },
+    "relevante": true,
+    "materia": "Votación del aplazamiento de la discusión del proyecto de ley, en segundo trámite constitucional, sobre asociaciones y participación ciudadana en la gestión pública.(Boletín Nº 3.562-06) (art. 131 Nº 1 Reglamento del Senado)"
   },
   {
     "id": "senado-3768-06/08/2008",
     "boletin": "3768",
     "fecha": "06/08/2008",
     "chamber": "senado",
-    "materia": "Descentralización y Regionalización reaído en el proyecto de ley, iniciado en Mensaje de S.E. la señora Presidente de...",
-    "descripcion": "Propuesta legislativa para descentralización y regionalización reaído en el proyecto de ley, iniciado en mensaje de s.e. la señora presidente de....",
+    "title": "indicación para delver el proyecto a nuevo informe de la Comisión",
+    "descripcion": "indicación para delver el proyecto a nuevo informe de la Comisión",
     "tags": [],
     "votos": {
       "911": "contra",
@@ -438,15 +458,17 @@
       "Frei R., Eduardo": "afavor",
       "Muñoz A., Pedro": "abstencion",
       "Ominami P., Carlos": "afavor"
-    }
+    },
+    "relevante": true,
+    "materia": "indicación para delver el proyecto a nuevo informe de la Comisión"
   },
   {
     "id": "senado-3768-12/08/2008",
     "boletin": "3768",
     "fecha": "12/08/2008",
     "chamber": "senado",
-    "materia": "Descentralización y Regionalización reaído en el proyecto de ley, iniciado en Mensaje de S.E. la señora Presidente de...",
-    "descripcion": "Propuesta legislativa para descentralización y regionalización reaído en el proyecto de ley, iniciado en mensaje de s.e. la señora presidente de....",
+    "title": "indicación para delver el proyecto a nuevo informe de la Comisión",
+    "descripcion": "indicación para delver el proyecto a nuevo informe de la Comisión",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -482,15 +504,17 @@
       "Matthei F., Evelyn": "afavor",
       "Larraín F., Hernán": "afavor",
       "Escalona M., Camilo": "contra"
-    }
+    },
+    "relevante": true,
+    "materia": "indicación para delver el proyecto a nuevo informe de la Comisión"
   },
   {
     "id": "senado-3773-16/01/2008",
     "boletin": "3773",
     "fecha": "16/01/2008",
     "chamber": "senado",
-    "materia": "Mixta, formada en virtud de lo dispuesto en el artículo 71 de la Constitución Política de la República, en primer trá...",
-    "descripcion": "Propuesta legislativa para mixta, formada en virtud de lo dispuesto en el artículo 71 de la constitución política de la república, en primer trá....",
+    "title": "Votación de la idea de legislar respecto del proyecto de ley sobre acceso a la información pública. Se aprueba la idea de legislar y se fija como plazo para presentar indicaciones hasta el 11 de julio, a las 12 horas.",
+    "descripcion": "Votación de la idea de legislar respecto del proyecto de ley sobre acceso a la información pública. Se aprueba la idea de legislar y se fija como plazo para presentar indicaciones hasta el 11 de julio, a las 12 horas.",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -521,15 +545,17 @@
       "Matthei F., Evelyn": "afavor",
       "Horvath K., Antonio": "afavor",
       "Naranjo O., Jaime": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación de la idea de legislar respecto del proyecto de ley sobre acceso a la información pública. Se aprueba la idea de legislar y se fija como plazo para presentar indicaciones hasta el 11 de julio, a las 12 horas."
   },
   {
     "id": "senado-3975-07/10/2008",
     "boletin": "3975",
     "fecha": "07/10/2008",
     "chamber": "senado",
-    "materia": "Mejora condiciones de retiro de trabajadores del sector público con bajas tasas de reemplazo de sus pensiones",
-    "descripcion": "Propuesta legislativa para mejora condiciones de retiro de trabajadores del sector público con bajas tasas de reemplazo de sus pensiones.",
+    "title": "Votaciòn de 27 enmiendas efctuadas al proyecto de ley que mejora condiciones de retiro de trabajadores del sector público con bajas tasas de reemplazo de sus pensiones (Boletín N° 3.975-13) (han quedado pendiente la votación de dos enmiendas).",
+    "descripcion": "Votaciòn de 27 enmiendas efctuadas al proyecto de ley que mejora condiciones de retiro de trabajadores del sector público con bajas tasas de reemplazo de sus pensiones (Boletín N° 3.975-13) (han quedado pendiente la votación de dos enmiendas).",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -560,15 +586,17 @@
       "Cantero O., Carlos": "afavor",
       "Ávila C., Nelson": "afavor",
       "Girardi L., Guido": "afavor"
-    }
+    },
+    "relevante": true,
+    "materia": "Votaciòn de 27 enmiendas efctuadas al proyecto de ley que mejora condiciones de retiro de trabajadores del sector público con bajas tasas de reemplazo de sus pensiones (Boletín N° 3.975-13) (han quedado pendiente la votación de dos enmiendas)."
   },
   {
     "id": "senado-3975-14/10/2008",
     "boletin": "3975",
     "fecha": "14/10/2008",
     "chamber": "senado",
-    "materia": "Mejora condiciones de retiro de trabajadores del sector público con bajas tasas de reemplazo de sus pensiones",
-    "descripcion": "Propuesta legislativa para mejora condiciones de retiro de trabajadores del sector público con bajas tasas de reemplazo de sus pensiones.",
+    "title": "Votaciòn de 27 enmiendas efctuadas al proyecto de ley que mejora condiciones de retiro de trabajadores del sector público con bajas tasas de reemplazo de sus pensiones (Boletín N° 3.975-13) (han quedado pendiente la votación de dos enmiendas).",
+    "descripcion": "Votaciòn de 27 enmiendas efctuadas al proyecto de ley que mejora condiciones de retiro de trabajadores del sector público con bajas tasas de reemplazo de sus pensiones (Boletín N° 3.975-13) (han quedado pendiente la votación de dos enmiendas).",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -595,15 +623,17 @@
       "García R., José": "afavor",
       "Ruiz-Esquide J., Mariano": "afavor",
       "Matthei F., Evelyn": "afavor"
-    }
+    },
+    "relevante": true,
+    "materia": "Votaciòn de 27 enmiendas efctuadas al proyecto de ley que mejora condiciones de retiro de trabajadores del sector público con bajas tasas de reemplazo de sus pensiones (Boletín N° 3.975-13) (han quedado pendiente la votación de dos enmiendas)."
   },
   {
     "id": "senado-4059-29/10/2008",
     "boletin": "4059",
     "fecha": "29/10/2008",
     "chamber": "senado",
-    "materia": "aprobada por la Honorable Cámara de Diputados, recaído en el proyecto de ley que modifica la Ley Orgánica Constitucio...",
-    "descripcion": "Propuesta legislativa para formada en virtud de lo dispuesto en el artículo 71 de la constitución política, aprobada por la honorable cámara de ....",
+    "title": "Nuevo artículo 47 B que se agrega a la ley Nº 17.997, Orgánica Constitucional del Tribunal Constitucional.",
+    "descripcion": "Nuevo artículo 47 B que se agrega a la ley Nº 17.997, Orgánica Constitucional del Tribunal Constitucional.",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -631,15 +661,17 @@
       "García R., José": "afavor",
       "Frei R., Eduardo": "afavor",
       "Letelier M., Juan Pablo": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Nuevo artículo 47 B que se agrega a la ley Nº 17.997, Orgánica Constitucional del Tribunal Constitucional."
   },
   {
     "id": "senado-4234-22/01/2008",
     "boletin": "4234",
     "fecha": "22/01/2008",
     "chamber": "senado",
-    "materia": "La modificación referida a la posibilidad de renovar en su nombramiento al Fiscal Nacional Económico (proyecto de ley...",
-    "descripcion": "Propuesta legislativa para la modificación referida a la posibilidad de renovar en su nombramiento al fiscal nacional económico (proyecto de ley....",
+    "title": "Proyecto de ley de la Honorable Cámara de Diputados que modifica el decreto con fuerza de ley Nº 1, del Ministerio de Economía, Fomento y Reconstrucción, de 2004, referido al Tribunal de Defensa de la Libre Competencia, con informe de la Comisión de Economía. (Boletín Nº 4234-03). Con urgencia calificada de simple.",
+    "descripcion": "Proyecto de ley de la Honorable Cámara de Diputados que modifica el decreto con fuerza de ley Nº 1, del Ministerio de Economía, Fomento y Reconstrucción, de 2004, referido al Tribunal de Defensa de la Libre Competencia, con informe de la Comisión de Economía. (Boletín Nº 4234-03). Con urgencia calificada de simple.",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -665,15 +697,17 @@
       "Ruiz-Esquide J., Mariano": "afavor",
       "Escalona M., Camilo": "afavor",
       "Frei R., Eduardo": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Proyecto de ley de la Honorable Cámara de Diputados que modifica el decreto con fuerza de ley Nº 1, del Ministerio de Economía, Fomento y Reconstrucción, de 2004, referido al Tribunal de Defensa de la Libre Competencia, con informe de la Comisión de Economía. (Boletín Nº 4234-03). Con urgencia calificada de simple."
   },
   {
     "id": "senado-4237-05/11/2008",
     "boletin": "4237",
     "fecha": "05/11/2008",
     "chamber": "senado",
-    "materia": "recaído en el proyecto de ley que otorga beneficios a deudores de crédito universitario que indica, por la prestación...",
-    "descripcion": "Propuesta legislativa para formada en virtud de lo dispuesto en el artículo 71 de la constitución política, recaído en el proyecto de ley que ot....",
+    "title": "Inciso 1º del Artículo 1º",
+    "descripcion": "Inciso 1º del Artículo 1º",
     "tags": [],
     "votos": {
       "911": "contra",
@@ -702,15 +736,17 @@
       "Matthei F., Evelyn": "contra",
       "Muñoz B., Roberto": "contra",
       "Girardi L., Guido": "contra"
-    }
+    },
+    "relevante": true,
+    "materia": "Inciso 1º del Artículo 1º"
   },
   {
     "id": "senado-4237-23/12/2008",
     "boletin": "4237",
     "fecha": "23/12/2008",
     "chamber": "senado",
-    "materia": "recaído en el proyecto de ley que otorga beneficios a deudores de crédito universitario que indica, por la prestación...",
-    "descripcion": "Propuesta legislativa para formada en virtud de lo dispuesto en el artículo 71 de la constitución política, recaído en el proyecto de ley que ot....",
+    "title": "Inciso 1º del Artículo 1º",
+    "descripcion": "Inciso 1º del Artículo 1º",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -732,15 +768,17 @@
       "Navarro B., Alejandro": "afavor",
       "Ruiz-Esquide J., Mariano": "afavor",
       "Ávila C., Nelson": "afavor"
-    }
+    },
+    "relevante": true,
+    "materia": "Inciso 1º del Artículo 1º"
   },
   {
     "id": "senado-4304-09/09/2008",
     "boletin": "4304",
     "fecha": "09/09/2008",
     "chamber": "senado",
-    "materia": "Regulariza la construcción de bienes urbanos sin recepción definitiva destinados a equipamiento de deporte y salud, c...",
-    "descripcion": "Proyecto que regulariza la construcción de bienes urbanos sin recepción definitiva destinados a equipamiento de deporte y salud, c....",
+    "title": "Votación en general del proyecto de ley, de la Honorable Cámara de Diputados, que regulariza la construcción de bienes raíces urbanos sin recepción definitiva destinados a equipamiento de deporte y salud (Boletín N° 4.304-14).",
+    "descripcion": "Votación en general del proyecto de ley, de la Honorable Cámara de Diputados, que regulariza la construcción de bienes raíces urbanos sin recepción definitiva destinados a equipamiento de deporte y salud (Boletín N° 4.304-14).",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -770,15 +808,17 @@
       "Escalona M., Camilo": "afavor",
       "Letelier M., Juan Pablo": "afavor",
       "Núñez M., Ricardo": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación en general del proyecto de ley, de la Honorable Cámara de Diputados, que regulariza la construcción de bienes raíces urbanos sin recepción definitiva destinados a equipamiento de deporte y salud (Boletín N° 4.304-14)."
   },
   {
     "id": "senado-4313-01/07/2008",
     "boletin": "4313",
     "fecha": "01/07/2008",
     "chamber": "senado",
-    "materia": "Establece una excepción a la inhabilidad contemplada en el artículo 54, letra b) de la Ley de Bases de la Administrac...",
-    "descripcion": "Proyecto que establece una excepción a la inhabilidad contemplada en el artículo 54, letra b) de la ley de bases de la administrac....",
+    "title": "Votación en general y en particular del proyecto de ley, de la Honorable Cámara de Diputados, que establece una excepción a la inhabilidad contemplada en el artículo 54, letra b) de la Ley de Bases de la Administración del Estado, con el objeto de permitir el ingreso de parientes y familiares al Servicio Exterior. (Boletín N° 4.313-06)",
+    "descripcion": "Votación en general y en particular del proyecto de ley, de la Honorable Cámara de Diputados, que establece una excepción a la inhabilidad contemplada en el artículo 54, letra b) de la Ley de Bases de la Administración del Estado, con el objeto de permitir el ingreso de parientes y familiares al Servicio Exterior. (Boletín N° 4.313-06)",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -810,15 +850,17 @@
       "Horvath K., Antonio": "afavor",
       "Escalona M., Camilo": "afavor",
       "Vásquez Ú., Guillermo": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación en general y en particular del proyecto de ley, de la Honorable Cámara de Diputados, que establece una excepción a la inhabilidad contemplada en el artículo 54, letra b) de la Ley de Bases de la Administración del Estado, con el objeto de permitir el ingreso de parientes y familiares al Servicio Exterior. (Boletín N° 4.313-06)"
   },
   {
     "id": "senado-4332-17/06/2008",
     "boletin": "4332",
     "fecha": "17/06/2008",
     "chamber": "senado",
-    "materia": "Separada de la frase `deberán acreditar el origen de las mercaderías que expendan´, de la letra c) del artículo 91 bi...",
-    "descripcion": "Propuesta legislativa para separada de la frase `deberán acreditar el origen de las mercaderías que expendan´, de la letra c) del artículo 91 bi....",
+    "title": "Votación para que el proyecto de ley que concede permiso para trabajadores al interior de la locomoción colectiva, vuelva a la Comisión de Transportes y Telecomunicaciones para un nuevo primer informe (Boletín N° 4.332-15).",
+    "descripcion": "Votación para que el proyecto de ley que concede permiso para trabajadores al interior de la locomoción colectiva, vuelva a la Comisión de Transportes y Telecomunicaciones para un nuevo primer informe (Boletín N° 4.332-15).",
     "tags": [],
     "votos": {
       "911": "contra",
@@ -844,15 +886,17 @@
       "Letelier M., Juan Pablo": "afavor",
       "Arancibia R., Jorge": "contra",
       "Ominami P., Carlos": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación para que el proyecto de ley que concede permiso para trabajadores al interior de la locomoción colectiva, vuelva a la Comisión de Transportes y Telecomunicaciones para un nuevo primer informe (Boletín N° 4.332-15)."
   },
   {
     "id": "senado-4361-23/01/2008",
     "boletin": "4361",
     "fecha": "23/01/2008",
     "chamber": "senado",
-    "materia": "Crea examen único nacional de conocimientos de medicina",
-    "descripcion": "Proyecto que crea examen único nacional de conocimientos de medicina.",
+    "title": "Proyecto de ley, en tercer trámite constitucional, que crea examen único nacional de conocimientos de medicina. (Boletín Nº 4361-11). Con urgencia calificada de suma. Acuerdo de Comités.",
+    "descripcion": "Proyecto de ley, en tercer trámite constitucional, que crea examen único nacional de conocimientos de medicina. (Boletín Nº 4361-11). Con urgencia calificada de suma. Acuerdo de Comités.",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -884,15 +928,17 @@
       "Matthei F., Evelyn": "afavor",
       "Naranjo O., Jaime": "afavor",
       "García R., José": "abstencion"
-    }
+    },
+    "relevante": true,
+    "materia": "Proyecto de ley, en tercer trámite constitucional, que crea examen único nacional de conocimientos de medicina. (Boletín Nº 4361-11). Con urgencia calificada de suma. Acuerdo de Comités."
   },
   {
     "id": "senado-4438-09/04/2008",
     "boletin": "4438",
     "fecha": "09/04/2008",
     "chamber": "senado",
-    "materia": "aprobado por la Honorable Cámara de Diputados, recaído en el proyecto de ley que introduce modificaciones orgánicas y...",
-    "descripcion": "Propuesta legislativa para formada en virtud de lo dispuesto en el artículo 71 de la constitución política, aprobado por la honorable cámara de ....",
+    "title": "Proyecto de ley de la Honorable Cámara de Diputados que introduce modificaciones orgánicas y procedimentales a la ley Nº 19.968, que crea los Tribunales de Familia, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (Boletín Nº 4438-07). Con urgencia calificada de suma.",
+    "descripcion": "Proyecto de ley de la Honorable Cámara de Diputados que introduce modificaciones orgánicas y procedimentales a la ley Nº 19.968, que crea los Tribunales de Familia, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (Boletín Nº 4438-07). Con urgencia calificada de suma.",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -925,15 +971,17 @@
       "Muñoz A., Pedro": "afavor",
       "Gazmuri M., Jaime": "afavor",
       "Horvath K., Antonio": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Proyecto de ley de la Honorable Cámara de Diputados que introduce modificaciones orgánicas y procedimentales a la ley Nº 19.968, que crea los Tribunales de Familia, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (Boletín Nº 4438-07). Con urgencia calificada de suma."
   },
   {
     "id": "senado-4438-11/06/2008",
     "boletin": "4438",
     "fecha": "11/06/2008",
     "chamber": "senado",
-    "materia": "aprobado por la Honorable Cámara de Diputados, recaído en el proyecto de ley que introduce modificaciones orgánicas y...",
-    "descripcion": "Propuesta legislativa para formada en virtud de lo dispuesto en el artículo 71 de la constitución política, aprobado por la honorable cámara de ....",
+    "title": "Proyecto de ley de la Honorable Cámara de Diputados que introduce modificaciones orgánicas y procedimentales a la ley Nº 19.968, que crea los Tribunales de Familia, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (Boletín Nº 4438-07). Con urgencia calificada de suma.",
+    "descripcion": "Proyecto de ley de la Honorable Cámara de Diputados que introduce modificaciones orgánicas y procedimentales a la ley Nº 19.968, que crea los Tribunales de Familia, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (Boletín Nº 4438-07). Con urgencia calificada de suma.",
     "tags": [],
     "votos": {
       "911": "abstencion",
@@ -969,15 +1017,17 @@
       "Espina O., Alberto": "abstencion",
       "Allamand Z., Andrés": "abstencion",
       "Muñoz B., Roberto": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Proyecto de ley de la Honorable Cámara de Diputados que introduce modificaciones orgánicas y procedimentales a la ley Nº 19.968, que crea los Tribunales de Familia, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (Boletín Nº 4438-07). Con urgencia calificada de suma."
   },
   {
     "id": "senado-4542-10/09/2008",
     "boletin": "4542",
     "fecha": "10/09/2008",
     "chamber": "senado",
-    "materia": "¿Protocolo Facultativo de la Convención contra la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes¿, a...",
-    "descripcion": "Votación para la aprobación de este instrumento internacional por el Congreso chileno.",
+    "title": "Proyecto de acuerdo, de la Honorable Cámara de Diputados, aprobatorio del ¿Protocolo Facultativo de la Convención contra la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes¿, adoptado por la Asamblea General de las Naciones Unidas, el 18 de diciembre de 2002, con informe de la Comisión de Relaciones Exteriores y con informe de la Comisión de Hacienda. (Boletín N° 4.542-10). Con urgencia calificada de suma.",
+    "descripcion": "Proyecto de acuerdo, de la Honorable Cámara de Diputados, aprobatorio del ¿Protocolo Facultativo de la Convención contra la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes¿, adoptado por la Asamblea General de las Naciones Unidas, el 18 de diciembre de 2002, con informe de la Comisión de Relaciones Exteriores y con informe de la Comisión de Hacienda. (Boletín N° 4.542-10). Con urgencia calificada de suma.",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -1006,15 +1056,17 @@
       "Naranjo O., Jaime": "afavor",
       "Navarro B., Alejandro": "afavor",
       "Orpis B., Jaime": "afavor"
-    }
+    },
+    "relevante": true,
+    "materia": "Proyecto de acuerdo, de la Honorable Cámara de Diputados, aprobatorio del ¿Protocolo Facultativo de la Convención contra la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes¿, adoptado por la Asamblea General de las Naciones Unidas, el 18 de diciembre de 2002, con informe de la Comisión de Relaciones Exteriores y con informe de la Comisión de Hacienda. (Boletín N° 4.542-10). Con urgencia calificada de suma."
   },
   {
     "id": "senado-4690-08/01/2008",
     "boletin": "4690",
     "fecha": "08/01/2008",
     "chamber": "senado",
-    "materia": "Sobre vegetales genéticamente modificados",
-    "descripcion": "Propuesta legislativa para sobre vegetales genéticamente modificados.",
+    "title": "Proyecto de ley, iniciado en Moción de los Honorables Senadores señores Espina, Allamand, Coloma, Flores y Frei, en primer trámite constitucional, sobre vegetales genéticamente modificados, con informe de la Comisión de Agricultura. (Boletín Nº 4690-01).",
+    "descripcion": "Proyecto de ley, iniciado en Moción de los Honorables Senadores señores Espina, Allamand, Coloma, Flores y Frei, en primer trámite constitucional, sobre vegetales genéticamente modificados, con informe de la Comisión de Agricultura. (Boletín Nº 4690-01).",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -1050,15 +1102,17 @@
       "Orpis B., Jaime": "afavor",
       "Allamand Z., Andrés": "afavor",
       "Escalona M., Camilo": "afavor"
-    }
+    },
+    "relevante": true,
+    "materia": "Proyecto de ley, iniciado en Moción de los Honorables Senadores señores Espina, Allamand, Coloma, Flores y Frei, en primer trámite constitucional, sobre vegetales genéticamente modificados, con informe de la Comisión de Agricultura. (Boletín Nº 4690-01)."
   },
   {
     "id": "senado-4704-08/04/2008",
     "boletin": "4704",
     "fecha": "08/04/2008",
     "chamber": "senado",
-    "materia": "Reforma constitucional que que permite la concesión de los hidrocarburos líquidos o gaseosos",
-    "descripcion": "Propuesta de reforma a la Constitución Política de Chile.",
+    "title": "Proyecto de reforma constitucional que permite la concesión de los hidrocarburos líquidos o gaseosos. (Boletín Nº 4704-07). Quórum constitucional exigido, 25 votos. Queda rechazado el proyecto por no reunirse dicho quórum.",
+    "descripcion": "Proyecto de reforma constitucional que permite la concesión de los hidrocarburos líquidos o gaseosos. (Boletín Nº 4704-07). Quórum constitucional exigido, 25 votos. Queda rechazado el proyecto por no reunirse dicho quórum.",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -1095,15 +1149,17 @@
       "Ominami P., Carlos": "contra",
       "Allamand Z., Andrés": "afavor",
       "Letelier M., Juan Pablo": "contra"
-    }
+    },
+    "relevante": true,
+    "materia": "Proyecto de reforma constitucional que permite la concesión de los hidrocarburos líquidos o gaseosos. (Boletín Nº 4704-07). Quórum constitucional exigido, 25 votos. Queda rechazado el proyecto por no reunirse dicho quórum."
   },
   {
     "id": "senado-4728-23/12/2008",
     "boletin": "4728",
     "fecha": "23/12/2008",
     "chamber": "senado",
-    "materia": "Votación del informe conjunto de las Comisiones Mixtas, formadas en virtud de lo dispuesto en el artículo 70 de la Co...",
-    "descripcion": "Propuesta legislativa para del informe conjunto de las comisiones mixtas, formadas en virtud de lo dispuesto en el artículo 70 de la constitució....",
+    "title": "Votación del informe conjunto de las Comisiones Mixtas, formadas en virtud de lo dispuesto en el artículo 70 de la Constitución Política, recaído en los proyectos de ley que modifican el Código de Minería con el objeto de mantener la existencia de los Boletines Oficiales de Minería y sobre las publicaciones ordenadas por el Código de Minería. (Boletines Nos 4.728-08 y 4.741-08).",
+    "descripcion": "Votación del informe conjunto de las Comisiones Mixtas, formadas en virtud de lo dispuesto en el artículo 70 de la Constitución Política, recaído en los proyectos de ley que modifican el Código de Minería con el objeto de mantener la existencia de los Boletines Oficiales de Minería y sobre las publicaciones ordenadas por el Código de Minería. (Boletines Nos 4.728-08 y 4.741-08).",
     "tags": [],
     "votos": {
       "911": "abstencion",
@@ -1123,15 +1179,17 @@
       "Ominami P., Carlos": "afavor",
       "Orpis B., Jaime": "afavor",
       "Espina O., Alberto": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación del informe conjunto de las Comisiones Mixtas, formadas en virtud de lo dispuesto en el artículo 70 de la Constitución Política, recaído en los proyectos de ley que modifican el Código de Minería con el objeto de mantener la existencia de los Boletines Oficiales de Minería y sobre las publicaciones ordenadas por el Código de Minería. (Boletines Nos 4.728-08 y 4.741-08)."
   },
   {
     "id": "senado-4742-09/01/2008",
     "boletin": "4742",
     "fecha": "09/01/2008",
     "chamber": "senado",
-    "materia": "letra c) de Proyecto de ley que perfecciona el sistema previsional.",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Proyecto de ley de la Honorable Cámara de Diputados que perfecciona el sistema previsional, con informe de las Comisiones de Hacienda y de Trabajo y Previsión Social, unidas. (Boletín Nº 4742-13). Con urgencia calificada de simple.",
+    "descripcion": "Proyecto de ley de la Honorable Cámara de Diputados que perfecciona el sistema previsional, con informe de las Comisiones de Hacienda y de Trabajo y Previsión Social, unidas. (Boletín Nº 4742-13). Con urgencia calificada de simple.",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -1167,15 +1225,17 @@
       "Gómez U., José Antonio": "afavor",
       "Vásquez Ú., Guillermo": "contra",
       "Ruiz-Esquide J., Mariano": "afavor"
-    }
+    },
+    "relevante": true,
+    "materia": "Proyecto de ley de la Honorable Cámara de Diputados que perfecciona el sistema previsional, con informe de las Comisiones de Hacienda y de Trabajo y Previsión Social, unidas. (Boletín Nº 4742-13). Con urgencia calificada de simple."
   },
   {
     "id": "senado-4832-02/09/2008",
     "boletin": "4832",
     "fecha": "02/09/2008",
     "chamber": "senado",
-    "materia": "Modifica diversos cuerpos legales en materia de orden público. Acuerdo de Comités",
-    "descripcion": "Proyecto que modifica diversos cuerpos legales en materia de orden público. acuerdo de comités.",
+    "title": "Proyecto de ley, iniciado en Mensaje de S.E. la señora Presidente de la República, en primer trámite constitucional, que modifica diversos cuerpos legales en materia de orden público, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (Boletín N° 4.832-07). Acuerdo de Comités.",
+    "descripcion": "Proyecto de ley, iniciado en Mensaje de S.E. la señora Presidente de la República, en primer trámite constitucional, que modifica diversos cuerpos legales en materia de orden público, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (Boletín N° 4.832-07). Acuerdo de Comités.",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -1199,15 +1259,17 @@
       "Arancibia R., Jorge": "afavor",
       "Larraín F., Hernán": "afavor",
       "Ruiz-Esquide J., Mariano": "afavor"
-    }
+    },
+    "relevante": true,
+    "materia": "Proyecto de ley, iniciado en Mensaje de S.E. la señora Presidente de la República, en primer trámite constitucional, que modifica diversos cuerpos legales en materia de orden público, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (Boletín N° 4.832-07). Acuerdo de Comités."
   },
   {
     "id": "senado-4832-15/10/2008",
     "boletin": "4832",
     "fecha": "15/10/2008",
     "chamber": "senado",
-    "materia": "Modifica diversos cuerpos legales en materia de orden público. Acuerdo de Comités",
-    "descripcion": "Proyecto que modifica diversos cuerpos legales en materia de orden público. acuerdo de comités.",
+    "title": "Proyecto de ley, iniciado en Mensaje de S.E. la señora Presidente de la República, en primer trámite constitucional, que modifica diversos cuerpos legales en materia de orden público, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (Boletín N° 4.832-07). Acuerdo de Comités.",
+    "descripcion": "Proyecto de ley, iniciado en Mensaje de S.E. la señora Presidente de la República, en primer trámite constitucional, que modifica diversos cuerpos legales en materia de orden público, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (Boletín N° 4.832-07). Acuerdo de Comités.",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -1228,15 +1290,17 @@
       "Espina O., Alberto": "afavor",
       "Núñez M., Ricardo": "afavor",
       "Naranjo O., Jaime": "afavor"
-    }
+    },
+    "relevante": true,
+    "materia": "Proyecto de ley, iniciado en Mensaje de S.E. la señora Presidente de la República, en primer trámite constitucional, que modifica diversos cuerpos legales en materia de orden público, con informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. (Boletín N° 4.832-07). Acuerdo de Comités."
   },
   {
     "id": "senado-4908-06/05/2008",
     "boletin": "4908",
     "fecha": "06/05/2008",
     "chamber": "senado",
-    "materia": "Regula los convenios no concursales para pequeños deudores y pequeñas y medianas empresas",
-    "descripcion": "Votación para la aprobación de este instrumento internacional por el Congreso chileno.",
+    "title": "Proyecto de ley, iniciado en Moción del Honorable Senador señor Vásquez, en primer trámite constitucional, que regula los convenios no concursales para pequeños deudores y pequeñas y medianas empresas, con informe de la Comisión de Economía. (Boletín Nº 4.908-03).",
+    "descripcion": "Proyecto de ley, iniciado en Moción del Honorable Senador señor Vásquez, en primer trámite constitucional, que regula los convenios no concursales para pequeños deudores y pequeñas y medianas empresas, con informe de la Comisión de Economía. (Boletín Nº 4.908-03).",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -1268,15 +1332,17 @@
       "Cantero O., Carlos": "afavor",
       "Ávila C., Nelson": "afavor",
       "Letelier M., Juan Pablo": "afavor"
-    }
+    },
+    "relevante": true,
+    "materia": "Proyecto de ley, iniciado en Moción del Honorable Senador señor Vásquez, en primer trámite constitucional, que regula los convenios no concursales para pequeños deudores y pequeñas y medianas empresas, con informe de la Comisión de Economía. (Boletín Nº 4.908-03)."
   },
   {
     "id": "senado-4908-04/11/2008",
     "boletin": "4908",
     "fecha": "04/11/2008",
     "chamber": "senado",
-    "materia": "Regula los convenios no concursales para pequeños deudores y pequeñas y medianas empresas",
-    "descripcion": "Votación para la aprobación de este instrumento internacional por el Congreso chileno.",
+    "title": "Proyecto de ley, iniciado en Moción del Honorable Senador señor Vásquez, en primer trámite constitucional, que regula los convenios no concursales para pequeños deudores y pequeñas y medianas empresas, con informe de la Comisión de Economía. (Boletín Nº 4.908-03).",
+    "descripcion": "Proyecto de ley, iniciado en Moción del Honorable Senador señor Vásquez, en primer trámite constitucional, que regula los convenios no concursales para pequeños deudores y pequeñas y medianas empresas, con informe de la Comisión de Economía. (Boletín Nº 4.908-03).",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -1305,14 +1371,16 @@
       "Naranjo O., Jaime": "afavor",
       "Muñoz A., Pedro": "afavor",
       "Horvath K., Antonio": "afavor"
-    }
+    },
+    "relevante": true,
+    "materia": "Proyecto de ley, iniciado en Moción del Honorable Senador señor Vásquez, en primer trámite constitucional, que regula los convenios no concursales para pequeños deudores y pequeñas y medianas empresas, con informe de la Comisión de Economía. (Boletín Nº 4.908-03)."
   },
   {
     "id": "senado-4921-12/03/2008",
     "boletin": "4921",
     "fecha": "12/03/2008",
     "chamber": "senado",
-    "materia": "Observaciones aprobadas por la Comisión de Salud en su informe al veto (números 3, 5, 7, 8, 9, 12, 13, 17, 18, 19, 21...",
+    "title": "Observaciones aprobadas por la Comisión de Salud en su informe al veto (números 3, 5, 7, 8, 9, 12, 13, 17, 18, 19, 21...",
     "descripcion": "Propuesta legislativa para observaciones aprobadas por la comisión de salud en su informe al veto (números 3, 5, 7, 8, 9, 12, 13, 17, 18, 19, 21....",
     "tags": [],
     "votos": {
@@ -1331,14 +1399,15 @@
       "Núñez M., Ricardo": "afavor",
       "Gómez U., José Antonio": "afavor",
       "Ominami P., Carlos": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-4921-01/07/2008",
     "boletin": "4921",
     "fecha": "01/07/2008",
     "chamber": "senado",
-    "materia": "Observaciones aprobadas por la Comisión de Salud en su informe al veto (números 3, 5, 7, 8, 9, 12, 13, 17, 18, 19, 21...",
+    "title": "Observaciones aprobadas por la Comisión de Salud en su informe al veto (números 3, 5, 7, 8, 9, 12, 13, 17, 18, 19, 21...",
     "descripcion": "Propuesta legislativa para observaciones aprobadas por la comisión de salud en su informe al veto (números 3, 5, 7, 8, 9, 12, 13, 17, 18, 19, 21....",
     "tags": [],
     "votos": {
@@ -1371,15 +1440,16 @@
       "Sabag C., Hosaín": "afavor",
       "Arancibia R., Jorge": "afavor",
       "Navarro B., Alejandro": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-4928-29/10/2008",
     "boletin": "4928",
     "fecha": "29/10/2008",
     "chamber": "senado",
-    "materia": "Modifica la ley Nº 19.983 y el decreto ley Nº 825, con el objeto de facilitar la factorización de facturas por pequeñ...",
-    "descripcion": "Proyecto que modifica la ley nº 19.983 y el decreto ley nº 825, con el objeto de facilitar la factorización de facturas por pequeñ....",
+    "title": "Proyecto de ley de la Honorable Cámara de Diputados que modifica la ley Nº 19.983 y el decreto ley Nº 825, con el objeto de facilitar la factorización de facturas por pequeños y medianos empresarios, con informe de la Comisión de Economía. (Boletín Nº 4928-26). Con urgencia calificada de simple.",
+    "descripcion": "Proyecto de ley de la Honorable Cámara de Diputados que modifica la ley Nº 19.983 y el decreto ley Nº 825, con el objeto de facilitar la factorización de facturas por pequeños y medianos empresarios, con informe de la Comisión de Economía. (Boletín Nº 4928-26). Con urgencia calificada de simple.",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -1410,15 +1480,17 @@
       "Matthei F., Evelyn": "afavor",
       "Chadwick P., Andrés": "afavor",
       "Ominami P., Carlos": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Proyecto de ley de la Honorable Cámara de Diputados que modifica la ley Nº 19.983 y el decreto ley Nº 825, con el objeto de facilitar la factorización de facturas por pequeños y medianos empresarios, con informe de la Comisión de Economía. (Boletín Nº 4928-26). Con urgencia calificada de simple."
   },
   {
     "id": "senado-4964-13/08/2008",
     "boletin": "4964",
     "fecha": "13/08/2008",
     "chamber": "senado",
-    "materia": "La proposición para enviar a la Comisión de Constitución, Legislación, Justicia y Reglamento el proyecto de acuerdo, ...",
-    "descripcion": "Votación para la aprobación de este instrumento internacional por el Congreso chileno.",
+    "title": "Votación de la proposición para enviar a la Comisión de Constitución, Legislación, Justicia y Reglamento el proyecto de acuerdo, de la Honorable Cámara de Diputados, aprobatorio del Tratado de Cooperación en Materia de Patentes (PCT), elaborado en Washington el 19 de junio de 1970, enmendado el 28 de septiembre de 1979, modificado el 3 de febrero de 1984 y el 3 de octubre de 2001, y su reglamento anexo. (Boletín N° 4.964-10).",
+    "descripcion": "Votación de la proposición para enviar a la Comisión de Constitución, Legislación, Justicia y Reglamento el proyecto de acuerdo, de la Honorable Cámara de Diputados, aprobatorio del Tratado de Cooperación en Materia de Patentes (PCT), elaborado en Washington el 19 de junio de 1970, enmendado el 28 de septiembre de 1979, modificado el 3 de febrero de 1984 y el 3 de octubre de 2001, y su reglamento anexo. (Boletín N° 4.964-10).",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -1444,15 +1516,17 @@
       "Romero P., Sergio": "afavor",
       "Arancibia R., Jorge": "afavor",
       "Núñez M., Ricardo": "contra"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación de la proposición para enviar a la Comisión de Constitución, Legislación, Justicia y Reglamento el proyecto de acuerdo, de la Honorable Cámara de Diputados, aprobatorio del Tratado de Cooperación en Materia de Patentes (PCT), elaborado en Washington el 19 de junio de 1970, enmendado el 28 de septiembre de 1979, modificado el 3 de febrero de 1984 y el 3 de octubre de 2001, y su reglamento anexo. (Boletín N° 4.964-10)."
   },
   {
     "id": "senado-4964-07/10/2008",
     "boletin": "4964",
     "fecha": "07/10/2008",
     "chamber": "senado",
-    "materia": "La proposición para enviar a la Comisión de Constitución, Legislación, Justicia y Reglamento el proyecto de acuerdo, ...",
-    "descripcion": "Votación para la aprobación de este instrumento internacional por el Congreso chileno.",
+    "title": "Votación de la proposición para enviar a la Comisión de Constitución, Legislación, Justicia y Reglamento el proyecto de acuerdo, de la Honorable Cámara de Diputados, aprobatorio del Tratado de Cooperación en Materia de Patentes (PCT), elaborado en Washington el 19 de junio de 1970, enmendado el 28 de septiembre de 1979, modificado el 3 de febrero de 1984 y el 3 de octubre de 2001, y su reglamento anexo. (Boletín N° 4.964-10).",
+    "descripcion": "Votación de la proposición para enviar a la Comisión de Constitución, Legislación, Justicia y Reglamento el proyecto de acuerdo, de la Honorable Cámara de Diputados, aprobatorio del Tratado de Cooperación en Materia de Patentes (PCT), elaborado en Washington el 19 de junio de 1970, enmendado el 28 de septiembre de 1979, modificado el 3 de febrero de 1984 y el 3 de octubre de 2001, y su reglamento anexo. (Boletín N° 4.964-10).",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -1481,15 +1555,17 @@
       "Gómez U., José Antonio": "afavor",
       "Ávila C., Nelson": "abstencion",
       "Romero P., Sergio": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación de la proposición para enviar a la Comisión de Constitución, Legislación, Justicia y Reglamento el proyecto de acuerdo, de la Honorable Cámara de Diputados, aprobatorio del Tratado de Cooperación en Materia de Patentes (PCT), elaborado en Washington el 19 de junio de 1970, enmendado el 28 de septiembre de 1979, modificado el 3 de febrero de 1984 y el 3 de octubre de 2001, y su reglamento anexo. (Boletín N° 4.964-10)."
   },
   {
     "id": "senado-4968-08/07/2008",
     "boletin": "4968",
     "fecha": "08/07/2008",
     "chamber": "senado",
-    "materia": "La Solicitud de S.E. la señora Presidente de la República para pronunciarse, de conformidad a lo dispuesto en el artí...",
-    "descripcion": "Propuesta de reforma a la Constitución Política de Chile.",
+    "title": "Votación de la Solicitud de S.E. la señora Presidente de la República para pronunciarse, de conformidad a lo dispuesto en el artículo 68 de la Carta Fundamental, respecto del proyecto de reforma constitucional que suprime la referencia al número de Diputados en la Constitución Política de la República (Boletín N° 4.968-07).",
+    "descripcion": "Votación de la Solicitud de S.E. la señora Presidente de la República para pronunciarse, de conformidad a lo dispuesto en el artículo 68 de la Carta Fundamental, respecto del proyecto de reforma constitucional que suprime la referencia al número de Diputados en la Constitución Política de la República (Boletín N° 4.968-07).",
     "tags": [],
     "votos": {
       "911": "contra",
@@ -1527,15 +1603,17 @@
       "Escalona M., Camilo": "afavor",
       "Ávila C., Nelson": "afavor",
       "Arancibia R., Jorge": "contra"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación de la Solicitud de S.E. la señora Presidente de la República para pronunciarse, de conformidad a lo dispuesto en el artículo 68 de la Carta Fundamental, respecto del proyecto de reforma constitucional que suprime la referencia al número de Diputados en la Constitución Política de la República (Boletín N° 4.968-07)."
   },
   {
     "id": "senado-4970-09/12/2008",
     "boletin": "4970",
     "fecha": "09/12/2008",
     "chamber": "senado",
-    "materia": "Establece la Ley General de Educación, en lo referente a la inclusión como docentes idóneos en la educación media de ...",
-    "descripcion": "Proyecto que establece la ley general de educación, en lo referente a la inclusión como docentes idóneos en la educación media de ....",
+    "title": "Votación en general del proyecto de ley que establece la Ley General de Educación. (Boletín N° 4.970-04).",
+    "descripcion": "Votación en general del proyecto de ley que establece la Ley General de Educación. (Boletín N° 4.970-04).",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -1576,15 +1654,17 @@
       "Pizarro S., Jorge": "afavor",
       "Allamand Z., Andrés": "afavor",
       "Vásquez Ú., Guillermo": "afavor"
-    }
+    },
+    "relevante": true,
+    "materia": "Votación en general del proyecto de ley que establece la Ley General de Educación. (Boletín N° 4.970-04)."
   },
   {
     "id": "senado-4977-23/01/2008",
     "boletin": "4977",
     "fecha": "23/01/2008",
     "chamber": "senado",
-    "materia": "Introduce modificaciones a la Ley General de Servicios Eléctricos respecto de la generación de energía eléctrica con ...",
-    "descripcion": "Proyecto que introduce modificaciones a la ley general de servicios eléctricos respecto de la generación de energía eléctrica con ....",
+    "title": "Votación en general proyecto de ley que introduce modificaciones a la Ley General de Servicios Eléctricos, respecto de la generación de energía eléctrica con fuentes de energía renovables no convencionales.",
+    "descripcion": "Votación en general proyecto de ley que introduce modificaciones a la Ley General de Servicios Eléctricos, respecto de la generación de energía eléctrica con fuentes de energía renovables no convencionales.",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -1615,15 +1695,17 @@
       "Bianchi C., Carlos": "afavor",
       "Espina O., Alberto": "afavor",
       "Navarro B., Alejandro": "afavor"
-    }
+    },
+    "relevante": true,
+    "materia": "Votación en general proyecto de ley que introduce modificaciones a la Ley General de Servicios Eléctricos, respecto de la generación de energía eléctrica con fuentes de energía renovables no convencionales."
   },
   {
     "id": "senado-5068-15/01/2008",
     "boletin": "5068",
     "fecha": "15/01/2008",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 19.067 y establece normas para la participación de tropas chilenas en operaciones de paz",
-    "descripcion": "Proyecto que modifica la ley n° 19.067 y establece normas para la participación de tropas chilenas en operaciones de paz.",
+    "title": "Votación en general y particular del proyecto de ley que modifica la ley Nº 19.067 y establece normas para la participación de tropas chilenas en operaciones de paz. (Boletín Nº 5068-10).",
+    "descripcion": "Votación en general y particular del proyecto de ley que modifica la ley Nº 19.067 y establece normas para la participación de tropas chilenas en operaciones de paz. (Boletín Nº 5068-10).",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -1658,15 +1740,17 @@
       "Orpis B., Jaime": "afavor",
       "Ominami P., Carlos": "afavor",
       "Naranjo O., Jaime": "afavor"
-    }
+    },
+    "relevante": true,
+    "materia": "Votación en general y particular del proyecto de ley que modifica la ley Nº 19.067 y establece normas para la participación de tropas chilenas en operaciones de paz. (Boletín Nº 5068-10)."
   },
   {
     "id": "senado-5068-01/10/2008",
     "boletin": "5068",
     "fecha": "01/10/2008",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 19.067 y establece normas para la participación de tropas chilenas en operaciones de paz",
-    "descripcion": "Proyecto que modifica la ley n° 19.067 y establece normas para la participación de tropas chilenas en operaciones de paz.",
+    "title": "Votación en general y particular del proyecto de ley que modifica la ley Nº 19.067 y establece normas para la participación de tropas chilenas en operaciones de paz. (Boletín Nº 5068-10).",
+    "descripcion": "Votación en general y particular del proyecto de ley que modifica la ley Nº 19.067 y establece normas para la participación de tropas chilenas en operaciones de paz. (Boletín Nº 5068-10).",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -1688,15 +1772,17 @@
       "Longueira M., Pablo": "afavor",
       "Gómez U., José Antonio": "afavor",
       "Ávila C., Nelson": "afavor"
-    }
+    },
+    "relevante": true,
+    "materia": "Votación en general y particular del proyecto de ley que modifica la ley Nº 19.067 y establece normas para la participación de tropas chilenas en operaciones de paz. (Boletín Nº 5068-10)."
   },
   {
     "id": "senado-5069-05/08/2008",
     "boletin": "5069",
     "fecha": "05/08/2008",
     "chamber": "senado",
-    "materia": "Constituida para resolver las divergencias suscitadas entre ambas Cámaras durante la tramitación del proyecto de ley ...",
-    "descripcion": "Propuesta legislativa para constituida para resolver las divergencias suscitadas entre ambas cámaras durante la tramitación del proyecto de ley ....",
+    "title": "Votación en general del proyecto de ley sobre comercio ilegal (Boletín N° 5.069-03).",
+    "descripcion": "Votación en general del proyecto de ley sobre comercio ilegal (Boletín N° 5.069-03).",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -1731,15 +1817,17 @@
       "Allamand Z., Andrés": "afavor",
       "Espina O., Alberto": "afavor",
       "Muñoz A., Pedro": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación en general del proyecto de ley sobre comercio ilegal (Boletín N° 5.069-03)."
   },
   {
     "id": "senado-5081-09/07/2008",
     "boletin": "5081",
     "fecha": "09/07/2008",
     "chamber": "senado",
-    "materia": "Sobre operación de embalses frente a alertas y emergencias de crecidas, y otras medidas que indica. Dicho precepto se...",
-    "descripcion": "Propuesta legislativa para sobre operación de embalses frente a alertas y emergencias de crecidas, y otras medidas que indica. dicho precepto se....",
+    "title": "Votación del artículo 1º del proyecto de ley, de la Honorable Cámara de Diputados, sobre operación de embalses frente a alertas y emergencias de crecidas, y otras medidas que indica (Boletín N° 5.081-15). Dicho precepto se refiere al ámbito de aplicación de la ley.",
+    "descripcion": "Votación del artículo 1º del proyecto de ley, de la Honorable Cámara de Diputados, sobre operación de embalses frente a alertas y emergencias de crecidas, y otras medidas que indica (Boletín N° 5.081-15). Dicho precepto se refiere al ámbito de aplicación de la ley.",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -1768,15 +1856,17 @@
       "Matthei F., Evelyn": "afavor",
       "Vásquez Ú., Guillermo": "afavor",
       "Navarro B., Alejandro": "abstencion"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación del artículo 1º del proyecto de ley, de la Honorable Cámara de Diputados, sobre operación de embalses frente a alertas y emergencias de crecidas, y otras medidas que indica (Boletín N° 5.081-15). Dicho precepto se refiere al ámbito de aplicación de la ley."
   },
   {
     "id": "senado-5128-02/07/2008",
     "boletin": "5128",
     "fecha": "02/07/2008",
     "chamber": "senado",
-    "materia": "De Libre Comercio entre el Gobierno de la República de Chile y el Gobierno del Perú, que modifica y sustituye el ACE ...",
-    "descripcion": "Votación para la aprobación de este instrumento internacional por el Congreso chileno.",
+    "title": "Votación en general y en particular del proyecto de acuerdo, de la Honorable Cámara de Diputados, de Libre Comercio entre el Gobierno de la República de Chile y el Gobierno del Perú, que modifica y sustituye el ACE N° 38, y sus anexos, apéndices, protocolos y demás instrumentos que hayan sido suscritos a su amparo, adoptado en Lima el 22 de agosto de 2006, y el Acuerdo que lo modifica (Boletín N° 5.128-10).",
+    "descripcion": "Votación en general y en particular del proyecto de acuerdo, de la Honorable Cámara de Diputados, de Libre Comercio entre el Gobierno de la República de Chile y el Gobierno del Perú, que modifica y sustituye el ACE N° 38, y sus anexos, apéndices, protocolos y demás instrumentos que hayan sido suscritos a su amparo, adoptado en Lima el 22 de agosto de 2006, y el Acuerdo que lo modifica (Boletín N° 5.128-10).",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -1808,15 +1898,17 @@
       "Orpis B., Jaime": "afavor",
       "Ruiz-Esquide J., Mariano": "afavor",
       "Flores L., Fernando": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación en general y en particular del proyecto de acuerdo, de la Honorable Cámara de Diputados, de Libre Comercio entre el Gobierno de la República de Chile y el Gobierno del Perú, que modifica y sustituye el ACE N° 38, y sus anexos, apéndices, protocolos y demás instrumentos que hayan sido suscritos a su amparo, adoptado en Lima el 22 de agosto de 2006, y el Acuerdo que lo modifica (Boletín N° 5.128-10)."
   },
   {
     "id": "senado-5172-30/09/2008",
     "boletin": "5172",
     "fecha": "30/09/2008",
     "chamber": "senado",
-    "materia": "Modifica la Ley de Concesiones de Obras Públicas y otras normas que indica",
-    "descripcion": "Proyecto que modifica la ley de concesiones de obras públicas y otras normas que indica.",
+    "title": "Proyecto de ley, iniciado en Mensaje de S.E. la señora Presidenta de la República, en primer trámite constitucional, que modifica la Ley de Concesiones de Obras Públicas y otras normas que indica, con informe de la Comisión de Obras Públicas. (Boletín Nº 5172-09). Con urgencia calificada de simple.",
+    "descripcion": "Proyecto de ley, iniciado en Mensaje de S.E. la señora Presidenta de la República, en primer trámite constitucional, que modifica la Ley de Concesiones de Obras Públicas y otras normas que indica, con informe de la Comisión de Obras Públicas. (Boletín Nº 5172-09). Con urgencia calificada de simple.",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -1844,15 +1936,17 @@
       "Prokurica P., Baldo": "afavor",
       "Novoa V., Jovino": "afavor",
       "Orpis B., Jaime": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Proyecto de ley, iniciado en Mensaje de S.E. la señora Presidenta de la República, en primer trámite constitucional, que modifica la Ley de Concesiones de Obras Públicas y otras normas que indica, con informe de la Comisión de Obras Públicas. (Boletín Nº 5172-09). Con urgencia calificada de simple."
   },
   {
     "id": "senado-5310-23/12/2008",
     "boletin": "5310",
     "fecha": "23/12/2008",
     "chamber": "senado",
-    "materia": "Modifica el artículo 150 del Código del Trabajo, relativo al descanso semanal de las trabajadoras de casa particular,...",
-    "descripcion": "Proyecto que modifica el artículo 150 del código del trabajo, relativo al descanso semanal de las trabajadoras de casa particular,....",
+    "title": "Votación en general del proyecto de ley, de la Honorable Cámara de Diputados, que modifica el artículo 150 del Código del Trabajo, relativo al descanso semanal de las trabajadoras de casa particular.",
+    "descripcion": "Votación en general del proyecto de ley, de la Honorable Cámara de Diputados, que modifica el artículo 150 del Código del Trabajo, relativo al descanso semanal de las trabajadoras de casa particular.",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -1883,15 +1977,17 @@
       "Alvear V., Soledad": "afavor",
       "Ominami P., Carlos": "afavor",
       "Gazmuri M., Jaime": "afavor"
-    }
+    },
+    "relevante": true,
+    "materia": "Votación en general del proyecto de ley, de la Honorable Cámara de Diputados, que modifica el artículo 150 del Código del Trabajo, relativo al descanso semanal de las trabajadoras de casa particular."
   },
   {
     "id": "senado-5315-02/07/2008",
     "boletin": "5315",
     "fecha": "02/07/2008",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 19.885, referida a donaciones con beneficios tributarios. Corresponde agregar por la aprobación de...",
-    "descripcion": "Proyecto que modifica la ley n° 19.885, referida a donaciones con beneficios tributarios. corresponde agregar por la aprobación de....",
+    "title": "Votación en general del proyecto de ley, de la Honorable Cámara de Diputados, que modifica la ley N° 19.885, referida a donaciones con beneficios tributarios (Boletín N° 5.315-05). Corresponde agregar por la aprobación del proyecto al Senador Pizarro y por la abstención al Senador Espina.",
+    "descripcion": "Votación en general del proyecto de ley, de la Honorable Cámara de Diputados, que modifica la ley N° 19.885, referida a donaciones con beneficios tributarios (Boletín N° 5.315-05). Corresponde agregar por la aprobación del proyecto al Senador Pizarro y por la abstención al Senador Espina.",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -1925,15 +2021,17 @@
       "Bianchi C., Carlos": "abstencion",
       "Letelier M., Juan Pablo": "abstencion",
       "Ruiz-Esquide J., Mariano": "abstencion"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación en general del proyecto de ley, de la Honorable Cámara de Diputados, que modifica la ley N° 19.885, referida a donaciones con beneficios tributarios (Boletín N° 5.315-05). Corresponde agregar por la aprobación del proyecto al Senador Pizarro y por la abstención al Senador Espina."
   },
   {
     "id": "senado-5315-30/09/2008",
     "boletin": "5315",
     "fecha": "30/09/2008",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 19.885, referida a donaciones con beneficios tributarios. Corresponde agregar por la aprobación de...",
-    "descripcion": "Proyecto que modifica la ley n° 19.885, referida a donaciones con beneficios tributarios. corresponde agregar por la aprobación de....",
+    "title": "Votación en general del proyecto de ley, de la Honorable Cámara de Diputados, que modifica la ley N° 19.885, referida a donaciones con beneficios tributarios (Boletín N° 5.315-05). Corresponde agregar por la aprobación del proyecto al Senador Pizarro y por la abstención al Senador Espina.",
+    "descripcion": "Votación en general del proyecto de ley, de la Honorable Cámara de Diputados, que modifica la ley N° 19.885, referida a donaciones con beneficios tributarios (Boletín N° 5.315-05). Corresponde agregar por la aprobación del proyecto al Senador Pizarro y por la abstención al Senador Espina.",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -1959,15 +2057,17 @@
       "Alvear V., Soledad": "afavor",
       "Ominami P., Carlos": "afavor",
       "Horvath K., Antonio": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación en general del proyecto de ley, de la Honorable Cámara de Diputados, que modifica la ley N° 19.885, referida a donaciones con beneficios tributarios (Boletín N° 5.315-05). Corresponde agregar por la aprobación del proyecto al Senador Pizarro y por la abstención al Senador Espina."
   },
   {
     "id": "senado-5315-01/10/2008",
     "boletin": "5315",
     "fecha": "01/10/2008",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 19.885, referida a donaciones con beneficios tributarios. Corresponde agregar por la aprobación de...",
-    "descripcion": "Proyecto que modifica la ley n° 19.885, referida a donaciones con beneficios tributarios. corresponde agregar por la aprobación de....",
+    "title": "Votación en general del proyecto de ley, de la Honorable Cámara de Diputados, que modifica la ley N° 19.885, referida a donaciones con beneficios tributarios (Boletín N° 5.315-05). Corresponde agregar por la aprobación del proyecto al Senador Pizarro y por la abstención al Senador Espina.",
+    "descripcion": "Votación en general del proyecto de ley, de la Honorable Cámara de Diputados, que modifica la ley N° 19.885, referida a donaciones con beneficios tributarios (Boletín N° 5.315-05). Corresponde agregar por la aprobación del proyecto al Senador Pizarro y por la abstención al Senador Espina.",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -1997,15 +2097,17 @@
       "Ruiz-Esquide J., Mariano": "pareo",
       "Navarro B., Alejandro": "abstencion",
       "Horvath K., Antonio": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación en general del proyecto de ley, de la Honorable Cámara de Diputados, que modifica la ley N° 19.885, referida a donaciones con beneficios tributarios (Boletín N° 5.315-05). Corresponde agregar por la aprobación del proyecto al Senador Pizarro y por la abstención al Senador Espina."
   },
   {
     "id": "senado-5315-10/12/2008",
     "boletin": "5315",
     "fecha": "10/12/2008",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 19.885, referida a donaciones con beneficios tributarios. Corresponde agregar por la aprobación de...",
-    "descripcion": "Proyecto que modifica la ley n° 19.885, referida a donaciones con beneficios tributarios. corresponde agregar por la aprobación de....",
+    "title": "Votación en general del proyecto de ley, de la Honorable Cámara de Diputados, que modifica la ley N° 19.885, referida a donaciones con beneficios tributarios (Boletín N° 5.315-05). Corresponde agregar por la aprobación del proyecto al Senador Pizarro y por la abstención al Senador Espina.",
+    "descripcion": "Votación en general del proyecto de ley, de la Honorable Cámara de Diputados, que modifica la ley N° 19.885, referida a donaciones con beneficios tributarios (Boletín N° 5.315-05). Corresponde agregar por la aprobación del proyecto al Senador Pizarro y por la abstención al Senador Espina.",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -2035,15 +2137,17 @@
       "Letelier M., Juan Pablo": "abstencion",
       "Gómez U., José Antonio": "afavor",
       "Muñoz B., Roberto": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación en general del proyecto de ley, de la Honorable Cámara de Diputados, que modifica la ley N° 19.885, referida a donaciones con beneficios tributarios (Boletín N° 5.315-05). Corresponde agregar por la aprobación del proyecto al Senador Pizarro y por la abstención al Senador Espina."
   },
   {
     "id": "senado-5383-15/01/2008",
     "boletin": "5383",
     "fecha": "15/01/2008",
     "chamber": "senado",
-    "materia": "Modificaciones introducidas por la Cámara de Diputados al proyecto de ley que modifica el DFL Nº 2, de 1998, sobre Su...",
-    "descripcion": "Proyecto que modificaciones introducidas por la cámara de diputados al proyecto de ley que modifica el dfl nº 2, de 1998, sobre su....",
+    "title": "Votación de modificaciones introducidas por la Cámara de Diputados al proyecto de ley que modifica el DFL Nº 2, de 1998, sobre Subvenciones del Estado a Establecimientos Educacionales (Boletín Nº 5.383-04)",
+    "descripcion": "Votación de modificaciones introducidas por la Cámara de Diputados al proyecto de ley que modifica el DFL Nº 2, de 1998, sobre Subvenciones del Estado a Establecimientos Educacionales (Boletín Nº 5.383-04)",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -2072,15 +2176,17 @@
       "Ávila C., Nelson": "afavor",
       "Vásquez Ú., Guillermo": "afavor",
       "García R., José": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación de modificaciones introducidas por la Cámara de Diputados al proyecto de ley que modifica el DFL Nº 2, de 1998, sobre Subvenciones del Estado a Establecimientos Educacionales (Boletín Nº 5.383-04)"
   },
   {
     "id": "senado-5408-06/05/2008",
     "boletin": "5408",
     "fecha": "06/05/2008",
     "chamber": "senado",
-    "materia": "Reforma constitucional que iniciado en Moción de los Honorable Senadores señores Espina, Allamand, García, Prokurica,...",
-    "descripcion": "Propuesta de reforma a la Constitución Política de Chile.",
+    "title": "Votación en general del proyecto de reforma constitucional que establece la obligación de otorgar defensa penal y asesoría jurídica a las personas naturales que han sido víctimas de delitos y que no pueden procurárselas por sí mismas.",
+    "descripcion": "Votación en general del proyecto de reforma constitucional que establece la obligación de otorgar defensa penal y asesoría jurídica a las personas naturales que han sido víctimas de delitos y que no pueden procurárselas por sí mismas.",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -2109,15 +2215,17 @@
       "Bianchi C., Carlos": "afavor",
       "Zaldívar L., Adolfo": "afavor",
       "Arancibia R., Jorge": "afavor"
-    }
+    },
+    "relevante": true,
+    "materia": "Votación en general del proyecto de reforma constitucional que establece la obligación de otorgar defensa penal y asesoría jurídica a las personas naturales que han sido víctimas de delitos y que no pueden procurárselas por sí mismas."
   },
   {
     "id": "senado-5417-29/10/2008",
     "boletin": "5417",
     "fecha": "29/10/2008",
     "chamber": "senado",
-    "materia": "Modifica el decreto ley N° 2.695, de 1979, en lo relativo a la posesión y el dominio de la pequeña propiedad raíz",
-    "descripcion": "Proyecto que modifica el decreto ley n° 2.695, de 1979, en lo relativo a la posesión y el dominio de la pequeña propiedad raíz.",
+    "title": "Votación en particular del proyecto de ley, iniciado en Moción de los Honorables Senadores señores Prokurica, Espina, Horvath, Romero y Sabag, que modifica el decreto ley N° 2.695, de 1979, en lo relativo a la posesión y el dominio de la pequeña propiedad raíz (Boletín N° 5.417-12).",
+    "descripcion": "Votación en particular del proyecto de ley, iniciado en Moción de los Honorables Senadores señores Prokurica, Espina, Horvath, Romero y Sabag, que modifica el decreto ley N° 2.695, de 1979, en lo relativo a la posesión y el dominio de la pequeña propiedad raíz (Boletín N° 5.417-12).",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -2143,15 +2251,17 @@
       "Arancibia R., Jorge": "afavor",
       "Núñez M., Ricardo": "afavor",
       "Letelier M., Juan Pablo": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación en particular del proyecto de ley, iniciado en Moción de los Honorables Senadores señores Prokurica, Espina, Horvath, Romero y Sabag, que modifica el decreto ley N° 2.695, de 1979, en lo relativo a la posesión y el dominio de la pequeña propiedad raíz (Boletín N° 5.417-12)."
   },
   {
     "id": "senado-5431-15/01/2008",
     "boletin": "5431",
     "fecha": "15/01/2008",
     "chamber": "senado",
-    "materia": "Modifica la ley Nº 20.209 y otros cuerpos legales en materia de bonificaciones y normas de promoción aplicables al pe...",
-    "descripcion": "Proyecto que modifica la ley nº 20.209 y otros cuerpos legales en materia de bonificaciones y normas de promoción aplicables al pe....",
+    "title": "Votación en particular del proyecto de ley que modifica la ley Nº 20.209 y otros cuerpos legales en materia de bonificaciones y normas de promoción aplicables al personal de salud que se desempeña en los servicios que indica (Boletín Nº 5431-11).",
+    "descripcion": "Votación en particular del proyecto de ley que modifica la ley Nº 20.209 y otros cuerpos legales en materia de bonificaciones y normas de promoción aplicables al personal de salud que se desempeña en los servicios que indica (Boletín Nº 5431-11).",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -2182,15 +2292,17 @@
       "Muñoz A., Pedro": "contra",
       "Longueira M., Pablo": "afavor",
       "Sabag C., Hosaín": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación en particular del proyecto de ley que modifica la ley Nº 20.209 y otros cuerpos legales en materia de bonificaciones y normas de promoción aplicables al personal de salud que se desempeña en los servicios que indica (Boletín Nº 5431-11)."
   },
   {
     "id": "senado-5432-09/09/2008",
     "boletin": "5432",
     "fecha": "09/09/2008",
     "chamber": "senado",
-    "materia": "Crea nueva Circunscripción Senatorial y Dirección Regional del Servicio Electoral de Arica y Parinacota",
-    "descripcion": "Proyecto que crea nueva circunscripción senatorial y dirección regional del servicio electoral de arica y parinacota.",
+    "title": "Votación en general del proyecto de ley, de la Honorable Cámara de Diputados, que crea nueva Circunscripción Senatorial y Dirección Regional del Servicio Electoral de Arica y Parinacota (Boletín N° 5.432-06).",
+    "descripcion": "Votación en general del proyecto de ley, de la Honorable Cámara de Diputados, que crea nueva Circunscripción Senatorial y Dirección Regional del Servicio Electoral de Arica y Parinacota (Boletín N° 5.432-06).",
     "tags": [],
     "votos": {
       "911": "contra",
@@ -2226,15 +2338,17 @@
       "Orpis B., Jaime": "afavor",
       "Horvath K., Antonio": "afavor",
       "Escalona M., Camilo": "afavor"
-    }
+    },
+    "relevante": true,
+    "materia": "Votación en general del proyecto de ley, de la Honorable Cámara de Diputados, que crea nueva Circunscripción Senatorial y Dirección Regional del Servicio Electoral de Arica y Parinacota (Boletín N° 5.432-06)."
   },
   {
     "id": "senado-5479-14/05/2008",
     "boletin": "5479",
     "fecha": "14/05/2008",
     "chamber": "senado",
-    "materia": "Crea una planta de tropa profesional para las Fuerzas Armadas",
-    "descripcion": "Proyecto que crea una planta de tropa profesional para las fuerzas armadas.",
+    "title": "Votación en general del proyecto de ley que crea una planta de tropa profesional para las Fuerzas Armadas. (Boletín N° 5.479-02).",
+    "descripcion": "Votación en general del proyecto de ley que crea una planta de tropa profesional para las Fuerzas Armadas. (Boletín N° 5.479-02).",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -2261,15 +2375,17 @@
       "Muñoz A., Pedro": "afavor",
       "Girardi L., Guido": "afavor",
       "Arancibia R., Jorge": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación en general del proyecto de ley que crea una planta de tropa profesional para las Fuerzas Armadas. (Boletín N° 5.479-02)."
   },
   {
     "id": "senado-5502-29/10/2008",
     "boletin": "5502",
     "fecha": "29/10/2008",
     "chamber": "senado",
-    "materia": "De la Honorable Cámara de Diputados, que modifica la Ley General de Servicios Sanitarios para eximir a las viviendas ...",
-    "descripcion": "Propuesta legislativa para de la honorable cámara de diputados, que modifica la ley general de servicios sanitarios para eximir a las viviendas ....",
+    "title": "Votación en general y particular del proyecto de ley, de la Honorable Cámara de Diputados, que modifica la Ley General de Servicios Sanitarios para eximir a las viviendas sociales o subsidiadas de hasta 750 unidades de fomento, del costo de conexión a la red de agua potable y alcantarillado y para facilitar la construcción de viviendas sociales, simplificando el procedimiento de ampliación de territorios operacionales de servicios sanitarios (Boletines N°s 5.502-14 y 5.571-14, refundidos).",
+    "descripcion": "Votación en general y particular del proyecto de ley, de la Honorable Cámara de Diputados, que modifica la Ley General de Servicios Sanitarios para eximir a las viviendas sociales o subsidiadas de hasta 750 unidades de fomento, del costo de conexión a la red de agua potable y alcantarillado y para facilitar la construcción de viviendas sociales, simplificando el procedimiento de ampliación de territorios operacionales de servicios sanitarios (Boletines N°s 5.502-14 y 5.571-14, refundidos).",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -2294,15 +2410,17 @@
       "García R., José": "afavor",
       "Orpis B., Jaime": "afavor",
       "Ruiz-Esquide J., Mariano": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación en general y particular del proyecto de ley, de la Honorable Cámara de Diputados, que modifica la Ley General de Servicios Sanitarios para eximir a las viviendas sociales o subsidiadas de hasta 750 unidades de fomento, del costo de conexión a la red de agua potable y alcantarillado y para facilitar la construcción de viviendas sociales, simplificando el procedimiento de ampliación de territorios operacionales de servicios sanitarios (Boletines N°s 5.502-14 y 5.571-14, refundidos)."
   },
   {
     "id": "senado-5560-08/01/2008",
     "boletin": "5560",
     "fecha": "08/01/2008",
     "chamber": "senado",
-    "materia": "Regula la entrada en vigencia de las leyes procesales que indica",
-    "descripcion": "Proyecto que regula la entrada en vigencia de las leyes procesales que indica.",
+    "title": "Regula la entrada en vigencia de las leyes procesales que indica. (Boletín Nº 5560-07)",
+    "descripcion": "Regula la entrada en vigencia de las leyes procesales que indica. (Boletín Nº 5560-07)",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -2330,15 +2448,17 @@
       "Navarro B., Alejandro": "afavor",
       "Ávila C., Nelson": "afavor",
       "Ruiz-Esquide J., Mariano": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Regula la entrada en vigencia de las leyes procesales que indica. (Boletín Nº 5560-07)"
   },
   {
     "id": "senado-5668-18/11/2008",
     "boletin": "5668",
     "fecha": "18/11/2008",
     "chamber": "senado",
-    "materia": "De la Honorable Cámara de Diputados, que otorga nacionalidad chilena por gracia al sacerdote de nacionalidad irlandes...",
-    "descripcion": "Proyecto que de la honorable cámara de diputados, que otorga nacionalidad chilena por gracia al sacerdote de nacionalidad irlandes....",
+    "title": "Votación en general y particular del proyecto de ley, de la Honorable Cámara de Diputados, que otorga nacionalidad chilena por gracia al sacerdote de nacionalidad irlandesa John Joseph Reilly (Boletín N° 5.668-17).",
+    "descripcion": "Votación en general y particular del proyecto de ley, de la Honorable Cámara de Diputados, que otorga nacionalidad chilena por gracia al sacerdote de nacionalidad irlandesa John Joseph Reilly (Boletín N° 5.668-17).",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -2369,15 +2489,17 @@
       "Escalona M., Camilo": "afavor",
       "Muñoz A., Pedro": "afavor",
       "Espina O., Alberto": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación en general y particular del proyecto de ley, de la Honorable Cámara de Diputados, que otorga nacionalidad chilena por gracia al sacerdote de nacionalidad irlandesa John Joseph Reilly (Boletín N° 5.668-17)."
   },
   {
     "id": "senado-5695-23/01/2008",
     "boletin": "5695",
     "fecha": "23/01/2008",
     "chamber": "senado",
-    "materia": "Clausura debate proyecto de ley que reemplaza denominación del Estadio Nacional por Estadio Nacional Julio Martínez P...",
-    "descripcion": "Propuesta legislativa para clausura debate proyecto de ley que reemplaza denominación del estadio nacional por estadio nacional julio martínez p....",
+    "title": "Clausura debate proyecto de ley que reemplaza denominación del Estadio Nacional por Estadio Nacional Julio Martínez Prádanos.",
+    "descripcion": "Clausura debate proyecto de ley que reemplaza denominación del Estadio Nacional por Estadio Nacional Julio Martínez Prádanos.",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -2407,15 +2529,17 @@
       "Bianchi C., Carlos": "contra",
       "Ávila C., Nelson": "contra",
       "Núñez M., Ricardo": "contra"
-    }
+    },
+    "relevante": false,
+    "materia": "Clausura debate proyecto de ley que reemplaza denominación del Estadio Nacional por Estadio Nacional Julio Martínez Prádanos."
   },
   {
     "id": "senado-5699-23/01/2008",
     "boletin": "5699",
     "fecha": "23/01/2008",
     "chamber": "senado",
-    "materia": "Incorpora a los descendientes y reemplazantes de los pescadores artesanales a la Región Original de Tarapacá",
-    "descripcion": "Proyecto que incorpora a los descendientes y reemplazantes de los pescadores artesanales a la región original de tarapacá.",
+    "title": "Votación en general y particular del proyecto de ley que incorpora a los descendientes y reemplazantes de los pescadores artesanales a la Región Original de Tarapacá.",
+    "descripcion": "Votación en general y particular del proyecto de ley que incorpora a los descendientes y reemplazantes de los pescadores artesanales a la Región Original de Tarapacá.",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -2445,15 +2569,17 @@
       "Matthei F., Evelyn": "afavor",
       "Núñez M., Ricardo": "afavor",
       "Pérez V., Víctor": "pareo"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación en general y particular del proyecto de ley que incorpora a los descendientes y reemplazantes de los pescadores artesanales a la Región Original de Tarapacá."
   },
   {
     "id": "senado-5719-03/06/2008",
     "boletin": "5719",
     "fecha": "03/06/2008",
     "chamber": "senado",
-    "materia": "Iniciado en Mensaje de S.E. la señora Presidente de la República, en primertrámite constitucional, que modifica la Le...",
-    "descripcion": "Propuesta legislativa para iniciado en mensaje de s.e. la señora presidente de la república, en primertrámite constitucional, que modifica la le....",
+    "title": "Votación en general del proyecto de ley, iniciado en Mensaje de S.E. la señora Presidente de la República, en primertrámite constitucional, que modifica la Ley General de Urbanismo y Construcciones en materia de planificación urbana (Boletín N° 5.719-14).",
+    "descripcion": "Votación en general del proyecto de ley, iniciado en Mensaje de S.E. la señora Presidente de la República, en primertrámite constitucional, que modifica la Ley General de Urbanismo y Construcciones en materia de planificación urbana (Boletín N° 5.719-14).",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -2488,15 +2614,17 @@
       "Allamand Z., Andrés": "afavor",
       "Letelier M., Juan Pablo": "afavor",
       "Horvath K., Antonio": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación en general del proyecto de ley, iniciado en Mensaje de S.E. la señora Presidente de la República, en primertrámite constitucional, que modifica la Ley General de Urbanismo y Construcciones en materia de planificación urbana (Boletín N° 5.719-14)."
   },
   {
     "id": "senado-5721-16/01/2008",
     "boletin": "5721",
     "fecha": "16/01/2008",
     "chamber": "senado",
-    "materia": "Adiciona recursos al Fondo de Estabilización de Precios de Combustibles derivados del petróleo, establecido en la ley...",
-    "descripcion": "Propuesta legislativa para adiciona recursos al fondo de estabilización de precios de combustibles derivados del petróleo, establecido en la ley....",
+    "title": "Proyecto de ley de la Honorable Cámara de Diputados que adiciona recursos al Fondo de Estabilización de Precios de Combustibles derivados del petróleo, establecido en la ley Nº 20.063, con informe de la Comisión de Hacienda. (Boletín Nº 5721-05). Con urgencia calificada de discusión inmediata.",
+    "descripcion": "Proyecto de ley de la Honorable Cámara de Diputados que adiciona recursos al Fondo de Estabilización de Precios de Combustibles derivados del petróleo, establecido en la ley Nº 20.063, con informe de la Comisión de Hacienda. (Boletín Nº 5721-05). Con urgencia calificada de discusión inmediata.",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -2530,15 +2658,17 @@
       "Navarro B., Alejandro": "afavor",
       "Coloma C., Juan Antonio": "afavor",
       "Sabag C., Hosaín": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Proyecto de ley de la Honorable Cámara de Diputados que adiciona recursos al Fondo de Estabilización de Precios de Combustibles derivados del petróleo, establecido en la ley Nº 20.063, con informe de la Comisión de Hacienda. (Boletín Nº 5721-05). Con urgencia calificada de discusión inmediata."
   },
   {
     "id": "senado-5752-19/03/2008",
     "boletin": "5752",
     "fecha": "19/03/2008",
     "chamber": "senado",
-    "materia": "Establece rebaja transitoria al impuesto a las gasolinas automotrices y modifica otros cuerpos legales",
-    "descripcion": "Proyecto que establece rebaja transitoria al impuesto a las gasolinas automotrices y modifica otros cuerpos legales.",
+    "title": "Votación en general del proyecto de ley que establece rebaja transitoria al impuesto a las gasolinas automotrices y modifica otros cuerpos legales (Boletín Nº 5.752-05).",
+    "descripcion": "Votación en general del proyecto de ley que establece rebaja transitoria al impuesto a las gasolinas automotrices y modifica otros cuerpos legales (Boletín Nº 5.752-05).",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -2577,15 +2707,17 @@
       "Letelier M., Juan Pablo": "afavor",
       "Arancibia R., Jorge": "afavor",
       "Cantero O., Carlos": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación en general del proyecto de ley que establece rebaja transitoria al impuesto a las gasolinas automotrices y modifica otros cuerpos legales (Boletín Nº 5.752-05)."
   },
   {
     "id": "senado-5763-19/03/2008",
     "boletin": "5763",
     "fecha": "19/03/2008",
     "chamber": "senado",
-    "materia": "Establece, en forma transitoria, un mecanismo de devolución del impuesto específico al petróleo diesel a favor de las...",
-    "descripcion": "Proyecto que establece, en forma transitoria, un mecanismo de devolución del impuesto específico al petróleo diesel a favor de las....",
+    "title": "Proyecto de ley que establece, en forma transitoria, un mecanismo de devolución del impuesto específico al petróleo diesel a favor de las empresas generadoras eléctricas, con informe de la Comisión de Hacienda. (Boletín Nº 5.763-05). Debe agregarse en la votación por aprobar el proyecto, al H. Senador Cantero.",
+    "descripcion": "Proyecto de ley que establece, en forma transitoria, un mecanismo de devolución del impuesto específico al petróleo diesel a favor de las empresas generadoras eléctricas, con informe de la Comisión de Hacienda. (Boletín Nº 5.763-05). Debe agregarse en la votación por aprobar el proyecto, al H. Senador Cantero.",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -2619,15 +2751,17 @@
       "Ruiz-Esquide J., Mariano": "afavor",
       "Ávila C., Nelson": "afavor",
       "Navarro B., Alejandro": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Proyecto de ley que establece, en forma transitoria, un mecanismo de devolución del impuesto específico al petróleo diesel a favor de las empresas generadoras eléctricas, con informe de la Comisión de Hacienda. (Boletín Nº 5.763-05). Debe agregarse en la votación por aprobar el proyecto, al H. Senador Cantero."
   },
   {
     "id": "senado-5818-17/06/2008",
     "boletin": "5818",
     "fecha": "17/06/2008",
     "chamber": "senado",
-    "materia": "Sustituye el artículo 119 del Código de Aguas",
-    "descripcion": "Proyecto que sustituye el artículo 119 del código de aguas.",
+    "title": "Votación en general del proyecto de ley que sustituye el artículo 119 del Código de Aguas (Boletín N° 5.818-09).",
+    "descripcion": "Votación en general del proyecto de ley que sustituye el artículo 119 del Código de Aguas (Boletín N° 5.818-09).",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -2655,15 +2789,17 @@
       "Gazmuri M., Jaime": "afavor",
       "Arancibia R., Jorge": "afavor",
       "Allamand Z., Andrés": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación en general del proyecto de ley que sustituye el artículo 119 del Código de Aguas (Boletín N° 5.818-09)."
   },
   {
     "id": "senado-5820-18/11/2008",
     "boletin": "5820",
     "fecha": "18/11/2008",
     "chamber": "senado",
-    "materia": "Las modificaciones efectuadas por la Comisión de Trabajo y Previsión Social al proyecto de ley, iniciado en Mensaje d...",
-    "descripcion": "Propuesta legislativa para las modificaciones efectuadas por la comisión de trabajo y previsión social al proyecto de ley, iniciado en mensaje d....",
+    "title": "Votación de las modificaciones efectuadas por la Comisión de Trabajo y Previsión Social al proyecto de ley, iniciado en Mensaje de S.E. la Presidente de la República, en primer trámite constitucional, sobre contrato especial de los tripulantes de vuelo y tripulantes auxiliares de aeronaves comerciales de pasajeros y carga (Boletín N° 5.820-13).",
+    "descripcion": "Votación de las modificaciones efectuadas por la Comisión de Trabajo y Previsión Social al proyecto de ley, iniciado en Mensaje de S.E. la Presidente de la República, en primer trámite constitucional, sobre contrato especial de los tripulantes de vuelo y tripulantes auxiliares de aeronaves comerciales de pasajeros y carga (Boletín N° 5.820-13).",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -2702,15 +2838,17 @@
       "Chadwick P., Andrés": "afavor",
       "Romero P., Sergio": "afavor",
       "Ominami P., Carlos": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación de las modificaciones efectuadas por la Comisión de Trabajo y Previsión Social al proyecto de ley, iniciado en Mensaje de S.E. la Presidente de la República, en primer trámite constitucional, sobre contrato especial de los tripulantes de vuelo y tripulantes auxiliares de aeronaves comerciales de pasajeros y carga (Boletín N° 5.820-13)."
   },
   {
     "id": "senado-5821-16/04/2008",
     "boletin": "5821",
     "fecha": "16/04/2008",
     "chamber": "senado",
-    "materia": "Otorga bono especial para los sectores de menores ingresos",
-    "descripcion": "Proyecto que otorga bono especial para los sectores de menores ingresos.",
+    "title": "Proyecto de ley de la Honorable Cámara de Diputados, que otorga bono especial para los sectores de menores ingresos (Boletín N° 5821-05). Con urgencia calificada de discusión inmediata.",
+    "descripcion": "Proyecto de ley de la Honorable Cámara de Diputados, que otorga bono especial para los sectores de menores ingresos (Boletín N° 5821-05). Con urgencia calificada de discusión inmediata.",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -2748,15 +2886,17 @@
       "Letelier M., Juan Pablo": "afavor",
       "Larraín F., Hernán": "afavor",
       "Bianchi C., Carlos": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Proyecto de ley de la Honorable Cámara de Diputados, que otorga bono especial para los sectores de menores ingresos (Boletín N° 5821-05). Con urgencia calificada de discusión inmediata."
   },
   {
     "id": "senado-5842-18/11/2008",
     "boletin": "5842",
     "fecha": "18/11/2008",
     "chamber": "senado",
-    "materia": "De la Honorable Cámara de Diputados, que concede por gracia, la nacionalidad chilena al sacerdote y educador Herbert ...",
-    "descripcion": "Proyecto que de la honorable cámara de diputados, que concede por gracia, la nacionalidad chilena al sacerdote y educador herbert ....",
+    "title": "Votación en general y particular del proyecto de ley, de la Honorable Cámara de Diputados, que concede por gracia, la nacionalidad chilena al sacerdote y educador Herbert Albert Becker Raw (Boletín N° 5.842-17).",
+    "descripcion": "Votación en general y particular del proyecto de ley, de la Honorable Cámara de Diputados, que concede por gracia, la nacionalidad chilena al sacerdote y educador Herbert Albert Becker Raw (Boletín N° 5.842-17).",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -2785,15 +2925,17 @@
       "Orpis B., Jaime": "afavor",
       "Frei R., Eduardo": "afavor",
       "Horvath K., Antonio": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación en general y particular del proyecto de ley, de la Honorable Cámara de Diputados, que concede por gracia, la nacionalidad chilena al sacerdote y educador Herbert Albert Becker Raw (Boletín N° 5.842-17)."
   },
   {
     "id": "senado-5902-18/06/2008",
     "boletin": "5902",
     "fecha": "18/06/2008",
     "chamber": "senado",
-    "materia": "Adiciona recursos al Fondo de Estabilización de Precios de Combustibles Derivados del Petróleo, autoriza una capitali...",
-    "descripcion": "Propuesta legislativa para adiciona recursos al fondo de estabilización de precios de combustibles derivados del petróleo, autoriza una capitali....",
+    "title": "Votación en general y en particular del proyecto de ley que adiciona recursos al Fondo de Estabilización de Precios de Combustibles Derivados del Petróleo, autoriza una capitalización de ENAP por el monto que indica e introduce otras modificaciones que señala (Boletín N° 5.902-05). ( Debe agregarse a los votos a favor, a los Senadores Navarro y Pizarro; en contra, al Senador Cantero y por la abstención al Senador Flores)",
+    "descripcion": "Votación en general y en particular del proyecto de ley que adiciona recursos al Fondo de Estabilización de Precios de Combustibles Derivados del Petróleo, autoriza una capitalización de ENAP por el monto que indica e introduce otras modificaciones que señala (Boletín N° 5.902-05). ( Debe agregarse a los votos a favor, a los Senadores Navarro y Pizarro; en contra, al Senador Cantero y por la abstención al Senador Flores)",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -2824,15 +2966,17 @@
       "Novoa V., Jovino": "contra",
       "Pérez V., Víctor": "contra",
       "Prokurica P., Baldo": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación en general y en particular del proyecto de ley que adiciona recursos al Fondo de Estabilización de Precios de Combustibles Derivados del Petróleo, autoriza una capitalización de ENAP por el monto que indica e introduce otras modificaciones que señala (Boletín N° 5.902-05). ( Debe agregarse a los votos a favor, a los Senadores Navarro y Pizarro; en contra, al Senador Cantero y por la abstención al Senador Flores)"
   },
   {
     "id": "senado-5935-05/11/2008",
     "boletin": "5935",
     "fecha": "05/11/2008",
     "chamber": "senado",
-    "materia": "de la Honorable Cámara de Diputados, que aprueba la Enmienda de la Convención sobre la Protección Física de los Mater...",
-    "descripcion": "Votación para la aprobación de este instrumento internacional por el Congreso chileno.",
+    "title": "Votación del proyecto de acuerdo, de la Honorable Cámara de Diputados, que aprueba la Enmienda de la Convención sobre la Protección Física de los Materiales Nucleares (Boletín N° 5.935-10).",
+    "descripcion": "Votación del proyecto de acuerdo, de la Honorable Cámara de Diputados, que aprueba la Enmienda de la Convención sobre la Protección Física de los Materiales Nucleares (Boletín N° 5.935-10).",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -2855,15 +2999,17 @@
       "Bianchi C., Carlos": "afavor",
       "Zaldívar L., Adolfo": "afavor",
       "Escalona M., Camilo": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación del proyecto de acuerdo, de la Honorable Cámara de Diputados, que aprueba la Enmienda de la Convención sobre la Protección Física de los Materiales Nucleares (Boletín N° 5.935-10)."
   },
   {
     "id": "senado-5936-02/09/2008",
     "boletin": "5936",
     "fecha": "02/09/2008",
     "chamber": "senado",
-    "materia": "Protege a los cetáceos e introduce modificaciones a la ley N° 18.892, general de pesca y acuicultura",
-    "descripcion": "Proyecto que protege a los cetáceos e introduce modificaciones a la ley n° 18.892, general de pesca y acuicultura.",
+    "title": "Votación en general del proyecto de ley, de la Honorable Cámara de Diputados, que protege a los cetáceos e introduce modificaciones a la Ley General de Pesca y Acuicultura.",
+    "descripcion": "Votación en general del proyecto de ley, de la Honorable Cámara de Diputados, que protege a los cetáceos e introduce modificaciones a la Ley General de Pesca y Acuicultura.",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -2896,15 +3042,17 @@
       "Zaldívar L., Adolfo": "afavor",
       "Prokurica P., Baldo": "afavor",
       "Ruiz-Esquide J., Mariano": "afavor"
-    }
+    },
+    "relevante": true,
+    "materia": "Votación en general del proyecto de ley, de la Honorable Cámara de Diputados, que protege a los cetáceos e introduce modificaciones a la Ley General de Pesca y Acuicultura."
   },
   {
     "id": "senado-5936-10/09/2008",
     "boletin": "5936",
     "fecha": "10/09/2008",
     "chamber": "senado",
-    "materia": "Protege a los cetáceos e introduce modificaciones a la ley N° 18.892, general de pesca y acuicultura",
-    "descripcion": "Proyecto que protege a los cetáceos e introduce modificaciones a la ley n° 18.892, general de pesca y acuicultura.",
+    "title": "Votación en general del proyecto de ley, de la Honorable Cámara de Diputados, que protege a los cetáceos e introduce modificaciones a la Ley General de Pesca y Acuicultura.",
+    "descripcion": "Votación en general del proyecto de ley, de la Honorable Cámara de Diputados, que protege a los cetáceos e introduce modificaciones a la Ley General de Pesca y Acuicultura.",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -2934,15 +3082,17 @@
       "Arancibia R., Jorge": "afavor",
       "Pérez V., Víctor": "afavor",
       "Novoa V., Jovino": "afavor"
-    }
+    },
+    "relevante": true,
+    "materia": "Votación en general del proyecto de ley, de la Honorable Cámara de Diputados, que protege a los cetáceos e introduce modificaciones a la Ley General de Pesca y Acuicultura."
   },
   {
     "id": "senado-5992-29/10/2008",
     "boletin": "5992",
     "fecha": "29/10/2008",
     "chamber": "senado",
-    "materia": "Permite el ascenso de personal de Gendarmería de Chile en el caso que indica",
-    "descripcion": "Proyecto que permite el ascenso de personal de gendarmería de chile en el caso que indica.",
+    "title": "Votaciòn del proyecto de ley que permite el ascenso de personal de Gendarmería de Chile en el caso que indica (boletín Nª 5.992-07).",
+    "descripcion": "Votaciòn del proyecto de ley que permite el ascenso de personal de Gendarmería de Chile en el caso que indica (boletín Nª 5.992-07).",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -2964,15 +3114,17 @@
       "Larraín F., Hernán": "afavor",
       "Arancibia R., Jorge": "afavor",
       "Novoa V., Jovino": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votaciòn del proyecto de ley que permite el ascenso de personal de Gendarmería de Chile en el caso que indica (boletín Nª 5.992-07)."
   },
   {
     "id": "senado-6032-17/12/2008",
     "boletin": "6032",
     "fecha": "17/12/2008",
     "chamber": "senado",
-    "materia": "En segundo trámite constitucional, que modifica el artículo 59 de la Ley General de Urbanismo y Construcciones, sobre...",
-    "descripcion": "Propuesta legislativa para en segundo trámite constitucional, que modifica el artículo 59 de la ley general de urbanismo y construcciones, sobre....",
+    "title": "Votación en general y particular del proyecto de ley, en segundo trámite constitucional, que modifica el artículo 59 de la Ley General de Urbanismo y Construcciones, sobre la caducidad de declaratoria de utilidad pública contenida en los planes reguladores (Boletín Nº 6.032-14)",
+    "descripcion": "Votación en general y particular del proyecto de ley, en segundo trámite constitucional, que modifica el artículo 59 de la Ley General de Urbanismo y Construcciones, sobre la caducidad de declaratoria de utilidad pública contenida en los planes reguladores (Boletín Nº 6.032-14)",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -3008,15 +3160,17 @@
       "Romero P., Sergio": "afavor",
       "Orpis B., Jaime": "afavor",
       "Vásquez Ú., Guillermo": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación en general y particular del proyecto de ley, en segundo trámite constitucional, que modifica el artículo 59 de la Ley General de Urbanismo y Construcciones, sobre la caducidad de declaratoria de utilidad pública contenida en los planes reguladores (Boletín Nº 6.032-14)"
   },
   {
     "id": "senado-6088-10/12/2008",
     "boletin": "6088",
     "fecha": "10/12/2008",
     "chamber": "senado",
-    "materia": "Incorpora a la ley N° 20.063 el combustible gas natural licuado y modifica el decreto con fuerza de ley N° 1, de 1978...",
-    "descripcion": "Proyecto que incorpora a la ley n° 20.063 el combustible gas natural licuado y modifica el decreto con fuerza de ley n° 1, de 1978....",
+    "title": "Votación en general del proyecto de ley, de la Honorable Cámara de Diputados, que incorpora a la ley N° 20.063 el combustible gas natural licuado y modifica el decreto con fuerza de ley N° 1, de 1978, del Ministerio de Minería(Boletín N° 6.088-05).",
+    "descripcion": "Votación en general del proyecto de ley, de la Honorable Cámara de Diputados, que incorpora a la ley N° 20.063 el combustible gas natural licuado y modifica el decreto con fuerza de ley N° 1, de 1978, del Ministerio de Minería(Boletín N° 6.088-05).",
     "tags": [],
     "votos": {
       "911": "contra",
@@ -3041,15 +3195,17 @@
       "Ominami P., Carlos": "afavor",
       "Horvath K., Antonio": "afavor",
       "Arancibia R., Jorge": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación en general del proyecto de ley, de la Honorable Cámara de Diputados, que incorpora a la ley N° 20.063 el combustible gas natural licuado y modifica el decreto con fuerza de ley N° 1, de 1978, del Ministerio de Minería(Boletín N° 6.088-05)."
   },
   {
     "id": "senado-6116-20/11/2008",
     "boletin": "6116",
     "fecha": "20/11/2008",
     "chamber": "senado",
-    "materia": "La indicación formulada a la partida Presidencia de la República referida a la cotización de equipos computacionales ...",
-    "descripcion": "Propuesta legislativa para la indicación formulada a la partida presidencia de la república referida a la cotización de equipos computacionales ....",
+    "title": "Votación de la indicación formulada a la partida Presidencia de la República referida a la cotización de equipos computacionales que incluya alternativa con software bajo la modalidad de fuente abierta o libre de costo.",
+    "descripcion": "Votación de la indicación formulada a la partida Presidencia de la República referida a la cotización de equipos computacionales que incluya alternativa con software bajo la modalidad de fuente abierta o libre de costo.",
     "tags": [],
     "votos": {
       "911": "abstencion",
@@ -3082,15 +3238,17 @@
       "Girardi L., Guido": "afavor",
       "Allamand Z., Andrés": "afavor",
       "Núñez M., Ricardo": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación de la indicación formulada a la partida Presidencia de la República referida a la cotización de equipos computacionales que incluya alternativa con software bajo la modalidad de fuente abierta o libre de costo."
   },
   {
     "id": "senado-6116-21/11/2008",
     "boletin": "6116",
     "fecha": "21/11/2008",
     "chamber": "senado",
-    "materia": "La indicación formulada a la partida Presidencia de la República referida a la cotización de equipos computacionales ...",
-    "descripcion": "Propuesta legislativa para la indicación formulada a la partida presidencia de la república referida a la cotización de equipos computacionales ....",
+    "title": "Votación de la indicación formulada a la partida Presidencia de la República referida a la cotización de equipos computacionales que incluya alternativa con software bajo la modalidad de fuente abierta o libre de costo.",
+    "descripcion": "Votación de la indicación formulada a la partida Presidencia de la República referida a la cotización de equipos computacionales que incluya alternativa con software bajo la modalidad de fuente abierta o libre de costo.",
     "tags": [],
     "votos": {
       "911": "pareo",
@@ -3117,15 +3275,17 @@
       "Ominami P., Carlos": "afavor",
       "Ávila C., Nelson": "afavor",
       "Muñoz A., Pedro": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación de la indicación formulada a la partida Presidencia de la República referida a la cotización de equipos computacionales que incluya alternativa con software bajo la modalidad de fuente abierta o libre de costo."
   },
   {
     "id": "senado-6116-25/11/2008",
     "boletin": "6116",
     "fecha": "25/11/2008",
     "chamber": "senado",
-    "materia": "La indicación formulada a la partida Presidencia de la República referida a la cotización de equipos computacionales ...",
-    "descripcion": "Propuesta legislativa para la indicación formulada a la partida presidencia de la república referida a la cotización de equipos computacionales ....",
+    "title": "Votación de la indicación formulada a la partida Presidencia de la República referida a la cotización de equipos computacionales que incluya alternativa con software bajo la modalidad de fuente abierta o libre de costo.",
+    "descripcion": "Votación de la indicación formulada a la partida Presidencia de la República referida a la cotización de equipos computacionales que incluya alternativa con software bajo la modalidad de fuente abierta o libre de costo.",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -3151,15 +3311,17 @@
       "Horvath K., Antonio": "afavor",
       "Núñez M., Ricardo": "afavor",
       "Cantero O., Carlos": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación de la indicación formulada a la partida Presidencia de la República referida a la cotización de equipos computacionales que incluya alternativa con software bajo la modalidad de fuente abierta o libre de costo."
   },
   {
     "id": "senado-6123-15/10/2008",
     "boletin": "6123",
     "fecha": "15/10/2008",
     "chamber": "senado",
-    "materia": "Modifica la regulación de la cuota mortuoria del seguro escolar y de la asignación por muerte de beneficiarios de pen...",
-    "descripcion": "Proyecto que modifica la regulación de la cuota mortuoria del seguro escolar y de la asignación por muerte de beneficiarios de pen....",
+    "title": "Votación en general y particular del proyecto de ley que modifica la regulación de la cuota mortuoria del seguro escolar y de la asignación por muerte de beneficiarios de pensión básica solidaria de invalidez carentes de recursos (Boletìn 6.123-13).",
+    "descripcion": "Votación en general y particular del proyecto de ley que modifica la regulación de la cuota mortuoria del seguro escolar y de la asignación por muerte de beneficiarios de pensión básica solidaria de invalidez carentes de recursos (Boletìn 6.123-13).",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -3193,15 +3355,17 @@
       "Gazmuri M., Jaime": "afavor",
       "Espina O., Alberto": "afavor",
       "Sabag C., Hosaín": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación en general y particular del proyecto de ley que modifica la regulación de la cuota mortuoria del seguro escolar y de la asignación por muerte de beneficiarios de pensión básica solidaria de invalidez carentes de recursos (Boletìn 6.123-13)."
   },
   {
     "id": "senado-6203-20/11/2008",
     "boletin": "6203",
     "fecha": "20/11/2008",
     "chamber": "senado",
-    "materia": "Otorga un reajuste de remuneraciones a los trabajadores del sector público, concede aguinaldos que señala, reajusta l...",
-    "descripcion": "Proyecto que otorga un reajuste de remuneraciones a los trabajadores del sector público, concede aguinaldos que señala, reajusta l....",
+    "title": "Votación en general del proyecto de ley que otorga un reajuste de remuneraciones a los trabajadores del sector público, concede aguinaldos que señala, reajusta las asignaciones familiar y maternal, del subsidio familiar y concede otros beneficios que indica ( Boletin Nº 6.203-05).",
+    "descripcion": "Votación en general del proyecto de ley que otorga un reajuste de remuneraciones a los trabajadores del sector público, concede aguinaldos que señala, reajusta las asignaciones familiar y maternal, del subsidio familiar y concede otros beneficios que indica ( Boletin Nº 6.203-05).",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -3236,15 +3400,17 @@
       "Allamand Z., Andrés": "afavor",
       "Ruiz-Esquide J., Mariano": "afavor",
       "Navarro B., Alejandro": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación en general del proyecto de ley que otorga un reajuste de remuneraciones a los trabajadores del sector público, concede aguinaldos que señala, reajusta las asignaciones familiar y maternal, del subsidio familiar y concede otros beneficios que indica ( Boletin Nº 6.203-05)."
   },
   {
     "id": "senado-6230-17/12/2008",
     "boletin": "6230",
     "fecha": "17/12/2008",
     "chamber": "senado",
-    "materia": "En segundo trámite constitucional, que modifica la ley N° 19.937, impidiendo que los establecimientos de salud no cal...",
-    "descripcion": "Propuesta legislativa para en segundo trámite constitucional, que modifica la ley n° 19.937, impidiendo que los establecimientos de salud no cal....",
+    "title": "Votación en general y particular del proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 19.937, impidiendo que los establecimientos de salud no calificados como de autogestión en red al 1 de enero de 2009 pasen a tener dicha calidad por el solo ministerio de la ley (Boletín N° 6.230-11)",
+    "descripcion": "Votación en general y particular del proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 19.937, impidiendo que los establecimientos de salud no calificados como de autogestión en red al 1 de enero de 2009 pasen a tener dicha calidad por el solo ministerio de la ley (Boletín N° 6.230-11)",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -3275,15 +3441,17 @@
       "Pérez V., Víctor": "afavor",
       "Romero P., Sergio": "abstencion",
       "Gómez U., José Antonio": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación en general y particular del proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 19.937, impidiendo que los establecimientos de salud no calificados como de autogestión en red al 1 de enero de 2009 pasen a tener dicha calidad por el solo ministerio de la ley (Boletín N° 6.230-11)"
   },
   {
     "id": "senado-6231-17/12/2008",
     "boletin": "6231",
     "fecha": "17/12/2008",
     "chamber": "senado",
-    "materia": "Faculta al Presidente de la República para realizar un aporte extraordinario de capital al Banco del Estado de Chile ...",
-    "descripcion": "Proyecto que faculta al presidente de la república para realizar un aporte extraordinario de capital al banco del estado de chile ....",
+    "title": "Votación en general del proyecto de ley, de la Honorable Cámara de Diputados, que faculta al Presidente de la República para realizar un aporte extraordinario de capital al Banco del Estado de Chile y amplía el patrimonio del decreto ley N° 3.472, de 1980, que creó el Fondo de Garantía para Pequeños Empresarios (Boletín N° 6.231-05).",
+    "descripcion": "Votación en general del proyecto de ley, de la Honorable Cámara de Diputados, que faculta al Presidente de la República para realizar un aporte extraordinario de capital al Banco del Estado de Chile y amplía el patrimonio del decreto ley N° 3.472, de 1980, que creó el Fondo de Garantía para Pequeños Empresarios (Boletín N° 6.231-05).",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -3317,15 +3485,17 @@
       "Ominami P., Carlos": "afavor",
       "Girardi L., Guido": "afavor",
       "Ruiz-Esquide J., Mariano": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación en general del proyecto de ley, de la Honorable Cámara de Diputados, que faculta al Presidente de la República para realizar un aporte extraordinario de capital al Banco del Estado de Chile y amplía el patrimonio del decreto ley N° 3.472, de 1980, que creó el Fondo de Garantía para Pequeños Empresarios (Boletín N° 6.231-05)."
   },
   {
     "id": "senado-6264-23/12/2008",
     "boletin": "6264",
     "fecha": "23/12/2008",
     "chamber": "senado",
-    "materia": "Prorroga los incentivos para el desarrollo económico de las Regiones de Aysén y Magallanes y de la provincia de Palen...",
-    "descripcion": "Proyecto que prorroga los incentivos para el desarrollo económico de las regiones de aysén y magallanes y de la provincia de palen....",
+    "title": "Votación en general del proyecto de ley que prorroga los incentivos para el desarrollo económico de las regiones de Aysén y Magallanes y de la provincia de Palena, y modifica la ley de zonas francas contenida en el decreto con fuerza de ley N° 2, de 2001, del Ministerio de Hacienda (Boletín N° 6.264-27)",
+    "descripcion": "Votación en general del proyecto de ley que prorroga los incentivos para el desarrollo económico de las regiones de Aysén y Magallanes y de la provincia de Palena, y modifica la ley de zonas francas contenida en el decreto con fuerza de ley N° 2, de 2001, del Ministerio de Hacienda (Boletín N° 6.264-27)",
     "tags": [],
     "votos": {
       "911": "afavor",
@@ -3352,6 +3522,8 @@
       "Muñoz B., Roberto": "afavor",
       "Novoa V., Jovino": "afavor",
       "Chadwick P., Andrés": "afavor"
-    }
+    },
+    "relevante": false,
+    "materia": "Votación en general del proyecto de ley que prorroga los incentivos para el desarrollo económico de las regiones de Aysén y Magallanes y de la provincia de Palena, y modifica la ley de zonas francas contenida en el decreto con fuerza de ley N° 2, de 2001, del Ministerio de Hacienda (Boletín N° 6.264-27)"
   }
 ]

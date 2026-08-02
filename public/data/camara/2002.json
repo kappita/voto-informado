@@ -4,7 +4,7 @@
     "boletin": "370",
     "fecha": "2002-10-31T12:31:35",
     "chamber": "camara",
-    "materia": "Boletín 370",
+    "title": "Boletín 370",
     "descripcion": "",
     "tags": [
       "otro"
@@ -66,14 +66,15 @@
       "917": "afavor",
       "918": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-660-12437",
     "boletin": "660",
     "fecha": "2002-09-05T11:04:11",
     "chamber": "camara",
-    "materia": "Boletín 660",
+    "title": "Boletín 660",
     "descripcion": "",
     "tags": [
       "otro"
@@ -142,14 +143,15 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-855-13445",
     "boletin": "855",
     "fecha": "2002-07-02T13:02:57",
     "chamber": "camara",
-    "materia": "Boletín 855",
+    "title": "Boletín 855",
     "descripcion": "",
     "tags": [
       "otro"
@@ -234,15 +236,16 @@
       "916": "afavor",
       "917": "afavor",
       "918": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1309-16475",
     "boletin": "1309",
     "fecha": "2002-06-19T13:36:39",
     "chamber": "camara",
-    "materia": "1º, indicación Comisión de Hacienda",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "1º, indicación Comisión de Hacienda",
+    "descripcion": "3º",
     "tags": [
       "otro"
     ],
@@ -337,15 +340,16 @@
       "917": "afavor",
       "918": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1419-16458",
     "boletin": "1419",
     "fecha": "2002-06-04T13:13:39",
     "chamber": "camara",
-    "materia": "Texto propuesto por la Comisión de Constitución más indicación del señor Burgos",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Texto propuesto por la Comisión de Constitución más indicación del señor Burgos",
+    "descripcion": "La totalidad de las modificaciones introducidas por el Senado.",
     "tags": [
       "constitucional"
     ],
@@ -416,15 +420,16 @@
       "908": "abstencion",
       "914": "afavor",
       "917": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1625-16437",
     "boletin": "1625",
     "fecha": "2002-03-19T11:28:05",
     "chamber": "camara",
-    "materia": "Observaciones del Presidente de la República",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Observaciones del Presidente de la República",
+    "descripcion": "Observaciones del Presidente de la República",
     "tags": [
       "otro"
     ],
@@ -493,14 +498,15 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1640-12416",
     "boletin": "1640",
     "fecha": "2002-08-06T11:40:34",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del Nº17",
+    "title": "Todas las enmiendas con excepción del Nº17",
     "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
     "tags": [
       "otro"
@@ -590,14 +596,15 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1640-16467",
     "boletin": "1640",
     "fecha": "2002-06-12T11:05:00",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del Nº17",
+    "title": "Todas las enmiendas con excepción del Nº17",
     "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
     "tags": [
       "otro"
@@ -665,14 +672,15 @@
       "917": "contra",
       "921": "contra",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1640-16468",
     "boletin": "1640",
     "fecha": "2002-06-12T11:04:26",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del Nº17",
+    "title": "Todas las enmiendas con excepción del Nº17",
     "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
     "tags": [
       "otro"
@@ -738,15 +746,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1721-14865",
     "boletin": "1721",
     "fecha": "2002-12-03T13:27:53",
     "chamber": "camara",
-    "materia": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
+    "descripcion": "Observación de S.E. el Presidente de la República al artículo 17",
     "tags": [
       "otro"
     ],
@@ -836,15 +845,16 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1721-14866",
     "boletin": "1721",
     "fecha": "2002-12-03T13:27:18",
     "chamber": "camara",
-    "materia": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
+    "descripcion": "Observación de S.E. el Presidente de la República al artículo 17",
     "tags": [
       "otro"
     ],
@@ -930,15 +940,16 @@
       "914": "afavor",
       "917": "afavor",
       "918": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1721-14867",
     "boletin": "1721",
     "fecha": "2002-12-03T13:26:46",
     "chamber": "camara",
-    "materia": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
+    "descripcion": "Observación de S.E. el Presidente de la República al artículo 17",
     "tags": [
       "otro"
     ],
@@ -1036,15 +1047,16 @@
       "917": "afavor",
       "918": "contra",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1721-14868",
     "boletin": "1721",
     "fecha": "2002-12-03T13:26:05",
     "chamber": "camara",
-    "materia": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
+    "descripcion": "Observación de S.E. el Presidente de la República al artículo 17",
     "tags": [
       "otro"
     ],
@@ -1137,15 +1149,16 @@
       "917": "afavor",
       "918": "contra",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1721-14882",
     "boletin": "1721",
     "fecha": "2002-12-03T13:25:36",
     "chamber": "camara",
-    "materia": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
+    "descripcion": "Observación de S.E. el Presidente de la República al artículo 17",
     "tags": [
       "otro"
     ],
@@ -1237,15 +1250,16 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1721-14869",
     "boletin": "1721",
     "fecha": "2002-12-03T13:25:05",
     "chamber": "camara",
-    "materia": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
+    "descripcion": "Observación de S.E. el Presidente de la República al artículo 17",
     "tags": [
       "otro"
     ],
@@ -1339,15 +1353,16 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1721-14870",
     "boletin": "1721",
     "fecha": "2002-12-03T13:24:31",
     "chamber": "camara",
-    "materia": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
+    "descripcion": "Observación de S.E. el Presidente de la República al artículo 17",
     "tags": [
       "otro"
     ],
@@ -1442,15 +1457,16 @@
       "917": "afavor",
       "918": "contra",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1721-14871",
     "boletin": "1721",
     "fecha": "2002-12-03T13:24:03",
     "chamber": "camara",
-    "materia": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
+    "descripcion": "Observación de S.E. el Presidente de la República al artículo 17",
     "tags": [
       "otro"
     ],
@@ -1539,15 +1555,16 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1721-14872",
     "boletin": "1721",
     "fecha": "2002-12-03T13:23:31",
     "chamber": "camara",
-    "materia": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
+    "descripcion": "Observación de S.E. el Presidente de la República al artículo 17",
     "tags": [
       "otro"
     ],
@@ -1642,15 +1659,16 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1721-14883",
     "boletin": "1721",
     "fecha": "2002-12-03T13:22:53",
     "chamber": "camara",
-    "materia": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
+    "descripcion": "Observación de S.E. el Presidente de la República al artículo 17",
     "tags": [
       "otro"
     ],
@@ -1742,15 +1760,16 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1721-14873",
     "boletin": "1721",
     "fecha": "2002-12-03T13:22:25",
     "chamber": "camara",
-    "materia": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
+    "descripcion": "Observación de S.E. el Presidente de la República al artículo 17",
     "tags": [
       "otro"
     ],
@@ -1843,15 +1862,16 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1721-14874",
     "boletin": "1721",
     "fecha": "2002-12-03T13:21:31",
     "chamber": "camara",
-    "materia": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
+    "descripcion": "Observación de S.E. el Presidente de la República al artículo 17",
     "tags": [
       "otro"
     ],
@@ -1947,15 +1967,16 @@
       "917": "afavor",
       "918": "contra",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1721-14875",
     "boletin": "1721",
     "fecha": "2002-12-03T13:20:37",
     "chamber": "camara",
-    "materia": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
+    "descripcion": "Observación de S.E. el Presidente de la República al artículo 17",
     "tags": [
       "otro"
     ],
@@ -2046,15 +2067,16 @@
       "917": "afavor",
       "918": "contra",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1721-14876",
     "boletin": "1721",
     "fecha": "2002-12-03T13:20:02",
     "chamber": "camara",
-    "materia": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
+    "descripcion": "Observación de S.E. el Presidente de la República al artículo 17",
     "tags": [
       "otro"
     ],
@@ -2147,15 +2169,16 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1721-14855",
     "boletin": "1721",
     "fecha": "2002-12-03T13:19:15",
     "chamber": "camara",
-    "materia": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
+    "descripcion": "Observación de S.E. el Presidente de la República al artículo 17",
     "tags": [
       "otro"
     ],
@@ -2253,15 +2276,16 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1721-14877",
     "boletin": "1721",
     "fecha": "2002-12-03T13:18:32",
     "chamber": "camara",
-    "materia": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
+    "descripcion": "Observación de S.E. el Presidente de la República al artículo 17",
     "tags": [
       "otro"
     ],
@@ -2354,15 +2378,16 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1721-14878",
     "boletin": "1721",
     "fecha": "2002-12-03T13:17:53",
     "chamber": "camara",
-    "materia": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
+    "descripcion": "Observación de S.E. el Presidente de la República al artículo 17",
     "tags": [
       "otro"
     ],
@@ -2463,15 +2488,16 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1721-14879",
     "boletin": "1721",
     "fecha": "2002-12-03T13:17:12",
     "chamber": "camara",
-    "materia": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
+    "descripcion": "Observación de S.E. el Presidente de la República al artículo 17",
     "tags": [
       "otro"
     ],
@@ -2569,15 +2595,16 @@
       "917": "afavor",
       "918": "contra",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1721-14880",
     "boletin": "1721",
     "fecha": "2002-12-03T13:16:28",
     "chamber": "camara",
-    "materia": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
+    "descripcion": "Observación de S.E. el Presidente de la República al artículo 17",
     "tags": [
       "otro"
     ],
@@ -2670,15 +2697,16 @@
       "917": "afavor",
       "918": "contra",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1721-14856",
     "boletin": "1721",
     "fecha": "2002-12-03T13:15:52",
     "chamber": "camara",
-    "materia": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
+    "descripcion": "Observación de S.E. el Presidente de la República al artículo 17",
     "tags": [
       "otro"
     ],
@@ -2776,15 +2804,16 @@
       "917": "afavor",
       "918": "contra",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1721-14881",
     "boletin": "1721",
     "fecha": "2002-12-03T13:13:49",
     "chamber": "camara",
-    "materia": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
+    "descripcion": "Observación de S.E. el Presidente de la República al artículo 17",
     "tags": [
       "otro"
     ],
@@ -2876,15 +2905,16 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1721-14857",
     "boletin": "1721",
     "fecha": "2002-12-03T13:13:12",
     "chamber": "camara",
-    "materia": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
+    "descripcion": "Observación de S.E. el Presidente de la República al artículo 17",
     "tags": [
       "otro"
     ],
@@ -2979,15 +3009,16 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1721-14858",
     "boletin": "1721",
     "fecha": "2002-12-03T13:12:28",
     "chamber": "camara",
-    "materia": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
+    "descripcion": "Observación de S.E. el Presidente de la República al artículo 17",
     "tags": [
       "otro"
     ],
@@ -3077,15 +3108,16 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1721-14859",
     "boletin": "1721",
     "fecha": "2002-12-03T13:11:22",
     "chamber": "camara",
-    "materia": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
+    "descripcion": "Observación de S.E. el Presidente de la República al artículo 17",
     "tags": [
       "otro"
     ],
@@ -3169,15 +3201,16 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1721-14860",
     "boletin": "1721",
     "fecha": "2002-12-03T13:10:56",
     "chamber": "camara",
-    "materia": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
+    "descripcion": "Observación de S.E. el Presidente de la República al artículo 17",
     "tags": [
       "otro"
     ],
@@ -3274,15 +3307,16 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1721-14861",
     "boletin": "1721",
     "fecha": "2002-12-03T13:10:22",
     "chamber": "camara",
-    "materia": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
+    "descripcion": "Observación de S.E. el Presidente de la República al artículo 17",
     "tags": [
       "otro"
     ],
@@ -3379,15 +3413,16 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1721-14862",
     "boletin": "1721",
     "fecha": "2002-12-03T13:09:23",
     "chamber": "camara",
-    "materia": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
+    "descripcion": "Observación de S.E. el Presidente de la República al artículo 17",
     "tags": [
       "otro"
     ],
@@ -3482,15 +3517,16 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1721-14863",
     "boletin": "1721",
     "fecha": "2002-12-03T13:08:29",
     "chamber": "camara",
-    "materia": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Con excepción arts. 12 y 13 por ser normas de quórum orgánicas constitucionales",
+    "descripcion": "Observación de S.E. el Presidente de la República al artículo 17",
     "tags": [
       "otro"
     ],
@@ -3582,14 +3618,15 @@
       "917": "afavor",
       "918": "contra",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1807-13442",
     "boletin": "1807",
     "fecha": "2002-06-13T12:57:47",
     "chamber": "camara",
-    "materia": "Boletín 1807",
+    "title": "Boletín 1807",
     "descripcion": "",
     "tags": [
       "otro"
@@ -3658,15 +3695,16 @@
       "916": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1879-12412",
     "boletin": "1879",
     "fecha": "2002-07-31T13:07:09",
     "chamber": "camara",
-    "materia": "Indicación Sr. Seguel y otros",
-    "descripcion": "Votación particular sobre aspectos del proyecto de ley en trámite.",
+    "title": "Indicación Sr. Seguel y otros",
+    "descripcion": "Indicación Sr. Seguel y otros",
     "tags": [
       "otro"
     ],
@@ -3758,15 +3796,16 @@
       "917": "contra",
       "918": "afavor",
       "921": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-1879-12413",
     "boletin": "1879",
     "fecha": "2002-07-31T13:04:28",
     "chamber": "camara",
-    "materia": "Indicación Sr. Seguel y otros",
-    "descripcion": "Votación particular sobre aspectos del proyecto de ley en trámite.",
+    "title": "Indicación Sr. Seguel y otros",
+    "descripcion": "Indicación Sr. Seguel y otros",
     "tags": [
       "otro"
     ],
@@ -3862,14 +3901,15 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2015-16483",
     "boletin": "2015",
     "fecha": "2002-07-03T12:34:04",
     "chamber": "camara",
-    "materia": "Boletín 2015",
+    "title": "Boletín 2015",
     "descripcion": "",
     "tags": [
       "otro"
@@ -3943,15 +3983,16 @@
       "914": "afavor",
       "916": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2223-16451",
     "boletin": "2223",
     "fecha": "2002-04-30T12:46:21",
     "chamber": "camara",
-    "materia": "Cierre del debate",
-    "descripcion": "Votación particular sobre aspectos del proyecto de ley en trámite.",
+    "title": "Cierre del debate",
+    "descripcion": "Indicación Nº3",
     "tags": [
       "otro"
     ],
@@ -4033,15 +4074,16 @@
       "917": "afavor",
       "918": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2223-16452",
     "boletin": "2223",
     "fecha": "2002-04-30T12:44:37",
     "chamber": "camara",
-    "materia": "Cierre del debate",
-    "descripcion": "Votación particular sobre aspectos del proyecto de ley en trámite.",
+    "title": "Cierre del debate",
+    "descripcion": "Indicación Nº3",
     "tags": [
       "otro"
     ],
@@ -4109,15 +4151,16 @@
       "910": "contra",
       "914": "afavor",
       "917": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2223-16449",
     "boletin": "2223",
     "fecha": "2002-04-30T12:43:21",
     "chamber": "camara",
-    "materia": "Cierre del debate",
-    "descripcion": "Votación particular sobre aspectos del proyecto de ley en trámite.",
+    "title": "Cierre del debate",
+    "descripcion": "Indicación Nº3",
     "tags": [
       "otro"
     ],
@@ -4192,15 +4235,16 @@
       "917": "afavor",
       "918": "contra",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2223-16453",
     "boletin": "2223",
     "fecha": "2002-04-30T12:41:58",
     "chamber": "camara",
-    "materia": "Cierre del debate",
-    "descripcion": "Votación particular sobre aspectos del proyecto de ley en trámite.",
+    "title": "Cierre del debate",
+    "descripcion": "Indicación Nº3",
     "tags": [
       "otro"
     ],
@@ -4266,15 +4310,16 @@
       "910": "afavor",
       "917": "contra",
       "918": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2223-16441",
     "boletin": "2223",
     "fecha": "2002-03-21T11:38:49",
     "chamber": "camara",
-    "materia": "Cierre del debate",
-    "descripcion": "Votación particular sobre aspectos del proyecto de ley en trámite.",
+    "title": "Cierre del debate",
+    "descripcion": "Indicación Nº3",
     "tags": [
       "otro"
     ],
@@ -4353,14 +4398,15 @@
       "917": "afavor",
       "918": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2286-12419",
     "boletin": "2286",
     "fecha": "2002-08-13T14:08:24",
     "chamber": "camara",
-    "materia": "2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo...",
+    "title": "2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo...",
     "descripcion": "Propuesta legislativa para 2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo....",
     "tags": [
       "otro"
@@ -4472,14 +4518,15 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2286-12420",
     "boletin": "2286",
     "fecha": "2002-08-13T14:07:19",
     "chamber": "camara",
-    "materia": "2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo...",
+    "title": "2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo...",
     "descripcion": "Propuesta legislativa para 2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo....",
     "tags": [
       "otro"
@@ -4590,14 +4637,15 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2286-12421",
     "boletin": "2286",
     "fecha": "2002-08-13T14:06:22",
     "chamber": "camara",
-    "materia": "2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo...",
+    "title": "2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo...",
     "descripcion": "Propuesta legislativa para 2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo....",
     "tags": [
       "otro"
@@ -4712,14 +4760,15 @@
       "918": "afavor",
       "921": "contra",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2286-12422",
     "boletin": "2286",
     "fecha": "2002-08-13T13:26:09",
     "chamber": "camara",
-    "materia": "2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo...",
+    "title": "2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo...",
     "descripcion": "Propuesta legislativa para 2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo....",
     "tags": [
       "otro"
@@ -4832,14 +4881,15 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2286-12423",
     "boletin": "2286",
     "fecha": "2002-08-13T13:05:58",
     "chamber": "camara",
-    "materia": "2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo...",
+    "title": "2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo...",
     "descripcion": "Propuesta legislativa para 2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo....",
     "tags": [
       "otro"
@@ -4947,14 +4997,15 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2286-12424",
     "boletin": "2286",
     "fecha": "2002-08-13T13:05:09",
     "chamber": "camara",
-    "materia": "2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo...",
+    "title": "2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo...",
     "descripcion": "Propuesta legislativa para 2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo....",
     "tags": [
       "otro"
@@ -5061,14 +5112,15 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2286-12427",
     "boletin": "2286",
     "fecha": "2002-08-13T13:00:36",
     "chamber": "camara",
-    "materia": "2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo...",
+    "title": "2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo...",
     "descripcion": "Propuesta legislativa para 2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo....",
     "tags": [
       "otro"
@@ -5178,14 +5230,15 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2286-12425",
     "boletin": "2286",
     "fecha": "2002-08-13T12:59:48",
     "chamber": "camara",
-    "materia": "2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo...",
+    "title": "2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo...",
     "descripcion": "Propuesta legislativa para 2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo....",
     "tags": [
       "otro"
@@ -5288,14 +5341,15 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2286-12426",
     "boletin": "2286",
     "fecha": "2002-08-13T12:54:13",
     "chamber": "camara",
-    "materia": "2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo...",
+    "title": "2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo...",
     "descripcion": "Propuesta legislativa para 2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo....",
     "tags": [
       "otro"
@@ -5407,14 +5461,15 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2286-12428",
     "boletin": "2286",
     "fecha": "2002-08-13T12:28:54",
     "chamber": "camara",
-    "materia": "2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo...",
+    "title": "2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo...",
     "descripcion": "Propuesta legislativa para 2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo....",
     "tags": [
       "otro"
@@ -5522,14 +5577,15 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2286-12415",
     "boletin": "2286",
     "fecha": "2002-08-06T12:16:49",
     "chamber": "camara",
-    "materia": "2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo...",
+    "title": "2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo...",
     "descripcion": "Propuesta legislativa para 2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo....",
     "tags": [
       "constitucional"
@@ -5637,14 +5693,15 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2286-16491",
     "boletin": "2286",
     "fecha": "2002-07-16T13:11:21",
     "chamber": "camara",
-    "materia": "2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo...",
+    "title": "2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo...",
     "descripcion": "Propuesta legislativa para 2º, 3º, 4º, 6º, 8º, 10, 11, 12, 13, 16, 19, 21, 22, 26, 27, 34, 35, 36, 37, 38 y 39 permanentes y el artículo segundo....",
     "tags": [
       "otro"
@@ -5730,15 +5787,16 @@
       "917": "abstencion",
       "918": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2296-12406",
     "boletin": "2296",
     "fecha": "2002-07-30T13:24:02",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción art. 3º, letra f); artículo 12 que pasa a ser art. 9º, art. 12, nuevo y art. 1º tra...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción art. 3º, letra f); artículo 12 que pasa a ser art. 9º, art. 12, nuevo y art. 1º tra...",
+    "descripcion": "1º transitorio",
     "tags": [
       "otro"
     ],
@@ -5836,15 +5894,16 @@
       "918": "afavor",
       "921": "contra",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2296-12407",
     "boletin": "2296",
     "fecha": "2002-07-30T13:23:34",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción art. 3º, letra f); artículo 12 que pasa a ser art. 9º, art. 12, nuevo y art. 1º tra...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción art. 3º, letra f); artículo 12 que pasa a ser art. 9º, art. 12, nuevo y art. 1º tra...",
+    "descripcion": "1º transitorio",
     "tags": [
       "otro"
     ],
@@ -5942,15 +6001,16 @@
       "917": "contra",
       "918": "afavor",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2296-12408",
     "boletin": "2296",
     "fecha": "2002-07-30T13:23:03",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción art. 3º, letra f); artículo 12 que pasa a ser art. 9º, art. 12, nuevo y art. 1º tra...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción art. 3º, letra f); artículo 12 que pasa a ser art. 9º, art. 12, nuevo y art. 1º tra...",
+    "descripcion": "1º transitorio",
     "tags": [
       "otro"
     ],
@@ -6053,15 +6113,16 @@
       "918": "afavor",
       "921": "contra",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2296-12409",
     "boletin": "2296",
     "fecha": "2002-07-30T13:22:25",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción art. 3º, letra f); artículo 12 que pasa a ser art. 9º, art. 12, nuevo y art. 1º tra...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción art. 3º, letra f); artículo 12 que pasa a ser art. 9º, art. 12, nuevo y art. 1º tra...",
+    "descripcion": "1º transitorio",
     "tags": [
       "otro"
     ],
@@ -6169,15 +6230,16 @@
       "917": "contra",
       "918": "afavor",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2296-12410",
     "boletin": "2296",
     "fecha": "2002-07-30T13:20:42",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción art. 3º, letra f); artículo 12 que pasa a ser art. 9º, art. 12, nuevo y art. 1º tra...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción art. 3º, letra f); artículo 12 que pasa a ser art. 9º, art. 12, nuevo y art. 1º tra...",
+    "descripcion": "1º transitorio",
     "tags": [
       "otro"
     ],
@@ -6284,15 +6346,16 @@
       "918": "afavor",
       "921": "contra",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2296-12411",
     "boletin": "2296",
     "fecha": "2002-07-30T13:19:57",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción art. 3º, letra f); artículo 12 que pasa a ser art. 9º, art. 12, nuevo y art. 1º tra...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción art. 3º, letra f); artículo 12 que pasa a ser art. 9º, art. 12, nuevo y art. 1º tra...",
+    "descripcion": "1º transitorio",
     "tags": [
       "otro"
     ],
@@ -6403,15 +6466,16 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2361-12440",
     "boletin": "2361",
     "fecha": "2002-09-12T13:04:55",
     "chamber": "camara",
-    "materia": "Incluidas las disposiciones de rango orgánico constitucional, con excepción de los artículos 16; 23, nuevo; 37 Nº1, n...",
-    "descripcion": "Propuesta legislativa para incluidas las disposiciones de rango orgánico constitucional, con excepción de los artículos 16; 23, nuevo; 37 nº1, n....",
+    "title": "Incluidas las disposiciones de rango orgánico constitucional, con excepción de los artículos 16; 23, nuevo; 37 Nº1, n...",
+    "descripcion": "Observación Nº2 del Presidente de la República.",
     "tags": [
       "otro"
     ],
@@ -6484,15 +6548,16 @@
       "916": "afavor",
       "917": "contra",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2361-12441",
     "boletin": "2361",
     "fecha": "2002-09-12T13:04:19",
     "chamber": "camara",
-    "materia": "Incluidas las disposiciones de rango orgánico constitucional, con excepción de los artículos 16; 23, nuevo; 37 Nº1, n...",
-    "descripcion": "Propuesta legislativa para incluidas las disposiciones de rango orgánico constitucional, con excepción de los artículos 16; 23, nuevo; 37 nº1, n....",
+    "title": "Incluidas las disposiciones de rango orgánico constitucional, con excepción de los artículos 16; 23, nuevo; 37 Nº1, n...",
+    "descripcion": "Observación Nº2 del Presidente de la República.",
     "tags": [
       "otro"
     ],
@@ -6553,15 +6618,16 @@
       "914": "afavor",
       "916": "afavor",
       "917": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2361-12442",
     "boletin": "2361",
     "fecha": "2002-09-12T13:03:39",
     "chamber": "camara",
-    "materia": "Incluidas las disposiciones de rango orgánico constitucional, con excepción de los artículos 16; 23, nuevo; 37 Nº1, n...",
-    "descripcion": "Propuesta legislativa para incluidas las disposiciones de rango orgánico constitucional, con excepción de los artículos 16; 23, nuevo; 37 nº1, n....",
+    "title": "Incluidas las disposiciones de rango orgánico constitucional, con excepción de los artículos 16; 23, nuevo; 37 Nº1, n...",
+    "descripcion": "Observación Nº2 del Presidente de la República.",
     "tags": [
       "otro"
     ],
@@ -6634,15 +6700,16 @@
       "916": "afavor",
       "917": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2361-12443",
     "boletin": "2361",
     "fecha": "2002-09-12T12:53:35",
     "chamber": "camara",
-    "materia": "Incluidas las disposiciones de rango orgánico constitucional, con excepción de los artículos 16; 23, nuevo; 37 Nº1, n...",
-    "descripcion": "Propuesta legislativa para incluidas las disposiciones de rango orgánico constitucional, con excepción de los artículos 16; 23, nuevo; 37 nº1, n....",
+    "title": "Incluidas las disposiciones de rango orgánico constitucional, con excepción de los artículos 16; 23, nuevo; 37 Nº1, n...",
+    "descripcion": "Observación Nº2 del Presidente de la República.",
     "tags": [
       "otro"
     ],
@@ -6701,15 +6768,16 @@
       "916": "afavor",
       "917": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2394-14890",
     "boletin": "2394",
     "fecha": "2002-12-11T12:48:25",
     "chamber": "camara",
-    "materia": "En el proyecto de ley, con excepción de las recaídas en el artículo 60 C, comprendido en el número 1 del artículo 1º;...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "En el proyecto de ley, con excepción de las recaídas en el artículo 60 C, comprendido en el número 1 del artículo 1º;...",
+    "descripcion": "Informe de Comisión Mixta.",
     "tags": [
       "otro"
     ],
@@ -6799,15 +6867,16 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2416-16473",
     "boletin": "2416",
     "fecha": "2002-06-19T12:27:13",
     "chamber": "camara",
-    "materia": "Incluidas las que recaen en materias que requieren quórum de ley orgánica constitucional, con excepción de las recaíd...",
-    "descripcion": "Propuesta legislativa para incluidas las que recaen en materias que requieren quórum de ley orgánica constitucional, con excepción de las recaíd....",
+    "title": "Incluidas las que recaen en materias que requieren quórum de ley orgánica constitucional, con excepción de las recaíd...",
+    "descripcion": "Propuesta de la Comisión Mixta para resolver las divergencias suscitadas entre ambas Cámaras respecto de los artículos 31 bis, 37, 45, 52 y 112 contenidos en el artículo único del proyecto de ley.",
     "tags": [
       "otro"
     ],
@@ -6889,15 +6958,16 @@
       "916": "afavor",
       "917": "afavor",
       "918": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2416-16474",
     "boletin": "2416",
     "fecha": "2002-06-19T12:04:50",
     "chamber": "camara",
-    "materia": "Incluidas las que recaen en materias que requieren quórum de ley orgánica constitucional, con excepción de las recaíd...",
-    "descripcion": "Propuesta legislativa para incluidas las que recaen en materias que requieren quórum de ley orgánica constitucional, con excepción de las recaíd....",
+    "title": "Incluidas las que recaen en materias que requieren quórum de ley orgánica constitucional, con excepción de las recaíd...",
+    "descripcion": "Propuesta de la Comisión Mixta para resolver las divergencias suscitadas entre ambas Cámaras respecto de los artículos 31 bis, 37, 45, 52 y 112 contenidos en el artículo único del proyecto de ley.",
     "tags": [
       "otro"
     ],
@@ -6951,15 +7021,16 @@
       "910": "afavor",
       "914": "afavor",
       "917": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2416-16476",
     "boletin": "2416",
     "fecha": "2002-06-19T12:01:20",
     "chamber": "camara",
-    "materia": "Incluidas las que recaen en materias que requieren quórum de ley orgánica constitucional, con excepción de las recaíd...",
-    "descripcion": "Propuesta legislativa para incluidas las que recaen en materias que requieren quórum de ley orgánica constitucional, con excepción de las recaíd....",
+    "title": "Incluidas las que recaen en materias que requieren quórum de ley orgánica constitucional, con excepción de las recaíd...",
+    "descripcion": "Propuesta de la Comisión Mixta para resolver las divergencias suscitadas entre ambas Cámaras respecto de los artículos 31 bis, 37, 45, 52 y 112 contenidos en el artículo único del proyecto de ley.",
     "tags": [
       "otro"
     ],
@@ -7017,15 +7088,16 @@
       "914": "afavor",
       "916": "afavor",
       "917": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2416-16477",
     "boletin": "2416",
     "fecha": "2002-06-19T11:59:26",
     "chamber": "camara",
-    "materia": "Incluidas las que recaen en materias que requieren quórum de ley orgánica constitucional, con excepción de las recaíd...",
-    "descripcion": "Propuesta legislativa para incluidas las que recaen en materias que requieren quórum de ley orgánica constitucional, con excepción de las recaíd....",
+    "title": "Incluidas las que recaen en materias que requieren quórum de ley orgánica constitucional, con excepción de las recaíd...",
+    "descripcion": "Propuesta de la Comisión Mixta para resolver las divergencias suscitadas entre ambas Cámaras respecto de los artículos 31 bis, 37, 45, 52 y 112 contenidos en el artículo único del proyecto de ley.",
     "tags": [
       "otro"
     ],
@@ -7079,15 +7151,16 @@
       "910": "afavor",
       "914": "afavor",
       "916": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2416-16478",
     "boletin": "2416",
     "fecha": "2002-06-19T11:55:15",
     "chamber": "camara",
-    "materia": "Incluidas las que recaen en materias que requieren quórum de ley orgánica constitucional, con excepción de las recaíd...",
-    "descripcion": "Propuesta legislativa para incluidas las que recaen en materias que requieren quórum de ley orgánica constitucional, con excepción de las recaíd....",
+    "title": "Incluidas las que recaen en materias que requieren quórum de ley orgánica constitucional, con excepción de las recaíd...",
+    "descripcion": "Propuesta de la Comisión Mixta para resolver las divergencias suscitadas entre ambas Cámaras respecto de los artículos 31 bis, 37, 45, 52 y 112 contenidos en el artículo único del proyecto de ley.",
     "tags": [
       "otro"
     ],
@@ -7135,15 +7208,16 @@
       "914": "afavor",
       "916": "afavor",
       "917": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2429-13439",
     "boletin": "2429",
     "fecha": "2002-05-14T12:56:31",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción de la referida al artículo 2º, letra f), inciso segundo",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción de la referida al artículo 2º, letra f), inciso segundo",
+    "descripcion": "2º, letra f), inciso segundo",
     "tags": [
       "otro"
     ],
@@ -7223,14 +7297,15 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2430-12475",
     "boletin": "2430",
     "fecha": "2002-11-14T12:45:00",
     "chamber": "camara",
-    "materia": "Boletín 2430",
+    "title": "Boletín 2430",
     "descripcion": "",
     "tags": [
       "otro"
@@ -7300,14 +7375,15 @@
       "916": "afavor",
       "917": "afavor",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2430-16480",
     "boletin": "2430",
     "fecha": "2002-06-20T12:11:58",
     "chamber": "camara",
-    "materia": "Boletín 2430",
+    "title": "Boletín 2430",
     "descripcion": "",
     "tags": [
       "otro"
@@ -7374,14 +7450,15 @@
       "917": "abstencion",
       "918": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2471-12439",
     "boletin": "2471",
     "fecha": "2002-09-10T11:17:28",
     "chamber": "camara",
-    "materia": "Boletín 2471",
+    "title": "Boletín 2471",
     "descripcion": "",
     "tags": [
       "otro"
@@ -7440,14 +7517,15 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2471-12418",
     "boletin": "2471",
     "fecha": "2002-08-07T11:51:06",
     "chamber": "camara",
-    "materia": "Boletín 2471",
+    "title": "Boletín 2471",
     "descripcion": "",
     "tags": [
       "otro"
@@ -7539,14 +7617,15 @@
       "917": "contra",
       "918": "contra",
       "921": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2570-16492",
     "boletin": "2570",
     "fecha": "2002-07-17T12:32:55",
     "chamber": "camara",
-    "materia": "Boletín 2570",
+    "title": "Boletín 2570",
     "descripcion": "",
     "tags": [
       "otro"
@@ -7636,15 +7715,16 @@
       "914": "afavor",
       "917": "afavor",
       "918": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2579-12417",
     "boletin": "2579",
     "fecha": "2002-08-07T13:11:04",
     "chamber": "camara",
-    "materia": "Boletín 2579",
-    "descripcion": "",
+    "title": "Boletín 2579",
+    "descripcion": "Propuesta de la Comisión Mixta.",
     "tags": [
       "otro"
     ],
@@ -7744,14 +7824,15 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2590-13966",
     "boletin": "2590",
     "fecha": "2002-10-30T12:48:18",
     "chamber": "camara",
-    "materia": "Boletín 2590",
+    "title": "Boletín 2590",
     "descripcion": "",
     "tags": [
       "otro"
@@ -7838,15 +7919,16 @@
       "917": "afavor",
       "918": "contra",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2603-16444",
     "boletin": "2603",
     "fecha": "2002-04-03T12:02:59",
     "chamber": "camara",
-    "materia": "Aplazamiento de la Discusión",
-    "descripcion": "Propuesta legislativa para aplazamiento de la discusión.",
+    "title": "Aplazamiento de la Discusión",
+    "descripcion": "Aplazamiento de la Discusión",
     "tags": [
       "otro"
     ],
@@ -7905,14 +7987,15 @@
       "918": "afavor",
       "921": "contra",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2610-16470",
     "boletin": "2610",
     "fecha": "2002-06-18T12:59:41",
     "chamber": "camara",
-    "materia": "Boletín 2610",
+    "title": "Boletín 2610",
     "descripcion": "",
     "tags": [
       "otro"
@@ -8000,14 +8083,15 @@
       "916": "afavor",
       "918": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2625-14898",
     "boletin": "2625",
     "fecha": "2002-12-19T12:06:00",
     "chamber": "camara",
-    "materia": "Boletín 2625",
+    "title": "Boletín 2625",
     "descripcion": "",
     "tags": [
       "otro"
@@ -8078,15 +8162,16 @@
       "917": "afavor",
       "918": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2651-12471",
     "boletin": "2651",
     "fecha": "2002-11-12T13:03:17",
     "chamber": "camara",
-    "materia": "Declaración de inadmisibilidad de indicación renovada al artículo 7º",
-    "descripcion": "Proyecto que declaración de inadmisibilidad de indicación renovada al artículo 7º.",
+    "title": "Declaración de inadmisibilidad de indicación renovada al artículo 7º",
+    "descripcion": "33",
     "tags": [
       "otro"
     ],
@@ -8172,14 +8257,15 @@
       "916": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2675-12461",
     "boletin": "2675",
     "fecha": "2002-10-29T13:20:46",
     "chamber": "camara",
-    "materia": "Boletín 2675",
+    "title": "Boletín 2675",
     "descripcion": "",
     "tags": [
       "otro"
@@ -8286,14 +8372,15 @@
       "916": "afavor",
       "917": "afavor",
       "918": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2675-13454",
     "boletin": "2675",
     "fecha": "2002-08-20T13:35:00",
     "chamber": "camara",
-    "materia": "Boletín 2675",
+    "title": "Boletín 2675",
     "descripcion": "",
     "tags": [
       "otro"
@@ -8405,14 +8492,15 @@
       "918": "contra",
       "921": "contra",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2707-12473",
     "boletin": "2707",
     "fecha": "2002-11-13T12:35:27",
     "chamber": "camara",
-    "materia": "Boletín 2707",
+    "title": "Boletín 2707",
     "descripcion": "",
     "tags": [
       "otro"
@@ -8493,14 +8581,15 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2707-12474",
     "boletin": "2707",
     "fecha": "2002-11-13T12:34:09",
     "chamber": "camara",
-    "materia": "Boletín 2707",
+    "title": "Boletín 2707",
     "descripcion": "",
     "tags": [
       "otro"
@@ -8575,15 +8664,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2723-13443",
     "boletin": "2723",
     "fecha": "2002-07-02T13:09:29",
     "chamber": "camara",
-    "materia": "Con indicación señor Burgos",
-    "descripcion": "Propuesta legislativa para con indicación señor burgos.",
+    "title": "Con indicación señor Burgos",
+    "descripcion": "Con indicación señor Burgos",
     "tags": [
       "otro"
     ],
@@ -8677,15 +8767,16 @@
       "917": "afavor",
       "918": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2723-13444",
     "boletin": "2723",
     "fecha": "2002-07-02T13:07:50",
     "chamber": "camara",
-    "materia": "Con indicación señor Burgos",
-    "descripcion": "Propuesta legislativa para con indicación señor burgos.",
+    "title": "Con indicación señor Burgos",
+    "descripcion": "Con indicación señor Burgos",
     "tags": [
       "otro"
     ],
@@ -8780,14 +8871,15 @@
       "917": "afavor",
       "918": "afavor",
       "962": "abstencion"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2727-14893",
     "boletin": "2727",
     "fecha": "2002-12-18T13:35:36",
     "chamber": "camara",
-    "materia": "Boletín 2727",
+    "title": "Boletín 2727",
     "descripcion": "",
     "tags": [
       "otro"
@@ -8878,15 +8970,16 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2735-16459",
     "boletin": "2735",
     "fecha": "2002-06-06T12:33:43",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del Nº2 del artículo único y artículo 2º transitorio",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción del Nº2 del artículo único y artículo 2º transitorio",
+    "descripcion": "2º transitorio",
     "tags": [
       "otro"
     ],
@@ -8965,15 +9058,16 @@
       "917": "afavor",
       "918": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2735-16460",
     "boletin": "2735",
     "fecha": "2002-06-06T12:32:51",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del Nº2 del artículo único y artículo 2º transitorio",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción del Nº2 del artículo único y artículo 2º transitorio",
+    "descripcion": "2º transitorio",
     "tags": [
       "otro"
     ],
@@ -9049,15 +9143,16 @@
       "916": "afavor",
       "917": "afavor",
       "918": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2735-16461",
     "boletin": "2735",
     "fecha": "2002-06-06T12:31:44",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del Nº2 del artículo único y artículo 2º transitorio",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción del Nº2 del artículo único y artículo 2º transitorio",
+    "descripcion": "2º transitorio",
     "tags": [
       "otro"
     ],
@@ -9139,14 +9234,15 @@
       "916": "afavor",
       "917": "afavor",
       "918": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2739-12402",
     "boletin": "2739",
     "fecha": "2002-07-17T12:33:49",
     "chamber": "camara",
-    "materia": "Boletín 2739",
+    "title": "Boletín 2739",
     "descripcion": "",
     "tags": [
       "otro"
@@ -9250,14 +9346,15 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2740-16482",
     "boletin": "2740",
     "fecha": "2002-07-03T12:34:52",
     "chamber": "camara",
-    "materia": "Boletín 2740",
+    "title": "Boletín 2740",
     "descripcion": "",
     "tags": [
       "otro"
@@ -9334,14 +9431,15 @@
       "912": "afavor",
       "914": "afavor",
       "916": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2770-16479",
     "boletin": "2770",
     "fecha": "2002-06-19T11:43:38",
     "chamber": "camara",
-    "materia": "Boletín 2770",
+    "title": "Boletín 2770",
     "descripcion": "",
     "tags": [
       "otro"
@@ -9403,14 +9501,15 @@
       "916": "afavor",
       "917": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2770-16443",
     "boletin": "2770",
     "fecha": "2002-04-02T12:00:21",
     "chamber": "camara",
-    "materia": "Boletín 2770",
+    "title": "Boletín 2770",
     "descripcion": "",
     "tags": [
       "otro"
@@ -9477,14 +9576,15 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2771-16488",
     "boletin": "2771",
     "fecha": "2002-07-04T11:00:50",
     "chamber": "camara",
-    "materia": "Boletín 2771",
+    "title": "Boletín 2771",
     "descripcion": "",
     "tags": [
       "otro"
@@ -9548,14 +9648,15 @@
       "916": "abstencion",
       "917": "abstencion",
       "962": "abstencion"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2774-12429",
     "boletin": "2774",
     "fecha": "2002-08-14T12:32:24",
     "chamber": "camara",
-    "materia": "Boletín 2774",
+    "title": "Boletín 2774",
     "descripcion": "",
     "tags": [
       "otro"
@@ -9644,14 +9745,15 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2774-12414",
     "boletin": "2774",
     "fecha": "2002-08-06T13:10:39",
     "chamber": "camara",
-    "materia": "Boletín 2774",
+    "title": "Boletín 2774",
     "descripcion": "",
     "tags": [
       "otro"
@@ -9754,15 +9856,16 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2775-13967",
     "boletin": "2775",
     "fecha": "2002-10-30T12:45:14",
     "chamber": "camara",
-    "materia": "Artículos 1º permanente y 4 transitorio",
-    "descripcion": "Propuesta legislativa para artículos 1º permanente y 4 transitorio.",
+    "title": "Artículos 1º permanente y 4 transitorio",
+    "descripcion": "8º",
     "tags": [
       "otro"
     ],
@@ -9848,15 +9951,16 @@
       "917": "contra",
       "918": "contra",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2775-13968",
     "boletin": "2775",
     "fecha": "2002-10-30T12:44:39",
     "chamber": "camara",
-    "materia": "Artículos 1º permanente y 4 transitorio",
-    "descripcion": "Propuesta legislativa para artículos 1º permanente y 4 transitorio.",
+    "title": "Artículos 1º permanente y 4 transitorio",
+    "descripcion": "8º",
     "tags": [
       "otro"
     ],
@@ -9943,15 +10047,16 @@
       "917": "contra",
       "918": "contra",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2775-13969",
     "boletin": "2775",
     "fecha": "2002-10-30T12:43:57",
     "chamber": "camara",
-    "materia": "Artículos 1º permanente y 4 transitorio",
-    "descripcion": "Propuesta legislativa para artículos 1º permanente y 4 transitorio.",
+    "title": "Artículos 1º permanente y 4 transitorio",
+    "descripcion": "8º",
     "tags": [
       "otro"
     ],
@@ -10037,15 +10142,16 @@
       "917": "afavor",
       "918": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2775-12460",
     "boletin": "2775",
     "fecha": "2002-10-29T13:22:24",
     "chamber": "camara",
-    "materia": "Artículos 1º permanente y 4 transitorio",
-    "descripcion": "Propuesta legislativa para artículos 1º permanente y 4 transitorio.",
+    "title": "Artículos 1º permanente y 4 transitorio",
+    "descripcion": "8º",
     "tags": [
       "otro"
     ],
@@ -10154,14 +10260,15 @@
       "916": "afavor",
       "917": "afavor",
       "918": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2777-12401",
     "boletin": "2777",
     "fecha": "2002-07-17T12:30:46",
     "chamber": "camara",
-    "materia": "Boletín 2777",
+    "title": "Boletín 2777",
     "descripcion": "",
     "tags": [
       "otro"
@@ -10262,14 +10369,15 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2777-14935",
     "boletin": "2777",
     "fecha": "2002-05-15T12:41:54",
     "chamber": "camara",
-    "materia": "Boletín 2777",
+    "title": "Boletín 2777",
     "descripcion": "",
     "tags": [
       "otro"
@@ -10355,14 +10463,15 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2801-12445",
     "boletin": "2801",
     "fecha": "2002-10-01T11:51:40",
     "chamber": "camara",
-    "materia": "Boletín 2801",
+    "title": "Boletín 2801",
     "descripcion": "",
     "tags": [
       "otro"
@@ -10427,14 +10536,15 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2810-16462",
     "boletin": "2810",
     "fecha": "2002-06-11T13:08:22",
     "chamber": "camara",
-    "materia": "Boletín 2810",
+    "title": "Boletín 2810",
     "descripcion": "",
     "tags": [
       "otro"
@@ -10521,15 +10631,16 @@
       "916": "afavor",
       "917": "afavor",
       "918": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2815-16466",
     "boletin": "2815",
     "fecha": "2002-06-12T12:31:13",
     "chamber": "camara",
-    "materia": "Agrega un artículo 1º",
-    "descripcion": "Materia sometida a votación en el Congreso Nacional.",
+    "title": "Agrega un artículo 1º",
+    "descripcion": "Informe de Comisión Mixta",
     "tags": [
       "otro"
     ],
@@ -10618,15 +10729,16 @@
       "918": "afavor",
       "921": "contra",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2821-12432",
     "boletin": "2821",
     "fecha": "2002-08-21T12:17:21",
     "chamber": "camara",
-    "materia": "Nros. 3 y 6 del artículo 1º",
-    "descripcion": "Votación particular sobre aspectos del proyecto de ley en trámite.",
+    "title": "Nros. 3 y 6 del artículo 1º",
+    "descripcion": "Nº4 artículo 1º",
     "tags": [
       "otro"
     ],
@@ -10711,15 +10823,16 @@
       "916": "afavor",
       "917": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2821-12433",
     "boletin": "2821",
     "fecha": "2002-08-21T12:16:32",
     "chamber": "camara",
-    "materia": "Nros. 3 y 6 del artículo 1º",
-    "descripcion": "Votación particular sobre aspectos del proyecto de ley en trámite.",
+    "title": "Nros. 3 y 6 del artículo 1º",
+    "descripcion": "Nº4 artículo 1º",
     "tags": [
       "otro"
     ],
@@ -10806,15 +10919,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2821-12434",
     "boletin": "2821",
     "fecha": "2002-08-21T12:15:50",
     "chamber": "camara",
-    "materia": "Nros. 3 y 6 del artículo 1º",
-    "descripcion": "Votación particular sobre aspectos del proyecto de ley en trámite.",
+    "title": "Nros. 3 y 6 del artículo 1º",
+    "descripcion": "Nº4 artículo 1º",
     "tags": [
       "otro"
     ],
@@ -10903,14 +11017,15 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2827-13451",
     "boletin": "2827",
     "fecha": "2002-08-01T10:55:11",
     "chamber": "camara",
-    "materia": "Boletín 2827",
+    "title": "Boletín 2827",
     "descripcion": "",
     "tags": [
       "otro"
@@ -10973,14 +11088,15 @@
       "917": "afavor",
       "918": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2828-12438",
     "boletin": "2828",
     "fecha": "2002-09-10T11:19:14",
     "chamber": "camara",
-    "materia": "Boletín 2828",
+    "title": "Boletín 2828",
     "descripcion": "",
     "tags": [
       "otro"
@@ -11046,14 +11162,15 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2828-16484",
     "boletin": "2828",
     "fecha": "2002-07-03T12:32:51",
     "chamber": "camara",
-    "materia": "Boletín 2828",
+    "title": "Boletín 2828",
     "descripcion": "",
     "tags": [
       "otro"
@@ -11129,14 +11246,15 @@
       "914": "afavor",
       "916": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2835-14206",
     "boletin": "2835",
     "fecha": "2002-11-21T12:41:19",
     "chamber": "camara",
-    "materia": "Boletín 2835",
+    "title": "Boletín 2835",
     "descripcion": "",
     "tags": [
       "otro"
@@ -11221,14 +11339,15 @@
       "916": "afavor",
       "917": "afavor",
       "962": "abstencion"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2835-16450",
     "boletin": "2835",
     "fecha": "2002-04-30T12:58:45",
     "chamber": "camara",
-    "materia": "Boletín 2835",
+    "title": "Boletín 2835",
     "descripcion": "",
     "tags": [
       "otro"
@@ -11301,14 +11420,15 @@
       "917": "afavor",
       "918": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2835-16446",
     "boletin": "2835",
     "fecha": "2002-04-09T13:05:44",
     "chamber": "camara",
-    "materia": "Boletín 2835",
+    "title": "Boletín 2835",
     "descripcion": "",
     "tags": [
       "otro"
@@ -11392,14 +11512,15 @@
       "916": "afavor",
       "917": "afavor",
       "918": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2839-12400",
     "boletin": "2839",
     "fecha": "2002-07-17T12:31:58",
     "chamber": "camara",
-    "materia": "Indicación a artículos 1º y 2º",
+    "title": "Indicación a artículos 1º y 2º",
     "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
     "tags": [
       "otro"
@@ -11495,14 +11616,15 @@
       "914": "afavor",
       "917": "afavor",
       "918": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2839-16438",
     "boletin": "2839",
     "fecha": "2002-03-20T12:33:31",
     "chamber": "camara",
-    "materia": "Indicación a artículos 1º y 2º",
+    "title": "Indicación a artículos 1º y 2º",
     "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
     "tags": [
       "otro"
@@ -11609,14 +11731,15 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2839-16439",
     "boletin": "2839",
     "fecha": "2002-03-20T12:26:55",
     "chamber": "camara",
-    "materia": "Indicación a artículos 1º y 2º",
+    "title": "Indicación a artículos 1º y 2º",
     "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
     "tags": [
       "otro"
@@ -11722,14 +11845,15 @@
       "918": "afavor",
       "921": "contra",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2839-16440",
     "boletin": "2839",
     "fecha": "2002-03-20T12:25:40",
     "chamber": "camara",
-    "materia": "Indicación a artículos 1º y 2º",
+    "title": "Indicación a artículos 1º y 2º",
     "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
     "tags": [
       "otro"
@@ -11827,14 +11951,15 @@
       "918": "afavor",
       "921": "afavor",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2841-13453",
     "boletin": "2841",
     "fecha": "2002-08-08T12:06:52",
     "chamber": "camara",
-    "materia": "Boletín 2841",
+    "title": "Boletín 2841",
     "descripcion": "",
     "tags": [
       "otro"
@@ -11914,14 +12039,15 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2842-16486",
     "boletin": "2842",
     "fecha": "2002-07-04T11:56:11",
     "chamber": "camara",
-    "materia": "Boletín 2842",
+    "title": "Boletín 2842",
     "descripcion": "",
     "tags": [
       "otro"
@@ -11987,14 +12113,15 @@
       "912": "afavor",
       "916": "afavor",
       "917": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2843-13450",
     "boletin": "2843",
     "fecha": "2002-08-01T11:07:54",
     "chamber": "camara",
-    "materia": "Boletín 2843",
+    "title": "Boletín 2843",
     "descripcion": "",
     "tags": [
       "otro"
@@ -12050,14 +12177,15 @@
       "916": "afavor",
       "918": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2850-16454",
     "boletin": "2850",
     "fecha": "2002-04-30T12:05:55",
     "chamber": "camara",
-    "materia": "Boletín 2850",
+    "title": "Boletín 2850",
     "descripcion": "",
     "tags": [
       "otro"
@@ -12149,14 +12277,15 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2852-16447",
     "boletin": "2852",
     "fecha": "2002-04-10T11:32:09",
     "chamber": "camara",
-    "materia": "Cierre del debate",
+    "title": "Cierre del debate",
     "descripcion": "Votación particular sobre aspectos del proyecto de ley en trámite.",
     "tags": [
       "otro"
@@ -12247,14 +12376,15 @@
       "916": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2852-16448",
     "boletin": "2852",
     "fecha": "2002-04-10T11:30:43",
     "chamber": "camara",
-    "materia": "Cierre del debate",
+    "title": "Cierre del debate",
     "descripcion": "Votación particular sobre aspectos del proyecto de ley en trámite.",
     "tags": [
       "otro"
@@ -12333,15 +12463,16 @@
       "916": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2853-13465",
     "boletin": "2853",
     "fecha": "2002-10-15T13:20:02",
     "chamber": "camara",
-    "materia": "Todas las modificaciones propuestas por el Senado, con excepción de las recaídas en el artículo 1°, número 6; artícul...",
-    "descripcion": "Propuesta legislativa para todas las modificaciones propuestas por el senado, con excepción de las recaídas en el artículo 1°, número 6; artícul....",
+    "title": "Todas las modificaciones propuestas por el Senado, con excepción de las recaídas en el artículo 1°, número 6; artícul...",
+    "descripcion": "Observación del Presidente de la República Nº6, que incorpora un artículo 11 nuevo.",
     "tags": [
       "otro"
     ],
@@ -12434,14 +12565,15 @@
       "916": "afavor",
       "917": "afavor",
       "918": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2855-13440",
     "boletin": "2855",
     "fecha": "2002-06-13T11:08:59",
     "chamber": "camara",
-    "materia": "Boletín 2855",
+    "title": "Boletín 2855",
     "descripcion": "",
     "tags": [
       "otro"
@@ -12489,14 +12621,15 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2856-12403",
     "boletin": "2856",
     "fecha": "2002-07-18T11:02:38",
     "chamber": "camara",
-    "materia": "Boletín 2856",
+    "title": "Boletín 2856",
     "descripcion": "",
     "tags": [
       "otro"
@@ -12555,14 +12688,15 @@
       "914": "afavor",
       "917": "afavor",
       "918": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2888-16445",
     "boletin": "2888",
     "fecha": "2002-04-04T12:25:00",
     "chamber": "camara",
-    "materia": "Modificación a la letra b) del artículo 1º",
+    "title": "Modificación a la letra b) del artículo 1º",
     "descripcion": "Proyecto que modificación a la letra b) del artículo 1º.",
     "tags": [
       "otro"
@@ -12636,14 +12770,15 @@
       "916": "afavor",
       "917": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2899-16442",
     "boletin": "2899",
     "fecha": "2002-04-02T13:00:03",
     "chamber": "camara",
-    "materia": "Boletín 2899",
+    "title": "Boletín 2899",
     "descripcion": "",
     "tags": [
       "otro"
@@ -12726,15 +12861,16 @@
       "910": "afavor",
       "917": "afavor",
       "918": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2904-16471",
     "boletin": "2904",
     "fecha": "2002-06-18T12:45:06",
     "chamber": "camara",
-    "materia": "Todas las enmiendas del H. Senado con excepcióin de las letras d) y f) del artículo 1º",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas del H. Senado con excepcióin de las letras d) y f) del artículo 1º",
+    "descripcion": "letra f) artículo 1º",
     "tags": [
       "otro"
     ],
@@ -12836,15 +12972,16 @@
       "917": "afavor",
       "918": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2904-16472",
     "boletin": "2904",
     "fecha": "2002-06-18T12:44:20",
     "chamber": "camara",
-    "materia": "Todas las enmiendas del H. Senado con excepcióin de las letras d) y f) del artículo 1º",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas del H. Senado con excepcióin de las letras d) y f) del artículo 1º",
+    "descripcion": "letra f) artículo 1º",
     "tags": [
       "otro"
     ],
@@ -12946,15 +13083,16 @@
       "917": "afavor",
       "918": "afavor",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2904-16469",
     "boletin": "2904",
     "fecha": "2002-06-18T12:43:36",
     "chamber": "camara",
-    "materia": "Todas las enmiendas del H. Senado con excepcióin de las letras d) y f) del artículo 1º",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas del H. Senado con excepcióin de las letras d) y f) del artículo 1º",
+    "descripcion": "letra f) artículo 1º",
     "tags": [
       "otro"
     ],
@@ -13058,14 +13196,15 @@
       "917": "afavor",
       "918": "afavor",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2906-13464",
     "boletin": "2906",
     "fecha": "2002-09-11T13:36:50",
     "chamber": "camara",
-    "materia": "Normas referidas a la edad, solo en lo que dice relación a la expresión \"catorce años\" y los artículos 363, 369 ter y...",
+    "title": "Normas referidas a la edad, solo en lo que dice relación a la expresión \"catorce años\" y los artículos 363, 369 ter y...",
     "descripcion": "Propuesta legislativa para normas referidas a la edad, solo en lo que dice relación a la expresión \"catorce años\" y los artículos 363, 369 ter y....",
     "tags": [
       "otro"
@@ -13167,14 +13306,15 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2906-13462",
     "boletin": "2906",
     "fecha": "2002-09-11T13:36:04",
     "chamber": "camara",
-    "materia": "Normas referidas a la edad, solo en lo que dice relación a la expresión \"catorce años\" y los artículos 363, 369 ter y...",
+    "title": "Normas referidas a la edad, solo en lo que dice relación a la expresión \"catorce años\" y los artículos 363, 369 ter y...",
     "descripcion": "Propuesta legislativa para normas referidas a la edad, solo en lo que dice relación a la expresión \"catorce años\" y los artículos 363, 369 ter y....",
     "tags": [
       "otro"
@@ -13284,14 +13424,15 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2906-13463",
     "boletin": "2906",
     "fecha": "2002-09-11T13:34:35",
     "chamber": "camara",
-    "materia": "Normas referidas a la edad, solo en lo que dice relación a la expresión \"catorce años\" y los artículos 363, 369 ter y...",
+    "title": "Normas referidas a la edad, solo en lo que dice relación a la expresión \"catorce años\" y los artículos 363, 369 ter y...",
     "descripcion": "Propuesta legislativa para normas referidas a la edad, solo en lo que dice relación a la expresión \"catorce años\" y los artículos 363, 369 ter y....",
     "tags": [
       "otro"
@@ -13403,14 +13544,15 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2910-13449",
     "boletin": "2910",
     "fecha": "2002-08-01T11:30:36",
     "chamber": "camara",
-    "materia": "Boletín 2910",
+    "title": "Boletín 2910",
     "descripcion": "",
     "tags": [
       "otro"
@@ -13486,14 +13628,15 @@
       "916": "afavor",
       "917": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2920-16456",
     "boletin": "2920",
     "fecha": "2002-05-08T12:32:00",
     "chamber": "camara",
-    "materia": "Boletín 2920",
+    "title": "Boletín 2920",
     "descripcion": "",
     "tags": [
       "otro"
@@ -13573,15 +13716,16 @@
       "917": "afavor",
       "918": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2921-12469",
     "boletin": "2921",
     "fecha": "2002-11-06T12:39:04",
     "chamber": "camara",
-    "materia": "2º, indicación",
-    "descripcion": "Votación particular sobre aspectos del proyecto de ley en trámite.",
+    "title": "2º, indicación",
+    "descripcion": "2º, indicación",
     "tags": [
       "otro"
     ],
@@ -13660,15 +13804,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2923-13459",
     "boletin": "2923",
     "fecha": "2002-09-04T12:47:40",
     "chamber": "camara",
-    "materia": "Indicación Nº2 del señor Letelier, don Juan Pablo",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Indicación Nº2 del señor Letelier, don Juan Pablo",
+    "descripcion": "Indicación Nº2 del señor Letelier, don Juan Pablo",
     "tags": [
       "otro"
     ],
@@ -13750,15 +13895,16 @@
       "917": "contra",
       "918": "contra",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2923-13460",
     "boletin": "2923",
     "fecha": "2002-09-04T12:46:31",
     "chamber": "camara",
-    "materia": "Indicación Nº2 del señor Letelier, don Juan Pablo",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Indicación Nº2 del señor Letelier, don Juan Pablo",
+    "descripcion": "Indicación Nº2 del señor Letelier, don Juan Pablo",
     "tags": [
       "otro"
     ],
@@ -13846,15 +13992,16 @@
       "918": "contra",
       "921": "contra",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2923-13461",
     "boletin": "2923",
     "fecha": "2002-09-04T12:44:17",
     "chamber": "camara",
-    "materia": "Indicación Nº2 del señor Letelier, don Juan Pablo",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Indicación Nº2 del señor Letelier, don Juan Pablo",
+    "descripcion": "Indicación Nº2 del señor Letelier, don Juan Pablo",
     "tags": [
       "otro"
     ],
@@ -13945,14 +14092,15 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2924-16481",
     "boletin": "2924",
     "fecha": "2002-06-20T10:54:25",
     "chamber": "camara",
-    "materia": "Boletín 2924",
+    "title": "Boletín 2924",
     "descripcion": "",
     "tags": [
       "otro"
@@ -14003,15 +14151,16 @@
       "916": "afavor",
       "918": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2925-13446",
     "boletin": "2925",
     "fecha": "2002-08-01T12:41:05",
     "chamber": "camara",
-    "materia": "Modificación del art. 3º, propuesta por el H. Senado",
-    "descripcion": "Proyecto que modificación del art. 3º, propuesta por el h. senado.",
+    "title": "Modificación del art. 3º, propuesta por el H. Senado",
+    "descripcion": "Modificación del art. 3º, propuesta por el H. Senado",
     "tags": [
       "cultura"
     ],
@@ -14094,15 +14243,16 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2925-13447",
     "boletin": "2925",
     "fecha": "2002-08-01T12:39:45",
     "chamber": "camara",
-    "materia": "Modificación del art. 3º, propuesta por el H. Senado",
-    "descripcion": "Proyecto que modificación del art. 3º, propuesta por el h. senado.",
+    "title": "Modificación del art. 3º, propuesta por el H. Senado",
+    "descripcion": "Modificación del art. 3º, propuesta por el H. Senado",
     "tags": [
       "otro"
     ],
@@ -14183,15 +14333,16 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2925-13448",
     "boletin": "2925",
     "fecha": "2002-08-01T12:36:50",
     "chamber": "camara",
-    "materia": "Modificación del art. 3º, propuesta por el H. Senado",
-    "descripcion": "Proyecto que modificación del art. 3º, propuesta por el h. senado.",
+    "title": "Modificación del art. 3º, propuesta por el H. Senado",
+    "descripcion": "Modificación del art. 3º, propuesta por el H. Senado",
     "tags": [
       "otro"
     ],
@@ -14280,14 +14431,15 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2926-16455",
     "boletin": "2926",
     "fecha": "2002-05-08T11:16:00",
     "chamber": "camara",
-    "materia": "Boletín 2926",
+    "title": "Boletín 2926",
     "descripcion": "",
     "tags": [
       "otro"
@@ -14367,14 +14519,15 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2931-13441",
     "boletin": "2931",
     "fecha": "2002-06-13T12:59:03",
     "chamber": "camara",
-    "materia": "Cierre del debate",
+    "title": "Cierre del debate",
     "descripcion": "Votación particular sobre aspectos del proyecto de ley en trámite.",
     "tags": [
       "otro"
@@ -14446,14 +14599,15 @@
       "916": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2931-14936",
     "boletin": "2931",
     "fecha": "2002-05-15T14:05:00",
     "chamber": "camara",
-    "materia": "Cierre del debate",
+    "title": "Cierre del debate",
     "descripcion": "Votación particular sobre aspectos del proyecto de ley en trámite.",
     "tags": [
       "otro"
@@ -14546,14 +14700,15 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2931-14933",
     "boletin": "2931",
     "fecha": "2002-05-15T14:03:31",
     "chamber": "camara",
-    "materia": "Cierre del debate",
+    "title": "Cierre del debate",
     "descripcion": "Votación particular sobre aspectos del proyecto de ley en trámite.",
     "tags": [
       "otro"
@@ -14642,14 +14797,15 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2931-14934",
     "boletin": "2931",
     "fecha": "2002-05-15T14:02:51",
     "chamber": "camara",
-    "materia": "Cierre del debate",
+    "title": "Cierre del debate",
     "descripcion": "Votación particular sobre aspectos del proyecto de ley en trámite.",
     "tags": [
       "otro"
@@ -14735,15 +14891,16 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2932-16463",
     "boletin": "2932",
     "fecha": "2002-06-11T13:07:00",
     "chamber": "camara",
-    "materia": "Indicación del Ejecutivo al Nº1 del artículo 1º",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Indicación del Ejecutivo al Nº1 del artículo 1º",
+    "descripcion": "Indicación del Ejecutivo al Nº1 del artículo 1º",
     "tags": [
       "otro"
     ],
@@ -14833,15 +14990,16 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2932-16464",
     "boletin": "2932",
     "fecha": "2002-06-11T13:04:53",
     "chamber": "camara",
-    "materia": "Indicación del Ejecutivo al Nº1 del artículo 1º",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Indicación del Ejecutivo al Nº1 del artículo 1º",
+    "descripcion": "Indicación del Ejecutivo al Nº1 del artículo 1º",
     "tags": [
       "otro"
     ],
@@ -14928,14 +15086,15 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2934-16490",
     "boletin": "2934",
     "fecha": "2002-07-11T12:20:00",
     "chamber": "camara",
-    "materia": "Boletín 2934",
+    "title": "Boletín 2934",
     "descripcion": "",
     "tags": [
       "otro"
@@ -15003,14 +15162,15 @@
       "908": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2939-16487",
     "boletin": "2939",
     "fecha": "2002-07-04T11:26:14",
     "chamber": "camara",
-    "materia": "Boletín 2939",
+    "title": "Boletín 2939",
     "descripcion": "",
     "tags": [
       "otro"
@@ -15063,14 +15223,15 @@
       "908": "afavor",
       "914": "afavor",
       "917": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2945-16457",
     "boletin": "2945",
     "fecha": "2002-05-21T20:20:52",
     "chamber": "camara",
-    "materia": "Boletín 2945",
+    "title": "Boletín 2945",
     "descripcion": "",
     "tags": [
       "otro"
@@ -15158,14 +15319,15 @@
       "917": "afavor",
       "918": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2946-16485",
     "boletin": "2946",
     "fecha": "2002-07-04T12:23:30",
     "chamber": "camara",
-    "materia": "Boletín 2946",
+    "title": "Boletín 2946",
     "descripcion": "",
     "tags": [
       "otro"
@@ -15232,15 +15394,16 @@
       "914": "afavor",
       "916": "afavor",
       "917": "abstencion"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2947-14891",
     "boletin": "2947",
     "fecha": "2002-12-12T15:51:30",
     "chamber": "camara",
-    "materia": "Excepto las recaídas en los artículos 22 al 36",
-    "descripcion": "Propuesta legislativa para excepto las recaídas en los artículos 22 al 36.",
+    "title": "Excepto las recaídas en los artículos 22 al 36",
+    "descripcion": "Enmiendas del Senado recaídas en los artículos 35 y 36.",
     "tags": [
       "otro"
     ],
@@ -15335,15 +15498,16 @@
       "917": "afavor",
       "918": "afavor",
       "921": "abstencion"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2948-16465",
     "boletin": "2948",
     "fecha": "2002-06-12T13:24:40",
     "chamber": "camara",
-    "materia": "Todos menos los Nros. 1,2 y 5 del artículo 1º y los artículos 2º, 3º y 5º",
-    "descripcion": "Propuesta legislativa para todos menos los nros. 1,2 y 5 del artículo 1º y los artículos 2º, 3º y 5º.",
+    "title": "Todos menos los Nros. 1,2 y 5 del artículo 1º y los artículos 2º, 3º y 5º",
+    "descripcion": "Todos menos los Nros. 1,2 y 5 del artículo 1º y los artículos 2º, 3º y 5º",
     "tags": [
       "otro"
     ],
@@ -15448,14 +15612,15 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2957-13452",
     "boletin": "2957",
     "fecha": "2002-08-08T12:10:32",
     "chamber": "camara",
-    "materia": "Boletín 2957",
+    "title": "Boletín 2957",
     "descripcion": "",
     "tags": [
       "otro"
@@ -15535,14 +15700,15 @@
       "918": "afavor",
       "921": "abstencion",
       "962": "abstencion"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2964-14884",
     "boletin": "2964",
     "fecha": "2002-12-04T13:23:56",
     "chamber": "camara",
-    "materia": "Boletín 2964",
+    "title": "Boletín 2964",
     "descripcion": "",
     "tags": [
       "otro"
@@ -15637,14 +15803,15 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2966-16489",
     "boletin": "2966",
     "fecha": "2002-07-11T12:18:55",
     "chamber": "camara",
-    "materia": "Boletín 2966",
+    "title": "Boletín 2966",
     "descripcion": "",
     "tags": [
       "otro"
@@ -15712,15 +15879,16 @@
       "908": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2974-12444",
     "boletin": "2974",
     "fecha": "2002-09-12T12:48:25",
     "chamber": "camara",
-    "materia": "Todo el articulado",
-    "descripcion": "Votación particular sobre aspectos del proyecto de ley en trámite.",
+    "title": "Todo el articulado",
+    "descripcion": "Todo el articulado",
     "tags": [
       "otro"
     ],
@@ -15796,15 +15964,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2974-12430",
     "boletin": "2974",
     "fecha": "2002-08-14T12:21:39",
     "chamber": "camara",
-    "materia": "Todo el articulado",
-    "descripcion": "Votación particular sobre aspectos del proyecto de ley en trámite.",
+    "title": "Todo el articulado",
+    "descripcion": "Todo el articulado",
     "tags": [
       "otro"
     ],
@@ -15882,15 +16051,16 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2975-12448",
     "boletin": "2975",
     "fecha": "2002-10-09T13:18:02",
     "chamber": "camara",
-    "materia": "Todas las enmiendas del H Senado, incluye normas de ley orgánica",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas del H Senado, incluye normas de ley orgánica",
+    "descripcion": "Todas las enmiendas del H Senado, incluye normas de ley orgánica",
     "tags": [
       "otro"
     ],
@@ -15988,15 +16158,16 @@
       "917": "afavor",
       "918": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2975-12449",
     "boletin": "2975",
     "fecha": "2002-10-09T13:16:41",
     "chamber": "camara",
-    "materia": "Todas las enmiendas del H Senado, incluye normas de ley orgánica",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas del H Senado, incluye normas de ley orgánica",
+    "descripcion": "Todas las enmiendas del H Senado, incluye normas de ley orgánica",
     "tags": [
       "otro"
     ],
@@ -16099,15 +16270,16 @@
       "917": "contra",
       "918": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2975-12450",
     "boletin": "2975",
     "fecha": "2002-10-09T13:10:07",
     "chamber": "camara",
-    "materia": "Todas las enmiendas del H Senado, incluye normas de ley orgánica",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas del H Senado, incluye normas de ley orgánica",
+    "descripcion": "Todas las enmiendas del H Senado, incluye normas de ley orgánica",
     "tags": [
       "otro"
     ],
@@ -16202,15 +16374,16 @@
       "917": "afavor",
       "918": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2975-12451",
     "boletin": "2975",
     "fecha": "2002-10-09T13:09:23",
     "chamber": "camara",
-    "materia": "Todas las enmiendas del H Senado, incluye normas de ley orgánica",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas del H Senado, incluye normas de ley orgánica",
+    "descripcion": "Todas las enmiendas del H Senado, incluye normas de ley orgánica",
     "tags": [
       "otro"
     ],
@@ -16302,15 +16475,16 @@
       "917": "afavor",
       "918": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2975-12452",
     "boletin": "2975",
     "fecha": "2002-10-09T13:07:53",
     "chamber": "camara",
-    "materia": "Todas las enmiendas del H Senado, incluye normas de ley orgánica",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas del H Senado, incluye normas de ley orgánica",
+    "descripcion": "Todas las enmiendas del H Senado, incluye normas de ley orgánica",
     "tags": [
       "otro"
     ],
@@ -16405,15 +16579,16 @@
       "916": "afavor",
       "917": "afavor",
       "918": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2980-12541",
     "boletin": "2980",
     "fecha": "2002-11-20T20:12:41",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
+    "descripcion": "Décimo Quinto Transitorio",
     "tags": [
       "otro"
     ],
@@ -16506,15 +16681,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2980-12542",
     "boletin": "2980",
     "fecha": "2002-11-20T20:12:12",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
+    "descripcion": "Décimo Quinto Transitorio",
     "tags": [
       "otro"
     ],
@@ -16604,15 +16780,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2980-12543",
     "boletin": "2980",
     "fecha": "2002-11-20T20:11:39",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
+    "descripcion": "Décimo Quinto Transitorio",
     "tags": [
       "otro"
     ],
@@ -16699,15 +16876,16 @@
       "917": "contra",
       "921": "contra",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2980-12538",
     "boletin": "2980",
     "fecha": "2002-11-20T20:11:14",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
+    "descripcion": "Décimo Quinto Transitorio",
     "tags": [
       "otro"
     ],
@@ -16799,15 +16977,16 @@
       "917": "abstencion",
       "921": "abstencion",
       "962": "abstencion"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2980-12525",
     "boletin": "2980",
     "fecha": "2002-11-20T20:08:51",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
+    "descripcion": "Décimo Quinto Transitorio",
     "tags": [
       "otro"
     ],
@@ -16901,15 +17080,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2980-12526",
     "boletin": "2980",
     "fecha": "2002-11-20T20:08:10",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
+    "descripcion": "Décimo Quinto Transitorio",
     "tags": [
       "otro"
     ],
@@ -17003,15 +17183,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2980-12527",
     "boletin": "2980",
     "fecha": "2002-11-20T20:06:41",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
+    "descripcion": "Décimo Quinto Transitorio",
     "tags": [
       "otro"
     ],
@@ -17103,15 +17284,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2980-12528",
     "boletin": "2980",
     "fecha": "2002-11-20T20:06:01",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
+    "descripcion": "Décimo Quinto Transitorio",
     "tags": [
       "otro"
     ],
@@ -17202,15 +17384,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2980-12529",
     "boletin": "2980",
     "fecha": "2002-11-20T20:04:57",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
+    "descripcion": "Décimo Quinto Transitorio",
     "tags": [
       "otro"
     ],
@@ -17300,15 +17483,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2980-12530",
     "boletin": "2980",
     "fecha": "2002-11-20T20:04:27",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
+    "descripcion": "Décimo Quinto Transitorio",
     "tags": [
       "otro"
     ],
@@ -17400,15 +17584,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2980-12531",
     "boletin": "2980",
     "fecha": "2002-11-20T20:03:52",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
+    "descripcion": "Décimo Quinto Transitorio",
     "tags": [
       "otro"
     ],
@@ -17501,15 +17686,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2980-12539",
     "boletin": "2980",
     "fecha": "2002-11-20T20:03:02",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
+    "descripcion": "Décimo Quinto Transitorio",
     "tags": [
       "otro"
     ],
@@ -17600,15 +17786,16 @@
       "917": "abstencion",
       "921": "abstencion",
       "962": "abstencion"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2980-12532",
     "boletin": "2980",
     "fecha": "2002-11-20T20:02:24",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
+    "descripcion": "Décimo Quinto Transitorio",
     "tags": [
       "otro"
     ],
@@ -17701,15 +17888,16 @@
       "917": "abstencion",
       "921": "abstencion",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2980-12533",
     "boletin": "2980",
     "fecha": "2002-11-20T20:00:02",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
+    "descripcion": "Décimo Quinto Transitorio",
     "tags": [
       "otro"
     ],
@@ -17799,15 +17987,16 @@
       "917": "contra",
       "921": "contra",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2980-12534",
     "boletin": "2980",
     "fecha": "2002-11-20T19:59:31",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
+    "descripcion": "Décimo Quinto Transitorio",
     "tags": [
       "otro"
     ],
@@ -17896,15 +18085,16 @@
       "917": "contra",
       "921": "contra",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2980-12535",
     "boletin": "2980",
     "fecha": "2002-11-20T19:58:48",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
+    "descripcion": "Décimo Quinto Transitorio",
     "tags": [
       "otro"
     ],
@@ -17996,15 +18186,16 @@
       "917": "contra",
       "921": "contra",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2980-12536",
     "boletin": "2980",
     "fecha": "2002-11-20T19:57:16",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
+    "descripcion": "Décimo Quinto Transitorio",
     "tags": [
       "otro"
     ],
@@ -18095,15 +18286,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2980-12537",
     "boletin": "2980",
     "fecha": "2002-11-20T19:55:58",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
+    "descripcion": "Décimo Quinto Transitorio",
     "tags": [
       "otro"
     ],
@@ -18188,15 +18380,16 @@
       "917": "contra",
       "921": "abstencion",
       "962": "abstencion"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2980-12540",
     "boletin": "2980",
     "fecha": "2002-11-20T19:55:10",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
+    "descripcion": "Décimo Quinto Transitorio",
     "tags": [
       "otro"
     ],
@@ -18282,15 +18475,16 @@
       "917": "abstencion",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2980-12446",
     "boletin": "2980",
     "fecha": "2002-10-08T13:28:48",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
+    "descripcion": "Décimo Quinto Transitorio",
     "tags": [
       "otro"
     ],
@@ -18401,15 +18595,16 @@
       "918": "afavor",
       "921": "contra",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-2980-12447",
     "boletin": "2980",
     "fecha": "2002-10-08T13:26:58",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción del número 3 del numeral 1; numeral 3; numeral 10; numeral 11, en sus artículos 14A...",
+    "descripcion": "Décimo Quinto Transitorio",
     "tags": [
       "otro"
     ],
@@ -18515,15 +18710,16 @@
       "917": "abstencion",
       "918": "afavor",
       "921": "abstencion"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3004-12454",
     "boletin": "3004",
     "fecha": "2002-10-10T12:06:41",
     "chamber": "camara",
-    "materia": "con indicación Sres. Jaramillo, Paya y Salas",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "con indicación Sres. Jaramillo, Paya y Salas",
+    "descripcion": "Artículo 1º, con indicación Sres. Jaramillo, Paya y Salas",
     "tags": [
       "otro"
     ],
@@ -18577,15 +18773,16 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3004-12455",
     "boletin": "3004",
     "fecha": "2002-10-10T12:05:08",
     "chamber": "camara",
-    "materia": "con indicación Sres. Jaramillo, Paya y Salas",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "con indicación Sres. Jaramillo, Paya y Salas",
+    "descripcion": "Artículo 1º, con indicación Sres. Jaramillo, Paya y Salas",
     "tags": [
       "otro"
     ],
@@ -18642,14 +18839,15 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3011-12470",
     "boletin": "3011",
     "fecha": "2002-11-12T13:05:14",
     "chamber": "camara",
-    "materia": "Boletín 3011",
+    "title": "Boletín 3011",
     "descripcion": "",
     "tags": [
       "otro"
@@ -18727,14 +18925,15 @@
       "916": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3012-12431",
     "boletin": "3012",
     "fecha": "2002-08-21T12:42:46",
     "chamber": "camara",
-    "materia": "Boletín 3012",
+    "title": "Boletín 3012",
     "descripcion": "",
     "tags": [
       "otro"
@@ -18828,14 +19027,15 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3013-12472",
     "boletin": "3013",
     "fecha": "2002-11-13T12:37:27",
     "chamber": "camara",
-    "materia": "Boletín 3013",
+    "title": "Boletín 3013",
     "descripcion": "",
     "tags": [
       "otro"
@@ -18915,15 +19115,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3015-12463",
     "boletin": "3015",
     "fecha": "2002-11-05T13:12:54",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del artículo 1º, Nros. 1 y 3 y el artículo 1º, Nº4, sólo en lo referente a los Nros...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción del artículo 1º, Nros. 1 y 3 y el artículo 1º, Nº4, sólo en lo referente a los Nros...",
+    "descripcion": "1º, Nº4 solo en lo referente al Nº8 del artículo 41-D",
     "tags": [
       "otro"
     ],
@@ -19001,15 +19202,16 @@
       "914": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3015-12464",
     "boletin": "3015",
     "fecha": "2002-11-05T13:12:20",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del artículo 1º, Nros. 1 y 3 y el artículo 1º, Nº4, sólo en lo referente a los Nros...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción del artículo 1º, Nros. 1 y 3 y el artículo 1º, Nº4, sólo en lo referente a los Nros...",
+    "descripcion": "1º, Nº4 solo en lo referente al Nº8 del artículo 41-D",
     "tags": [
       "otro"
     ],
@@ -19103,15 +19305,16 @@
       "917": "abstencion",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3015-12465",
     "boletin": "3015",
     "fecha": "2002-11-05T13:11:26",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del artículo 1º, Nros. 1 y 3 y el artículo 1º, Nº4, sólo en lo referente a los Nros...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción del artículo 1º, Nros. 1 y 3 y el artículo 1º, Nº4, sólo en lo referente a los Nros...",
+    "descripcion": "1º, Nº4 solo en lo referente al Nº8 del artículo 41-D",
     "tags": [
       "otro"
     ],
@@ -19205,15 +19408,16 @@
       "914": "afavor",
       "917": "abstencion",
       "918": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3015-12466",
     "boletin": "3015",
     "fecha": "2002-11-05T13:10:33",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del artículo 1º, Nros. 1 y 3 y el artículo 1º, Nº4, sólo en lo referente a los Nros...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción del artículo 1º, Nros. 1 y 3 y el artículo 1º, Nº4, sólo en lo referente a los Nros...",
+    "descripcion": "1º, Nº4 solo en lo referente al Nº8 del artículo 41-D",
     "tags": [
       "otro"
     ],
@@ -19310,15 +19514,16 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3015-12467",
     "boletin": "3015",
     "fecha": "2002-11-05T13:09:28",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del artículo 1º, Nros. 1 y 3 y el artículo 1º, Nº4, sólo en lo referente a los Nros...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción del artículo 1º, Nros. 1 y 3 y el artículo 1º, Nº4, sólo en lo referente a los Nros...",
+    "descripcion": "1º, Nº4 solo en lo referente al Nº8 del artículo 41-D",
     "tags": [
       "otro"
     ],
@@ -19411,15 +19616,16 @@
       "914": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3015-13456",
     "boletin": "3015",
     "fecha": "2002-08-20T13:31:00",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del artículo 1º, Nros. 1 y 3 y el artículo 1º, Nº4, sólo en lo referente a los Nros...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción del artículo 1º, Nros. 1 y 3 y el artículo 1º, Nº4, sólo en lo referente a los Nros...",
+    "descripcion": "1º, Nº4 solo en lo referente al Nº8 del artículo 41-D",
     "tags": [
       "otro"
     ],
@@ -19529,15 +19735,16 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3015-13455",
     "boletin": "3015",
     "fecha": "2002-08-20T13:31:00",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del artículo 1º, Nros. 1 y 3 y el artículo 1º, Nº4, sólo en lo referente a los Nros...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción del artículo 1º, Nros. 1 y 3 y el artículo 1º, Nº4, sólo en lo referente a los Nros...",
+    "descripcion": "1º, Nº4 solo en lo referente al Nº8 del artículo 41-D",
     "tags": [
       "otro"
     ],
@@ -19649,15 +19856,16 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3015-13457",
     "boletin": "3015",
     "fecha": "2002-08-20T13:30:00",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del artículo 1º, Nros. 1 y 3 y el artículo 1º, Nº4, sólo en lo referente a los Nros...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción del artículo 1º, Nros. 1 y 3 y el artículo 1º, Nº4, sólo en lo referente a los Nros...",
+    "descripcion": "1º, Nº4 solo en lo referente al Nº8 del artículo 41-D",
     "tags": [
       "otro"
     ],
@@ -19768,15 +19976,16 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3015-13458",
     "boletin": "3015",
     "fecha": "2002-08-20T13:28:00",
     "chamber": "camara",
-    "materia": "Todas las enmiendas con excepción del artículo 1º, Nros. 1 y 3 y el artículo 1º, Nº4, sólo en lo referente a los Nros...",
-    "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
+    "title": "Todas las enmiendas con excepción del artículo 1º, Nros. 1 y 3 y el artículo 1º, Nº4, sólo en lo referente a los Nros...",
+    "descripcion": "1º, Nº4 solo en lo referente al Nº8 del artículo 41-D",
     "tags": [
       "otro"
     ],
@@ -19884,14 +20093,15 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3031-12453",
     "boletin": "3031",
     "fecha": "2002-10-09T11:19:45",
     "chamber": "camara",
-    "materia": "Boletín 3031",
+    "title": "Boletín 3031",
     "descripcion": "",
     "tags": [
       "otro"
@@ -19964,14 +20174,15 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3032-12435",
     "boletin": "3032",
     "fecha": "2002-09-03T13:20:26",
     "chamber": "camara",
-    "materia": "Boletín 3032",
+    "title": "Boletín 3032",
     "descripcion": "",
     "tags": [
       "otro"
@@ -20075,14 +20286,15 @@
       "918": "contra",
       "921": "contra",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3034-14203",
     "boletin": "3034",
     "fecha": "2002-11-07T12:39:26",
     "chamber": "camara",
-    "materia": "Boletín 3034",
+    "title": "Boletín 3034",
     "descripcion": "",
     "tags": [
       "otro"
@@ -20138,14 +20350,15 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3035-14204",
     "boletin": "3035",
     "fecha": "2002-11-07T11:39:13",
     "chamber": "camara",
-    "materia": "Boletín 3035",
+    "title": "Boletín 3035",
     "descripcion": "",
     "tags": [
       "otro"
@@ -20217,14 +20430,15 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3039-14894",
     "boletin": "3039",
     "fecha": "2002-12-18T12:30:45",
     "chamber": "camara",
-    "materia": "Indicación renovada",
+    "title": "Indicación renovada",
     "descripcion": "Votación particular sobre aspectos del proyecto de ley en trámite.",
     "tags": [
       "otro"
@@ -20327,14 +20541,15 @@
       "917": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3039-14895",
     "boletin": "3039",
     "fecha": "2002-12-18T12:30:01",
     "chamber": "camara",
-    "materia": "Indicación renovada",
+    "title": "Indicación renovada",
     "descripcion": "Votación particular sobre aspectos del proyecto de ley en trámite.",
     "tags": [
       "otro"
@@ -20434,14 +20649,15 @@
       "917": "afavor",
       "918": "contra",
       "921": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3039-14886",
     "boletin": "3039",
     "fecha": "2002-12-10T13:49:32",
     "chamber": "camara",
-    "materia": "Indicación renovada",
+    "title": "Indicación renovada",
     "descripcion": "Votación particular sobre aspectos del proyecto de ley en trámite.",
     "tags": [
       "otro"
@@ -20552,15 +20768,16 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3049-12456",
     "boletin": "3049",
     "fecha": "2002-10-16T13:26:40",
     "chamber": "camara",
-    "materia": "Con excepción artículo 3º",
-    "descripcion": "Votación particular sobre aspectos del proyecto de ley en trámite.",
+    "title": "Con excepción artículo 3º",
+    "descripcion": "3º",
     "tags": [
       "otro"
     ],
@@ -20665,15 +20882,16 @@
       "916": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3049-12457",
     "boletin": "3049",
     "fecha": "2002-10-16T13:21:13",
     "chamber": "camara",
-    "materia": "Con excepción artículo 3º",
-    "descripcion": "Votación particular sobre aspectos del proyecto de ley en trámite.",
+    "title": "Con excepción artículo 3º",
+    "descripcion": "3º",
     "tags": [
       "otro"
     ],
@@ -20778,15 +20996,16 @@
       "916": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3049-12458",
     "boletin": "3049",
     "fecha": "2002-10-16T13:20:05",
     "chamber": "camara",
-    "materia": "Con excepción artículo 3º",
-    "descripcion": "Votación particular sobre aspectos del proyecto de ley en trámite.",
+    "title": "Con excepción artículo 3º",
+    "descripcion": "3º",
     "tags": [
       "otro"
     ],
@@ -20887,14 +21106,15 @@
       "916": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3064-12468",
     "boletin": "3064",
     "fecha": "2002-11-06T12:40:28",
     "chamber": "camara",
-    "materia": "Boletín 3064",
+    "title": "Boletín 3064",
     "descripcion": "",
     "tags": [
       "otro"
@@ -20976,14 +21196,15 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3074-14205",
     "boletin": "3074",
     "fecha": "2002-11-07T11:38:00",
     "chamber": "camara",
-    "materia": "Boletín 3074",
+    "title": "Boletín 3074",
     "descripcion": "",
     "tags": [
       "otro"
@@ -21054,14 +21275,15 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3076-12459",
     "boletin": "3076",
     "fecha": "2002-10-17T13:08:33",
     "chamber": "camara",
-    "materia": "Boletín 3076",
+    "title": "Boletín 3076",
     "descripcion": "",
     "tags": [
       "otro"
@@ -21134,15 +21356,16 @@
       "916": "afavor",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12477",
     "boletin": "3077",
     "fecha": "2002-11-19T19:22:57",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -21245,15 +21468,16 @@
       "917": "contra",
       "921": "abstencion",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12478",
     "boletin": "3077",
     "fecha": "2002-11-19T19:22:24",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -21356,15 +21580,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12479",
     "boletin": "3077",
     "fecha": "2002-11-19T19:21:08",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -21462,15 +21687,16 @@
       "917": "afavor",
       "921": "abstencion",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12480",
     "boletin": "3077",
     "fecha": "2002-11-19T19:20:31",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -21574,15 +21800,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12481",
     "boletin": "3077",
     "fecha": "2002-11-19T19:19:33",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -21681,15 +21908,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12514",
     "boletin": "3077",
     "fecha": "2002-11-19T19:18:41",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -21795,15 +22023,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12482",
     "boletin": "3077",
     "fecha": "2002-11-19T19:17:47",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -21909,15 +22138,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12483",
     "boletin": "3077",
     "fecha": "2002-11-19T19:14:19",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -22016,15 +22246,16 @@
       "917": "afavor",
       "921": "contra",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12484",
     "boletin": "3077",
     "fecha": "2002-11-19T19:13:15",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -22129,15 +22360,16 @@
       "916": "afavor",
       "917": "contra",
       "921": "abstencion"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12485",
     "boletin": "3077",
     "fecha": "2002-11-19T19:12:41",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -22238,15 +22470,16 @@
       "916": "afavor",
       "917": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12486",
     "boletin": "3077",
     "fecha": "2002-11-19T19:11:43",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -22341,15 +22574,16 @@
       "917": "contra",
       "921": "abstencion",
       "962": "abstencion"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12487",
     "boletin": "3077",
     "fecha": "2002-11-19T19:10:42",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -22447,15 +22681,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12515",
     "boletin": "3077",
     "fecha": "2002-11-19T19:10:08",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -22556,15 +22791,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12488",
     "boletin": "3077",
     "fecha": "2002-11-19T19:09:15",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -22665,15 +22901,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12489",
     "boletin": "3077",
     "fecha": "2002-11-19T19:08:02",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -22776,15 +23013,16 @@
       "917": "afavor",
       "921": "abstencion",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12490",
     "boletin": "3077",
     "fecha": "2002-11-19T19:07:31",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -22890,15 +23128,16 @@
       "917": "afavor",
       "921": "abstencion",
       "962": "abstencion"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12491",
     "boletin": "3077",
     "fecha": "2002-11-19T19:06:09",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -23002,15 +23241,16 @@
       "917": "afavor",
       "921": "contra",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12492",
     "boletin": "3077",
     "fecha": "2002-11-19T19:02:06",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -23111,15 +23351,16 @@
       "917": "afavor",
       "921": "abstencion",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12493",
     "boletin": "3077",
     "fecha": "2002-11-19T19:01:30",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -23221,15 +23462,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12516",
     "boletin": "3077",
     "fecha": "2002-11-19T19:00:02",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -23332,15 +23574,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12494",
     "boletin": "3077",
     "fecha": "2002-11-19T18:59:05",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -23445,15 +23688,16 @@
       "916": "afavor",
       "917": "afavor",
       "921": "abstencion"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12517",
     "boletin": "3077",
     "fecha": "2002-11-19T18:58:29",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -23556,15 +23800,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12518",
     "boletin": "3077",
     "fecha": "2002-11-19T18:57:48",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -23664,15 +23909,16 @@
       "916": "contra",
       "917": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12519",
     "boletin": "3077",
     "fecha": "2002-11-19T18:57:16",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -23779,15 +24025,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12495",
     "boletin": "3077",
     "fecha": "2002-11-19T18:56:02",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -23891,15 +24138,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12496",
     "boletin": "3077",
     "fecha": "2002-11-19T18:55:29",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -24001,15 +24249,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12497",
     "boletin": "3077",
     "fecha": "2002-11-19T18:54:58",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -24113,15 +24362,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12498",
     "boletin": "3077",
     "fecha": "2002-11-19T18:53:19",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -24210,15 +24460,16 @@
       "916": "afavor",
       "917": "afavor",
       "921": "abstencion"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12499",
     "boletin": "3077",
     "fecha": "2002-11-19T18:52:50",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -24324,15 +24575,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12500",
     "boletin": "3077",
     "fecha": "2002-11-19T18:51:35",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -24434,15 +24686,16 @@
       "917": "afavor",
       "921": "abstencion",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12520",
     "boletin": "3077",
     "fecha": "2002-11-19T18:50:52",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -24544,15 +24797,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12501",
     "boletin": "3077",
     "fecha": "2002-11-19T18:50:00",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -24656,15 +24910,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12502",
     "boletin": "3077",
     "fecha": "2002-11-19T18:48:35",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -24764,15 +25019,16 @@
       "917": "afavor",
       "921": "abstencion",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12503",
     "boletin": "3077",
     "fecha": "2002-11-19T18:47:34",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -24877,15 +25133,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12504",
     "boletin": "3077",
     "fecha": "2002-11-19T18:45:13",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -24988,15 +25245,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12505",
     "boletin": "3077",
     "fecha": "2002-11-19T18:43:38",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -25100,15 +25358,16 @@
       "917": "abstencion",
       "921": "abstencion",
       "962": "abstencion"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12506",
     "boletin": "3077",
     "fecha": "2002-11-19T18:42:27",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -25215,15 +25474,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12507",
     "boletin": "3077",
     "fecha": "2002-11-19T18:41:20",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -25328,15 +25588,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12521",
     "boletin": "3077",
     "fecha": "2002-11-19T18:39:35",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -25443,15 +25704,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12508",
     "boletin": "3077",
     "fecha": "2002-11-19T18:38:20",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -25558,15 +25820,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12509",
     "boletin": "3077",
     "fecha": "2002-11-19T18:36:43",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -25667,15 +25930,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12510",
     "boletin": "3077",
     "fecha": "2002-11-19T18:36:11",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -25779,15 +26043,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12511",
     "boletin": "3077",
     "fecha": "2002-11-19T18:34:36",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -25890,15 +26155,16 @@
       "916": "afavor",
       "917": "contra",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12512",
     "boletin": "3077",
     "fecha": "2002-11-19T18:33:54",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -26002,15 +26268,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12513",
     "boletin": "3077",
     "fecha": "2002-11-19T18:32:56",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -26117,15 +26384,16 @@
       "917": "contra",
       "921": "contra",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12522",
     "boletin": "3077",
     "fecha": "2002-11-19T18:31:38",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -26226,15 +26494,16 @@
       "917": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3077-12523",
     "boletin": "3077",
     "fecha": "2002-11-19T15:17:04",
     "chamber": "camara",
-    "materia": "Encabezado artículo 1º, propuesto Comisión Mixta",
-    "descripcion": "Propuesta legislativa para encabezado artículo 1º, propuesto comisión mixta.",
+    "title": "Encabezado artículo 1º, propuesto Comisión Mixta",
+    "descripcion": "Partida 22",
     "tags": [
       "otro"
     ],
@@ -26333,14 +26602,15 @@
       "917": "afavor",
       "921": "contra",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3107-14897",
     "boletin": "3107",
     "fecha": "2002-12-19T10:50:00",
     "chamber": "camara",
-    "materia": "Indicación Comisión de Hacienda al art. 2º",
+    "title": "Indicación Comisión de Hacienda al art. 2º",
     "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
     "tags": [
       "otro"
@@ -26392,14 +26662,15 @@
       "908": "afavor",
       "910": "afavor",
       "917": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3107-14889",
     "boletin": "3107",
     "fecha": "2002-12-11T13:31:02",
     "chamber": "camara",
-    "materia": "Indicación Comisión de Hacienda al art. 2º",
+    "title": "Indicación Comisión de Hacienda al art. 2º",
     "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
     "tags": [
       "otro"
@@ -26477,14 +26748,15 @@
       "914": "afavor",
       "916": "afavor",
       "917": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3107-14887",
     "boletin": "3107",
     "fecha": "2002-12-11T13:30:21",
     "chamber": "camara",
-    "materia": "Indicación Comisión de Hacienda al art. 2º",
+    "title": "Indicación Comisión de Hacienda al art. 2º",
     "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
     "tags": [
       "otro"
@@ -26564,14 +26836,15 @@
       "916": "afavor",
       "917": "contra",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3107-14888",
     "boletin": "3107",
     "fecha": "2002-12-11T13:28:27",
     "chamber": "camara",
-    "materia": "Indicación Comisión de Hacienda al art. 2º",
+    "title": "Indicación Comisión de Hacienda al art. 2º",
     "descripcion": "Votación de aspecto específico del proyecto de ley en trámite legislativo.",
     "tags": [
       "otro"
@@ -26646,14 +26919,15 @@
       "916": "afavor",
       "917": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3135-12524",
     "boletin": "3135",
     "fecha": "2002-11-20T13:05:09",
     "chamber": "camara",
-    "materia": "Boletín 3135",
+    "title": "Boletín 3135",
     "descripcion": "",
     "tags": [
       "otro"
@@ -26751,15 +27025,16 @@
       "917": "abstencion",
       "921": "abstencion",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-14207",
     "boletin": "3138",
     "fecha": "2002-12-05T14:00:37",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "otro"
     ],
@@ -26870,15 +27145,16 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-14208",
     "boletin": "3138",
     "fecha": "2002-12-05T13:59:34",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "otro"
     ],
@@ -26990,15 +27266,16 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-14209",
     "boletin": "3138",
     "fecha": "2002-12-05T13:58:23",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "otro"
     ],
@@ -27109,15 +27386,16 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-14210",
     "boletin": "3138",
     "fecha": "2002-12-05T13:57:45",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "otro"
     ],
@@ -27229,15 +27507,16 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-14211",
     "boletin": "3138",
     "fecha": "2002-12-05T13:53:35",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "otro"
     ],
@@ -27348,15 +27627,16 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-14212",
     "boletin": "3138",
     "fecha": "2002-12-05T13:52:56",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "otro"
     ],
@@ -27467,15 +27747,16 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-14854",
     "boletin": "3138",
     "fecha": "2002-11-21T20:28:19",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "otro"
     ],
@@ -27579,15 +27860,16 @@
       "918": "contra",
       "921": "contra",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-12548",
     "boletin": "3138",
     "fecha": "2002-11-21T20:26:12",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "agricultura"
     ],
@@ -27687,15 +27969,16 @@
       "917": "contra",
       "918": "afavor",
       "921": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-12549",
     "boletin": "3138",
     "fecha": "2002-11-21T20:25:07",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "otro"
     ],
@@ -27793,15 +28076,16 @@
       "918": "contra",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-12550",
     "boletin": "3138",
     "fecha": "2002-11-21T20:23:37",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "otro"
     ],
@@ -27899,15 +28183,16 @@
       "918": "contra",
       "921": "contra",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-12551",
     "boletin": "3138",
     "fecha": "2002-11-21T20:19:51",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "otro"
     ],
@@ -28011,15 +28296,16 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-12552",
     "boletin": "3138",
     "fecha": "2002-11-21T20:18:15",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "agricultura"
     ],
@@ -28104,15 +28390,16 @@
       "917": "contra",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-12553",
     "boletin": "3138",
     "fecha": "2002-11-21T20:17:45",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "agricultura"
     ],
@@ -28211,15 +28498,16 @@
       "918": "contra",
       "921": "abstencion",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-12554",
     "boletin": "3138",
     "fecha": "2002-11-21T20:16:54",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "agricultura"
     ],
@@ -28317,15 +28605,16 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-12555",
     "boletin": "3138",
     "fecha": "2002-11-21T20:16:10",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "otro"
     ],
@@ -28424,15 +28713,16 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-12556",
     "boletin": "3138",
     "fecha": "2002-11-21T20:15:01",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "otro"
     ],
@@ -28531,15 +28821,16 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-12544",
     "boletin": "3138",
     "fecha": "2002-11-21T20:14:14",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "otro"
     ],
@@ -28638,15 +28929,16 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-12557",
     "boletin": "3138",
     "fecha": "2002-11-21T20:13:22",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "agricultura"
     ],
@@ -28744,15 +29036,16 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-12558",
     "boletin": "3138",
     "fecha": "2002-11-21T20:12:41",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "otro"
     ],
@@ -28854,15 +29147,16 @@
       "918": "contra",
       "921": "contra",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-12559",
     "boletin": "3138",
     "fecha": "2002-11-21T20:10:19",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "otro"
     ],
@@ -28958,15 +29252,16 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-12560",
     "boletin": "3138",
     "fecha": "2002-11-21T20:08:47",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "otro"
     ],
@@ -29071,15 +29366,16 @@
       "918": "contra",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-12561",
     "boletin": "3138",
     "fecha": "2002-11-21T20:06:13",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "otro"
     ],
@@ -29178,15 +29474,16 @@
       "918": "contra",
       "921": "contra",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-12562",
     "boletin": "3138",
     "fecha": "2002-11-21T20:03:56",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "otro"
     ],
@@ -29284,15 +29581,16 @@
       "918": "contra",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-12563",
     "boletin": "3138",
     "fecha": "2002-11-21T20:02:27",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "otro"
     ],
@@ -29392,15 +29690,16 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-14842",
     "boletin": "3138",
     "fecha": "2002-11-21T20:01:49",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "otro"
     ],
@@ -29502,15 +29801,16 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-14843",
     "boletin": "3138",
     "fecha": "2002-11-21T20:01:17",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "otro"
     ],
@@ -29616,15 +29916,16 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-14844",
     "boletin": "3138",
     "fecha": "2002-11-21T19:58:09",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "otro"
     ],
@@ -29729,15 +30030,16 @@
       "918": "contra",
       "921": "abstencion",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-14845",
     "boletin": "3138",
     "fecha": "2002-11-21T19:54:46",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "otro"
     ],
@@ -29838,15 +30140,16 @@
       "918": "contra",
       "921": "contra",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-12545",
     "boletin": "3138",
     "fecha": "2002-11-21T19:53:35",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "otro"
     ],
@@ -29939,15 +30242,16 @@
       "918": "contra",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-14846",
     "boletin": "3138",
     "fecha": "2002-11-21T19:51:58",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "otro"
     ],
@@ -30052,15 +30356,16 @@
       "918": "contra",
       "921": "contra",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-14847",
     "boletin": "3138",
     "fecha": "2002-11-21T19:50:37",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "otro"
     ],
@@ -30169,15 +30474,16 @@
       "918": "afavor",
       "921": "contra",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-14848",
     "boletin": "3138",
     "fecha": "2002-11-21T19:48:15",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "agricultura"
     ],
@@ -30283,15 +30589,16 @@
       "918": "contra",
       "921": "contra",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-14849",
     "boletin": "3138",
     "fecha": "2002-11-21T19:46:11",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "otro"
     ],
@@ -30392,15 +30699,16 @@
       "917": "afavor",
       "918": "contra",
       "921": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-14850",
     "boletin": "3138",
     "fecha": "2002-11-21T19:33:58",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "otro"
     ],
@@ -30507,15 +30815,16 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-14851",
     "boletin": "3138",
     "fecha": "2002-11-21T19:32:47",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "otro"
     ],
@@ -30613,15 +30922,16 @@
       "918": "contra",
       "921": "contra",
       "962": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-14852",
     "boletin": "3138",
     "fecha": "2002-11-21T19:32:10",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "otro"
     ],
@@ -30730,15 +31040,16 @@
       "918": "contra",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-14853",
     "boletin": "3138",
     "fecha": "2002-11-21T19:27:54",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "otro"
     ],
@@ -30845,15 +31156,16 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-12546",
     "boletin": "3138",
     "fecha": "2002-11-21T19:27:12",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "otro"
     ],
@@ -30961,15 +31273,16 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3138-12547",
     "boletin": "3138",
     "fecha": "2002-11-21T19:26:20",
     "chamber": "camara",
-    "materia": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
-    "descripcion": "Propuesta legislativa para todos los artículos con excepción de los nros. 1, 2, 3 del artículo 1º y nros. 1, 3 y 5 del artículo 2º.",
+    "title": "Todos los artículos con excepción de los Nros. 1, 2, 3 del artículo 1º y Nros. 1, 3 y 5 del artículo 2º",
+    "descripcion": "2º, Nº1",
     "tags": [
       "otro"
     ],
@@ -31077,14 +31390,15 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3146-14885",
     "boletin": "3146",
     "fecha": "2002-12-04T13:22:22",
     "chamber": "camara",
-    "materia": "Boletín 3146",
+    "title": "Boletín 3146",
     "descripcion": "",
     "tags": [
       "otro"
@@ -31184,14 +31498,15 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3147-14213",
     "boletin": "3147",
     "fecha": "2002-12-17T17:52:24",
     "chamber": "camara",
-    "materia": "Boletín 3147",
+    "title": "Boletín 3147",
     "descripcion": "",
     "tags": [
       "otro"
@@ -31308,14 +31623,15 @@
       "918": "afavor",
       "921": "afavor",
       "962": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "camara-3173-14892",
     "boletin": "3173",
     "fecha": "2002-12-12T12:01:13",
     "chamber": "camara",
-    "materia": "Boletín 3173",
+    "title": "Boletín 3173",
     "descripcion": "",
     "tags": [
       "otro"
@@ -31396,6 +31712,7 @@
       "916": "afavor",
       "917": "afavor",
       "918": "afavor"
-    }
+    },
+    "relevante": false
   }
 ]

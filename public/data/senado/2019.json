@@ -4,7 +4,7 @@
     "boletin": "13010",
     "fecha": "21/10/2019",
     "chamber": "senado",
-    "materia": "Faculta al Presidente de la República para dejar sin efecto o limitar un alza de tarifas en el transporte público de",
+    "title": "Faculta al Presidente de la República para dejar sin efecto o limitar un alza de tarifas en el transporte público de",
     "descripcion": "Faculta al Presidente de la República para dejar sin efecto o limitar un alza de tarifas en el transporte público de pasajeros, en las condiciones que indica.",
     "tags": [
       "transporte",
@@ -18,57 +18,151 @@
       "1215": "afavor",
       "1222": "afavor",
       "1224": "afavor",
-      "1326": "afavor"
-    }
+      "1326": "afavor",
+      "Pizarro S., Jorge": "afavor",
+      "Soria Q., Jorge": "afavor",
+      "Allamand Z., Andrés": "afavor",
+      "Girardi L., Guido": "afavor",
+      "Allende B., Isabel": "afavor",
+      "Lagos W., Ricardo": "afavor",
+      "Quintana L., Jaime": "afavor",
+      "Rincón G., Ximena": "afavor",
+      "García Huidobro S., Alejandro": "afavor",
+      "Von Baer J., Ena": "afavor",
+      "Guillier Á., Alejandro": "afavor",
+      "Van Rysselberghe H., Jacqueline": "afavor",
+      "Goic B., Carolina": "afavor",
+      "Harboe B., Felipe": "afavor",
+      "Quinteros L., Rabindranath": "afavor",
+      "Muñoz D., Adriana": "afavor",
+      "Montes C., Carlos": "afavor",
+      "Latorre R., Juan Ignacio": "afavor",
+      "Coloma C., Juan Antonio": "afavor",
+      "Bianchi C., Carlos": "afavor",
+      "Pérez V., Víctor": "afavor",
+      "Chahuán C., Francisco": "afavor",
+      "Ebensperger O., Luz Eliana": "afavor",
+      "Aravena A., Carmen Gloria": "afavor",
+      "García R., José": "afavor",
+      "Letelier M., Juan Pablo": "afavor",
+      "Pugh O., Kenneth": "afavor",
+      "Elizalde S., Alvaro": "afavor",
+      "Galilea V., Rodrigo": "afavor",
+      "Kast S., Felipe": "afavor",
+      "Sandoval P., David": "afavor"
+    },
+    "title": "Proyecto de ley, en segundo trámite constitucional, que faculta al Presidente de la República para dejar sin efecto o limitar un alza de tarifas en el transporte público de pasajeros, en las condiciones que indica.",
+    "relevante": false
   },
   {
     "id": "senado-13017-29/10/2019",
     "boletin": "13017",
     "fecha": "29/10/2019",
     "chamber": "senado",
-    "materia": "Crea un mecanismo transitorio de estabilización de precios de la energía eléctrica para clientes sujetos a regulación",
+    "title": "Crea un mecanismo transitorio de estabilización de precios de la energía eléctrica para clientes sujetos a regulación",
     "descripcion": "Crea un mecanismo transitorio de estabilización de precios de la energía eléctrica para clientes sujetos a regulación de tarifas. Votación del texto propuesto por la comisión informante.",
     "tags": [
       "energia"
     ],
     "votos": {
-      "1110": "afavor",
-      "1115": "afavor",
+      "1110": "contra",
+      "1115": "contra",
       "1117": "afavor",
-      "1120": "afavor",
-      "1215": "afavor",
+      "1120": "abstencion",
+      "1215": "contra",
       "1222": "contra",
-      "1224": "afavor",
-      "1326": "afavor"
-    }
+      "1224": "contra",
+      "1326": "afavor",
+      "Pizarro S., Jorge": "contra",
+      "Bianchi C., Carlos": "contra",
+      "Girardi L., Guido": "contra",
+      "Chahuán C., Francisco": "afavor",
+      "Lagos W., Ricardo": "pareo",
+      "García Huidobro S., Alejandro": "afavor",
+      "Von Baer J., Ena": "afavor",
+      "Goic B., Carolina": "contra",
+      "Quinteros L., Rabindranath": "contra",
+      "Muñoz D., Adriana": "contra",
+      "Sandoval P., David": "afavor",
+      "García R., José": "afavor",
+      "Allamand Z., Andrés": "afavor",
+      "Letelier M., Juan Pablo": "contra",
+      "Pérez V., Víctor": "afavor",
+      "Allende B., Isabel": "contra",
+      "Quintana L., Jaime": "contra",
+      "Rincón G., Ximena": "contra",
+      "Harboe B., Felipe": "contra",
+      "Montes C., Carlos": "contra",
+      "Durana S., José Miguel": "afavor",
+      "Insulza S., José Miguel": "contra",
+      "Ebensperger O., Luz Eliana": "afavor",
+      "Soria Q., Jorge": "contra",
+      "Prohens E., Rafael": "afavor",
+      "Latorre R., Juan Ignacio": "contra",
+      "Aravena A., Carmen Gloria": "afavor",
+      "Kast S., Felipe": "afavor",
+      "Coloma C., Juan Antonio": "afavor",
+      "Pugh O., Kenneth": "afavor",
+      "Elizalde S., Alvaro": "contra",
+      "Galilea V., Rodrigo": "afavor"
+    },
+    "title": "Proyecto de ley que crea un mecanismo transitorio de estabilización de precios de la energía eléctrica para clientes sujetos a regulación de tarifas. Indicación renovada del Ejecutivo.",
+    "relevante": true
   },
   {
     "id": "senado-13027-17/12/2019",
     "boletin": "13027",
     "fecha": "17/12/2019",
     "chamber": "senado",
-    "materia": "Autoriza la intermediación de medicamentos por parte de Cenabast a almacenes farmacéuticos y farmacias privadas. En",
+    "title": "Autoriza la intermediación de medicamentos por parte de Cenabast a almacenes farmacéuticos y farmacias privadas. En",
     "descripcion": "Autoriza la intermediación de medicamentos por parte de Cenabast a almacenes farmacéuticos y farmacias privadas. En general y en particular.",
     "tags": [
-      "salud",
-      "cultura",
-      "tributario",
-      "constitucional"
+      "otro"
     ],
     "votos": {
-      "1110": "afavor",
-      "1115": "afavor",
-      "1215": "abstencion",
-      "1224": "afavor",
-      "1326": "afavor"
-    }
+      "1110": "contra",
+      "1115": "contra",
+      "1215": "contra",
+      "1224": "contra",
+      "1326": "contra",
+      "Pizarro S., Jorge": "contra",
+      "Coloma C., Juan Antonio": "contra",
+      "García R., José": "contra",
+      "Allamand Z., Andrés": "contra",
+      "Girardi L., Guido": "contra",
+      "Letelier M., Juan Pablo": "contra",
+      "Allende B., Isabel": "contra",
+      "Chahuán C., Francisco": "contra",
+      "Quintana L., Jaime": "contra",
+      "Rincón G., Ximena": "contra",
+      "García Huidobro S., Alejandro": "contra",
+      "Guillier Á., Alejandro": "contra",
+      "Van Rysselberghe H., Jacqueline": "contra",
+      "Goic B., Carolina": "contra",
+      "Harboe B., Felipe": "abstencion",
+      "Quinteros L., Rabindranath": "contra",
+      "Muñoz D., Adriana": "abstencion",
+      "Montes C., Carlos": "abstencion",
+      "Durana S., José Miguel": "contra",
+      "Insulza S., José Miguel": "contra",
+      "Ebensperger O., Luz Eliana": "contra",
+      "Soria Q., Jorge": "contra",
+      "Prohens E., Rafael": "contra",
+      "Pugh O., Kenneth": "contra",
+      "Elizalde S., Alvaro": "contra",
+      "Galilea V., Rodrigo": "contra",
+      "Aravena A., Carmen Gloria": "contra",
+      "Sandoval P., David": "contra"
+    },
+    "title": "Votación separada. Últimas dos oraciones del inciso primero del artículo 70 bis.-",
+    "relevante": false
   },
   {
     "id": "senado-13045-27/11/2019",
     "boletin": "13045",
     "fecha": "27/11/2019",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 21.131, que establece pago a treinta días",
+    "title": "Modifica la ley N° 21.131, que establece pago a treinta días",
     "descripcion": "Modifica la ley N° 21.131, que establece pago a treinta días.",
     "tags": [
       "constitucional"
@@ -81,15 +175,50 @@
       "1215": "afavor",
       "1222": "afavor",
       "1224": "afavor",
-      "1326": "afavor"
-    }
+      "1326": "afavor",
+      "Sandoval P., David": "afavor",
+      "Pizarro S., Jorge": "afavor",
+      "Coloma C., Juan Antonio": "afavor",
+      "Allamand Z., Andrés": "afavor",
+      "Guillier Á., Alejandro": "afavor",
+      "Van Rysselberghe H., Jacqueline": "afavor",
+      "Goic B., Carolina": "afavor",
+      "Harboe B., Felipe": "afavor",
+      "Quinteros L., Rabindranath": "afavor",
+      "Muñoz D., Adriana": "afavor",
+      "Insulza S., José Miguel": "afavor",
+      "Ebensperger O., Luz Eliana": "afavor",
+      "Prohens E., Rafael": "afavor",
+      "Latorre R., Juan Ignacio": "afavor",
+      "Pugh O., Kenneth": "afavor",
+      "Elizalde S., Alvaro": "afavor",
+      "Aravena A., Carmen Gloria": "afavor",
+      "Kast S., Felipe": "afavor",
+      "García R., José": "afavor",
+      "Bianchi C., Carlos": "afavor",
+      "Girardi L., Guido": "afavor",
+      "Letelier M., Juan Pablo": "afavor",
+      "Navarro B., Alejandro": "afavor",
+      "Pérez V., Víctor": "afavor",
+      "Chahuán C., Francisco": "afavor",
+      "Quintana L., Jaime": "afavor",
+      "Rincón G., Ximena": "afavor",
+      "Von Baer J., Ena": "afavor",
+      "Durana S., José Miguel": "afavor",
+      "Galilea V., Rodrigo": "afavor",
+      "Allende B., Isabel": "afavor",
+      "García Huidobro S., Alejandro": "afavor",
+      "Soria Q., Jorge": "afavor"
+    },
+    "title": "Proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 21.131, que establece pago a treinta días.",
+    "relevante": false
   },
   {
     "id": "senado-13090-04/12/2019",
     "boletin": "13090",
     "fecha": "04/12/2019",
     "chamber": "senado",
-    "materia": "Modifica el Código Penal para tipificar como delito la alteración de la paz pública mediante la ejecución de actos de",
+    "title": "Modifica el Código Penal para tipificar como delito la alteración de la paz pública mediante la ejecución de actos de",
     "descripcion": "Modifica el Código Penal para tipificar como delito la alteración de la paz pública mediante la ejecución de actos de violencia, y agrava las penas aplicables, en las circunstancias que indica. Enmienda que modifica la denominación de la iniciativa.",
     "tags": [
       "seguridad",
@@ -101,15 +230,49 @@
       "1117": "afavor",
       "1120": "afavor",
       "1222": "afavor",
-      "1224": "afavor"
-    }
+      "1224": "afavor",
+      "Pizarro S., Jorge": "afavor",
+      "Navarro B., Alejandro": "afavor",
+      "Pérez V., Víctor": "afavor",
+      "Allende B., Isabel": "abstencion",
+      "Chahuán C., Francisco": "afavor",
+      "Lagos W., Ricardo": "afavor",
+      "Quintana L., Jaime": "afavor",
+      "García Huidobro S., Alejandro": "afavor",
+      "Von Baer J., Ena": "afavor",
+      "Guillier Á., Alejandro": "contra",
+      "Goic B., Carolina": "afavor",
+      "Harboe B., Felipe": "afavor",
+      "Quinteros L., Rabindranath": "afavor",
+      "Durana S., José Miguel": "afavor",
+      "Insulza S., José Miguel": "afavor",
+      "Soria Q., Jorge": "afavor",
+      "Latorre R., Juan Ignacio": "contra",
+      "Pugh O., Kenneth": "afavor",
+      "Coloma C., Juan Antonio": "afavor",
+      "García R., José": "pareo",
+      "Allamand Z., Andrés": "afavor",
+      "Bianchi C., Carlos": "afavor",
+      "Girardi L., Guido": "afavor",
+      "Letelier M., Juan Pablo": "afavor",
+      "Van Rysselberghe H., Jacqueline": "afavor",
+      "Muñoz D., Adriana": "abstencion",
+      "Ebensperger O., Luz Eliana": "afavor",
+      "Prohens E., Rafael": "afavor",
+      "Elizalde S., Alvaro": "afavor",
+      "Galilea V., Rodrigo": "afavor",
+      "Aravena A., Carmen Gloria": "afavor",
+      "Sandoval P., David": "afavor"
+    },
+    "title": "Proyecto de ley, en segundo trámite constitucional, que modifica el Código Penal para tipificar como delito la alteración de la paz pública mediante la ejecución de actos de violencia, y agrava las penas aplicables, en las circunstancias que indica.",
+    "relevante": true
   },
   {
     "id": "senado-13091-04/12/2019",
     "boletin": "13091",
     "fecha": "04/12/2019",
     "chamber": "senado",
-    "materia": "Mejora y establece nuevos beneficios en el sistema de pensiones solidarias",
+    "title": "Mejora y establece nuevos beneficios en el sistema de pensiones solidarias",
     "descripcion": "Mejora y establece nuevos beneficios en el sistema de pensiones solidarias.",
     "tags": [
       "constitucional"
@@ -121,15 +284,49 @@
       "1120": "afavor",
       "1215": "afavor",
       "1222": "afavor",
-      "1224": "afavor"
-    }
+      "1224": "afavor",
+      "Latorre R., Juan Ignacio": "afavor",
+      "Pizarro S., Jorge": "afavor",
+      "Coloma C., Juan Antonio": "afavor",
+      "Allamand Z., Andrés": "afavor",
+      "Bianchi C., Carlos": "afavor",
+      "Girardi L., Guido": "afavor",
+      "Letelier M., Juan Pablo": "afavor",
+      "Navarro B., Alejandro": "afavor",
+      "Pérez V., Víctor": "afavor",
+      "Allende B., Isabel": "afavor",
+      "Chahuán C., Francisco": "afavor",
+      "Lagos W., Ricardo": "afavor",
+      "Quintana L., Jaime": "afavor",
+      "García Huidobro S., Alejandro": "afavor",
+      "Von Baer J., Ena": "afavor",
+      "Guillier Á., Alejandro": "afavor",
+      "Quinteros L., Rabindranath": "afavor",
+      "Muñoz D., Adriana": "afavor",
+      "Durana S., José Miguel": "afavor",
+      "Insulza S., José Miguel": "afavor",
+      "Ebensperger O., Luz Eliana": "afavor",
+      "Soria Q., Jorge": "afavor",
+      "Prohens E., Rafael": "afavor",
+      "Pugh O., Kenneth": "afavor",
+      "Aravena A., Carmen Gloria": "afavor",
+      "Kast S., Felipe": "afavor",
+      "Sandoval P., David": "afavor",
+      "Harboe B., Felipe": "afavor",
+      "Elizalde S., Alvaro": "afavor",
+      "Galilea V., Rodrigo": "afavor",
+      "Van Rysselberghe H., Jacqueline": "afavor",
+      "Goic B., Carolina": "afavor"
+    },
+    "title": "Proyecto de ley, en segundo trámite constitucional, que mejora y establece nuevos beneficios en el sistema de pensiones solidarias.",
+    "relevante": true
   },
   {
     "id": "senado-13102-17/12/2019",
     "boletin": "13102",
     "fecha": "17/12/2019",
     "chamber": "senado",
-    "materia": "Entrega un bono extraordinario de apoyo familiar",
+    "title": "Entrega un bono extraordinario de apoyo familiar",
     "descripcion": "Entrega un bono extraordinario de apoyo familiar.",
     "tags": [
       "social",
@@ -140,35 +337,91 @@
       "1115": "afavor",
       "1215": "afavor",
       "1224": "afavor",
-      "1326": "afavor"
-    }
+      "1326": "afavor",
+      "Chahuán C., Francisco": "afavor",
+      "Von Baer J., Ena": "afavor",
+      "Montes C., Carlos": "afavor",
+      "Soria Q., Jorge": "afavor",
+      "Latorre R., Juan Ignacio": "afavor",
+      "Elizalde S., Alvaro": "afavor",
+      "Aravena A., Carmen Gloria": "afavor",
+      "Sandoval P., David": "afavor",
+      "Coloma C., Juan Antonio": "afavor",
+      "García R., José": "afavor",
+      "Allamand Z., Andrés": "afavor",
+      "Letelier M., Juan Pablo": "afavor",
+      "Pérez V., Víctor": "afavor",
+      "Allende B., Isabel": "afavor",
+      "Rincón G., Ximena": "afavor",
+      "García Huidobro S., Alejandro": "afavor",
+      "Goic B., Carolina": "afavor",
+      "Harboe B., Felipe": "afavor",
+      "Quinteros L., Rabindranath": "afavor",
+      "Muñoz D., Adriana": "afavor",
+      "Insulza S., José Miguel": "afavor",
+      "Ebensperger O., Luz Eliana": "afavor",
+      "Prohens E., Rafael": "afavor",
+      "Pugh O., Kenneth": "afavor",
+      "Kast S., Felipe": "afavor",
+      "Pizarro S., Jorge": "afavor",
+      "Bianchi C., Carlos": "afavor",
+      "Girardi L., Guido": "afavor"
+    },
+    "title": "Proyecto de ley, en segundo trámite constitucional, que entrega un bono extraordinario de apoyo familiar.",
+    "relevante": false
   },
   {
     "id": "senado-13114-17/12/2019",
     "boletin": "13114",
     "fecha": "17/12/2019",
     "chamber": "senado",
-    "materia": "Insistencia de S. E. el Presidente de la República, en uso de la facultad que le confiere el artículo 68 de la",
+    "title": "Insistencia de S. E. el Presidente de la República, en uso de la facultad que le confiere el artículo 68 de la",
     "descripcion": "Insistencia de S. E. el Presidente de la República, en uso de la facultad que le confiere el artículo 68 de la Constitución Política de la República, respecto del proyecto de ley que otorga reajuste de remuneraciones a los trabajadores del Sector Público, concede aguinaldos que señala, concede",
     "tags": [
       "trabajo",
       "constitucional"
     ],
     "votos": {
-      "1110": "afavor",
       "1115": "afavor",
       "1215": "afavor",
       "1224": "afavor",
-      "1326": "afavor"
-    }
+      "1326": "contra",
+      "Coloma C., Juan Antonio": "contra",
+      "García R., José": "afavor",
+      "Allamand Z., Andrés": "afavor",
+      "Bianchi C., Carlos": "afavor",
+      "Allende B., Isabel": "afavor",
+      "Chahuán C., Francisco": "afavor",
+      "Guillier Á., Alejandro": "pareo",
+      "Goic B., Carolina": "afavor",
+      "Harboe B., Felipe": "afavor",
+      "Quinteros L., Rabindranath": "afavor",
+      "Muñoz D., Adriana": "afavor",
+      "Montes C., Carlos": "afavor",
+      "Insulza S., José Miguel": "afavor",
+      "Prohens E., Rafael": "afavor",
+      "Latorre R., Juan Ignacio": "afavor",
+      "Elizalde S., Alvaro": "afavor",
+      "Galilea V., Rodrigo": "abstencion",
+      "Sandoval P., David": "afavor",
+      "Quintana L., Jaime": "afavor",
+      "Rincón G., Ximena": "pareo",
+      "Durana S., José Miguel": "contra",
+      "Ebensperger O., Luz Eliana": "contra",
+      "Soria Q., Jorge": "afavor",
+      "Pugh O., Kenneth": "afavor",
+      "Aravena A., Carmen Gloria": "afavor"
+    },
+    "title": "Proyecto de ley, en segundo trámite constitucional, que otorga reajuste de remuneraciones a los trabajadores del Sector Público, concede aguinaldos que señala, concede otros beneficios que indica, y modifica diversos cuerpos legales. Votación separada Artículo 79",
+    "relevante": false
   },
   {
     "id": "senado-2667-03/12/2019",
     "boletin": "2667",
     "fecha": "03/12/2019",
     "chamber": "senado",
-    "materia": "El ?Protocolo Facultativo de la Convención sobre la eliminación de todas las formas de discriminación contra la mujer...",
-    "descripcion": "Votación para la aprobación de este instrumento internacional por el Congreso chileno.",
+    "title": "El ?Protocolo Facultativo de la Convención sobre la eliminación de todas las formas de discriminación contra la mujer...",
+    "descripcion": "Proyecto de acuerdo, en segundo trámite constitucional, que aprueba el ?Protocolo Facultativo de la Convención sobre la eliminación de todas las formas de discriminación contra la mujer?, adoptado por la Asamblea General de las Naciones Unidas el 6 de octubre de 1999.?.",
     "tags": [
       "derechos",
       "genero",
@@ -183,15 +436,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "contra"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-4115-13/11/2019",
     "boletin": "4115",
     "fecha": "13/11/2019",
     "chamber": "senado",
-    "materia": "1.- Aprobación de los numerales 1 al 5 del texto propuesto por la Comisión de Constitución, Legislación, Justicia y R...",
-    "descripcion": "Propuesta de reforma a la Constitución Política de Chile.",
+    "title": "1.- Aprobación de los numerales 1 al 5 del texto propuesto por la Comisión de Constitución, Legislación, Justicia y R...",
+    "descripcion": "Proyecto de reforma constitucional, en segundo trámite constitucional, para limitar la reelección de las autoridades que indica.",
     "tags": [
       "constitucional"
     ],
@@ -203,15 +457,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-5254-16/10/2019",
     "boletin": "5254",
     "fecha": "16/10/2019",
     "chamber": "senado",
-    "materia": "De las enmiendas acordadas en forma unánime del proyecto de ley, en segundo trámite constitucional, que modifica la l...",
-    "descripcion": "Propuesta legislativa para de las enmiendas acordadas en forma unánime del proyecto de ley, en segundo trámite constitucional, que modifica la l....",
+    "title": "De las enmiendas acordadas en forma unánime del proyecto de ley, en segundo trámite constitucional, que modifica la l...",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 17.798, sobre control de armas, con el objeto de fortalecer su institucionalidad.",
     "tags": [
       "constitucional"
     ],
@@ -223,15 +478,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-6110-07/05/2019",
     "boletin": "6110",
     "fecha": "07/05/2019",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 19.928, sobre fomento de la música chilena, para establecer los requisitos que deben cumplir los c...",
-    "descripcion": "Proyecto que modifica la ley n° 19.928, sobre fomento de la música chilena, para establecer los requisitos que deben cumplir los c....",
+    "title": "Modifica la ley N° 19.928, sobre fomento de la música chilena, para establecer los requisitos que deben cumplir los c...",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 19.928, sobre fomento de la música chilena, para establecer los requisitos que deben cumplir los conciertos y eventos musicales que se presenten en Chile.",
     "tags": [
       "constitucional"
     ],
@@ -243,15 +499,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-6956-03/04/2019",
     "boletin": "6956",
     "fecha": "03/04/2019",
     "chamber": "senado",
-    "materia": "Declara imprescriptibles los delitos sexuales contra menores. Enmiendas de Honorable Cámara de Diputados recaídas sob...",
-    "descripcion": "Proyecto que declara imprescriptibles los delitos sexuales contra menores. enmiendas de honorable cámara de diputados recaídas sob....",
+    "title": "Declara imprescriptibles los delitos sexuales contra menores. Enmiendas de Honorable Cámara de Diputados recaídas sob...",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que declara imprescriptibles los delitos sexuales contra menores.",
     "tags": [
       "seguridad",
       "constitucional"
@@ -265,15 +522,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-6956-05/06/2019",
     "boletin": "6956",
     "fecha": "05/06/2019",
     "chamber": "senado",
-    "materia": "Declara imprescriptibles los delitos sexuales contra menores. Enmiendas de Honorable Cámara de Diputados recaídas sob...",
-    "descripcion": "Proyecto que declara imprescriptibles los delitos sexuales contra menores. enmiendas de honorable cámara de diputados recaídas sob....",
+    "title": "Declara imprescriptibles los delitos sexuales contra menores. Enmiendas de Honorable Cámara de Diputados recaídas sob...",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que declara imprescriptibles los delitos sexuales contra menores.",
     "tags": [
       "seguridad",
       "constitucional"
@@ -286,15 +544,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-6956-02/07/2019",
     "boletin": "6956",
     "fecha": "02/07/2019",
     "chamber": "senado",
-    "materia": "Declara imprescriptibles los delitos sexuales contra menores. Enmiendas de Honorable Cámara de Diputados recaídas sob...",
-    "descripcion": "Proyecto que declara imprescriptibles los delitos sexuales contra menores. enmiendas de honorable cámara de diputados recaídas sob....",
+    "title": "Declara imprescriptibles los delitos sexuales contra menores. Enmiendas de Honorable Cámara de Diputados recaídas sob...",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que declara imprescriptibles los delitos sexuales contra menores.",
     "tags": [
       "seguridad"
     ],
@@ -307,15 +566,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-7606-20/03/2019",
     "boletin": "7606",
     "fecha": "20/03/2019",
     "chamber": "senado",
-    "materia": "Modifica el Código Penal para tipificar el delito de acoso sexual en espacios públicos",
-    "descripcion": "Proyecto que modifica el código penal para tipificar el delito de acoso sexual en espacios públicos.",
+    "title": "Modifica el Código Penal para tipificar el delito de acoso sexual en espacios públicos",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica el Código Penal para tipificar el delito de acoso sexual en espacios públicos.",
     "tags": [
       "seguridad",
       "constitucional"
@@ -325,15 +585,16 @@
       "1120": "afavor",
       "1215": "afavor",
       "1224": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-7678-15/01/2019",
     "boletin": "7678",
     "fecha": "15/01/2019",
     "chamber": "senado",
-    "materia": "Establece nuevo mecanismo de financiamiento de las capacidades estratégicas de la Defensa Nacional. Enmiendas aprobad...",
-    "descripcion": "Proyecto que establece nuevo mecanismo de financiamiento de las capacidades estratégicas de la defensa nacional. enmiendas aprobad....",
+    "title": "Establece nuevo mecanismo de financiamiento de las capacidades estratégicas de la Defensa Nacional. Enmiendas aprobad...",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que establece nuevo mecanismo de financiamiento de las capacidades estratégicas de la Defensa Nacional.",
     "tags": [
       "defensa",
       "constitucional"
@@ -345,15 +606,16 @@
       "1215": "afavor",
       "1222": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-7678-10/07/2019",
     "boletin": "7678",
     "fecha": "10/07/2019",
     "chamber": "senado",
-    "materia": "Establece nuevo mecanismo de financiamiento de las capacidades estratégicas de la Defensa Nacional. Enmiendas aprobad...",
-    "descripcion": "Proyecto que establece nuevo mecanismo de financiamiento de las capacidades estratégicas de la defensa nacional. enmiendas aprobad....",
+    "title": "Establece nuevo mecanismo de financiamiento de las capacidades estratégicas de la Defensa Nacional. Enmiendas aprobad...",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que establece nuevo mecanismo de financiamiento de las capacidades estratégicas de la Defensa Nacional.",
     "tags": [
       "defensa",
       "constitucional"
@@ -364,15 +626,16 @@
       "1215": "afavor",
       "1222": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-7678-17/07/2019",
     "boletin": "7678",
     "fecha": "17/07/2019",
     "chamber": "senado",
-    "materia": "Establece nuevo mecanismo de financiamiento de las capacidades estratégicas de la Defensa Nacional. Enmiendas aprobad...",
-    "descripcion": "Proyecto que establece nuevo mecanismo de financiamiento de las capacidades estratégicas de la defensa nacional. enmiendas aprobad....",
+    "title": "Establece nuevo mecanismo de financiamiento de las capacidades estratégicas de la Defensa Nacional. Enmiendas aprobad...",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que establece nuevo mecanismo de financiamiento de las capacidades estratégicas de la Defensa Nacional.",
     "tags": [
       "defensa",
       "constitucional"
@@ -385,15 +648,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-7769-19/12/2019",
     "boletin": "7769",
     "fecha": "19/12/2019",
     "chamber": "senado",
-    "materia": "Reforma constitucional que en segundo trámite constitucional, que modifica el Capítulo XV de la Constitución Política...",
-    "descripcion": "Propuesta de reforma a la Constitución Política de Chile.",
+    "title": "Reforma constitucional que en segundo trámite constitucional, que modifica el Capítulo XV de la Constitución Política...",
+    "descripcion": "Proyecto de reforma constitucional, en segundo trámite constitucional, que modifica el Capítulo XV de la Constitución Política de la República. En votación los numerales 1), 2) y 3) del artículo único del proyecto de reforma constitucional.",
     "tags": [
       "constitucional"
     ],
@@ -404,15 +668,16 @@
       "1215": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-8263-23/01/2019",
     "boletin": "8263",
     "fecha": "23/01/2019",
     "chamber": "senado",
-    "materia": "Incorpora en el Código del Trabajo el contrato de teleoperadores",
-    "descripcion": "Proyecto que incorpora en el código del trabajo el contrato de teleoperadores.",
+    "title": "Incorpora en el Código del Trabajo el contrato de teleoperadores",
+    "descripcion": "Aprobación en general del proyecto de ley, iniciado en Moción de los Honorables Senadores señora Alvear y señor Escalona, en primer trámite constitucional, que incorpora en el Código del Trabajo el contrato de teleoperadores, con informe de la Comisión de Trabajo y Previsión Social.",
     "tags": [
       "trabajo",
       "constitucional"
@@ -425,15 +690,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-8528-03/07/2019",
     "boletin": "8528",
     "fecha": "03/07/2019",
     "chamber": "senado",
-    "materia": "Modifica el artículo 1182 del Código Civil, declarando incapaz para suceder al difunto a quien ejerce violencia con e...",
-    "descripcion": "Proyecto que modifica el artículo 1182 del código civil, declarando incapaz para suceder al difunto a quien ejerce violencia con e....",
+    "title": "Modifica el artículo 1182 del Código Civil, declarando incapaz para suceder al difunto a quien ejerce violencia con e...",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica el artículo 1182 del Código Civil, declarando incapaz para suceder al difunto a quien ejerce violencia con el adulto mayor.",
     "tags": [
       "seguridad",
       "social",
@@ -448,15 +714,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-8680-27/11/2019",
     "boletin": "8680",
     "fecha": "27/11/2019",
     "chamber": "senado",
-    "materia": "Reforma constitucional que en primer trámite constitucional, que rebaja la edad para ser ciudadano y otorga el derech...",
-    "descripcion": "Propuesta de reforma a la Constitución Política de Chile.",
+    "title": "Reforma constitucional que en primer trámite constitucional, que rebaja la edad para ser ciudadano y otorga el derech...",
+    "descripcion": "Proyecto de reforma constitucional, en primer trámite constitucional, que rebaja la edad para ser ciudadano y otorga el derecho de sufragio en elecciones municipales a quienes hayan cumplido 14 años de edad.",
     "tags": [
       "descentralizacion",
       "constitucional"
@@ -468,15 +735,16 @@
       "1120": "contra",
       "1224": "afavor",
       "1326": "contra"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-8970-13/08/2019",
     "boletin": "8970",
     "fecha": "13/08/2019",
     "chamber": "senado",
-    "materia": "Aprobación del N° 4 del artículo 70 del proyecto de ley sobre Ley de Migración y Extranjería, de acuerdo a la numerac...",
-    "descripcion": "Propuesta legislativa para del n° 4 del artículo 70 del proyecto de ley, en segundo trámite constitucional, sobre ley de migración y extranjería....",
+    "title": "Aprobación del N° 4 del artículo 70 del proyecto de ley sobre Ley de Migración y Extranjería, de acuerdo a la numerac...",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, sobre migración y extranjería.",
     "tags": [
       "inmigracion",
       "constitucional"
@@ -489,15 +757,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-8996-10/04/2019",
     "boletin": "8996",
     "fecha": "10/04/2019",
     "chamber": "senado",
-    "materia": "Crea un estatuto laboral para jóvenes que se encuentren estudiando en la educación superior. Enmiendas unánimes propu...",
-    "descripcion": "Proyecto que crea un estatuto laboral para jóvenes que se encuentren estudiando en la educación superior. enmiendas unánimes propu....",
+    "title": "Crea un estatuto laboral para jóvenes que se encuentren estudiando en la educación superior. Enmiendas unánimes propu...",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que crea un estatuto laboral para jóvenes que se encuentren estudiando en la educación superior.",
     "tags": [
       "educacion",
       "trabajo",
@@ -512,15 +781,16 @@
       "1215": "abstencion",
       "1224": "abstencion",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-8996-11/06/2019",
     "boletin": "8996",
     "fecha": "11/06/2019",
     "chamber": "senado",
-    "materia": "Crea un estatuto laboral para jóvenes que se encuentren estudiando en la educación superior. Enmiendas unánimes propu...",
-    "descripcion": "Proyecto que crea un estatuto laboral para jóvenes que se encuentren estudiando en la educación superior. enmiendas unánimes propu....",
+    "title": "Crea un estatuto laboral para jóvenes que se encuentren estudiando en la educación superior. Enmiendas unánimes propu...",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que crea un estatuto laboral para jóvenes que se encuentren estudiando en la educación superior.",
     "tags": [
       "educacion",
       "trabajo",
@@ -536,15 +806,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-9062-10/09/2019",
     "boletin": "9062",
     "fecha": "10/09/2019",
     "chamber": "senado",
-    "materia": "Establece el día del rock chileno",
-    "descripcion": "Proyecto que establece el día del rock chileno.",
+    "title": "Establece el día del rock chileno",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que establece el día del rock chileno.",
     "tags": [
       "constitucional"
     ],
@@ -555,15 +826,16 @@
       "1215": "afavor",
       "1222": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-9233-17/04/2019",
     "boletin": "9233",
     "fecha": "17/04/2019",
     "chamber": "senado",
-    "materia": "Discusión en general del proyecto de ley, en primer trámite constitucional, que modifica la ley N° 19.220, que regula...",
-    "descripcion": "Propuesta legislativa para discusión en general del proyecto de ley, en primer trámite constitucional, que modifica la ley n° 19.220, que regula....",
+    "title": "Discusión en general del proyecto de ley, en primer trámite constitucional, que modifica la ley N° 19.220, que regula...",
+    "descripcion": "Discusión en general del proyecto de ley, en primer trámite constitucional, que modifica la ley N° 19.220, que regula el establecimiento de bolsas de productos agropecuarios, con informe de la Comisión de Hacienda. (Boletín N° 9.233-01).",
     "tags": [
       "constitucional"
     ],
@@ -574,15 +846,16 @@
       "1215": "afavor",
       "1222": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-9256-23/07/2019",
     "boletin": "9256",
     "fecha": "23/07/2019",
     "chamber": "senado",
-    "materia": "Establece el Estatuto Chileno Antártico",
-    "descripcion": "Proyecto que establece el estatuto chileno antártico.",
+    "title": "Establece el Estatuto Chileno Antártico",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que establece el Estatuto Chileno Antártico.",
     "tags": [
       "constitucional"
     ],
@@ -594,15 +867,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-9303-22/01/2019",
     "boletin": "9303",
     "fecha": "22/01/2019",
     "chamber": "senado",
-    "materia": "Establece medidas de protección a la lactancia materna y su ejercicio. Tercera enmienda propuesta al artículo 1º por ...",
-    "descripcion": "Proyecto que establece medidas de protección a la lactancia materna y su ejercicio. tercera enmienda propuesta al artículo 1º por ....",
+    "title": "Establece medidas de protección a la lactancia materna y su ejercicio. Tercera enmienda propuesta al artículo 1º por ...",
+    "descripcion": "Proyecto de ley, iniciado en Moción de los Honorables Senadores señoras Pérez San Martín y Goic y señores Chahuán y Lagos, en primer trámite constitucional, que establece medidas de protección a la lactancia materna y su ejercicio, con informe de la Comisión de Salud.",
     "tags": [
       "constitucional"
     ],
@@ -613,15 +887,16 @@
       "1215": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-9404-23/07/2019",
     "boletin": "9404",
     "fecha": "23/07/2019",
     "chamber": "senado",
-    "materia": "Crea el Servicio de Biodiversidad y Áreas Protegidas y el Sistema Nacional de Áreas Protegidas",
-    "descripcion": "Proyecto que crea el servicio de biodiversidad y áreas protegidas y el sistema nacional de áreas protegidas.",
+    "title": "Crea el Servicio de Biodiversidad y Áreas Protegidas y el Sistema Nacional de Áreas Protegidas",
+    "descripcion": "Aprobación en general del proyecto de ley, iniciado en Mensaje de S.E. la Presidenta de la República, en primer trámite constitucional, que crea el Servicio de Biodiversidad y Áreas Protegidas y el Sistema Nacional de Áreas Protegidas, con informe de la Comisión de Medio Ambiente y Bienes Nacionales. (Boletín N° 9.404-12). Con urgencia calificada de discusión inmediata.",
     "tags": [
       "medioambiente",
       "constitucional"
@@ -634,15 +909,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "contra"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-9404-24/07/2019",
     "boletin": "9404",
     "fecha": "24/07/2019",
     "chamber": "senado",
-    "materia": "Crea el Servicio de Biodiversidad y Áreas Protegidas y el Sistema Nacional de Áreas Protegidas",
-    "descripcion": "Proyecto que crea el servicio de biodiversidad y áreas protegidas y el sistema nacional de áreas protegidas.",
+    "title": "Crea el Servicio de Biodiversidad y Áreas Protegidas y el Sistema Nacional de Áreas Protegidas",
+    "descripcion": "Aprobación en general del proyecto de ley, iniciado en Mensaje de S.E. la Presidenta de la República, en primer trámite constitucional, que crea el Servicio de Biodiversidad y Áreas Protegidas y el Sistema Nacional de Áreas Protegidas, con informe de la Comisión de Medio Ambiente y Bienes Nacionales. (Boletín N° 9.404-12). Con urgencia calificada de discusión inmediata.",
     "tags": [
       "medioambiente",
       "constitucional"
@@ -655,15 +931,16 @@
       "1215": "afavor",
       "1222": "afavor",
       "1224": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-9511-18/06/2019",
     "boletin": "9511",
     "fecha": "18/06/2019",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 18.168, General de Telecomunicaciones, para regular el tendido de cables aéreos",
-    "descripcion": "Proyecto que modifica la ley n° 18.168, general de telecomunicaciones, para regular el tendido de cables aéreos.",
+    "title": "Modifica la ley N° 18.168, General de Telecomunicaciones, para regular el tendido de cables aéreos",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica ley N° 18.168, General de Telecomunicaciones, para regular tendido de cables aéreos.",
     "tags": [
       "constitucional"
     ],
@@ -673,15 +950,16 @@
       "1215": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-10162-23/04/2019",
     "boletin": "10162",
     "fecha": "23/04/2019",
     "chamber": "senado",
-    "materia": "Modifica las leyes Nos18.045 y 18.046, para establecer nuevas exigencias de transparencia y reforzamiento de",
-    "descripcion": "Modifica las leyes Nos18.045 y 18.046, para establecer nuevas exigencias de transparencia y reforzamiento de responsabilidades de los agentes de los mercados.. Con urgencia calificada de discusión inmediata.",
+    "title": "Modifica las leyes Nos18.045 y 18.046, para establecer nuevas exigencias de transparencia y reforzamiento de",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que modifica las leyes Nos 18.045 y 18.046, para establecer nuevas exigencias de transparencia y reforzamiento de responsabilidades de los agentes de los mercados.",
     "tags": [
       "constitucional",
       "transparencia"
@@ -694,15 +972,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-10190-15/05/2019",
     "boletin": "10190",
     "fecha": "15/05/2019",
     "chamber": "senado",
-    "materia": "Modifica la Ley General de Pesca y Acuicultura, en lo relativo a las licencias transables de pesca e incorpora normas",
-    "descripcion": "Modifica la Ley General de Pesca y Acuicultura, en lo relativo a las licencias transables de pesca e incorpora normas para prevenir la pesca ilegal.",
+    "title": "Modifica la Ley General de Pesca y Acuicultura, en lo relativo a las licencias transables de pesca e incorpora normas",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que modifica la Ley General de Pesca y Acuicultura, en lo relativo a las licencias transables de pesca e incorpora normas para prevenir la pesca ilegal.",
     "tags": [
       "agricultura",
       "cultura",
@@ -717,15 +996,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-10315-29/10/2019",
     "boletin": "10315",
     "fecha": "29/10/2019",
     "chamber": "senado",
-    "materia": "Establece un sistema de garantías de los derechos de la niñez",
-    "descripcion": "Establece un sistema de garantías de los derechos de la niñez.",
+    "title": "Establece un sistema de garantías de los derechos de la niñez",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que establece un sistema de garantías de los derechos de la niñez.",
     "tags": [
       "social",
       "constitucional"
@@ -739,15 +1019,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "contra"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-10324-23/04/2019",
     "boletin": "10324",
     "fecha": "23/04/2019",
     "chamber": "senado",
-    "materia": "Modifica el Código de Procedimiento Civil para eliminar privilegios procesales en favor de autoridades eclesiásticas",
-    "descripcion": "Modifica el Código de Procedimiento Civil para eliminar privilegios procesales en favor de autoridades eclesiásticas.",
+    "title": "Modifica el Código de Procedimiento Civil para eliminar privilegios procesales en favor de autoridades eclesiásticas",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica el Código de Procedimiento Civil para eliminar privilegios procesales en favor de autoridades eclesiásticas.",
     "tags": [
       "justicia",
       "constitucional"
@@ -760,15 +1041,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-10482-02/01/2019",
     "boletin": "10482",
     "fecha": "02/01/2019",
     "chamber": "senado",
-    "materia": "Moderniza y fortalece el ejercicio de la función pública del Servicio Nacional de Pesca",
-    "descripcion": "Moderniza y fortalece el ejercicio de la función pública del Servicio Nacional de Pesca.",
+    "title": "Moderniza y fortalece el ejercicio de la función pública del Servicio Nacional de Pesca",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que moderniza y fortalece el ejercicio de la función pública del Servicio Nacional de Pesca.",
     "tags": [
       "agricultura"
     ],
@@ -779,15 +1061,16 @@
       "1215": "afavor",
       "1222": "afavor",
       "1224": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-10625-23/01/2019",
     "boletin": "10625",
     "fecha": "23/01/2019",
     "chamber": "senado",
-    "materia": "Otorga reconocimiento legal al pueblo tribal afrodescendiente chileno. Enmiendas propuestas por la Comisión de Derechos",
-    "descripcion": "Otorga reconocimiento legal al pueblo tribal afrodescendiente chileno. Enmiendas propuestas por la Comisión de Derechos Humanos, Nacionalidad y Ciudadanía.",
+    "title": "Otorga reconocimiento legal al pueblo tribal afrodescendiente chileno. Enmiendas propuestas por la Comisión de Derechos",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que otorga reconocimiento legal al pueblo tribal afrodescendiente chileno.",
     "tags": [
       "constitucional"
     ],
@@ -797,15 +1080,16 @@
       "1215": "afavor",
       "1222": "afavor",
       "1224": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-10685-07/05/2019",
     "boletin": "10685",
     "fecha": "07/05/2019",
     "chamber": "senado",
-    "materia": "Reforma constitucional: modifica la Carta Fundamental para sustituir la denominación del territorio especial de Isla de",
-    "descripcion": "Reforma constitucional: modifica la Carta Fundamental para sustituir la denominación del territorio especial de Isla de Pascua por la de Rapa Nui. Texto propuesto por la Comisión de Constitución, Legislación, Justicia y Reglamento.",
+    "title": "Reforma constitucional: modifica la Carta Fundamental para sustituir la denominación del territorio especial de Isla de",
+    "descripcion": "Proyecto de reforma constitucional, en segundo trámite constitucional, que modifica la Carta Fundamental para sustituir la denominación del territorio especial de Isla de Pascua por la de Rapa Nui. Texto propuesto por la Comisión de Constitución, Legislación, Justicia y Reglamento.",
     "tags": [
       "justicia",
       "constitucional"
@@ -817,15 +1101,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-10811-08/05/2019",
     "boletin": "10811",
     "fecha": "08/05/2019",
     "chamber": "senado",
-    "materia": "Máquinas de juego fuera del ámbito de la Ley de Casinos",
-    "descripcion": "Máquinas de juego fuera del ámbito de la Ley de Casinos.",
+    "title": "Máquinas de juego fuera del ámbito de la Ley de Casinos",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, sobre máquinas de juego fuera del ámbito de la ley de casinos.",
     "tags": [
       "constitucional"
     ],
@@ -837,15 +1122,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11073-02/04/2019",
     "boletin": "11073",
     "fecha": "02/04/2019",
     "chamber": "senado",
-    "materia": "Modifica el Código Procesal Penal en materia de procedencia de la prisión preventiva y de suspensión de ejecución de la",
-    "descripcion": "Modifica el Código Procesal Penal en materia de procedencia de la prisión preventiva y de suspensión de ejecución de la sentencia, respecto de mujeres embarazadas o que tengan hijos o hijas menores de tres años, con informe de la Comisión de Derechos Humanos, Nacionalidad y Ciudadanía... Sólo",
+    "title": "Modifica el Código Procesal Penal en materia de procedencia de la prisión preventiva y de suspensión de ejecución de la",
+    "descripcion": "Proyecto de ley que modifica el Código Procesal Penal en materia de procedencia de la prisión preventiva y de suspensión de ejecución de la sentencia, respecto de mujeres embarazadas o que tengan hijos o hijas menores de tres años. Remisión del proyecto a la Comisión de Derechos Humanos, Nacionalidad y Ciudadanía.",
     "tags": [
       "seguridad",
       "trabajo",
@@ -859,15 +1145,16 @@
       "1215": "afavor",
       "1222": "afavor",
       "1224": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-11077-09/07/2019",
     "boletin": "11077",
     "fecha": "09/07/2019",
     "chamber": "senado",
-    "materia": "El derecho de las mujeres a una vida libre de violencia,. Votación separada inciso primero del artículo 1°. APROBADA",
-    "descripcion": "El derecho de las mujeres a una vida libre de violencia,. Votación separada inciso primero del artículo 1°. APROBADA.",
+    "title": "El derecho de las mujeres a una vida libre de violencia,. Votación separada inciso primero del artículo 1°. APROBADA",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, sobre el derecho de las mujeres a una vida libre de violencia.",
     "tags": [
       "seguridad",
       "genero",
@@ -882,15 +1169,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-11078-03/07/2019",
     "boletin": "11078",
     "fecha": "03/07/2019",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 20.009, que limita la responsabilidad de los usuarios de tarjetas de crédito por operaciones",
-    "descripcion": "Modifica la ley N° 20.009, que limita la responsabilidad de los usuarios de tarjetas de crédito por operaciones realizadas con tarjetas extraviadas, hurtadas o robadas, en lo relativo a la responsabilidad del usuario y del emisor en casos de uso fraudulento de estos medios de pago. Enmiendas de la",
+    "title": "Modifica la ley N° 20.009, que limita la responsabilidad de los usuarios de tarjetas de crédito por operaciones",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que modifica la ley N° 20.009, que limita la responsabilidad de los usuarios de tarjetas de crédito por operaciones realizadas con tarjetas extraviadas, hurtadas o robadas, en lo relativo a la responsabilidad del usuario y del emisor en casos de uso fraudulento de estos medios de pago.",
     "tags": [
       "economia",
       "constitucional"
@@ -901,15 +1189,16 @@
       "1215": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11168-27/11/2019",
     "boletin": "11168",
     "fecha": "27/11/2019",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 20.283, sobre recuperación del bosque nativo y fomento forestal, para tipificar como delito la",
-    "descripcion": "Modifica la ley N° 20.283, sobre recuperación del bosque nativo y fomento forestal, para tipificar como delito la extracción no autorizada de tierra de hojas.",
+    "title": "Modifica la ley N° 20.283, sobre recuperación del bosque nativo y fomento forestal, para tipificar como delito la",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 20.283, sobre recuperación del bosque nativo y fomento forestal, para tipificar como delito la extracción no autorizada de tierra de hojas.",
     "tags": [
       "seguridad",
       "medioambiente",
@@ -923,15 +1212,16 @@
       "1215": "afavor",
       "1224": "afavor",
       "1326": "contra"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-11188-23/01/2019",
     "boletin": "11188",
     "fecha": "23/01/2019",
     "chamber": "senado",
-    "materia": "que Establece normas sobre protección, fomento y desarrollo de los indígenas, y crea la Corporación Nacional de Desar...",
-    "descripcion": "Enmiendas aprobadas por unanimidad por la Comisión respecto del proyecto de ley que modifica la ley N°19.253, que Establece normas sobre protección, fomento y desarrollo de los indígenas, y crea la Corporación Nacional de Desarrollo Indígena, para reconocer al pueblo chango como etnia indígena de",
+    "title": "que Establece normas sobre protección, fomento y desarrollo de los indígenas, y crea la Corporación Nacional de Desar...",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 19.253, que establece normas sobre protección, fomento y desarrollo de los indígenas, y crea la Corporación Nacional de Desarrollo Indígena, para reconocer al pueblo Chango como etnia indígena de Chile. (Boletines Nos 11.188-17 y 11.335-17, refundidos)",
     "tags": [
       "pueblos",
       "constitucional"
@@ -943,15 +1233,16 @@
       "1215": "afavor",
       "1222": "afavor",
       "1224": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11224-23/01/2019",
     "boletin": "11224",
     "fecha": "23/01/2019",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 19.828, que crea el Servicio Nacional del Adulto Mayor, para establecer el concepto de cuarta edad",
-    "descripcion": "Modifica la ley N° 19.828, que crea el Servicio Nacional del Adulto Mayor, para establecer el concepto de cuarta edad.",
+    "title": "Modifica la ley N° 19.828, que crea el Servicio Nacional del Adulto Mayor, para establecer el concepto de cuarta edad",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 19.828, que crea el Servicio Nacional del Adulto Mayor, para establecer el concepto de cuarta edad.",
     "tags": [
       "social",
       "constitucional"
@@ -961,15 +1252,16 @@
       "1215": "afavor",
       "1222": "afavor",
       "1224": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-11245-02/01/2019",
     "boletin": "11245",
     "fecha": "02/01/2019",
     "chamber": "senado",
-    "materia": "Designa al Instituto Nacional de Derechos Humanos como el mecanismo nacional de prevención contra la tortura y otros",
-    "descripcion": "Designa al Instituto Nacional de Derechos Humanos como el mecanismo nacional de prevención contra la tortura y otros tratos o penas crueles, inhumanos o degradantes. Votación particular.",
+    "title": "Designa al Instituto Nacional de Derechos Humanos como el mecanismo nacional de prevención contra la tortura y otros",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que designa al Instituto Nacional de Derechos Humanos como el Mecanismo Nacional de Prevención contra la Tortura y otros Tratos o Penas Crueles Inhumanos o Degradantes.",
     "tags": [
       "constitucional"
     ],
@@ -980,15 +1272,16 @@
       "1215": "afavor",
       "1222": "afavor",
       "1224": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11256-21/08/2019",
     "boletin": "11256",
     "fecha": "21/08/2019",
     "chamber": "senado",
-    "materia": "Modifica diversos cuerpos legales con el objetivo de proteger los humedales urbanos. Proposición de rechazar las",
-    "descripcion": "Modifica diversos cuerpos legales con el objetivo de proteger los humedales urbanos. Proposición de rechazar las enmiendas de la Honorable Cámara de Diputados correspondientes al artículo 3°, nuevo, y al artículo 4°, numeral 1) y aprobar las restantes modificaciones.",
+    "title": "Modifica diversos cuerpos legales con el objetivo de proteger los humedales urbanos. Proposición de rechazar las",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que modifica diversos cuerpos legales con el objetivo de proteger los humedales urbanos.",
     "tags": [
       "constitucional"
     ],
@@ -1001,15 +1294,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-11256-06/11/2019",
     "boletin": "11256",
     "fecha": "06/11/2019",
     "chamber": "senado",
-    "materia": "Modifica diversos cuerpos legales con el objetivo de proteger los humedales urbanos. Proposición de rechazar las",
-    "descripcion": "Modifica diversos cuerpos legales con el objetivo de proteger los humedales urbanos. Proposición de rechazar las enmiendas de la Honorable Cámara de Diputados correspondientes al artículo 3°, nuevo, y al artículo 4°, numeral 1) y aprobar las restantes modificaciones.",
+    "title": "Modifica diversos cuerpos legales con el objetivo de proteger los humedales urbanos. Proposición de rechazar las",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que modifica diversos cuerpos legales con el objetivo de proteger los humedales urbanos.",
     "tags": [
       "otro"
     ],
@@ -1022,15 +1316,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-11311-17/12/2019",
     "boletin": "11311",
     "fecha": "17/12/2019",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 18.892, General de Pesca y Acuicultura, con el objeto de considerar a las marejadas como fuerza",
-    "descripcion": "Modifica la ley N° 18.892, General de Pesca y Acuicultura, con el objeto de considerar a las marejadas como fuerza mayor, para evitar la caducidad de la inscripción de los pescadores artesanales en el Registro respectivo.",
+    "title": "Modifica la ley N° 18.892, General de Pesca y Acuicultura, con el objeto de considerar a las marejadas como fuerza",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 18.892, General de Pesca y Acuicultura, con el objeto de considerar a las marejadas como fuerza mayor, para evitar la caducidad de la inscripción de los pescadores artesanales en el Registro respectivo.",
     "tags": [
       "agricultura",
       "cultura",
@@ -1042,15 +1337,16 @@
       "1215": "afavor",
       "1224": "abstencion",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11317-16/01/2019",
     "boletin": "11317",
     "fecha": "16/01/2019",
     "chamber": "senado",
-    "materia": "Amplía el procedimiento de relocalización a concesiones de acuicultura que indica y establece permisos especiales de",
-    "descripcion": "Amplía el procedimiento de relocalización a concesiones de acuicultura que indica y establece permisos especiales de colecta de semillas.",
+    "title": "Amplía el procedimiento de relocalización a concesiones de acuicultura que indica y establece permisos especiales de",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que amplía el procedimiento de relocalización a concesiones de acuicultura que indica y establece permisos especiales de colecta de semillas.",
     "tags": [
       "agricultura",
       "cultura",
@@ -1061,15 +1357,16 @@
       "1222": "abstencion",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11317-20/08/2019",
     "boletin": "11317",
     "fecha": "20/08/2019",
     "chamber": "senado",
-    "materia": "Amplía el procedimiento de relocalización a concesiones de acuicultura que indica y establece permisos especiales de",
-    "descripcion": "Amplía el procedimiento de relocalización a concesiones de acuicultura que indica y establece permisos especiales de colecta de semillas.",
+    "title": "Amplía el procedimiento de relocalización a concesiones de acuicultura que indica y establece permisos especiales de",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que amplía el procedimiento de relocalización a concesiones de acuicultura que indica y establece permisos especiales de colecta de semillas.",
     "tags": [
       "agricultura",
       "cultura",
@@ -1083,15 +1380,16 @@
       "1215": "afavor",
       "1222": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11317-16/10/2019",
     "boletin": "11317",
     "fecha": "16/10/2019",
     "chamber": "senado",
-    "materia": "Amplía el procedimiento de relocalización a concesiones de acuicultura que indica y establece permisos especiales de",
-    "descripcion": "Amplía el procedimiento de relocalización a concesiones de acuicultura que indica y establece permisos especiales de colecta de semillas.",
+    "title": "Amplía el procedimiento de relocalización a concesiones de acuicultura que indica y establece permisos especiales de",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que amplía el procedimiento de relocalización a concesiones de acuicultura que indica y establece permisos especiales de colecta de semillas.",
     "tags": [
       "agricultura",
       "cultura"
@@ -1101,15 +1399,16 @@
       "1120": "afavor",
       "1215": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11338-01/10/2019",
     "boletin": "11338",
     "fecha": "01/10/2019",
     "chamber": "senado",
-    "materia": "Suministro ininterrumpido de electricidad y tarifas especiales para personas electrodependientes",
-    "descripcion": "Suministro ininterrumpido de electricidad y tarifas especiales para personas electrodependientes.",
+    "title": "Suministro ininterrumpido de electricidad y tarifas especiales para personas electrodependientes",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, sobre suministro ininterrumpido de electricidad y tarifas especiales para personas electrodependientes.",
     "tags": [
       "energia",
       "constitucional"
@@ -1120,15 +1419,16 @@
       "1120": "afavor",
       "1215": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11408-22/05/2019",
     "boletin": "11408",
     "fecha": "22/05/2019",
     "chamber": "senado",
-    "materia": "Fomento a las artes escénicas. Aprobación particular. Enmiendas propuestas por la Comisión de Educación y Cultura",
-    "descripcion": "Fomento a las artes escénicas. Aprobación particular. Enmiendas propuestas por la Comisión de Educación y Cultura.",
+    "title": "Fomento a las artes escénicas. Aprobación particular. Enmiendas propuestas por la Comisión de Educación y Cultura",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, sobre fomento a las artes escénicas.",
     "tags": [
       "educacion",
       "cultura",
@@ -1141,15 +1441,16 @@
       "1215": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11417-11/09/2019",
     "boletin": "11417",
     "fecha": "11/09/2019",
     "chamber": "senado",
-    "materia": "Informe conjunto de las Comisiones Mixtas constituidas para resolver las divergencias suscitadas durante la tramitación",
-    "descripcion": "Informe conjunto de las Comisiones Mixtas constituidas para resolver las divergencias suscitadas durante la tramitación de los proyectos de ley que establecen normas sobre elaboración, comercialización, denominación y etiquetados de la leche y productos lácteos, y la obligación de etiquetar en los",
+    "title": "Informe conjunto de las Comisiones Mixtas constituidas para resolver las divergencias suscitadas durante la tramitación",
+    "descripcion": "Informe conjunto de las Comisiones Mixtas constituidas para resolver las divergencias suscitadas durante la tramitación de los proyectos de ley que establecen normas sobre elaboración, comercialización, denominación y etiquetados de la leche y productos lácteos, y la obligación de etiquetar en los envases el origen y el tipo de la leche y otros productos lácteos.",
     "tags": [
       "otro"
     ],
@@ -1161,15 +1462,16 @@
       "1215": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11441-02/01/2019",
     "boletin": "11441",
     "fecha": "02/01/2019",
     "chamber": "senado",
-    "materia": "Exige que en el decreto promulgatorio de la ley conste el nombre de los autores del proyecto cuando se trate de una",
-    "descripcion": "Exige que en el decreto promulgatorio de la ley conste el nombre de los autores del proyecto cuando se trate de una moción parlamentaria. Aprobación en general.",
+    "title": "Exige que en el decreto promulgatorio de la ley conste el nombre de los autores del proyecto cuando se trate de una",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que exige que en el decreto promulgatorio de la ley conste el nombre de los autores del proyecto cuando se trate de una moción parlamentaria. Aprobación en general.",
     "tags": [
       "constitucional"
     ],
@@ -1179,15 +1481,16 @@
       "1215": "afavor",
       "1222": "afavor",
       "1224": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11490-02/10/2019",
     "boletin": "11490",
     "fecha": "02/10/2019",
     "chamber": "senado",
-    "materia": "Establece el segundo sábado de octubre de cada año como el Día del Artista Local",
-    "descripcion": "Establece el segundo sábado de octubre de cada año como el Día del Artista Local.",
+    "title": "Establece el segundo sábado de octubre de cada año como el Día del Artista Local",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que establece el segundo sábado de octubre de cada año como el Día del Artista Local.",
     "tags": [
       "cultura",
       "constitucional"
@@ -1200,15 +1503,16 @@
       "1215": "afavor",
       "1222": "afavor",
       "1224": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11554-13/03/2019",
     "boletin": "11554",
     "fecha": "13/03/2019",
     "chamber": "senado",
-    "materia": "Crea una sociedad anónima del Estado denominada Intermediación Financiera S.A.. Votación de la indicación renovada,",
-    "descripcion": "Crea una sociedad anónima del Estado denominada Intermediación Financiera S.A.. Votación de la indicación renovada, correspondiente a la N° 2 del Boletín de Indicaciones.",
+    "title": "Crea una sociedad anónima del Estado denominada Intermediación Financiera S.A.. Votación de la indicación renovada,",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que crea una sociedad anónima del Estado denominada Intermediación Financiera S.A.",
     "tags": [
       "constitucional"
     ],
@@ -1219,15 +1523,16 @@
       "1222": "afavor",
       "1224": "abstencion",
       "1326": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11591-06/08/2019",
     "boletin": "11591",
     "fecha": "06/08/2019",
     "chamber": "senado",
-    "materia": "Modifica el decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, en materia de consulta, administración y",
-    "descripcion": "Modifica el decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, en materia de consulta, administración y uso, por parte del afiliado, de los excedentes de cotización en Isapres.",
+    "title": "Modifica el decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, en materia de consulta, administración y",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica el decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, en materia de consulta, administración y uso, por parte del afiliado, de los excedentes de cotización en Isapres.",
     "tags": [
       "salud",
       "cultura",
@@ -1241,15 +1546,16 @@
       "1215": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11611-10/04/2019",
     "boletin": "11611",
     "fecha": "10/04/2019",
     "chamber": "senado",
-    "materia": "Aprobacion de Acuerdo de Inversiones entre el Gobierno de la República de Chile y el Gobierno de la Región",
-    "descripcion": "Aprobacion de Acuerdo de Inversiones entre el Gobierno de la República de Chile y el Gobierno de la Región Administrativa Especial de Hong Kong de la República Popular China y sus Anexos, con Perú",
+    "title": "Aprobacion de Acuerdo de Inversiones entre el Gobierno de la República de Chile y el Gobierno de la Región",
+    "descripcion": "Proyecto de acuerdo, en segundo trámite constitucional, que aprueba el Acuerdo de Inversiones entre el Gobierno de la República de Chile y el Gobierno de la Región Administrativa Especial de Hong Kong de la República Popular China y sus Anexos, suscrito en Lima, Perú, el 18 de noviembre de 2016.",
     "tags": [
       "tributario",
       "constitucional"
@@ -1258,15 +1564,16 @@
       "1117": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11614-10/04/2019",
     "boletin": "11614",
     "fecha": "10/04/2019",
     "chamber": "senado",
-    "materia": "Aprobacion de Convenio de Transporte Aéreo entre el Gobierno de la República de Chile y el Gobierno de San Vicente y",
-    "descripcion": "Aprobacion de Convenio de Transporte Aéreo entre el Gobierno de la República de Chile y el Gobierno de San Vicente y las Granadinas, con República de Guyana",
+    "title": "Aprobacion de Convenio de Transporte Aéreo entre el Gobierno de la República de Chile y el Gobierno de San Vicente y",
+    "descripcion": "Proyecto de acuerdo, en segundo trámite constitucional, que aprueba el Convenio de Transporte Aéreo entre el Gobierno de la República de Chile y el Gobierno de San Vicente y las Granadinas, firmado en Georgetown, República de Guyana, el 5 de julio de 2016.",
     "tags": [
       "transporte",
       "constitucional"
@@ -1277,15 +1584,16 @@
       "1120": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11621-06/03/2019",
     "boletin": "11621",
     "fecha": "06/03/2019",
     "chamber": "senado",
-    "materia": "encargada de proponer la forma y el modo de resolver las discrepancias suscitadas entre el Senado y la Cámara de",
-    "descripcion": "Encargada de proponer la forma y el modo de resolver las discrepancias suscitadas entre el Senado y la Cámara de Diputados con ocasión de la tramitación del proyecto de ley que mejora el ingreso de docentes directivos al Sistema de Desarrollo Profesional Docente, modifica diversos cuerpos legales y",
+    "title": "encargada de proponer la forma y el modo de resolver las discrepancias suscitadas entre el Senado y la Cámara de",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que mejora el ingreso de docentes directivos al Sistema de Desarrollo Profesional Docente, modifica diversos cuerpos legales y establece los beneficios que indica.",
     "tags": [
       "educacion",
       "constitucional"
@@ -1294,15 +1602,16 @@
       "1120": "contra",
       "1224": "abstencion",
       "1326": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11621-20/03/2019",
     "boletin": "11621",
     "fecha": "20/03/2019",
     "chamber": "senado",
-    "materia": "encargada de proponer la forma y el modo de resolver las discrepancias suscitadas entre el Senado y la Cámara de",
-    "descripcion": "Encargada de proponer la forma y el modo de resolver las discrepancias suscitadas entre el Senado y la Cámara de Diputados con ocasión de la tramitación del proyecto de ley que mejora el ingreso de docentes directivos al Sistema de Desarrollo Profesional Docente, modifica diversos cuerpos legales y",
+    "title": "encargada de proponer la forma y el modo de resolver las discrepancias suscitadas entre el Senado y la Cámara de",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que mejora el ingreso de docentes directivos al Sistema de Desarrollo Profesional Docente, modifica diversos cuerpos legales y establece los beneficios que indica.",
     "tags": [
       "educacion"
     ],
@@ -1312,15 +1621,16 @@
       "1117": "afavor",
       "1215": "afavor",
       "1224": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11627-14/05/2019",
     "boletin": "11627",
     "fecha": "14/05/2019",
     "chamber": "senado",
-    "materia": "Fortalece al Servicio Nacional de Aduanas",
-    "descripcion": "Fortalece al Servicio Nacional de Aduanas.",
+    "title": "Fortalece al Servicio Nacional de Aduanas",
+    "descripcion": "Proyecto de ley, en segundo tramite constitucional, que fortalece al Servicio Nacional de Aduanas.",
     "tags": [
       "tributario",
       "constitucional"
@@ -1331,15 +1641,16 @@
       "1120": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11657-16/01/2019",
     "boletin": "11657",
     "fecha": "16/01/2019",
     "chamber": "senado",
-    "materia": "Modifica la ley Nº 20.032, que establece sistema de atención a la niñez y adolescencia a través de la red de",
-    "descripcion": "Modifica la ley Nº 20.032, que establece sistema de atención a la niñez y adolescencia a través de la red de colaboradores del Servicio Nacional de Menores (SENAME), y su régimen de subvención, y el decreto ley N° 2.465, del año 1979, del Ministerio de Justicia, que crea el Servicio Nacional de",
+    "title": "Modifica la ley Nº 20.032, que establece sistema de atención a la niñez y adolescencia a través de la red de",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica la ley Nº 20.032, que establece sistema de atención a la niñez y adolescencia a través de la red de colaboradores del Servicio Nacional de Menores (SENAME), y su régimen de subvención, y el decreto ley N° 2.465, del año 1979, del Ministerio de Justicia, que crea el Servicio Nacional de Menores y fija el texto de su ley orgánica.",
     "tags": [
       "justicia",
       "social",
@@ -1352,15 +1663,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11662-23/04/2019",
     "boletin": "11662",
     "fecha": "23/04/2019",
     "chamber": "senado",
-    "materia": "Modifica la ley General de Educación y la ley sobre Subvención del Estado a establecimientos educacionales, en el",
-    "descripcion": "Modifica la ley General de Educación y la ley sobre Subvención del Estado a establecimientos educacionales, en el sentido de prohibir que se condicione la permanencia de estudiantes al consumo de medicamentos para tratar trastornos de conducta.",
+    "title": "Modifica la ley General de Educación y la ley sobre Subvención del Estado a establecimientos educacionales, en el",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica la ley General de Educación y la ley sobre Subvención del Estado a establecimientos educacionales, en el sentido de prohibir que se condicione la permanencia de estudiantes al consumo de medicamentos para tratar trastornos de conducta.",
     "tags": [
       "salud",
       "educacion",
@@ -1373,15 +1685,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11687-22/01/2019",
     "boletin": "11687",
     "fecha": "22/01/2019",
     "chamber": "senado",
-    "materia": "Establece la condición socioeconómica de los estudiantes a los que deberán otorgarles estudios gratuitos las",
-    "descripcion": "Establece la condición socioeconómica de los estudiantes a los que deberán otorgarles estudios gratuitos las instituciones de educación superior que accedan al financiamiento institucional para la gratuidad a contar del año 2019, de acuerdo con lo dispuesto en el Título V de la Ley de Educación",
+    "title": "Establece la condición socioeconómica de los estudiantes a los que deberán otorgarles estudios gratuitos las",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que establece la condición socioeconómica de los estudiantes que podrán acogerse a estudios gratuitos en las instituciones de educación superior.",
     "tags": [
       "educacion",
       "constitucional"
@@ -1392,15 +1705,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11687-04/12/2019",
     "boletin": "11687",
     "fecha": "04/12/2019",
     "chamber": "senado",
-    "materia": "Establece la condición socioeconómica de los estudiantes a los que deberán otorgarles estudios gratuitos las",
-    "descripcion": "Establece la condición socioeconómica de los estudiantes a los que deberán otorgarles estudios gratuitos las instituciones de educación superior que accedan al financiamiento institucional para la gratuidad a contar del año 2019, de acuerdo con lo dispuesto en el Título V de la Ley de Educación",
+    "title": "Establece la condición socioeconómica de los estudiantes a los que deberán otorgarles estudios gratuitos las",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que establece la condición socioeconómica de los estudiantes que podrán acogerse a estudios gratuitos en las instituciones de educación superior.",
     "tags": [
       "educacion",
       "constitucional"
@@ -1413,15 +1727,16 @@
       "1215": "afavor",
       "1222": "afavor",
       "1224": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11730-09/01/2019",
     "boletin": "11730",
     "fecha": "09/01/2019",
     "chamber": "senado",
-    "materia": "Aprobacion de Sexagésimo Primer Protocolo Adicional al Acuerdo de Complementación Económica N° 35, celebrado entre los",
-    "descripcion": "Aprobacion de Sexagésimo Primer Protocolo Adicional al Acuerdo de Complementación Económica N° 35, celebrado entre los Estados Partes del MERCOSUR y la República de Chile, en Montevideo, el 4 de enero de 2018, que contiene el Acuerdo Comercial entre la República de Chile y la República Argentina,",
+    "title": "Aprobacion de Sexagésimo Primer Protocolo Adicional al Acuerdo de Complementación Económica N° 35, celebrado entre los",
+    "descripcion": "Proyecto de acuerdo, en segundo trámite constitucional, que aprueba el Sexagésimo Primer Protocolo Adicional al Acuerdo de Complementación Económica N° 35, celebrado entre los Estados Partes del MERCOSUR y la República de Chile, en Montevideo, el 4 de enero de 2018, que contiene el Acuerdo Comercial entre la República de Chile y la República Argentina, suscrito en Buenos Aires, Argentina, el 2 de noviembre de 2017.",
     "tags": [
       "cultura",
       "constitucional"
@@ -1434,15 +1749,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11747-12/03/2019",
     "boletin": "11747",
     "fecha": "12/03/2019",
     "chamber": "senado",
-    "materia": "Perfecciona los textos legales que indica, para promover la inversión. Votación la disposición 11 quater, incorporada",
-    "descripcion": "Perfecciona los textos legales que indica, para promover la inversión. Votación la disposición 11 quater, incorporada por la Comisión de Hacienda y contenida en el numeral 2) del artículo 1, que fue aprobada por mayoría.",
+    "title": "Perfecciona los textos legales que indica, para promover la inversión. Votación la disposición 11 quater, incorporada",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que perfecciona los textos legales que indica, para promover la inversión.",
     "tags": [
       "economia",
       "constitucional"
@@ -1453,15 +1769,16 @@
       "1222": "afavor",
       "1224": "abstencion",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11750-22/01/2019",
     "boletin": "11750",
     "fecha": "22/01/2019",
     "chamber": "senado",
-    "materia": "Acoso sexual en el ámbito académico. Votación de la enmienda relativa al artículo 3°, inciso primero, aprobada por",
-    "descripcion": "Acoso sexual en el ámbito académico. Votación de la enmienda relativa al artículo 3°, inciso primero, aprobada por mayoría.",
+    "title": "Acoso sexual en el ámbito académico. Votación de la enmienda relativa al artículo 3°, inciso primero, aprobada por",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, sobre acoso sexual en el ámbito académico. (Boletín N°s 11.750-04, 11.797-04 y 11.845-04, refundidos).",
     "tags": [
       "educacion",
       "constitucional"
@@ -1472,15 +1789,16 @@
       "1215": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-11750-20/08/2019",
     "boletin": "11750",
     "fecha": "20/08/2019",
     "chamber": "senado",
-    "materia": "Acoso sexual en el ámbito académico. Votación de la enmienda relativa al artículo 3°, inciso primero, aprobada por",
-    "descripcion": "Acoso sexual en el ámbito académico. Votación de la enmienda relativa al artículo 3°, inciso primero, aprobada por mayoría.",
+    "title": "Acoso sexual en el ámbito académico. Votación de la enmienda relativa al artículo 3°, inciso primero, aprobada por",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, sobre acoso sexual en el ámbito académico. (Boletín N°s 11.750-04, 11.797-04 y 11.845-04, refundidos).",
     "tags": [
       "educacion",
       "tributario",
@@ -1495,15 +1813,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "contra"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-11777-09/01/2019",
     "boletin": "11777",
     "fecha": "09/01/2019",
     "chamber": "senado",
-    "materia": "suscitadas durante la tramitación del proyecto de ley, que crea el Consejo Fiscal Autónomo",
-    "descripcion": "Suscitadas durante la tramitación del proyecto de ley, que crea el Consejo Fiscal Autónomo.",
+    "title": "suscitadas durante la tramitación del proyecto de ley, que crea el Consejo Fiscal Autónomo",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que crea el Consejo Fiscal Autónomo.",
     "tags": [
       "economia"
     ],
@@ -1516,15 +1835,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11780-19/06/2019",
     "boletin": "11780",
     "fecha": "19/06/2019",
     "chamber": "senado",
-    "materia": "ón y Cultura respecto de las observaciones formuladas por S.E. el Presidente de la República al proyecto de ley que m...",
-    "descripcion": "Del informe de la Comisión de Educación y Cultura respecto de las observaciones formuladas por S.E. el Presidente de la República al proyecto de ley que modifica la ley N° 19.070, que aprueba Estatuto de los Profesionales de la Educación, en diversas materias de orden laboral.",
+    "title": "ón y Cultura respecto de las observaciones formuladas por S.E. el Presidente de la República al proyecto de ley que m...",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 19.070, que Aprueba Estatuto de los Profesionales de la Educación, en diversas materias de orden laboral.",
     "tags": [
       "educacion",
       "trabajo",
@@ -1536,15 +1856,16 @@
       "1215": "afavor",
       "1224": "afavor",
       "1326": "abstencion"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11784-22/05/2019",
     "boletin": "11784",
     "fecha": "22/05/2019",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 20.370 para incorporar la prevención del bullying o acoso virtual escolar y aumentar la sanción a",
-    "descripcion": "Modifica la ley N° 20.370 para incorporar la prevención del bullying o acoso virtual escolar y aumentar la sanción a las infracciones que atenían contra derechos y deberes que indica.",
+    "title": "Modifica la ley N° 20.370 para incorporar la prevención del bullying o acoso virtual escolar y aumentar la sanción a",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 20.370 para incorporar la prevención del bullying o acoso virtual escolar y aumentar la sanción a las infracciones que atenían contra derechos y deberes que indica.",
     "tags": [
       "educacion",
       "constitucional"
@@ -1557,15 +1878,16 @@
       "1215": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-11818-17/04/2019",
     "boletin": "11818",
     "fecha": "17/04/2019",
     "chamber": "senado",
-    "materia": "Modifica el tratamiento de las penas de los delitos de robo y receptación de vehículos motorizados o de los bienes que",
-    "descripcion": "Modifica el tratamiento de las penas de los delitos de robo y receptación de vehículos motorizados o de los bienes que se encuentran al interior de estos. Aprobación general.",
+    "title": "Modifica el tratamiento de las penas de los delitos de robo y receptación de vehículos motorizados o de los bienes que",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica el tratamiento de las penas de los delitos de robo y receptación de vehículos motorizados o de los bienes que se encuentran al interior de estos. Aprobación general.",
     "tags": [
       "seguridad",
       "constitucional"
@@ -1575,15 +1897,16 @@
       "1117": "afavor",
       "1222": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11818-22/05/2019",
     "boletin": "11818",
     "fecha": "22/05/2019",
     "chamber": "senado",
-    "materia": "Modifica el tratamiento de las penas de los delitos de robo y receptación de vehículos motorizados o de los bienes que",
-    "descripcion": "Modifica el tratamiento de las penas de los delitos de robo y receptación de vehículos motorizados o de los bienes que se encuentran al interior de estos. Aprobación general.",
+    "title": "Modifica el tratamiento de las penas de los delitos de robo y receptación de vehículos motorizados o de los bienes que",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica el tratamiento de las penas de los delitos de robo y receptación de vehículos motorizados o de los bienes que se encuentran al interior de estos. Aprobación general.",
     "tags": [
       "seguridad",
       "constitucional"
@@ -1595,15 +1918,16 @@
       "1215": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11849-15/01/2019",
     "boletin": "11849",
     "fecha": "15/01/2019",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 19.451, con el objeto de incentivar la donación de órganos. (Boletines Nos 11.849-11, 11.872-11 Y",
-    "descripcion": "Modifica la ley N° 19.451, con el objeto de incentivar la donación de órganos. (Boletines Nos 11.849-11, 11.872-11 Y 11.893-11, refundidos).",
+    "title": "Modifica la ley N° 19.451, con el objeto de incentivar la donación de órganos. (Boletines Nos 11.849-11, 11.872-11 Y",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que modifica la ley N° 19.451, con el objeto de incentivar la donación de órganos. (Boletines Nos 11.849-11, 11.872-11 Y 11.893-11, refundidos)",
     "tags": [
       "tributario",
       "constitucional"
@@ -1613,15 +1937,16 @@
       "1215": "afavor",
       "1222": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-11849-23/01/2019",
     "boletin": "11849",
     "fecha": "23/01/2019",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 19.451, con el objeto de incentivar la donación de órganos. (Boletines Nos 11.849-11, 11.872-11 Y",
-    "descripcion": "Modifica la ley N° 19.451, con el objeto de incentivar la donación de órganos. (Boletines Nos 11.849-11, 11.872-11 Y 11.893-11, refundidos).",
+    "title": "Modifica la ley N° 19.451, con el objeto de incentivar la donación de órganos. (Boletines Nos 11.849-11, 11.872-11 Y",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que modifica la ley N° 19.451, con el objeto de incentivar la donación de órganos. (Boletines Nos 11.849-11, 11.872-11 Y 11.893-11, refundidos)",
     "tags": [
       "tributario",
       "constitucional"
@@ -1634,15 +1959,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-11876-04/06/2019",
     "boletin": "11876",
     "fecha": "04/06/2019",
     "chamber": "senado",
-    "materia": "Protección de glaciares",
-    "descripcion": "Protección de glaciares.",
+    "title": "Protección de glaciares",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, sobre protección de glaciares.",
     "tags": [
       "medioambiente",
       "constitucional"
@@ -1655,15 +1981,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-11882-02/04/2019",
     "boletin": "11882",
     "fecha": "02/04/2019",
     "chamber": "senado",
-    "materia": "Modifica la Ley que establece Bases de los Procedimientos Administrativos, en materia de documentos electrónicos. Todas",
-    "descripcion": "Modifica la Ley que establece Bases de los Procedimientos Administrativos, en materia de documentos electrónicos. Todas las disposiciones aprobadas en forma unánime que son de rango orgánico constitucional.",
+    "title": "Modifica la Ley que establece Bases de los Procedimientos Administrativos, en materia de documentos electrónicos. Todas",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que modifica la ley que establece bases de los procedimientos administrativos, en materia de documentos electrónicos.",
     "tags": [
       "constitucional"
     ],
@@ -1675,15 +2002,16 @@
       "1222": "abstencion",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11882-21/08/2019",
     "boletin": "11882",
     "fecha": "21/08/2019",
     "chamber": "senado",
-    "materia": "Modifica la Ley que establece Bases de los Procedimientos Administrativos, en materia de documentos electrónicos. Todas",
-    "descripcion": "Modifica la Ley que establece Bases de los Procedimientos Administrativos, en materia de documentos electrónicos. Todas las disposiciones aprobadas en forma unánime que son de rango orgánico constitucional.",
+    "title": "Modifica la Ley que establece Bases de los Procedimientos Administrativos, en materia de documentos electrónicos. Todas",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que modifica la ley que establece bases de los procedimientos administrativos, en materia de documentos electrónicos.",
     "tags": [
       "constitucional"
     ],
@@ -1693,15 +2021,16 @@
       "1215": "abstencion",
       "1222": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11900-18/06/2019",
     "boletin": "11900",
     "fecha": "18/06/2019",
     "chamber": "senado",
-    "materia": "Modifica diversos cuerpos legales con el objeto de agilizar la aplicación de sanciones a los alcaldes en caso de",
-    "descripcion": "Modifica diversos cuerpos legales con el objeto de agilizar la aplicación de sanciones a los alcaldes en caso de responsabilidad administrativa.",
+    "title": "Modifica diversos cuerpos legales con el objeto de agilizar la aplicación de sanciones a los alcaldes en caso de",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que modifica diversos cuerpos legales con el objeto de agilizar la aplicación de sanciones a los alcaldes en caso de responsabilidad administrativa.",
     "tags": [
       "descentralizacion",
       "tributario",
@@ -1715,15 +2044,16 @@
       "1215": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11912-09/04/2019",
     "boletin": "11912",
     "fecha": "09/04/2019",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 19.300, sobre Bases Generales del Medio Ambiente, para exigir la elaboración de un Estudio de",
-    "descripcion": "Modifica la ley N° 19.300, sobre Bases Generales del Medio Ambiente, para exigir la elaboración de un Estudio de Impacto Ambiental en los proyectos que puedan generar contaminación lumínica en las zonas que indica. Votación del conjunto de las enmiendas propuestas por la Comisión de Minería y",
+    "title": "Modifica la ley N° 19.300, sobre Bases Generales del Medio Ambiente, para exigir la elaboración de un Estudio de",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 19.300, que aprueba la Ley sobre Bases Generales del Medio Ambiente, para exigir la elaboración de un Estudio de Impacto Ambiental en los proyectos que puedan generar contaminación lumínica en las zonas que indica. Aprobación general.",
     "tags": [
       "medioambiente",
       "constitucional"
@@ -1736,15 +2066,16 @@
       "1215": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11912-14/05/2019",
     "boletin": "11912",
     "fecha": "14/05/2019",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 19.300, sobre Bases Generales del Medio Ambiente, para exigir la elaboración de un Estudio de",
-    "descripcion": "Modifica la ley N° 19.300, sobre Bases Generales del Medio Ambiente, para exigir la elaboración de un Estudio de Impacto Ambiental en los proyectos que puedan generar contaminación lumínica en las zonas que indica. Votación del conjunto de las enmiendas propuestas por la Comisión de Minería y",
+    "title": "Modifica la ley N° 19.300, sobre Bases Generales del Medio Ambiente, para exigir la elaboración de un Estudio de",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 19.300, que aprueba la Ley sobre Bases Generales del Medio Ambiente, para exigir la elaboración de un Estudio de Impacto Ambiental en los proyectos que puedan generar contaminación lumínica en las zonas que indica. Aprobación general.",
     "tags": [
       "medioambiente",
       "energia",
@@ -1759,15 +2090,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11926-04/09/2019",
     "boletin": "11926",
     "fecha": "04/09/2019",
     "chamber": "senado",
-    "materia": "Modifica la ley N°19.712, Ley del Deporte, y la ley N°20.019, que regula las sociedades anónimas deportivas",
-    "descripcion": "Modifica la ley N°19.712, Ley del Deporte, y la ley N°20.019, que regula las sociedades anónimas deportivas profesionales, para establecer el deber de contar con un protocolo contra acoso sexual en la actividad deportiva nacional. Enmiendas aprobadas en forma unánime por la comisión informante.",
+    "title": "Modifica la ley N°19.712, Ley del Deporte, y la ley N°20.019, que regula las sociedades anónimas deportivas",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 19.712, Ley del Deporte, y la ley N° 20.019, que regula las sociedades anónimas deportivas profesionales, para establecer el deber de contar con un protocolo contra el acoso sexual en la actividad deportiva nacional.",
     "tags": [
       "cultura",
       "tributario",
@@ -1781,15 +2113,16 @@
       "1215": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11926-18/12/2019",
     "boletin": "11926",
     "fecha": "18/12/2019",
     "chamber": "senado",
-    "materia": "Modifica la ley N°19.712, Ley del Deporte, y la ley N°20.019, que regula las sociedades anónimas deportivas",
-    "descripcion": "Modifica la ley N°19.712, Ley del Deporte, y la ley N°20.019, que regula las sociedades anónimas deportivas profesionales, para establecer el deber de contar con un protocolo contra acoso sexual en la actividad deportiva nacional. Enmiendas aprobadas en forma unánime por la comisión informante.",
+    "title": "Modifica la ley N°19.712, Ley del Deporte, y la ley N°20.019, que regula las sociedades anónimas deportivas",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 19.712, Ley del Deporte, y la ley N° 20.019, que regula las sociedades anónimas deportivas profesionales, para establecer el deber de contar con un protocolo contra el acoso sexual en la actividad deportiva nacional.",
     "tags": [
       "cultura",
       "tributario",
@@ -1800,15 +2133,16 @@
       "1215": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11933-17/04/2019",
     "boletin": "11933",
     "fecha": "17/04/2019",
     "chamber": "senado",
-    "materia": "Para la incorporación de resoluciones del Consejo de Seguridad de las Naciones Unidas referentes al financiamiento del",
-    "descripcion": "Para la incorporación de resoluciones del Consejo de Seguridad de las Naciones Unidas referentes al financiamiento del terrorismo y la proliferación de armas de destrucción masiva en el artículo 38 de la ley N° 19.913, que crea la Unidad de Análisis Financiero y modifica diversas disposiciones en",
+    "title": "Para la incorporación de resoluciones del Consejo de Seguridad de las Naciones Unidas referentes al financiamiento del",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, para la incorporación de resoluciones del Consejo de Seguridad de las Naciones Unidas referentes al financiamiento del terrorismo y la proliferación de armas de destrucción masiva en el artículo 38 de la ley N° 19.913, que crea la Unidad de Análisis Financiero y modifica diversas disposiciones en materia de lavado y blanqueo de activos.",
     "tags": [
       "economia",
       "seguridad",
@@ -1820,15 +2154,16 @@
       "1215": "afavor",
       "1222": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11934-09/07/2019",
     "boletin": "11934",
     "fecha": "09/07/2019",
     "chamber": "senado",
-    "materia": "de ley que regula las aplicaciones de transporte remunerado de pasajeros y los servicios que a través de ellas se pre...",
-    "descripcion": "Del Informe de la Comisión Mixta referida al proyecto de ley que regula las aplicaciones de transporte remunerado de pasajeros y los servicios que a través de ellas se presten.",
+    "title": "de ley que regula las aplicaciones de transporte remunerado de pasajeros y los servicios que a través de ellas se pre...",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que regula las aplicaciones de transportes remunerado de pasajeros y los servicios que a través de ellas se presten.",
     "tags": [
       "transporte",
       "constitucional"
@@ -1840,15 +2175,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-11951-06/03/2019",
     "boletin": "11951",
     "fecha": "06/03/2019",
     "chamber": "senado",
-    "materia": "Crea el Ministerio de Familia y Desarrollo Social y modifica el cuerpo legal que indica. Aprobación general y particular",
-    "descripcion": "Crea el Ministerio de Familia y Desarrollo Social y modifica el cuerpo legal que indica. Aprobación general y particular.",
+    "title": "Crea el Ministerio de Familia y Desarrollo Social y modifica el cuerpo legal que indica. Aprobación general y particular",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que crea el Ministerio de Familia y Desarrollo Social y modifica el cuerpo legal que indica. Aprobación general y particular.",
     "tags": [
       "social",
       "constitucional"
@@ -1860,15 +2196,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-11970-24/09/2019",
     "boletin": "11970",
     "fecha": "24/09/2019",
     "chamber": "senado",
-    "materia": "Modifica el Código Penal en materia de tipificación del femicidio y de otros delitos contra las mujeres. Indicaciones",
-    "descripcion": "Modifica el Código Penal en materia de tipificación del femicidio y de otros delitos contra las mujeres. Indicaciones renovadas correspondientes a los números 2 y 4 de las comisiones unidas.",
+    "title": "Modifica el Código Penal en materia de tipificación del femicidio y de otros delitos contra las mujeres. Indicaciones",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica el Código Penal en materia de tipificación del femicidio y de otros delitos contra las mujeres.",
     "tags": [
       "seguridad",
       "genero",
@@ -1878,15 +2215,16 @@
       "1115": "afavor",
       "1120": "afavor",
       "1215": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-12017-08/10/2019",
     "boletin": "12017",
     "fecha": "08/10/2019",
     "chamber": "senado",
-    "materia": "Protección ambiental de las turberas",
-    "descripcion": "Protección ambiental de las turberas.",
+    "title": "Protección ambiental de las turberas",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, sobre protección ambiental de las turberas.",
     "tags": [
       "medioambiente",
       "constitucional"
@@ -1897,15 +2235,16 @@
       "1117": "afavor",
       "1222": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-12018-16/04/2019",
     "boletin": "12018",
     "fecha": "16/04/2019",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 4.808, que reforma la ley sobre el Registro Civil e Identificación, para establecer un catastro",
-    "descripcion": "Modifica la ley N° 4.808, que reforma la ley sobre el Registro Civil e Identificación, para establecer un catastro nacional de mortinatos y facilitar su individualización y sepultación. Enmiendas unánimes de la Comisión informante.",
+    "title": "Modifica la ley N° 4.808, que reforma la ley sobre el Registro Civil e Identificación, para establecer un catastro",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 4.808, que reforma la ley sobre el Registro Civil e Identificación, para establecer un catastro nacional de mortinatos y facilitar su individualización y sepultación.",
     "tags": [
       "constitucional"
     ],
@@ -1917,15 +2256,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12018-17/07/2019",
     "boletin": "12018",
     "fecha": "17/07/2019",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 4.808, que reforma la ley sobre el Registro Civil e Identificación, para establecer un catastro",
-    "descripcion": "Modifica la ley N° 4.808, que reforma la ley sobre el Registro Civil e Identificación, para establecer un catastro nacional de mortinatos y facilitar su individualización y sepultación. Enmiendas unánimes de la Comisión informante.",
+    "title": "Modifica la ley N° 4.808, que reforma la ley sobre el Registro Civil e Identificación, para establecer un catastro",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 4.808, que reforma la ley sobre el Registro Civil e Identificación, para establecer un catastro nacional de mortinatos y facilitar su individualización y sepultación.",
     "tags": [
       "constitucional"
     ],
@@ -1937,15 +2277,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12025-24/04/2019",
     "boletin": "12025",
     "fecha": "24/04/2019",
     "chamber": "senado",
-    "materia": "Establece medidas para impulsar la productividad y el emprendimiento",
-    "descripcion": "Establece medidas para impulsar la productividad y el emprendimiento.",
+    "title": "Establece medidas para impulsar la productividad y el emprendimiento",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que establece medidas para impulsar la productividad y el emprendimiento.",
     "tags": [
       "economia",
       "constitucional"
@@ -1958,15 +2299,16 @@
       "1215": "abstencion",
       "1224": "pareo",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12027-04/06/2019",
     "boletin": "12027",
     "fecha": "04/06/2019",
     "chamber": "senado",
-    "materia": "Recalificación hecha por la Comisión de Infancia a la bservación número 3 formulada al proyecto de ley que crea el",
-    "descripcion": "Recalificación hecha por la Comisión de Infancia a la bservación número 3 formulada al proyecto de ley que crea el Servicio Nacional de Protección Especializada a la Niñez y la Adolescencia, y modifica normas legales que indica, con informe de la Comisión Especial encargada de tramitar proyectos de",
+    "title": "Recalificación hecha por la Comisión de Infancia a la bservación número 3 formulada al proyecto de ley que crea el",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que crea el Servicio Nacional de Protección Especializada a la Niñez y la Adolescencia, y modifica normas legales que indica.",
     "tags": [
       "social",
       "constitucional"
@@ -1979,15 +2321,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12047-30/12/2019",
     "boletin": "12047",
     "fecha": "30/12/2019",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 19.418, con el objeto de fortalecer el rol de las juntas de vecinos y demás organizaciones",
-    "descripcion": "Modifica la ley N° 19.418, con el objeto de fortalecer el rol de las juntas de vecinos y demás organizaciones comunitarias en la representación de la comunidad y apoyar la acción de sus dirigentes.",
+    "title": "Modifica la ley N° 19.418, con el objeto de fortalecer el rol de las juntas de vecinos y demás organizaciones",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que modifica la ley N° 19.418, con el objeto de fortalecer el rol de las juntas de vecinos y demás organizaciones comunitarias en la representación de la comunidad y apoyar la acción de sus dirigentes.",
     "tags": [
       "constitucional"
     ],
@@ -1995,15 +2338,16 @@
       "1115": "afavor",
       "1120": "afavor",
       "1222": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12058-24/04/2019",
     "boletin": "12058",
     "fecha": "24/04/2019",
     "chamber": "senado",
-    "materia": "ía y Energía respecto del proyecto de ley sobre eficiencia energética, con informe de la Comisión de Minería y Energía.",
-    "descripcion": "Del informe de la Comisión de Minería y Energía respecto del proyecto de ley, en tercer trámite constitucional, sobre eficiencia energética(Boletines Nos 11.489-08 y 12.058-08, refundidos).",
+    "title": "ía y Energía respecto del proyecto de ley sobre eficiencia energética, con informe de la Comisión de Minería y Energía.",
+    "descripcion": "Proyecto de ley,en primer trámite constitucional, sobre eficiencia energética.",
     "tags": [
       "constitucional"
     ],
@@ -2015,15 +2359,16 @@
       "1215": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-12058-22/10/2019",
     "boletin": "12058",
     "fecha": "22/10/2019",
     "chamber": "senado",
-    "materia": "ía y Energía respecto del proyecto de ley sobre eficiencia energética, con informe de la Comisión de Minería y Energía.",
-    "descripcion": "Del informe de la Comisión de Minería y Energía respecto del proyecto de ley, en tercer trámite constitucional, sobre eficiencia energética(Boletines Nos 11.489-08 y 12.058-08, refundidos).",
+    "title": "ía y Energía respecto del proyecto de ley sobre eficiencia energética, con informe de la Comisión de Minería y Energía.",
+    "descripcion": "Proyecto de ley,en primer trámite constitucional, sobre eficiencia energética.",
     "tags": [
       "constitucional"
     ],
@@ -2036,15 +2381,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-12064-14/08/2019",
     "boletin": "12064",
     "fecha": "14/08/2019",
     "chamber": "senado",
-    "materia": "Modifica el Código Penal para establecer un tipo especial de lesiones contra profesionales que presten servicios en",
-    "descripcion": "Modifica el Código Penal para establecer un tipo especial de lesiones contra profesionales que presten servicios en establecimientos educacionales y funcionarios de servicios de salud. Conjunto de las enmiendas propuestas por la Comisión de Constitución, Legislación, Justicia y Reglamento.",
+    "title": "Modifica el Código Penal para establecer un tipo especial de lesiones contra profesionales que presten servicios en",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica el Código Penal para establecer un tipo especial de lesiones contra profesionales que presten servicios en establecimientos educacionales y funcionarios de servicios de salud.",
     "tags": [
       "seguridad",
       "salud",
@@ -2058,15 +2404,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12064-06/11/2019",
     "boletin": "12064",
     "fecha": "06/11/2019",
     "chamber": "senado",
-    "materia": "Modifica el Código Penal para establecer un tipo especial de lesiones contra profesionales que presten servicios en",
-    "descripcion": "Modifica el Código Penal para establecer un tipo especial de lesiones contra profesionales que presten servicios en establecimientos educacionales y funcionarios de servicios de salud. Conjunto de las enmiendas propuestas por la Comisión de Constitución, Legislación, Justicia y Reglamento.",
+    "title": "Modifica el Código Penal para establecer un tipo especial de lesiones contra profesionales que presten servicios en",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica el Código Penal para establecer un tipo especial de lesiones contra profesionales que presten servicios en establecimientos educacionales y funcionarios de servicios de salud.",
     "tags": [
       "seguridad",
       "salud",
@@ -2082,15 +2429,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12071-30/12/2019",
     "boletin": "12071",
     "fecha": "30/12/2019",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 18.290, de Tránsito, en lo tocante a la infracción consistente en estacionar en un espacio destinado",
-    "descripcion": "Modifica la ley N° 18.290, de Tránsito, en lo tocante a la infracción consistente en estacionar en un espacio destinado a vehículos para personas con discapacidad, sin derecho a ello.",
+    "title": "Modifica la ley N° 18.290, de Tránsito, en lo tocante a la infracción consistente en estacionar en un espacio destinado",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 18.290, de Tránsito, en lo tocante a la infracción consistente en estacionar en un espacio destinado a vehículos para personas con discapacidad, sin derecho a ello.",
     "tags": [
       "transporte",
       "social",
@@ -2102,15 +2450,16 @@
       "1215": "afavor",
       "1222": "afavor",
       "1224": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12097-13/11/2019",
     "boletin": "12097",
     "fecha": "13/11/2019",
     "chamber": "senado",
-    "materia": "Modifica disposiciones sobre subsidio nacional al transporte público remunerado de pasajeros",
-    "descripcion": "Modifica disposiciones sobre subsidio nacional al transporte público remunerado de pasajeros.",
+    "title": "Modifica disposiciones sobre subsidio nacional al transporte público remunerado de pasajeros",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que modifica disposiciones sobre subsidio nacional al transporte público remunerado de pasajeros.",
     "tags": [
       "transporte",
       "social",
@@ -2119,15 +2468,16 @@
     "votos": {
       "1120": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-12118-09/10/2019",
     "boletin": "12118",
     "fecha": "09/10/2019",
     "chamber": "senado",
-    "materia": "recaído en el proyecto de ley que modifica la Ley General de Educación con el objeto de establecer la obligatoriedad ...",
-    "descripcion": "Enmienda referida a la letra a) del número 1) del artículo 1° del informe complementario del Segundo Informe de la Comisión de Educación y Cultura, recaído en el proyecto de ley, en segundo trámite constitucional, que modifica la Ley General de Educación con el objeto de establecer la",
+    "title": "recaído en el proyecto de ley que modifica la Ley General de Educación con el objeto de establecer la obligatoriedad ...",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica la Ley General de Educación con el objeto de establecer la obligatoriedad del segundo nivel de transición de Educación Parvularia.",
     "tags": [
       "educacion",
       "constitucional"
@@ -2139,15 +2489,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12135-11/09/2019",
     "boletin": "12135",
     "fecha": "11/09/2019",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 19.039, de Propiedad Industrial, la ley N° 20.254, que establece el Instituto Nacional de Propiedad",
-    "descripcion": "Modifica la ley N° 19.039, de Propiedad Industrial, la ley N° 20.254, que establece el Instituto Nacional de Propiedad Industrial, y el Código Procesal Penal.",
+    "title": "Modifica la ley N° 19.039, de Propiedad Industrial, la ley N° 20.254, que establece el Instituto Nacional de Propiedad",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 19.039, de Propiedad Industrial, la ley N° 20.254, que establece el Instituto Nacional de Propiedad Industrial, y el Código Procesal Penal.",
     "tags": [
       "seguridad",
       "justicia",
@@ -2162,15 +2513,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12139-20/03/2019",
     "boletin": "12139",
     "fecha": "20/03/2019",
     "chamber": "senado",
-    "materia": "Modifica la Ley de Tránsito para precisar las autorizaciones requeridas para transportar desechos. Votación particular",
-    "descripcion": "Modifica la Ley de Tránsito para precisar las autorizaciones requeridas para transportar desechos. Votación particular.",
+    "title": "Modifica la Ley de Tránsito para precisar las autorizaciones requeridas para transportar desechos. Votación particular",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, para precisar las autorizaciones requeridas para transportar desechos.",
     "tags": [
       "transporte",
       "constitucional"
@@ -2178,15 +2530,16 @@
     "votos": {
       "1120": "afavor",
       "1222": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12146-02/04/2019",
     "boletin": "12146",
     "fecha": "02/04/2019",
     "chamber": "senado",
-    "materia": "Deroga la tabla de factores para la fijación de precios de las Isapres",
-    "descripcion": "Deroga la tabla de factores para la fijación de precios de las Isapres.",
+    "title": "Deroga la tabla de factores para la fijación de precios de las Isapres",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que deroga la tabla de factores para la fijación de precios de las Isapres.",
     "tags": [
       "salud",
       "constitucional"
@@ -2200,15 +2553,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-12156-23/01/2019",
     "boletin": "12156",
     "fecha": "23/01/2019",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 20.584, a fin de crear el derecho a la atención preferente",
-    "descripcion": "Modifica la ley N° 20.584, a fin de crear el derecho a la atención preferente.",
+    "title": "Modifica la ley N° 20.584, a fin de crear el derecho a la atención preferente",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que modifica la ley N° 20.584, a fin de crear el derecho a la atención preferente.",
     "tags": [
       "constitucional"
     ],
@@ -2219,15 +2573,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12156-11/06/2019",
     "boletin": "12156",
     "fecha": "11/06/2019",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 20.584, a fin de crear el derecho a la atención preferente",
-    "descripcion": "Modifica la ley N° 20.584, a fin de crear el derecho a la atención preferente.",
+    "title": "Modifica la ley N° 20.584, a fin de crear el derecho a la atención preferente",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que modifica la ley N° 20.584, a fin de crear el derecho a la atención preferente.",
     "tags": [
       "otro"
     ],
@@ -2238,15 +2593,16 @@
       "1215": "contra",
       "1224": "contra",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12156-19/06/2019",
     "boletin": "12156",
     "fecha": "19/06/2019",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 20.584, a fin de crear el derecho a la atención preferente",
-    "descripcion": "Modifica la ley N° 20.584, a fin de crear el derecho a la atención preferente.",
+    "title": "Modifica la ley N° 20.584, a fin de crear el derecho a la atención preferente",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que modifica la ley N° 20.584, a fin de crear el derecho a la atención preferente.",
     "tags": [
       "otro"
     ],
@@ -2258,15 +2614,16 @@
       "1215": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12157-23/01/2019",
     "boletin": "12157",
     "fecha": "23/01/2019",
     "chamber": "senado",
-    "materia": "Propicia la entrega de alimentos saludables por parte de la JUNAEB",
-    "descripcion": "Propicia la entrega de alimentos saludables por parte de la JUNAEB.",
+    "title": "Propicia la entrega de alimentos saludables por parte de la JUNAEB",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que propicia la entrega de alimentos saludables por parte de la JUNAEB.",
     "tags": [
       "salud",
       "cultura",
@@ -2280,15 +2637,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12192-13/03/2019",
     "boletin": "12192",
     "fecha": "13/03/2019",
     "chamber": "senado",
-    "materia": "Establece normas sobre delitos informáticos, deroga la ley N° 19.223 y modifica otros cuerpos legales con el objeto de",
-    "descripcion": "Establece normas sobre delitos informáticos, deroga la ley N° 19.223 y modifica otros cuerpos legales con el objeto de adecuarlos al convenio de Budapest. Con urgencia calificada de suma.",
+    "title": "Establece normas sobre delitos informáticos, deroga la ley N° 19.223 y modifica otros cuerpos legales con el objeto de",
+    "descripcion": "Proyecto de ley, iniciado en Mensaje de S.E. el Presidente de la República, en primer trámite constitucional que establece normas sobre delitos informáticos, deroga la ley N° 19.223 y modifica otros cuerpos legales con el objeto de adecuarlos al Convenio de Budapest.",
     "tags": [
       "seguridad",
       "constitucional"
@@ -2301,15 +2659,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-12234-23/04/2019",
     "boletin": "12234",
     "fecha": "23/04/2019",
     "chamber": "senado",
-    "materia": "Fortalece y moderniza el sistema de inteligencia del Estado. Votación las enmiendas aprobadas en forma unánime",
-    "descripcion": "Fortalece y moderniza el sistema de inteligencia del Estado. Votación las enmiendas aprobadas en forma unánime.",
+    "title": "Fortalece y moderniza el sistema de inteligencia del Estado. Votación las enmiendas aprobadas en forma unánime",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que fortalece y moderniza el sistema de inteligencia del Estado.",
     "tags": [
       "constitucional"
     ],
@@ -2321,15 +2680,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-12250-09/01/2019",
     "boletin": "12250",
     "fecha": "09/01/2019",
     "chamber": "senado",
-    "materia": "Moderniza la gestión institucional y fortalece la probidad y la transparencia en las fuerzas de orden y seguridad",
-    "descripcion": "Moderniza la gestión institucional y fortalece la probidad y la transparencia en las fuerzas de orden y seguridad pública.. Con urgencia calificada de discusión inmediata.",
+    "title": "Moderniza la gestión institucional y fortalece la probidad y la transparencia en las fuerzas de orden y seguridad",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que moderniza la gestión institucional y fortalece la probidad y la transparencia en la Fuerzas de Orden y Seguridad Pública.",
     "tags": [
       "seguridad",
       "constitucional",
@@ -2343,15 +2703,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-12250-15/10/2019",
     "boletin": "12250",
     "fecha": "15/10/2019",
     "chamber": "senado",
-    "materia": "Moderniza la gestión institucional y fortalece la probidad y la transparencia en las fuerzas de orden y seguridad",
-    "descripcion": "Moderniza la gestión institucional y fortalece la probidad y la transparencia en las fuerzas de orden y seguridad pública.. Con urgencia calificada de discusión inmediata.",
+    "title": "Moderniza la gestión institucional y fortalece la probidad y la transparencia en las fuerzas de orden y seguridad",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que moderniza la gestión institucional y fortalece la probidad y la transparencia en la Fuerzas de Orden y Seguridad Pública.",
     "tags": [
       "seguridad",
       "constitucional",
@@ -2364,15 +2725,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-12277-19/06/2019",
     "boletin": "12277",
     "fecha": "19/06/2019",
     "chamber": "senado",
-    "materia": "Modifica la Ley General de Telecomunicaciones en lo relativo a la funcionalidad del servicio de radiodifusión a objeto",
-    "descripcion": "Modifica la Ley General de Telecomunicaciones en lo relativo a la funcionalidad del servicio de radiodifusión a objeto de favorecer la comunicación en situaciones de emergencia y catástrofe. En votación la enmienda propuesta por la Comisión de Transportes y Telecomunicaciones.",
+    "title": "Modifica la Ley General de Telecomunicaciones en lo relativo a la funcionalidad del servicio de radiodifusión a objeto",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que modifica la Ley General de Telecomunicaciones en lo relativo a la funcionalidad del servicio de radiodifusión a objeto de favorecer la comunicación en situaciones de emergencia y catástrofe.",
     "tags": [
       "constitucional"
     ],
@@ -2380,15 +2742,16 @@
       "1120": "afavor",
       "1215": "afavor",
       "1224": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12292-05/03/2019",
     "boletin": "12292",
     "fecha": "05/03/2019",
     "chamber": "senado",
-    "materia": "recaído en el proyecto de ley que establece la Ley Nacional del Cáncer. . Pasa a Comisión Mixta.",
-    "descripcion": "Del informe de la Comisión de Salud, recaído en el proyecto de ley, en tercer trámite constitucional, que establece la Ley Nacional del Cáncer.. Pasa a Comisión Mixta.",
+    "title": "recaído en el proyecto de ley que establece la Ley Nacional del Cáncer. . Pasa a Comisión Mixta.",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que establece la Ley Nacional del Cáncer.",
     "tags": [
       "constitucional"
     ],
@@ -2400,15 +2763,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-12302-04/06/2019",
     "boletin": "12302",
     "fecha": "04/06/2019",
     "chamber": "senado",
-    "materia": "Suprime el rango etario para ejercer el permiso laboral establecido en el artículo 66 bis del Código del trabajo",
-    "descripcion": "Suprime el rango etario para ejercer el permiso laboral establecido en el artículo 66 bis del Código del trabajo.",
+    "title": "Suprime el rango etario para ejercer el permiso laboral establecido en el artículo 66 bis del Código del trabajo",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que suprime el rango etario para ejercer el permiso laboral establecido en el artículo 66 bis del Código del trabajo.",
     "tags": [
       "trabajo",
       "constitucional"
@@ -2419,15 +2783,16 @@
       "1215": "afavor",
       "1222": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12322-05/03/2019",
     "boletin": "12322",
     "fecha": "05/03/2019",
     "chamber": "senado",
-    "materia": "Relativo al ámbito de aplicación del procedimiento de tutela laboral Votación en particular. Indicación presentada en",
-    "descripcion": "Relativo al ámbito de aplicación del procedimiento de tutela laboral Votación en particular. Indicación presentada en Sala de los Honorables Senadores señora Goic y señores Letelier y Allamand.",
+    "title": "Relativo al ámbito de aplicación del procedimiento de tutela laboral Votación en particular. Indicación presentada en",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, relativo al ámbito de aplicación del procedimiento de tutela laboral. Aprobación general.",
     "tags": [
       "trabajo",
       "constitucional"
@@ -2441,15 +2806,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12322-12/03/2019",
     "boletin": "12322",
     "fecha": "12/03/2019",
     "chamber": "senado",
-    "materia": "Relativo al ámbito de aplicación del procedimiento de tutela laboral Votación en particular. Indicación presentada en",
-    "descripcion": "Relativo al ámbito de aplicación del procedimiento de tutela laboral Votación en particular. Indicación presentada en Sala de los Honorables Senadores señora Goic y señores Letelier y Allamand.",
+    "title": "Relativo al ámbito de aplicación del procedimiento de tutela laboral Votación en particular. Indicación presentada en",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, relativo al ámbito de aplicación del procedimiento de tutela laboral. Aprobación general.",
     "tags": [
       "trabajo",
       "constitucional"
@@ -2460,15 +2826,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12324-03/04/2019",
     "boletin": "12324",
     "fecha": "03/04/2019",
     "chamber": "senado",
-    "materia": "Modifica la ley N°20.551, que regula el cierre de las faenas e instalaciones mineras. Enmiendas que propone aprobar el",
-    "descripcion": "Modifica la ley N°20.551, que regula el cierre de las faenas e instalaciones mineras. Enmiendas que propone aprobar el informe de la Comisión de Minería y Energía.",
+    "title": "Modifica la ley N°20.551, que regula el cierre de las faenas e instalaciones mineras. Enmiendas que propone aprobar el",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que modifica la ley N°20.551, que regula el cierre de las faenas e instalaciones mineras.",
     "tags": [
       "constitucional"
     ],
@@ -2479,15 +2846,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12324-12/06/2019",
     "boletin": "12324",
     "fecha": "12/06/2019",
     "chamber": "senado",
-    "materia": "Modifica la ley N°20.551, que regula el cierre de las faenas e instalaciones mineras. Enmiendas que propone aprobar el",
-    "descripcion": "Modifica la ley N°20.551, que regula el cierre de las faenas e instalaciones mineras. Enmiendas que propone aprobar el informe de la Comisión de Minería y Energía.",
+    "title": "Modifica la ley N°20.551, que regula el cierre de las faenas e instalaciones mineras. Enmiendas que propone aprobar el",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que modifica la ley N°20.551, que regula el cierre de las faenas e instalaciones mineras.",
     "tags": [
       "energia",
       "constitucional"
@@ -2498,15 +2866,16 @@
       "1215": "afavor",
       "1222": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12324-19/06/2019",
     "boletin": "12324",
     "fecha": "19/06/2019",
     "chamber": "senado",
-    "materia": "Modifica la ley N°20.551, que regula el cierre de las faenas e instalaciones mineras. Enmiendas que propone aprobar el",
-    "descripcion": "Modifica la ley N°20.551, que regula el cierre de las faenas e instalaciones mineras. Enmiendas que propone aprobar el informe de la Comisión de Minería y Energía.",
+    "title": "Modifica la ley N°20.551, que regula el cierre de las faenas e instalaciones mineras. Enmiendas que propone aprobar el",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que modifica la ley N°20.551, que regula el cierre de las faenas e instalaciones mineras.",
     "tags": [
       "otro"
     ],
@@ -2518,15 +2887,16 @@
       "1215": "abstencion",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12325-17/04/2019",
     "boletin": "12325",
     "fecha": "17/04/2019",
     "chamber": "senado",
-    "materia": "Regula las formas de pago de los sobregiros de las cuentas corrientes bancarias",
-    "descripcion": "Regula las formas de pago de los sobregiros de las cuentas corrientes bancarias.",
+    "title": "Regula las formas de pago de los sobregiros de las cuentas corrientes bancarias",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que regula las formas de pago de los sobregiros de las cuentas corrientes bancarias.",
     "tags": [
       "economia",
       "constitucional"
@@ -2537,15 +2907,16 @@
       "1215": "afavor",
       "1222": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12332-14/08/2019",
     "boletin": "12332",
     "fecha": "14/08/2019",
     "chamber": "senado",
-    "materia": "Información y rendición de cuentas de gastos reservados. Votación separada. Inciso noveno del artículo 4° que se",
-    "descripcion": "Información y rendición de cuentas de gastos reservados. Votación separada. Inciso noveno del artículo 4° que se contiene en el artículo 1° N° 3 del proyecto.",
+    "title": "Información y rendición de cuentas de gastos reservados. Votación separada. Inciso noveno del artículo 4° que se",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, sobre información y rendición de cuentas de gastos reservados.",
     "tags": [
       "energia",
       "constitucional"
@@ -2559,15 +2930,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12332-18/12/2019",
     "boletin": "12332",
     "fecha": "18/12/2019",
     "chamber": "senado",
-    "materia": "Información y rendición de cuentas de gastos reservados. Votación separada. Inciso noveno del artículo 4° que se",
-    "descripcion": "Información y rendición de cuentas de gastos reservados. Votación separada. Inciso noveno del artículo 4° que se contiene en el artículo 1° N° 3 del proyecto.",
+    "title": "Información y rendición de cuentas de gastos reservados. Votación separada. Inciso noveno del artículo 4° que se",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, sobre información y rendición de cuentas de gastos reservados.",
     "tags": [
       "energia",
       "constitucional"
@@ -2578,15 +2950,16 @@
       "1215": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12333-16/01/2019",
     "boletin": "12333",
     "fecha": "16/01/2019",
     "chamber": "senado",
-    "materia": "Sanciona a quienes impidan el acceso a playas de mar, ríos y lagos",
-    "descripcion": "Sanciona a quienes impidan el acceso a playas de mar, ríos y lagos.",
+    "title": "Sanciona a quienes impidan el acceso a playas de mar, ríos y lagos",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que sanciona a quienes impidan el acceso a playas de mar, ríos y lagos.",
     "tags": [
       "constitucional"
     ],
@@ -2594,15 +2967,16 @@
       "1115": "afavor",
       "1120": "afavor",
       "1222": "abstencion"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12362-04/06/2019",
     "boletin": "12362",
     "fecha": "04/06/2019",
     "chamber": "senado",
-    "materia": "Amplía la posibilidad de donación de órganos entre vivos, incluyendo a los parientes por afinidad. Enmienda de la",
-    "descripcion": "Amplía la posibilidad de donación de órganos entre vivos, incluyendo a los parientes por afinidad. Enmienda de la Comisión informante.",
+    "title": "Amplía la posibilidad de donación de órganos entre vivos, incluyendo a los parientes por afinidad. Enmienda de la",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que amplía la posibilidad de donación de órganos entre vivos, incluyendo a los parientes por afinidad.",
     "tags": [
       "constitucional"
     ],
@@ -2613,15 +2987,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-12362-11/09/2019",
     "boletin": "12362",
     "fecha": "11/09/2019",
     "chamber": "senado",
-    "materia": "Amplía la posibilidad de donación de órganos entre vivos, incluyendo a los parientes por afinidad. Enmienda de la",
-    "descripcion": "Amplía la posibilidad de donación de órganos entre vivos, incluyendo a los parientes por afinidad. Enmienda de la Comisión informante.",
+    "title": "Amplía la posibilidad de donación de órganos entre vivos, incluyendo a los parientes por afinidad. Enmienda de la",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que amplía la posibilidad de donación de órganos entre vivos, incluyendo a los parientes por afinidad.",
     "tags": [
       "constitucional"
     ],
@@ -2632,15 +3007,16 @@
       "1120": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-12363-16/01/2019",
     "boletin": "12363",
     "fecha": "16/01/2019",
     "chamber": "senado",
-    "materia": "Renueva el mecanismo transitorio de reintegro parcial del impuesto específico al petróleo diésel para empresas de",
-    "descripcion": "Renueva el mecanismo transitorio de reintegro parcial del impuesto específico al petróleo diésel para empresas de transporte de carga.",
+    "title": "Renueva el mecanismo transitorio de reintegro parcial del impuesto específico al petróleo diésel para empresas de",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que renueva el mecanismo transitorio de reintegro parcial del impuesto específico al petróleo diésel para empresas de transporte de carga.",
     "tags": [
       "economia",
       "transporte",
@@ -2654,15 +3030,16 @@
       "1222": "afavor",
       "1224": "contra",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12372-23/01/2019",
     "boletin": "12372",
     "fecha": "23/01/2019",
     "chamber": "senado",
-    "materia": "Modifica el régimen para la entrada en vigencia del primer reglamento de planta de personal de municipalidades, en los",
-    "descripcion": "Modifica el régimen para la entrada en vigencia del primer reglamento de planta de personal de municipalidades, en los casos que indica.",
+    "title": "Modifica el régimen para la entrada en vigencia del primer reglamento de planta de personal de municipalidades, en los",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica el régimen para la entrada en vigencia del primer reglamento de planta de personal de municipalidades, en los casos que indica.",
     "tags": [
       "descentralizacion",
       "constitucional"
@@ -2674,15 +3051,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12385-02/07/2019",
     "boletin": "12385",
     "fecha": "02/07/2019",
     "chamber": "senado",
-    "materia": "Modifica el Párrafo 5° de las Disposiciones Transitorias de la ley N° 21.091, sobre Educación Superior, y otras normas",
-    "descripcion": "Modifica el Párrafo 5° de las Disposiciones Transitorias de la ley N° 21.091, sobre Educación Superior, y otras normas legales. Enmiendas aprobadas en forma unánime por la Comisión informante.",
+    "title": "Modifica el Párrafo 5° de las Disposiciones Transitorias de la ley N° 21.091, sobre Educación Superior, y otras normas",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica el Párrafo 5° de las disposiciones transitorias de la ley N° 21.091, sobre Educación Superior, y otras normas legales.",
     "tags": [
       "educacion",
       "constitucional"
@@ -2694,15 +3072,16 @@
       "1222": "abstencion",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12385-08/10/2019",
     "boletin": "12385",
     "fecha": "08/10/2019",
     "chamber": "senado",
-    "materia": "Modifica el Párrafo 5° de las Disposiciones Transitorias de la ley N° 21.091, sobre Educación Superior, y otras normas",
-    "descripcion": "Modifica el Párrafo 5° de las Disposiciones Transitorias de la ley N° 21.091, sobre Educación Superior, y otras normas legales. Enmiendas aprobadas en forma unánime por la Comisión informante.",
+    "title": "Modifica el Párrafo 5° de las Disposiciones Transitorias de la ley N° 21.091, sobre Educación Superior, y otras normas",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica el Párrafo 5° de las disposiciones transitorias de la ley N° 21.091, sobre Educación Superior, y otras normas legales.",
     "tags": [
       "educacion",
       "constitucional"
@@ -2715,15 +3094,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12385-05/11/2019",
     "boletin": "12385",
     "fecha": "05/11/2019",
     "chamber": "senado",
-    "materia": "Modifica el Párrafo 5° de las Disposiciones Transitorias de la ley N° 21.091, sobre Educación Superior, y otras normas",
-    "descripcion": "Modifica el Párrafo 5° de las Disposiciones Transitorias de la ley N° 21.091, sobre Educación Superior, y otras normas legales. Enmiendas aprobadas en forma unánime por la Comisión informante.",
+    "title": "Modifica el Párrafo 5° de las Disposiciones Transitorias de la ley N° 21.091, sobre Educación Superior, y otras normas",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica el Párrafo 5° de las disposiciones transitorias de la ley N° 21.091, sobre Educación Superior, y otras normas legales.",
     "tags": [
       "educacion"
     ],
@@ -2735,15 +3115,16 @@
       "1215": "contra",
       "1222": "contra",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12409-04/12/2019",
     "boletin": "12409",
     "fecha": "04/12/2019",
     "chamber": "senado",
-    "materia": "Establece medidas para incentivar la protección de los derechos de los consumidores.. Con urgencia calificada de suma",
-    "descripcion": "Establece medidas para incentivar la protección de los derechos de los consumidores.. Con urgencia calificada de suma.",
+    "title": "Establece medidas para incentivar la protección de los derechos de los consumidores.. Con urgencia calificada de suma",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que establece medidas para incentivar la protección de los derechos de los consumidores.",
     "tags": [
       "tributario",
       "constitucional"
@@ -2756,15 +3137,16 @@
       "1215": "afavor",
       "1222": "afavor",
       "1224": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12415-14/05/2019",
     "boletin": "12415",
     "fecha": "14/05/2019",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 19.628, sobre protección de la vida privada, con el objeto de prohibir que se informe sobre las",
-    "descripcion": "Modifica la ley N° 19.628, sobre protección de la vida privada, con el objeto de prohibir que se informe sobre las deudas contraídas para financiar la educación en cualquiera de sus niveles.",
+    "title": "Modifica la ley N° 19.628, sobre protección de la vida privada, con el objeto de prohibir que se informe sobre las",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que modifica la ley N° 19.628, sobre protección de la vida privada, con el objeto de prohibir que se informe sobre las deudas contraídas para financiar la educación en cualquiera de sus niveles.",
     "tags": [
       "educacion",
       "tributario",
@@ -2779,15 +3161,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "abstencion"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12415-23/10/2019",
     "boletin": "12415",
     "fecha": "23/10/2019",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 19.628, sobre protección de la vida privada, con el objeto de prohibir que se informe sobre las",
-    "descripcion": "Modifica la ley N° 19.628, sobre protección de la vida privada, con el objeto de prohibir que se informe sobre las deudas contraídas para financiar la educación en cualquiera de sus niveles.",
+    "title": "Modifica la ley N° 19.628, sobre protección de la vida privada, con el objeto de prohibir que se informe sobre las",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que modifica la ley N° 19.628, sobre protección de la vida privada, con el objeto de prohibir que se informe sobre las deudas contraídas para financiar la educación en cualquiera de sus niveles.",
     "tags": [
       "economia",
       "educacion",
@@ -2801,15 +3184,16 @@
       "1215": "contra",
       "1222": "contra",
       "1224": "contra"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12431-16/10/2019",
     "boletin": "12431",
     "fecha": "16/10/2019",
     "chamber": "senado",
-    "materia": "Moderniza la carrera funcionaria en Gendarmería de Chile",
-    "descripcion": "Moderniza la carrera funcionaria en Gendarmería de Chile.",
+    "title": "Moderniza la carrera funcionaria en Gendarmería de Chile",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que moderniza la carrera funcionaria en Gendarmería de Chile.",
     "tags": [
       "constitucional"
     ],
@@ -2821,15 +3205,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12431-17/12/2019",
     "boletin": "12431",
     "fecha": "17/12/2019",
     "chamber": "senado",
-    "materia": "Moderniza la carrera funcionaria en Gendarmería de Chile",
-    "descripcion": "Moderniza la carrera funcionaria en Gendarmería de Chile.",
+    "title": "Moderniza la carrera funcionaria en Gendarmería de Chile",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que moderniza la carrera funcionaria en Gendarmería de Chile.",
     "tags": [
       "constitucional"
     ],
@@ -2839,15 +3224,16 @@
       "1215": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12443-19/03/2019",
     "boletin": "12443",
     "fecha": "19/03/2019",
     "chamber": "senado",
-    "materia": "Modifica la Ley General de Servicios Eléctricos para establecer que la instalación de equipamientos nuevos, así como la",
-    "descripcion": "Modifica la Ley General de Servicios Eléctricos para establecer que la instalación de equipamientos nuevos, así como la revisión y reparación de empalmes y medidores, será de cargo exclusivo de la respectiva distribuidora.",
+    "title": "Modifica la Ley General de Servicios Eléctricos para establecer que la instalación de equipamientos nuevos, así como la",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que modifica la Ley General de Servicios Eléctricos para establecer que la instalación de equipamientos nuevos, así como la revisión y reparación de empalmes y medidores, será de cargo exclusivo de la respectiva distribuidora.",
     "tags": [
       "derechos",
       "energia",
@@ -2861,15 +3247,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12467-07/05/2019",
     "boletin": "12467",
     "fecha": "07/05/2019",
     "chamber": "senado",
-    "materia": "y Telecomunicaciones respecto del proyecto de ley que sanciona los daños en los medios de transporte público de pasaj...",
-    "descripcion": "Del informe de la Comisión de Transporte y Telecomunicaciones respecto del proyecto de ley, en tercer trámite constitucional, que sanciona los daños en los medios de transporte público de pasajeros y en la infraestructura asociada a dicha actividad(discusión de las enmiendas introducidas por la",
+    "title": "y Telecomunicaciones respecto del proyecto de ley que sanciona los daños en los medios de transporte público de pasaj...",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que sanciona los daños en los medios de transporte público de pasajeros y en la infraestructura asociada a dicha actividad.",
     "tags": [
       "transporte",
       "constitucional"
@@ -2880,15 +3267,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12467-10/09/2019",
     "boletin": "12467",
     "fecha": "10/09/2019",
     "chamber": "senado",
-    "materia": "y Telecomunicaciones respecto del proyecto de ley que sanciona los daños en los medios de transporte público de pasaj...",
-    "descripcion": "Del informe de la Comisión de Transporte y Telecomunicaciones respecto del proyecto de ley, en tercer trámite constitucional, que sanciona los daños en los medios de transporte público de pasajeros y en la infraestructura asociada a dicha actividad(discusión de las enmiendas introducidas por la",
+    "title": "y Telecomunicaciones respecto del proyecto de ley que sanciona los daños en los medios de transporte público de pasaj...",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que sanciona los daños en los medios de transporte público de pasajeros y en la infraestructura asociada a dicha actividad.",
     "tags": [
       "transporte",
       "constitucional"
@@ -2899,15 +3287,16 @@
       "1120": "afavor",
       "1224": "pareo",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12468-10/09/2019",
     "boletin": "12468",
     "fecha": "10/09/2019",
     "chamber": "senado",
-    "materia": "Facilita a la mujer casada la enajenación de sus bienes adquiridos por sucesión por causa de muerte. Enmienda de la",
-    "descripcion": "Facilita a la mujer casada la enajenación de sus bienes adquiridos por sucesión por causa de muerte. Enmienda de la comisión informante.",
+    "title": "Facilita a la mujer casada la enajenación de sus bienes adquiridos por sucesión por causa de muerte. Enmienda de la",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que facilita a la mujer casada la enajenación de sus bienes adquiridos por sucesión por causa de muerte.",
     "tags": [
       "vivienda",
       "genero",
@@ -2921,15 +3310,16 @@
       "1215": "afavor",
       "1224": "pareo",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12471-13/11/2019",
     "boletin": "12471",
     "fecha": "13/11/2019",
     "chamber": "senado",
-    "materia": "Rebaja la rentabilidad de las empresas de distribución y perfecciona el proceso tarifario de distribución eléctrica",
-    "descripcion": "Rebaja la rentabilidad de las empresas de distribución y perfecciona el proceso tarifario de distribución eléctrica.",
+    "title": "Rebaja la rentabilidad de las empresas de distribución y perfecciona el proceso tarifario de distribución eléctrica",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que rebaja la rentabilidad de las empresas de distribución y perfecciona el proceso tarifario de distribución eléctrica.",
     "tags": [
       "tributario",
       "constitucional"
@@ -2937,15 +3327,16 @@
     "votos": {
       "1120": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12472-03/09/2019",
     "boletin": "12472",
     "fecha": "03/09/2019",
     "chamber": "senado",
-    "materia": "Aprobacion de Acuerdo por el que se establece una Asociación, sus Declaraciones Conjuntas y el Acuerdo sobre el",
-    "descripcion": "Aprobacion de Acuerdo por el que se establece una Asociación, sus Declaraciones Conjuntas y el Acuerdo sobre el Comercio de Productos Orgánicos, entre la República de Chile y el Reino Unido de Gran Bretaña e Irlanda del Norte, suscritos en Santiago, Chile, el 30 de enero de 2019",
+    "title": "Aprobacion de Acuerdo por el que se establece una Asociación, sus Declaraciones Conjuntas y el Acuerdo sobre el",
+    "descripcion": "Proyecto de acuerdo, en segundo trámite constitucional, que aprueba el Acuerdo por el que se establece una Asociación, sus Declaraciones Conjuntas y el Acuerdo sobre el Comercio de Productos Orgánicos, entre la República de Chile y el Reino Unido de Gran Bretaña e Irlanda del Norte, suscritos en Santiago, Chile, el 30 de enero de 2019.",
     "tags": [
       "economia",
       "constitucional"
@@ -2958,15 +3349,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12485-10/04/2019",
     "boletin": "12485",
     "fecha": "10/04/2019",
     "chamber": "senado",
-    "materia": "Establece el financiamiento, regula la ejecución y dicta otras normas para la implementación de la Conferencia",
-    "descripcion": "Establece el financiamiento, regula la ejecución y dicta otras normas para la implementación de la Conferencia Internacional para el Cambio Climático denominada Cop 25.",
+    "title": "Establece el financiamiento, regula la ejecución y dicta otras normas para la implementación de la Conferencia",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que establece el financiamiento, regula la ejecución y dicta otras normas para la implementación de la Conferencia Internacional para el Cambio Climático denominada Cop 25.",
     "tags": [
       "medioambiente",
       "constitucional"
@@ -2979,15 +3371,16 @@
       "1215": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12524-10/09/2019",
     "boletin": "12524",
     "fecha": "10/09/2019",
     "chamber": "senado",
-    "materia": "Modifica el artículo 74 de la Ley Orgánica Constitucional de Municipalidades, respecto de las inhabilidades de los",
-    "descripcion": "Modifica el artículo 74 de la Ley Orgánica Constitucional de Municipalidades, respecto de las inhabilidades de los consejeros regionales para ser candidatos a alcalde y concejal. Admisibilidad de la indicación 1, renovada del Honorable Senador Coloma.",
+    "title": "Modifica el artículo 74 de la Ley Orgánica Constitucional de Municipalidades, respecto de las inhabilidades de los",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que modifica el artículo 74 de la ley orgánica constitucional de municipalidades, respecto de las inhabilidades de los consejeros regionales para ser candidatos a alcalde y concejal.",
     "tags": [
       "descentralizacion",
       "constitucional"
@@ -3001,15 +3394,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12524-16/10/2019",
     "boletin": "12524",
     "fecha": "16/10/2019",
     "chamber": "senado",
-    "materia": "Modifica el artículo 74 de la Ley Orgánica Constitucional de Municipalidades, respecto de las inhabilidades de los",
-    "descripcion": "Modifica el artículo 74 de la Ley Orgánica Constitucional de Municipalidades, respecto de las inhabilidades de los consejeros regionales para ser candidatos a alcalde y concejal. Admisibilidad de la indicación 1, renovada del Honorable Senador Coloma.",
+    "title": "Modifica el artículo 74 de la Ley Orgánica Constitucional de Municipalidades, respecto de las inhabilidades de los",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que modifica el artículo 74 de la ley orgánica constitucional de municipalidades, respecto de las inhabilidades de los consejeros regionales para ser candidatos a alcalde y concejal.",
     "tags": [
       "descentralizacion",
       "constitucional"
@@ -3019,15 +3413,16 @@
       "1222": "contra",
       "1224": "contra",
       "1326": "abstencion"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12535-04/12/2019",
     "boletin": "12535",
     "fecha": "04/12/2019",
     "chamber": "senado",
-    "materia": "nuevo, que incorpora la letra g) del número 2 del artículo primero del proyecto de ley que modifica la Ley General de...",
-    "descripcion": "Del numeral 78), nuevo, que incorpora la letra g) del número 2 del artículo primero del proyecto de ley que modifica la Ley General de Pesca y Acuicultura en el ámbito de los recursos bentónicos.",
+    "title": "nuevo, que incorpora la letra g) del número 2 del artículo primero del proyecto de ley que modifica la Ley General de...",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que modifica la Ley General de Pesca y Acuicultura en el ámbito de los recursos bentónicos.",
     "tags": [
       "agricultura",
       "cultura",
@@ -3039,15 +3434,16 @@
       "1120": "afavor",
       "1215": "afavor",
       "1222": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12536-05/06/2019",
     "boletin": "12536",
     "fecha": "05/06/2019",
     "chamber": "senado",
-    "materia": "Permite a los profesionales de la educación poner término a su relación laboral sin perder la bonificación por retiro",
-    "descripcion": "Permite a los profesionales de la educación poner término a su relación laboral sin perder la bonificación por retiro voluntario.",
+    "title": "Permite a los profesionales de la educación poner término a su relación laboral sin perder la bonificación por retiro",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que permite a los profesionales de la educación poner término a su relación laboral sin perder la bonificación por retiro voluntario.",
     "tags": [
       "educacion",
       "trabajo",
@@ -3061,15 +3457,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12558-20/08/2019",
     "boletin": "12558",
     "fecha": "20/08/2019",
     "chamber": "senado",
-    "materia": "Aprobación de las enmiendas propuestas por la Cámara de Diputados al proyecto de ley que establece roaming automático...",
-    "descripcion": "Enmiendas propuestas por la Cámara de Diputados al proyecto de ley que establece roaming automático nacional (Boletines Nos 12.558-15 y 12.828-15, refundidos).",
+    "title": "Aprobación de las enmiendas propuestas por la Cámara de Diputados al proyecto de ley que establece roaming automático...",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que establece roaming automático nacional.",
     "tags": [
       "constitucional"
     ],
@@ -3081,15 +3478,16 @@
       "1215": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-12558-01/10/2019",
     "boletin": "12558",
     "fecha": "01/10/2019",
     "chamber": "senado",
-    "materia": "Aprobación de las enmiendas propuestas por la Cámara de Diputados al proyecto de ley que establece roaming automático...",
-    "descripcion": "Enmiendas propuestas por la Cámara de Diputados al proyecto de ley que establece roaming automático nacional (Boletines Nos 12.558-15 y 12.828-15, refundidos).",
+    "title": "Aprobación de las enmiendas propuestas por la Cámara de Diputados al proyecto de ley que establece roaming automático...",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que establece roaming automático nacional.",
     "tags": [
       "otro"
     ],
@@ -3102,15 +3500,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-12567-03/12/2019",
     "boletin": "12567",
     "fecha": "03/12/2019",
     "chamber": "senado",
-    "materia": "Rebaja la rentabilidad de las empresas de distribución y perfecciona el proceso tarifario de distribución eléctrica.",
-    "descripcion": "Rebaja la rentabilidad de las empresas de distribución y perfecciona el proceso tarifario de distribución eléctrica. Enmiendas unánimes y las aprobadas por mayoría, con excepción de aquella relativa a la Indicación N° 2 del Informe de la Comisión de Minería y Energía.",
+    "title": "Rebaja la rentabilidad de las empresas de distribución y perfecciona el proceso tarifario de distribución eléctrica.",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que rebaja la rentabilidad de las empresas de distribución y perfecciona el proceso tarifario de distribución eléctrica. Enmiendas unánimes y las aprobadas por mayoría, con excepción de aquella relativa a la Indicación N° 2 del Informe de la Comisión de Minería y Energía",
     "tags": [
       "energia",
       "tributario",
@@ -3123,15 +3522,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12589-07/08/2019",
     "boletin": "12589",
     "fecha": "07/08/2019",
     "chamber": "senado",
-    "materia": "Modifica el Código Procesal Penal con el objeto de permitir la utilización de técnicas especiales de investigación en",
-    "descripcion": "Modifica el Código Procesal Penal con el objeto de permitir la utilización de técnicas especiales de investigación en la persecución de conductas que la ley califica como terroristas.",
+    "title": "Modifica el Código Procesal Penal con el objeto de permitir la utilización de técnicas especiales de investigación en",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que modifica el Código Procesal Penal con el objeto de permitir la utilización de técnicas especiales de investigación en la persecución de conductas que la ley califica como terroristas.",
     "tags": [
       "seguridad",
       "justicia",
@@ -3146,15 +3546,16 @@
       "1222": "contra",
       "1224": "abstencion",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12595-25/09/2019",
     "boletin": "12595",
     "fecha": "25/09/2019",
     "chamber": "senado",
-    "materia": "Promueve la simplificación legislativa",
-    "descripcion": "Promueve la simplificación legislativa.",
+    "title": "Promueve la simplificación legislativa",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que promueve la simplificación legislativa.",
     "tags": [
       "tributario",
       "constitucional"
@@ -3166,15 +3567,16 @@
       "1120": "afavor",
       "1215": "contra",
       "1222": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12603-02/10/2019",
     "boletin": "12603",
     "fecha": "02/10/2019",
     "chamber": "senado",
-    "materia": "Aprobacion de Convenio Constitutivo del Banco Asiático de Inversión en Infraestructura y sus Anexos A y B, con",
-    "descripcion": "Aprobacion de Convenio Constitutivo del Banco Asiático de Inversión en Infraestructura y sus Anexos A y B, con República Popular China",
+    "title": "Aprobacion de Convenio Constitutivo del Banco Asiático de Inversión en Infraestructura y sus Anexos A y B, con",
+    "descripcion": "Proyecto de acuerdo, en segundo trámite constitucional, que aprueba el Convenio Constitutivo del Banco Asiático de Inversión en Infraestructura y sus Anexos A y B, suscrito en Beijing, República Popular China, el 29 de junio de 2015.",
     "tags": [
       "economia",
       "constitucional"
@@ -3186,15 +3588,16 @@
       "1120": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12604-02/10/2019",
     "boletin": "12604",
     "fecha": "02/10/2019",
     "chamber": "senado",
-    "materia": "Aprobacion de Protocolo Modificatorio del Convenio entre el Gobierno de la República de Chile y el Gobierno de la",
-    "descripcion": "Aprobacion de Protocolo Modificatorio del Convenio entre el Gobierno de la República de Chile y el Gobierno de la República Popular China para Eliminar la Doble Imposición y para Prevenir la Evasión y la Elusión Fiscal en relación a los Impuestos sobre la Renta",
+    "title": "Aprobacion de Protocolo Modificatorio del Convenio entre el Gobierno de la República de Chile y el Gobierno de la",
+    "descripcion": "Proyecto de acuerdo, en segundo trámite constitucional, que aprueba el Protocolo Modificatorio del Convenio entre el Gobierno de la República de Chile y el Gobierno de la República Popular China para Eliminar la Doble Imposición y para Prevenir la Evasión y la Elusión Fiscal en relación a los Impuestos sobre la Renta, suscrito en Santiago, Chile, el 29 de mayo de 2018.",
     "tags": [
       "economia",
       "tributario",
@@ -3208,15 +3611,16 @@
       "1215": "afavor",
       "1222": "afavor",
       "1224": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12637-21/08/2019",
     "boletin": "12637",
     "fecha": "21/08/2019",
     "chamber": "senado",
-    "materia": "Regula el acceso a los registros de entrevistas investigativas videograbadas y de declaraciones judiciales de la ley N°",
-    "descripcion": "Regula el acceso a los registros de entrevistas investigativas videograbadas y de declaraciones judiciales de la ley N° 21.057, para los fines que indica.",
+    "title": "Regula el acceso a los registros de entrevistas investigativas videograbadas y de declaraciones judiciales de la ley N°",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que regula el acceso a los registros de entrevistas investigativas videograbadas y de declaraciones judiciales de la ley N° 21.057, para los fines que indica.",
     "tags": [
       "justicia",
       "tributario",
@@ -3228,15 +3632,16 @@
       "1120": "afavor",
       "1222": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12638-22/10/2019",
     "boletin": "12638",
     "fecha": "22/10/2019",
     "chamber": "senado",
-    "materia": "Modifica el Código de Justicia Militar en materia de duración en el cargo, de los ministros de Cortes de Apelaciones",
-    "descripcion": "Modifica el Código de Justicia Militar en materia de duración en el cargo, de los ministros de Cortes de Apelaciones que integren las Cortes Marciales.",
+    "title": "Modifica el Código de Justicia Militar en materia de duración en el cargo, de los ministros de Cortes de Apelaciones",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica el Código de Justicia Militar en materia de duración en el cargo, de los ministros de Cortes de Apelaciones que integren las Cortes Marciales.",
     "tags": [
       "justicia",
       "defensa",
@@ -3251,15 +3656,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12646-05/06/2019",
     "boletin": "12646",
     "fecha": "05/06/2019",
     "chamber": "senado",
-    "materia": "Permite a las empresas de menor tamaño demandar indemnización cuando sean perjudicadas por el acto de competencia",
-    "descripcion": "Permite a las empresas de menor tamaño demandar indemnización cuando sean perjudicadas por el acto de competencia desleal que indica.",
+    "title": "Permite a las empresas de menor tamaño demandar indemnización cuando sean perjudicadas por el acto de competencia",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que permite a las empresas de menor tamaño demandar indemnización cuando sean perjudicadas por el acto de competencia desleal que indica.",
     "tags": [
       "constitucional"
     ],
@@ -3272,15 +3678,16 @@
       "1222": "abstencion",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12699-27/11/2019",
     "boletin": "12699",
     "fecha": "27/11/2019",
     "chamber": "senado",
-    "materia": "Propicia la especialización preferente de las Fuerzas de Orden y Seguridad Pública mediante modificaciones a las leyes",
-    "descripcion": "Propicia la especialización preferente de las Fuerzas de Orden y Seguridad Pública mediante modificaciones a las leyes orgánicas que indica y a la normativa procesal penal.",
+    "title": "Propicia la especialización preferente de las Fuerzas de Orden y Seguridad Pública mediante modificaciones a las leyes",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que propicia la especialización preferente de las Fuerzas de Orden y Seguridad Públicas mediante modificaciones a las leyes orgánicas que indica y a la normativa procesal penal.",
     "tags": [
       "seguridad",
       "justicia",
@@ -3295,15 +3702,16 @@
       "1215": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12743-27/11/2019",
     "boletin": "12743",
     "fecha": "27/11/2019",
     "chamber": "senado",
-    "materia": "Prorroga la vigencia de la ley N° 20.867",
-    "descripcion": "Prorroga la vigencia de la ley N° 20.867.",
+    "title": "Prorroga la vigencia de la ley N° 20.867",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que prorroga la vigencia de la ley N° 20.867.",
     "tags": [
       "constitucional"
     ],
@@ -3315,15 +3723,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12779-24/07/2019",
     "boletin": "12779",
     "fecha": "24/07/2019",
     "chamber": "senado",
-    "materia": "Otorga a los profesionales de la educación titulares de una dotación docente la titularidad de las horas de extensión",
-    "descripcion": "Otorga a los profesionales de la educación titulares de una dotación docente la titularidad de las horas de extensión en calidad de contrata. VOTACIÓN de la indicación sustitutiva del Ejecutivo formulada en la Sesión de Sala.",
+    "title": "Otorga a los profesionales de la educación titulares de una dotación docente la titularidad de las horas de extensión",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que otorga a los profesionales de la educación titulares de una dotación docente la titularidad de las horas de extensión en calidad de contrata. VOTACIÓN de la indicación sustitutiva del Ejecutivo formulada en la Sesión de Sala.",
     "tags": [
       "educacion",
       "tributario",
@@ -3336,15 +3745,16 @@
       "1222": "contra",
       "1224": "contra",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12779-04/09/2019",
     "boletin": "12779",
     "fecha": "04/09/2019",
     "chamber": "senado",
-    "materia": "Otorga a los profesionales de la educación titulares de una dotación docente la titularidad de las horas de extensión",
-    "descripcion": "Otorga a los profesionales de la educación titulares de una dotación docente la titularidad de las horas de extensión en calidad de contrata. VOTACIÓN de la indicación sustitutiva del Ejecutivo formulada en la Sesión de Sala.",
+    "title": "Otorga a los profesionales de la educación titulares de una dotación docente la titularidad de las horas de extensión",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que otorga a los profesionales de la educación titulares de una dotación docente la titularidad de las horas de extensión en calidad de contrata. VOTACIÓN de la indicación sustitutiva del Ejecutivo formulada en la Sesión de Sala.",
     "tags": [
       "educacion",
       "constitucional"
@@ -3357,15 +3767,16 @@
       "1215": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12836-30/12/2019",
     "boletin": "12836",
     "fecha": "30/12/2019",
     "chamber": "senado",
-    "materia": "Modifica la ley N° 21.131, que establece pago a treinta días, para permitir que los contribuyentes del sector",
-    "descripcion": "Modifica la ley N° 21.131, que establece pago a treinta días, para permitir que los contribuyentes del sector silvoagropecuario y la pesca artesanal emitan guías de despacho en soporte de papel.",
+    "title": "Modifica la ley N° 21.131, que establece pago a treinta días, para permitir que los contribuyentes del sector",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 21.131, que establece pago a treinta días, para permitir que los contribuyentes del sector agropecuario y de la pesca artesanal emitan guías de despacho en soporte de papel.",
     "tags": [
       "agricultura",
       "cultura",
@@ -3378,15 +3789,16 @@
       "1215": "afavor",
       "1222": "afavor",
       "1224": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12894-27/11/2019",
     "boletin": "12894",
     "fecha": "27/11/2019",
     "chamber": "senado",
-    "materia": "Establece el ocultamiento de la identidad como tipo penal, circunstancia agravante y caso de flagrancia",
-    "descripcion": "Establece el ocultamiento de la identidad como tipo penal, circunstancia agravante y caso de flagrancia.",
+    "title": "Establece el ocultamiento de la identidad como tipo penal, circunstancia agravante y caso de flagrancia",
+    "descripcion": "Proyecto de ley,en primer trámite constitucional, que establece el ocultamiento de la identidad como tipo penal, circunstancia agravante y caso de flagrancia.",
     "tags": [
       "seguridad",
       "constitucional"
@@ -3400,15 +3812,16 @@
       "1222": "contra",
       "1224": "contra",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12909-26/11/2019",
     "boletin": "12909",
     "fecha": "26/11/2019",
     "chamber": "senado",
-    "materia": "Regula la portabilidad financiera. Aprobado con enmiendas",
-    "descripcion": "Regula la portabilidad financiera. Aprobado con enmiendas.",
+    "title": "Regula la portabilidad financiera. Aprobado con enmiendas",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que regula la portabilidad financiera.",
     "tags": [
       "constitucional"
     ],
@@ -3419,15 +3832,16 @@
       "1215": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": true
   },
   {
     "id": "senado-12917-28/10/2019",
     "boletin": "12917",
     "fecha": "28/10/2019",
     "chamber": "senado",
-    "materia": "Modifica la Ley General de Bancos y el Código de Procedimiento Civil para establecer el avalúo comercial de los bienes",
-    "descripcion": "Modifica la Ley General de Bancos y el Código de Procedimiento Civil para establecer el avalúo comercial de los bienes raíces como mínimo de las subastas y proteger la vivienda única de los deudores que indica por medio de la prenda pretoria.",
+    "title": "Modifica la Ley General de Bancos y el Código de Procedimiento Civil para establecer el avalúo comercial de los bienes",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que modifica la Ley General de Bancos y el Código de Procedimiento Civil para establecer el avalúo comercial de los bienes raíces como mínimo de las subastas y proteger la vivienda única de los deudores que indica por medio de la prenda pretoria.",
     "tags": [
       "vivienda",
       "constitucional"
@@ -3441,15 +3855,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12942-18/12/2019",
     "boletin": "12942",
     "fecha": "18/12/2019",
     "chamber": "senado",
-    "materia": "Modifica la ley N°18.290, de Tránsito, para delimitar la infracción que consiste en circular un vehículo sin",
-    "descripcion": "Modifica la ley N°18.290, de Tránsito, para delimitar la infracción que consiste en circular un vehículo sin dispositivo electrónico de pago de peajes o tarifas.",
+    "title": "Modifica la ley N°18.290, de Tránsito, para delimitar la infracción que consiste en circular un vehículo sin",
+    "descripcion": "Proyecto de ley, en segundo trámite constitucional, que modifica la ley N°18.290, de Tránsito, para delimitar la infracción que consiste en circular un vehículo sin dispositivo electrónico de pago de peajes o tarifas.",
     "tags": [
       "transporte",
       "constitucional"
@@ -3459,15 +3874,16 @@
       "1215": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12953-19/11/2019",
     "boletin": "12953",
     "fecha": "19/11/2019",
     "chamber": "senado",
-    "materia": "constituida para resolver las divergencias suscitadas durante la tramitación del proyecto de ley de Presupuestos del ...",
-    "descripcion": "Informe de la Comisión Mixta, constituida para resolver las divergencias suscitadas durante la tramitación del proyecto de ley de Presupuestos del Sector Público para el año 2020.",
+    "title": "constituida para resolver las divergencias suscitadas durante la tramitación del proyecto de ley de Presupuestos del ...",
+    "descripcion": "Aprobación de la Indicación N° 68.",
     "tags": [
       "otro"
     ],
@@ -3478,15 +3894,16 @@
       "1215": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12953-20/11/2019",
     "boletin": "12953",
     "fecha": "20/11/2019",
     "chamber": "senado",
-    "materia": "constituida para resolver las divergencias suscitadas durante la tramitación del proyecto de ley de Presupuestos del ...",
-    "descripcion": "Informe de la Comisión Mixta, constituida para resolver las divergencias suscitadas durante la tramitación del proyecto de ley de Presupuestos del Sector Público para el año 2020.",
+    "title": "constituida para resolver las divergencias suscitadas durante la tramitación del proyecto de ley de Presupuestos del ...",
+    "descripcion": "Aprobación de la Indicación N° 68.",
     "tags": [
       "otro"
     ],
@@ -3497,15 +3914,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12953-26/11/2019",
     "boletin": "12953",
     "fecha": "26/11/2019",
     "chamber": "senado",
-    "materia": "constituida para resolver las divergencias suscitadas durante la tramitación del proyecto de ley de Presupuestos del ...",
-    "descripcion": "Informe de la Comisión Mixta, constituida para resolver las divergencias suscitadas durante la tramitación del proyecto de ley de Presupuestos del Sector Público para el año 2020.",
+    "title": "constituida para resolver las divergencias suscitadas durante la tramitación del proyecto de ley de Presupuestos del ...",
+    "descripcion": "Aprobación de la Indicación N° 68.",
     "tags": [
       "economia"
     ],
@@ -3515,15 +3933,16 @@
       "1222": "afavor",
       "1224": "afavor",
       "1326": "afavor"
-    }
+    },
+    "relevante": false
   },
   {
     "id": "senado-12965-04/12/2019",
     "boletin": "12965",
     "fecha": "04/12/2019",
     "chamber": "senado",
-    "materia": "Interpreta el artículo 56 de la ley N°21.109, que establece el Estatuto de los Asistentes de la Educación Pública",
-    "descripcion": "Interpreta el artículo 56 de la ley N°21.109, que establece el Estatuto de los Asistentes de la Educación Pública.",
+    "title": "Interpreta el artículo 56 de la ley N°21.109, que establece el Estatuto de los Asistentes de la Educación Pública",
+    "descripcion": "Proyecto de ley, en primer trámite constitucional, que interpreta el artículo 56 de la ley N°21.109, que establece el Estatuto de los Asistentes de la Educación Pública.",
     "tags": [
       "educacion",
       "constitucional"
@@ -3536,6 +3955,7 @@
       "1215": "afavor",
       "1222": "afavor",
       "1224": "afavor"
-    }
+    },
+    "relevante": true
   }
 ]
